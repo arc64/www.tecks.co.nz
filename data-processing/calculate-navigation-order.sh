@@ -56,6 +56,16 @@ add_columns() {
       ((nav_order++))
     fi
 
+    # Check if nav_order is 0 and remove the column if true
+    if [ "$nav_order" -eq 0 ]; then
+      nav_order=""
+    fi
+
+    # Check if nav_order is not an integer and print it to the console
+    if ! [[ "$nav_order" =~ ^[0-9]+$ ]]; then
+      echo "nav_order for '$url' is not an integer: $nav_order"
+    fi
+
     # Append the line to the output CSV and include a newline character
     echo -n "$url,$depth,$parent_folder,$nav_order,$file_name_no_hyphens,$file_name_no_spaces_capitalized" >> "$output_csv"
     echo >> "$output_csv"  # Add a newline character to separate entries in the output CSV
