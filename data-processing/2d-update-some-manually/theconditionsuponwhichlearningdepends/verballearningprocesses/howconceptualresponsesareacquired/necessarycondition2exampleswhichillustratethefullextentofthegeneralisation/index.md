@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 2.  Examples which illustrate the full extent of the generalisation 
 "
-nav_order: Necessarycondition2Exampleswhichillustratethefullextentofthegeneralisation
+nav_order: 2
 has_children: false
 ---
 # Necessary condition 2.  Examples which illustrate the full extent of the generalisation 

@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 2. Regular assessment of accuracy rate and reinforcement for increases in accuracy rate 
 "
-nav_order: Necessarycondition2Regularassessmentofaccuracyrateandreinforcementforincreasesinaccuracyrate
+nav_order: 2
 has_children: false
 ---
 # Necessary condition 2. Regular assessment of accuracy rate and reinforcement for increases in accuracy rate 

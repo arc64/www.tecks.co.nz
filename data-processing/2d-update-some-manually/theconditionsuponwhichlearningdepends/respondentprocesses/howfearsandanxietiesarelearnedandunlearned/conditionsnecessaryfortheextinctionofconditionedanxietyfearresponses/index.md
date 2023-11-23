@@ -2,7 +2,7 @@
 layout: default
 title: "Conditions necessary for the extinction of conditioned anxiety/fear responses 
 "
-nav_order: Conditionsnecessaryfortheextinctionofconditionedanxietyfearresponses
+nav_order: 1
 has_children: false
 ---
 # Conditions necessary for the extinction of conditioned anxiety/fear responses 

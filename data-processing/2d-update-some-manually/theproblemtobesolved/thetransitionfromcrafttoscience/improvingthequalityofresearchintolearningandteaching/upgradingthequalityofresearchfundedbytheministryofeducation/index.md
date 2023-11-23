@@ -2,7 +2,7 @@
 layout: default
 title: "Upgrading the quality of research funded by the Ministry of Education 
 "
-nav_order: UpgradingthequalityofresearchfundedbytheMinistryofEducation
+nav_order: 4
 has_children: false
 ---
 # Upgrading the quality of research funded by the Ministry of Education 
