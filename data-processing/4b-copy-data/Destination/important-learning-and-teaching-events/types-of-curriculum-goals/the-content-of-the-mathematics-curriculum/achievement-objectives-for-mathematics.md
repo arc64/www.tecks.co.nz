@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Achievement objectives for mathematics 
-"
-nav_order: Achievementobjectivesformathematics
 has_children: false
+layout: default
+nav_order: 1
+title: 'Achievement objectives for mathematics '
 ---
 # Achievement objectives for mathematics 
 

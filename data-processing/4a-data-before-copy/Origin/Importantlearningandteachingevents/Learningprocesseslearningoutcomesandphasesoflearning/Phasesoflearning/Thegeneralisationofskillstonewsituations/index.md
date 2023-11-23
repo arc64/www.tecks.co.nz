@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The generalisation of skills to new situations 
-"
-nav_order: Thegeneralisationofskillstonewsituations
 has_children: false
+layout: default
+nav_order: 4
+title: 'The generalisation of skills to new situations '
 ---
 # The generalisation of skills to new situations 
 

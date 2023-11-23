@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 0
+nav_order: 1
 title: 'Approaches to research into learning and teaching '
 ---
 # Approaches to research into learning and teaching 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The relationship detection procedures of the ethnographer 
-"
-nav_order: Therelationshipdetectionproceduresoftheethnographer
 has_children: false
+layout: default
+nav_order: 3
+title: 'The relationship detection procedures of the ethnographer '
 ---
 # The relationship detection procedures of the ethnographer 
 

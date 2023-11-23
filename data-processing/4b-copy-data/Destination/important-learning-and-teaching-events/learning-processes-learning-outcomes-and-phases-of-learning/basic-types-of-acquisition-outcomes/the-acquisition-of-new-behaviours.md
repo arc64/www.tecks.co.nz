@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The acquisition of new behaviours 
-"
-nav_order: Theacquisitionofnewbehaviours
 has_children: false
+layout: default
+nav_order: 2
+title: 'The acquisition of new behaviours '
 ---
 # The acquisition of new behaviours 
 

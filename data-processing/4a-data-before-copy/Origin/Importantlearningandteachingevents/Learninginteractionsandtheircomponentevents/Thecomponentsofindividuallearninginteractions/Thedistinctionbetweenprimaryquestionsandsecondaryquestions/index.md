@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The distinction between primary questions and secondary questions 
-"
-nav_order: Thedistinctionbetweenprimaryquestionsandsecondaryquestions
 has_children: false
+layout: default
+nav_order: 3
+title: 'The distinction between primary questions and secondary questions '
 ---
 # The distinction between primary questions and secondary questions 
 

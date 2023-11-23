@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of variations in response size and response effort 
-"
-nav_order: Effectsofvariationsinresponsesizeandresponseeffort
 has_children: false
+layout: default
+nav_order: 4
+title: 'Effects of variations in response size and response effort '
 ---
 # Effects of variations in response size and response effort 
 

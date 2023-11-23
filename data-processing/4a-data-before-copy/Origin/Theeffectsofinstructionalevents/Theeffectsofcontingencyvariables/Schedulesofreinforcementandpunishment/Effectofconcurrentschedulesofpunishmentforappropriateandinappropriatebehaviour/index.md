@@ -1,9 +1,9 @@
 ---
-layout: default
-title: "Effect of concurrent schedules of punishment for appropriate and inappropriate behaviour 
-"
-nav_order: Effectofconcurrentschedulesofpunishmentforappropriateandinappropriatebehaviour
 has_children: false
+layout: default
+nav_order: 5
+title: 'Effect of concurrent schedules of punishment for appropriate and inappropriate
+  behaviour '
 ---
 # Effect of concurrent schedules of punishment for appropriate and inappropriate behaviour 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Biological punishers 
-"
-nav_order: Biologicalpunishers
 has_children: false
+layout: default
+nav_order: 4
+title: 'Biological punishers '
 ---
 # Biological punishers 
 

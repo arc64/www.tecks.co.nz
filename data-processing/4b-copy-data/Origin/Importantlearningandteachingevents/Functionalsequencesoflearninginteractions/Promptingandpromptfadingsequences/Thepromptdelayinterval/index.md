@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The prompt delay interval 
-"
-nav_order: Thepromptdelayinterval
 has_children: false
+layout: default
+nav_order: 2
+title: 'The prompt delay interval '
 ---
 # The prompt delay interval 
 

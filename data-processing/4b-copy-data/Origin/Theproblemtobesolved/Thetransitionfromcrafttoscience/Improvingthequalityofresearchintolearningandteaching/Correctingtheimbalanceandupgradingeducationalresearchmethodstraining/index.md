@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Correcting the imbalance and upgrading educational research methods training 
-"
-nav_order: Correctingtheimbalanceandupgradingeducationalresearchmethodstraining
 has_children: false
+layout: default
+nav_order: 3
+title: 'Correcting the imbalance and upgrading educational research methods training '
 ---
 # Correcting the imbalance and upgrading educational research methods training 
 

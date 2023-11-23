@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 1. The matching law for positive reinforcement 
 "
-nav_order: Necessarycondition1Thematchinglawforpositivereinforcement
+nav_order: 1
 has_children: false
 ---
 # Necessary condition 1. The matching law for positive reinforcement 

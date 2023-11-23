@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The matching law 
-"
-nav_order: Thematchinglaw
 has_children: false
+layout: default
+nav_order: 4
+title: 'The matching law '
 ---
 # The matching law 
 

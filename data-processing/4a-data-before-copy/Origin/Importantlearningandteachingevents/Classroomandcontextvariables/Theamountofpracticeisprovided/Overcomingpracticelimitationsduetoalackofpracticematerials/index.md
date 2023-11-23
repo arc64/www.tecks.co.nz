@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Overcoming practice limitations due to a lack of practice materials 
-"
-nav_order: Overcomingpracticelimitationsduetoalackofpracticematerials
 has_children: false
+layout: default
+nav_order: 5
+title: 'Overcoming practice limitations due to a lack of practice materials '
 ---
 # Overcoming practice limitations due to a lack of practice materials 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Understanding of the complexities of classroom practice 
-"
-nav_order: Understandingofthecomplexitiesofclassroompractice
 has_children: false
+layout: default
+nav_order: 2
+title: 'Understanding of the complexities of classroom practice '
 ---
 # Understanding of the complexities of classroom practice 
 

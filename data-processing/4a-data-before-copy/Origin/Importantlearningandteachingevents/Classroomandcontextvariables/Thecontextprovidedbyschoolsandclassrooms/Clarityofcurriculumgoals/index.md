@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Clarity of curriculum goals 
-"
-nav_order: Clarityofcurriculumgoals
 has_children: false
+layout: default
+nav_order: 3
+title: 'Clarity of curriculum goals '
 ---
 # Clarity of curriculum goals 
 

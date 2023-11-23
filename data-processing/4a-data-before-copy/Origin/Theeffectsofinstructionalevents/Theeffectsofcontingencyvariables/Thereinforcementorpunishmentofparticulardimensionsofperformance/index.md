@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 6
+nav_order: 7
 title: 'The reinforcement or punishment of particular dimensions of performance '
 ---
 # The reinforcement or punishment of particular dimensions of performance 

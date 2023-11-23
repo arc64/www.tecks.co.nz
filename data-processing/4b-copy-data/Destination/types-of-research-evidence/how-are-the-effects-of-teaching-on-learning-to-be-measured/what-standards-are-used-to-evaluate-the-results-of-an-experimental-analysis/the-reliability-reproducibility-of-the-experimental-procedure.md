@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The reliability (reproducibility) of the experimental procedure 
-"
-nav_order: Thereliabilityreproducibilityoftheexperimentalprocedure
 has_children: false
+layout: default
+nav_order: 1
+title: 'The reliability (reproducibility) of the experimental procedure '
 ---
 # The reliability (reproducibility) of the experimental procedure 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Teaching resources 
-"
-nav_order: Teachingresources
 has_children: false
+layout: default
+nav_order: 3
+title: 'Teaching resources '
 ---
 # Teaching resources 
 

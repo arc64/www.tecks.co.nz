@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Resources for progress monitoring 
-"
-nav_order: Resourcesforprogressmonitoring
 has_children: false
+layout: default
+nav_order: 2
+title: 'Resources for progress monitoring '
 ---
 # Resources for progress monitoring 
 

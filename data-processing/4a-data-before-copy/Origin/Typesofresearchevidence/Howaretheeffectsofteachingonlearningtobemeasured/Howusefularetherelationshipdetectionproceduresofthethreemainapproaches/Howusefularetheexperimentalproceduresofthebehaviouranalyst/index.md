@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "How useful are the experimental procedures of the behaviour analyst? 
-"
-nav_order: Howusefularetheexperimentalproceduresofthebehaviouranalyst
 has_children: false
+layout: default
+nav_order: 1
+title: 'How useful are the experimental procedures of the behaviour analyst? '
 ---
 # How useful are the experimental procedures of the behaviour analyst? 
 

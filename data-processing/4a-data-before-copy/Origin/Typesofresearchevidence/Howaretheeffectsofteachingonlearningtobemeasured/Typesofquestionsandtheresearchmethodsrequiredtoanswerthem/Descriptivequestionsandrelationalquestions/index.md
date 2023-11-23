@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Descriptive questions and relational questions 
-"
-nav_order: Descriptivequestionsandrelationalquestions
 has_children: false
+layout: default
+nav_order: 1
+title: 'Descriptive questions and relational questions '
 ---
 # Descriptive questions and relational questions 
 

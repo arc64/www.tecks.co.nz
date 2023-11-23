@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The types of explanation sought by behaviour analysts 
-"
-nav_order: Thetypesofexplanationsoughtbybehaviouranalysts
 has_children: false
+layout: default
+nav_order: 1
+title: 'The types of explanation sought by behaviour analysts '
 ---
 # The types of explanation sought by behaviour analysts 
 

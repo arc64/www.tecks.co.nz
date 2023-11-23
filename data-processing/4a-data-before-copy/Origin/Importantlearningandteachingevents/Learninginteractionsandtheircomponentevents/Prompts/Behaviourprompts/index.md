@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Behaviour prompts 
-"
-nav_order: Behaviourprompts
 has_children: false
+layout: default
+nav_order: 3
+title: 'Behaviour prompts '
 ---
 # Behaviour prompts 
 

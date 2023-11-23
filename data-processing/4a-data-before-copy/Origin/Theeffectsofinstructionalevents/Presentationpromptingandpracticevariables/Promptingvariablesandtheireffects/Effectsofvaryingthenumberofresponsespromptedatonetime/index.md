@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of varying the number of responses prompted at one time 
-"
-nav_order: Effectsofvaryingthenumberofresponsespromptedatonetime
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of varying the number of responses prompted at one time '
 ---
 # Effects of varying the number of responses prompted at one time 
 

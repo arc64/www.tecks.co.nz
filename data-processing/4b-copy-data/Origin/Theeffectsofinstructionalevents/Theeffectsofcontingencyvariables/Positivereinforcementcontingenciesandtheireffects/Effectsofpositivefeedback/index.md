@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of positive feedback 
-"
-nav_order: Effectsofpositivefeedback
 has_children: false
+layout: default
+nav_order: 5
+title: 'Effects of positive feedback '
 ---
 # Effects of positive feedback 
 

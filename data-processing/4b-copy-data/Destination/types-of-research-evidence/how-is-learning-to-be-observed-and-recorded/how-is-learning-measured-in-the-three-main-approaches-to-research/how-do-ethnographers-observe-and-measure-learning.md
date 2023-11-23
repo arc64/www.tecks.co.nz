@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "How do ethnographers observe and measure learning? 
-"
-nav_order: Howdoethnographersobserveandmeasurelearning
 has_children: false
+layout: default
+nav_order: 3
+title: 'How do ethnographers observe and measure learning? '
 ---
 # How do ethnographers observe and measure learning? 
 

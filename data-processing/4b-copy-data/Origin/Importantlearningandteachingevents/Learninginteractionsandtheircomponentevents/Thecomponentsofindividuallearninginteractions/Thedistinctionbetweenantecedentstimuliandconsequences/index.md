@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The distinction between antecedent stimuli and consequences 
-"
-nav_order: Thedistinctionbetweenantecedentstimuliandconsequences
 has_children: false
+layout: default
+nav_order: 2
+title: 'The distinction between antecedent stimuli and consequences '
 ---
 # The distinction between antecedent stimuli and consequences 
 

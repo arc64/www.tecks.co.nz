@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of general case teaching procedures 
-"
-nav_order: Effectsofgeneralcaseteachingprocedures
 has_children: false
+layout: default
+nav_order: 4
+title: 'Effects of general case teaching procedures '
 ---
 # Effects of general case teaching procedures 
 

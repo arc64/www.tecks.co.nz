@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 4: Sufficient practice to ensure mastery 
 "
-nav_order: Necessarycondition4Sufficientpracticetoensuremastery
+nav_order: 4
 has_children: false
 ---
 # Necessary condition 4: Sufficient practice to ensure mastery 

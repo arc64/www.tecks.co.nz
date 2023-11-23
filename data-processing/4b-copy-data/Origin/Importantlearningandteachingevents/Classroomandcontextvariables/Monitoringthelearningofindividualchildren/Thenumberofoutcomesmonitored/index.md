@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The number of outcomes monitored 
-"
-nav_order: Thenumberofoutcomesmonitored
 has_children: false
+layout: default
+nav_order: 2
+title: 'The number of outcomes monitored '
 ---
 # The number of outcomes monitored 
 

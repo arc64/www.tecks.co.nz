@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Three important learning processes 
-"
-nav_order: Threeimportantlearningprocesses
 has_children: false
+layout: default
+nav_order: 2
+title: 'Three important learning processes '
 ---
 # Three important learning processes 
 

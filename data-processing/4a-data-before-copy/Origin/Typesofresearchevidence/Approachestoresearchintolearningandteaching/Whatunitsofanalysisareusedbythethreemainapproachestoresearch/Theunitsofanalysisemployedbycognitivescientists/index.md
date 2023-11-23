@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The units of analysis employed by cognitive scientists 
-"
-nav_order: Theunitsofanalysisemployedbycognitivescientists
 has_children: false
+layout: default
+nav_order: 2
+title: 'The units of analysis employed by cognitive scientists '
 ---
 # The units of analysis employed by cognitive scientists 
 

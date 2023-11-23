@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Biological reinforcers 
-"
-nav_order: Biologicalreinforcers
 has_children: false
+layout: default
+nav_order: 3
+title: 'Biological reinforcers '
 ---
 # Biological reinforcers 
 

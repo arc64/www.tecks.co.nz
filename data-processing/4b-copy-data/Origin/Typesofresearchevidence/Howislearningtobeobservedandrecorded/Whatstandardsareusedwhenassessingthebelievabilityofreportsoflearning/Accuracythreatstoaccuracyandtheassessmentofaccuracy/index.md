@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Accuracy, threats to accuracy and the assessment of accuracy 
-"
-nav_order: Accuracythreatstoaccuracyandtheassessmentofaccuracy
 has_children: false
+layout: default
+nav_order: 2
+title: 'Accuracy, threats to accuracy and the assessment of accuracy '
 ---
 # Accuracy, threats to accuracy and the assessment of accuracy 
 

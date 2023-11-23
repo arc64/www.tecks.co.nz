@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Developing fluency in printing, writing, or typing 
-"
-nav_order: Developingfluencyinprintingwritingortyping
 has_children: false
+layout: default
+nav_order: 2
+title: 'Developing fluency in printing, writing, or typing '
 ---
 # Developing fluency in printing, writing, or typing 
 

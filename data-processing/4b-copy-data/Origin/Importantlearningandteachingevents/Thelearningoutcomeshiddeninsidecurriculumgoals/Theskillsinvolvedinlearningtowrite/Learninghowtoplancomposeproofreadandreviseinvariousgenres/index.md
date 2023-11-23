@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning how to plan, compose, proof read and revise in various genres 
-"
-nav_order: Learninghowtoplancomposeproofreadandreviseinvariousgenres
 has_children: false
+layout: default
+nav_order: 7
+title: 'Learning how to plan, compose, proof read and revise in various genres '
 ---
 # Learning how to plan, compose, proof read and revise in various genres 
 

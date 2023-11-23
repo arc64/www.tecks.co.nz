@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Presentation meaningfulness 
-"
-nav_order: Presentationmeaningfulness
 has_children: false
+layout: default
+nav_order: 3
+title: 'Presentation meaningfulness '
 ---
 # Presentation meaningfulness 
 

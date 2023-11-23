@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The chain of inference which is involved in interpreting experimental effects 
-"
-nav_order: Thechainofinferencewhichisinvolvedininterpretingexperimentaleffects
 has_children: false
+layout: default
+nav_order: 4
+title: 'The chain of inference which is involved in interpreting experimental effects '
 ---
 # The chain of inference which is involved in interpreting experimental effects 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "School climate 
-"
-nav_order: Schoolclimate
 has_children: false
+layout: default
+nav_order: 2
+title: 'School climate '
 ---
 # School climate 
 

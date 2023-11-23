@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Continuous versus intermittent schedules 
-"
-nav_order: Continuousversusintermittentschedules
 has_children: false
+layout: default
+nav_order: 1
+title: 'Continuous versus intermittent schedules '
 ---
 # Continuous versus intermittent schedules 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Assumptions about the nature of reality 
-"
-nav_order: Assumptionsaboutthenatureofreality
 has_children: false
+layout: default
+nav_order: 1
+title: 'Assumptions about the nature of reality '
 ---
 # Assumptions about the nature of reality 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning includes a change in behaviour 
-"
-nav_order: Learningincludesachangeinbehaviour
 has_children: false
+layout: default
+nav_order: 3
+title: 'Learning includes a change in behaviour '
 ---
 # Learning includes a change in behaviour 
 

@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 4. Differential reinforcement for correct responses 
 "
-nav_order: Necessarycondition4Differentialreinforcementforcorrectresponses
+nav_order: 4
 has_children: false
 ---
 # Necessary condition 4. Differential reinforcement for correct responses 

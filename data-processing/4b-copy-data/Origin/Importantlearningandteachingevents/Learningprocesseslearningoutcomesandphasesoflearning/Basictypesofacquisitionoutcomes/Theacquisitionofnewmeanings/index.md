@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The acquisition of new meanings 
-"
-nav_order: Theacquisitionofnewmeanings
 has_children: false
+layout: default
+nav_order: 1
+title: 'The acquisition of new meanings '
 ---
 # The acquisition of new meanings 
 

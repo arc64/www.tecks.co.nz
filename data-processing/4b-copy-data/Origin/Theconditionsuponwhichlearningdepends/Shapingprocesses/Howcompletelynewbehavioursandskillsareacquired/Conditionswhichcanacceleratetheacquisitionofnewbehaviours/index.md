@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which can accelerate the acquisition of new behaviours 
-"
-nav_order: Conditionswhichcanacceleratetheacquisitionofnewbehaviours
 has_children: false
+layout: default
+nav_order: 4
+title: 'Conditions which can accelerate the acquisition of new behaviours '
 ---
 # Conditions which can accelerate the acquisition of new behaviours 
 

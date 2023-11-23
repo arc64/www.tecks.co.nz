@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "What is the subject matter of behaviour analysis research? 
-"
-nav_order: Whatisthesubjectmatterofbehaviouranalysisresearch
 has_children: false
+layout: default
+nav_order: 1
+title: 'What is the subject matter of behaviour analysis research? '
 ---
 # What is the subject matter of behaviour analysis research? 
 

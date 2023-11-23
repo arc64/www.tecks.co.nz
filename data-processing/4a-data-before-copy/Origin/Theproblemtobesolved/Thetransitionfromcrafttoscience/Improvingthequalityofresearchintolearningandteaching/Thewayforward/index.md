@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The way forward 
-"
-nav_order: Thewayforward
 has_children: false
+layout: default
+nav_order: 5
+title: 'The way forward '
 ---
 # The way forward 
 

@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 1. Practice activities in which increases in speed are possible 
 "
-nav_order: Necessarycondition1Practiceactivitiesinwhichincreasesinspeedarepossible
+nav_order: 1
 has_children: false
 ---
 # Necessary condition 1. Practice activities in which increases in speed are possible 

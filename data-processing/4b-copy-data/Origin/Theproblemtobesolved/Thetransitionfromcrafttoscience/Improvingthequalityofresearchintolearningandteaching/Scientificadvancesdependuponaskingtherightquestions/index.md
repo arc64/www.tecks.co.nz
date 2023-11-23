@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Scientific advances depend upon asking the right questions 
-"
-nav_order: Scientificadvancesdependuponaskingtherightquestions
 has_children: false
+layout: default
+nav_order: 1
+title: 'Scientific advances depend upon asking the right questions '
 ---
 # Scientific advances depend upon asking the right questions 
 

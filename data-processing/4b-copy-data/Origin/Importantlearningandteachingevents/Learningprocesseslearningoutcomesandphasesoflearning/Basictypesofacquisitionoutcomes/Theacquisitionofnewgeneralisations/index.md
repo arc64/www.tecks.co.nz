@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The acquisition of new generalisations 
-"
-nav_order: Theacquisitionofnewgeneralisations
 has_children: false
+layout: default
+nav_order: 5
+title: 'The acquisition of new generalisations '
 ---
 # The acquisition of new generalisations 
 

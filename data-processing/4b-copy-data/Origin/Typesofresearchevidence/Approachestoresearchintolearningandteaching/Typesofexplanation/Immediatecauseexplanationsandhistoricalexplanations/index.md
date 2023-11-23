@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Immediate cause explanations and historical explanations 
-"
-nav_order: Immediatecauseexplanationsandhistoricalexplanations
 has_children: false
+layout: default
+nav_order: 2
+title: 'Immediate cause explanations and historical explanations '
 ---
 # Immediate cause explanations and historical explanations 
 

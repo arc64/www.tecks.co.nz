@@ -1,9 +1,9 @@
 ---
-layout: default
-title: "Effects of variations in the match between response mode and intended learning outcome 
-"
-nav_order: Effectsofvariationsinthematchbetweenresponsemodeandintendedlearningoutcome
 has_children: false
+layout: default
+nav_order: 5
+title: 'Effects of variations in the match between response mode and intended learning
+  outcome '
 ---
 # Effects of variations in the match between response mode and intended learning outcome 
 

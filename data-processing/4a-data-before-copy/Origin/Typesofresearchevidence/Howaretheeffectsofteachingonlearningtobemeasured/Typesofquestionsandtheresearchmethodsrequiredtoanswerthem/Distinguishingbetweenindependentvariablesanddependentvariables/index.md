@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Distinguishing between independent variables and dependent variables 
-"
-nav_order: Distinguishingbetweenindependentvariablesanddependentvariables
 has_children: false
+layout: default
+nav_order: 4
+title: 'Distinguishing between independent variables and dependent variables '
 ---
 # Distinguishing between independent variables and dependent variables 
 

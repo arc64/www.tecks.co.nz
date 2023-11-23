@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 4: Sufficient practice to ensure retention 
 "
-nav_order: Necessarycondition4Sufficientpracticetoensureretention
+nav_order: 4
 has_children: false
 ---
 # Necessary condition 4: Sufficient practice to ensure retention 

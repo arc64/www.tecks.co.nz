@@ -2,7 +2,7 @@
 layout: default
 title: "The content of the English curriculum 
 "
-nav_order: ThecontentoftheEnglishcurriculum
+nav_order: 2
 has_children: true
 ---
 # The content of the English curriculum 

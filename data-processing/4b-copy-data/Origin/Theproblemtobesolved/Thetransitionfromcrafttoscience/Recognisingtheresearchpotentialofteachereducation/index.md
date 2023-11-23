@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Recognising the research potential of teacher education 
-"
-nav_order: Recognisingtheresearchpotentialofteachereducation
 has_children: false
+layout: default
+nav_order: 5
+title: 'Recognising the research potential of teacher education '
 ---
 # Recognising the research potential of teacher education 
 

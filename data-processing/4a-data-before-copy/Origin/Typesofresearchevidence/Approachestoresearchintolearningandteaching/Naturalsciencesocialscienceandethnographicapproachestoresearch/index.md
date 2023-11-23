@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 0
+nav_order: 1
 title: 'Natural science, social science, and ethnographic approaches to research '
 ---
 # Natural science, social science, and ethnographic approaches to research 

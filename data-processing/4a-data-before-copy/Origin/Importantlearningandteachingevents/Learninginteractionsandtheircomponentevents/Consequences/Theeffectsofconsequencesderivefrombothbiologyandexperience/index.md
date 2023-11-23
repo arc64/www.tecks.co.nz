@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The effects of consequences derive from both biology and experience 
-"
-nav_order: Theeffectsofconsequencesderivefrombothbiologyandexperience
 has_children: false
+layout: default
+nav_order: 2
+title: 'The effects of consequences derive from both biology and experience '
 ---
 # The effects of consequences derive from both biology and experience 
 

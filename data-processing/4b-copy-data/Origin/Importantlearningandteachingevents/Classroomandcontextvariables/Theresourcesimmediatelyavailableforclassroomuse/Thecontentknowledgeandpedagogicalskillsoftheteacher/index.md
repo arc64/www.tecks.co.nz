@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The content knowledge and pedagogical skills of the teacher 
-"
-nav_order: Thecontentknowledgeandpedagogicalskillsoftheteacher
 has_children: false
+layout: default
+nav_order: 6
+title: 'The content knowledge and pedagogical skills of the teacher '
 ---
 # The content knowledge and pedagogical skills of the teacher 
 

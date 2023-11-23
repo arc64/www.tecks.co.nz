@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The extent to which missing method prerequisite skills are taught 
-"
-nav_order: Theextenttowhichmissingmethodprerequisiteskillsaretaught
 has_children: false
+layout: default
+nav_order: 3
+title: 'The extent to which missing method prerequisite skills are taught '
 ---
 # The extent to which missing method prerequisite skills are taught 
 

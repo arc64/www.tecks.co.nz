@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Shortcomings of the science curriculum 
-"
-nav_order: Shortcomingsofthesciencecurriculum
 has_children: false
+layout: default
+nav_order: 2
+title: 'Shortcomings of the science curriculum '
 ---
 # Shortcomings of the science curriculum 
 

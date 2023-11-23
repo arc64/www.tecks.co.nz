@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Recognising the constraining influence of teachers' beliefs 
-"
-nav_order: Recognisingtheconstraininginfluenceofteachersbeliefs
 has_children: false
+layout: default
+nav_order: 3
+title: 'Recognising the constraining influence of teachers'' beliefs '
 ---
 # Recognising the constraining influence of teachers' beliefs 
 

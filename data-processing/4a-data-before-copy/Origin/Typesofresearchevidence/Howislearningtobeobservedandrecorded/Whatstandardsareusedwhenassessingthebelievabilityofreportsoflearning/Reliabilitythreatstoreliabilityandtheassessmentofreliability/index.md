@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Reliability, threats to reliability and the assessment of reliability 
-"
-nav_order: Reliabilitythreatstoreliabilityandtheassessmentofreliability
 has_children: false
+layout: default
+nav_order: 1
+title: 'Reliability, threats to reliability and the assessment of reliability '
 ---
 # Reliability, threats to reliability and the assessment of reliability 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of presentation length 
-"
-nav_order: Effectsofpresentationlength
 has_children: false
+layout: default
+nav_order: 3
+title: 'Effects of presentation length '
 ---
 # Effects of presentation length 
 

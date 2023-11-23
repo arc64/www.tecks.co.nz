@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of constructed versus selection responses 
-"
-nav_order: Effectsofconstructedversusselectionresponses
 has_children: false
+layout: default
+nav_order: 3
+title: 'Effects of constructed versus selection responses '
 ---
 # Effects of constructed versus selection responses 
 

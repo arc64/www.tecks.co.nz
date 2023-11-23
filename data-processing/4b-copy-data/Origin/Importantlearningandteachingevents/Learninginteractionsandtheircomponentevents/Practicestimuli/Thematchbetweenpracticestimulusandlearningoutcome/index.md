@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The match between practice stimulus and learning outcome 
-"
-nav_order: Thematchbetweenpracticestimulusandlearningoutcome
 has_children: false
+layout: default
+nav_order: 2
+title: 'The match between practice stimulus and learning outcome '
 ---
 # The match between practice stimulus and learning outcome 
 

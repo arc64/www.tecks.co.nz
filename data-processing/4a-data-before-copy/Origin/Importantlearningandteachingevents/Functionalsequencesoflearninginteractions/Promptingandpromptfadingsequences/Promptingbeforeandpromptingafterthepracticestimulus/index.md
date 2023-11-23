@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Prompting before and prompting after the practice stimulus 
-"
-nav_order: Promptingbeforeandpromptingafterthepracticestimulus
 has_children: false
+layout: default
+nav_order: 1
+title: 'Prompting before and prompting after the practice stimulus '
 ---
 # Prompting before and prompting after the practice stimulus 
 

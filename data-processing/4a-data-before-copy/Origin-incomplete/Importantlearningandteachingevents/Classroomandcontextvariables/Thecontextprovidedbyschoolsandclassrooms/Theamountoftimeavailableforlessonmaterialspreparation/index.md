@@ -1,0 +1,31 @@
+---
+has_children: false
+layout: default
+nav_order: 6
+title: 'The amount of time available for lesson materials preparation '
+---
+# The amount of time available for lesson materials preparation 
+
+
+::: documentByline
+Prepared by John Church, PhD, School of Educational Studies and Human
+Development
+
+University of Canterbury, Christchurch, New Zealand.
+:::
+
+::: {#parent-fieldname-text-02ead1e0fa7c4962bf7c1a6e6f6a1bfe}
+Teachers experience many conflicting demands on their time: classroom
+teaching, assisting with the administration of the school, attending
+professional development activities, supervising extra curricular
+activities, attending to playground supervision, meeting with parents,
+marking, materials preparation and so on. Because teachers have to
+produce many of their own teaching resources, the time available for
+materials preparation becomes a critical determinant of student progress
+when teaching occurs in classrooms.
+
+*Preparation time.* The time available for materials preparation is
+relatively easy to measure. It is simply the time remaining, out of an
+1,800 hour year, after all other work related responsibilities have been
+attended to.
+:::

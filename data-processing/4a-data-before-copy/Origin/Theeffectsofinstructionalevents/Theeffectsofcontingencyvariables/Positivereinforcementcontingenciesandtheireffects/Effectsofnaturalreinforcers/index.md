@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of natural reinforcers 
-"
-nav_order: Effectsofnaturalreinforcers
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of natural reinforcers '
 ---
 # Effects of natural reinforcers 
 

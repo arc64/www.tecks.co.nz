@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The mode of the prompt 
-"
-nav_order: Themodeoftheprompt
 has_children: false
+layout: default
+nav_order: 1
+title: 'The mode of the prompt '
 ---
 # The mode of the prompt 
 

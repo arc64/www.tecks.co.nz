@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of different types of behaviour prompts 
-"
-nav_order: Effectsofdifferenttypesofbehaviourprompts
 has_children: false
+layout: default
+nav_order: 10
+title: 'Effects of different types of behaviour prompts '
 ---
 # Effects of different types of behaviour prompts 
 

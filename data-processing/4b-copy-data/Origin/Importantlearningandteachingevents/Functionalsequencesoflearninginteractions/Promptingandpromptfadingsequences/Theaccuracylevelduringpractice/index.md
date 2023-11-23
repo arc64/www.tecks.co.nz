@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The accuracy level during practice 
-"
-nav_order: Theaccuracylevelduringpractice
 has_children: false
+layout: default
+nav_order: 4
+title: 'The accuracy level during practice '
 ---
 # The accuracy level during practice 
 

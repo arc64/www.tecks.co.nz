@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of biological punishers 
-"
-nav_order: Effectsofbiologicalpunishers
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of biological punishers '
 ---
 # Effects of biological punishers 
 

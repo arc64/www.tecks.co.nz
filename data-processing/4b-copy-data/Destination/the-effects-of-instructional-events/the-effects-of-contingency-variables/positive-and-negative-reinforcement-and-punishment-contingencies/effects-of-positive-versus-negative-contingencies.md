@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of positive versus negative contingencies 
-"
-nav_order: Effectsofpositiveversusnegativecontingencies
 has_children: false
+layout: default
+nav_order: 3
+title: 'Effects of positive versus negative contingencies '
 ---
 # Effects of positive versus negative contingencies 
 

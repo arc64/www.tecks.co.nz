@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of variations in the timing of consequences 
-"
-nav_order: Effectsofvariationsinthetimingofconsequences
 has_children: false
+layout: default
+nav_order: 4
+title: 'Effects of variations in the timing of consequences '
 ---
 # Effects of variations in the timing of consequences 
 

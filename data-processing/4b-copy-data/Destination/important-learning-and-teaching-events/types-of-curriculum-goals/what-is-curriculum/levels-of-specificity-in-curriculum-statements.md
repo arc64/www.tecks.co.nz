@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Levels of specificity in curriculum statements 
-"
-nav_order: Levelsofspecificityincurriculumstatements
 has_children: false
+layout: default
+nav_order: 1
+title: 'Levels of specificity in curriculum statements '
 ---
 # Levels of specificity in curriculum statements 
 

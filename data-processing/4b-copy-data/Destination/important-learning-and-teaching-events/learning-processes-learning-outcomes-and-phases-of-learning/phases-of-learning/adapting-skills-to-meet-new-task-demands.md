@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Adapting skills to meet new task demands 
-"
-nav_order: Adaptingskillstomeetnewtaskdemands
 has_children: false
+layout: default
+nav_order: 5
+title: 'Adapting skills to meet new task demands '
 ---
 # Adapting skills to meet new task demands 
 

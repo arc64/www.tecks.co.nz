@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Response mode 
-"
-nav_order: Responsemode
 has_children: false
+layout: default
+nav_order: 3
+title: 'Response mode '
 ---
 # Response mode 
 

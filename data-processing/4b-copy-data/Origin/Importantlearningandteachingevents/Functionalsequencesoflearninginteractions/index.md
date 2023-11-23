@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 4
+nav_order: 5
 title: 'Functional sequences of learning interactions '
 ---
 # Functional sequences of learning interactions 

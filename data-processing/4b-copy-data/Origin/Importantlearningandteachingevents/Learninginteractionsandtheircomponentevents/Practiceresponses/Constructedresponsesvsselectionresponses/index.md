@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Constructed responses vs. selection responses 
-"
-nav_order: Constructedresponsesvsselectionresponses
 has_children: false
+layout: default
+nav_order: 2
+title: 'Constructed responses vs. selection responses '
 ---
 # Constructed responses vs. selection responses 
 

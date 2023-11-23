@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The distribution of practice opportunities in time 
-"
-nav_order: Thedistributionofpracticeopportunitiesintime
 has_children: false
+layout: default
+nav_order: 2
+title: 'The distribution of practice opportunities in time '
 ---
 # The distribution of practice opportunities in time 
 

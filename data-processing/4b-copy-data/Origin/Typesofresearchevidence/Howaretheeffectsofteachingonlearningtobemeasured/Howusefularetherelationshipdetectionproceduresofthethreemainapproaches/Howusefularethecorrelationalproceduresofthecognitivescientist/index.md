@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "How useful are the correlational procedures of the cognitive scientist? 
-"
-nav_order: Howusefularethecorrelationalproceduresofthecognitivescientist
 has_children: false
+layout: default
+nav_order: 2
+title: 'How useful are the correlational procedures of the cognitive scientist? '
 ---
 # How useful are the correlational procedures of the cognitive scientist? 
 

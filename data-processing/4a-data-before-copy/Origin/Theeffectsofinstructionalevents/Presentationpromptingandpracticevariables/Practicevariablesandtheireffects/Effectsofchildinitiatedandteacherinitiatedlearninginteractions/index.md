@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of child initiated and teacher initiated learning interactions 
-"
-nav_order: Effectsofchildinitiatedandteacherinitiatedlearninginteractions
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of child initiated and teacher initiated learning interactions '
 ---
 # Effects of child initiated and teacher initiated learning interactions 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Child initiated and teacher initiated learning interactions 
-"
-nav_order: Childinitiatedandteacherinitiatedlearninginteractions
 has_children: false
+layout: default
+nav_order: 3
+title: 'Child initiated and teacher initiated learning interactions '
 ---
 # Child initiated and teacher initiated learning interactions 
 

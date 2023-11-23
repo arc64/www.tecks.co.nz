@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Developing reading fluency and reading comprehension 
-"
-nav_order: Developingreadingfluencyandreadingcomprehension
 has_children: false
+layout: default
+nav_order: 6
+title: 'Developing reading fluency and reading comprehension '
 ---
 # Developing reading fluency and reading comprehension 
 

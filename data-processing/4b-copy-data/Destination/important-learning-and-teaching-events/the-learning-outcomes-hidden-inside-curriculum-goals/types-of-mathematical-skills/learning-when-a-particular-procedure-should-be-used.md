@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning when a particular procedure should be used 
-"
-nav_order: Learningwhenaparticularprocedureshouldbeused
 has_children: false
+layout: default
+nav_order: 4
+title: 'Learning when a particular procedure should be used '
 ---
 # Learning when a particular procedure should be used 
 

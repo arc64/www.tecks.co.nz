@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Most human action (behaviour) is purposeful 
-"
-nav_order: Mosthumanactionbehaviourispurposeful
 has_children: false
+layout: default
+nav_order: 4
+title: 'Most human action (behaviour) is purposeful '
 ---
 # Most human action (behaviour) is purposeful 
 

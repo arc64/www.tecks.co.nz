@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Vaganotic or idemnotic measures of change? 
-"
-nav_order: Vaganoticoridemnoticmeasuresofchange
 has_children: false
+layout: default
+nav_order: 4
+title: 'Vaganotic or idemnotic measures of change? '
 ---
 # Vaganotic or idemnotic measures of change? 
 

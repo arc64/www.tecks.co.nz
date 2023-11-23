@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Implications of this definition 
-"
-nav_order: Implicationsofthisdefinition
 has_children: false
+layout: default
+nav_order: 6
+title: 'Implications of this definition '
 ---
 # Implications of this definition 
 

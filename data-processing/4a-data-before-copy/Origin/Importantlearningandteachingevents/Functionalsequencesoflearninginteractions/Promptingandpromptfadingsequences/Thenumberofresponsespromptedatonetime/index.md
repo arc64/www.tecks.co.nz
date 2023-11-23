@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The number of responses prompted at one time 
-"
-nav_order: Thenumberofresponsespromptedatonetime
 has_children: false
+layout: default
+nav_order: 3
+title: 'The number of responses prompted at one time '
 ---
 # The number of responses prompted at one time 
 

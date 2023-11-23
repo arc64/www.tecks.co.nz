@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which may affect the acquisition of new procedures 
-"
-nav_order: Conditionswhichmayaffecttheacquisitionofnewprocedures
 has_children: false
+layout: default
+nav_order: 5
+title: 'Conditions which may affect the acquisition of new procedures '
 ---
 # Conditions which may affect the acquisition of new procedures 
 

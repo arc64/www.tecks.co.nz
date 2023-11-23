@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 0
+nav_order: 1
 title: 'Types of questions and the research methods required to answer them '
 ---
 # Types of questions and the research methods required to answer them 

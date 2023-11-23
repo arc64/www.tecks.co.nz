@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Qualitative or quantitative descriptions of change? 
-"
-nav_order: Qualitativeorquantitativedescriptionsofchange
 has_children: false
+layout: default
+nav_order: 3
+title: 'Qualitative or quantitative descriptions of change? '
 ---
 # Qualitative or quantitative descriptions of change? 
 

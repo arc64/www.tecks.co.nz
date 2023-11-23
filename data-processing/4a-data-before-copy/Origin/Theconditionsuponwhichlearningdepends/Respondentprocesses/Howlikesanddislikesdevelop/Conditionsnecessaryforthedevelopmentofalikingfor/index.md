@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions necessary for the development of a liking for 
-"
-nav_order: Conditionsnecessaryforthedevelopmentofalikingfor
 has_children: false
+layout: default
+nav_order: 1
+title: 'Conditions necessary for the development of a liking for '
 ---
 # Conditions necessary for the development of a liking for 
 

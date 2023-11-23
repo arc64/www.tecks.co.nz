@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning involves change 
-"
-nav_order: Learninginvolveschange
 has_children: false
+layout: default
+nav_order: 1
+title: 'Learning involves change '
 ---
 # Learning involves change 
 

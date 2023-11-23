@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of variations in the ratio of prompted to unprompted responses 
-"
-nav_order: Effectsofvariationsintheratioofpromptedtounpromptedresponses
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of variations in the ratio of prompted to unprompted responses '
 ---
 # Effects of variations in the ratio of prompted to unprompted responses 
 

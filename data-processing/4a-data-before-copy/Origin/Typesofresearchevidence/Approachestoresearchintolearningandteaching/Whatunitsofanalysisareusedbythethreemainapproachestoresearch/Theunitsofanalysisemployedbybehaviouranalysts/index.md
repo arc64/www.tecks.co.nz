@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The units of analysis employed by behaviour analysts 
-"
-nav_order: Theunitsofanalysisemployedbybehaviouranalysts
 has_children: false
+layout: default
+nav_order: 1
+title: 'The units of analysis employed by behaviour analysts '
 ---
 # The units of analysis employed by behaviour analysts 
 

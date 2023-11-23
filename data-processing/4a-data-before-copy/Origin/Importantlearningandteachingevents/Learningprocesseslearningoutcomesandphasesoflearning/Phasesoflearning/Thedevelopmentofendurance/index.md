@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The development of endurance 
-"
-nav_order: Thedevelopmentofendurance
 has_children: false
+layout: default
+nav_order: 3
+title: 'The development of endurance '
 ---
 # The development of endurance 
 

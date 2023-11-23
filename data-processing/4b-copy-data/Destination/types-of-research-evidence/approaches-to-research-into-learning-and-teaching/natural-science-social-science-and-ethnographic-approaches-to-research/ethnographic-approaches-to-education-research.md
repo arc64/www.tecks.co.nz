@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Ethnographic approaches to education research 
-"
-nav_order: Ethnographicapproachestoeducationresearch
 has_children: false
+layout: default
+nav_order: 3
+title: 'Ethnographic approaches to education research '
 ---
 # Ethnographic approaches to education research 
 

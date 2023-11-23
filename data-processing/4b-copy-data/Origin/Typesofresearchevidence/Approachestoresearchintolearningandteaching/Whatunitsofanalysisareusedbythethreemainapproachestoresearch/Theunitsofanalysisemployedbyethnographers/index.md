@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The units of analysis employed by ethnographers 
-"
-nav_order: Theunitsofanalysisemployedbyethnographers
 has_children: false
+layout: default
+nav_order: 3
+title: 'The units of analysis employed by ethnographers '
 ---
 # The units of analysis employed by ethnographers 
 

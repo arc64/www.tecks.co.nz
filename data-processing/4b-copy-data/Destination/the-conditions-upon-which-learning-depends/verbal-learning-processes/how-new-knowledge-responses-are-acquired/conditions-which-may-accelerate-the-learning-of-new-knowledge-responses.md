@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which may accelerate the learning of new knowledge responses 
-"
-nav_order: Conditionswhichmayacceleratethelearningofnewknowledgeresponses
 has_children: false
+layout: default
+nav_order: 4
+title: 'Conditions which may accelerate the learning of new knowledge responses '
 ---
 # Conditions which may accelerate the learning of new knowledge responses 
 

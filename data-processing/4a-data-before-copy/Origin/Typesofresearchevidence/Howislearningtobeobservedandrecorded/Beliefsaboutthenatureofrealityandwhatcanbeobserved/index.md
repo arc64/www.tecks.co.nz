@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 0
+nav_order: 1
 title: 'Beliefs about the nature of reality and what can be observed '
 ---
 # Beliefs about the nature of reality and what can be observed 

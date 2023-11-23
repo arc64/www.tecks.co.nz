@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The relationship detection procedures used by behaviour analysts 
-"
-nav_order: Therelationshipdetectionproceduresusedbybehaviouranalysts
 has_children: false
+layout: default
+nav_order: 1
+title: 'The relationship detection procedures used by behaviour analysts '
 ---
 # The relationship detection procedures used by behaviour analysts 
 

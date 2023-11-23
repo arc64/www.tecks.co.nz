@@ -1,9 +1,9 @@
 ---
-layout: default
-title: "Effects of prompting before, during, and after presentation of the practice stimulus 
-"
-nav_order: Effectsofpromptingbeforeduringandafterpresentationofthepracticestimulus
 has_children: false
+layout: default
+nav_order: 4
+title: 'Effects of prompting before, during, and after presentation of the practice
+  stimulus '
 ---
 # Effects of prompting before, during, and after presentation of the practice stimulus 
 

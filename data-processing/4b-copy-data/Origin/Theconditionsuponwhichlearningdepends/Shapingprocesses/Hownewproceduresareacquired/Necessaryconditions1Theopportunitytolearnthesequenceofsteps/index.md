@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary conditions 1: The opportunity to learn the sequence of steps 
 "
-nav_order: Necessaryconditions1Theopportunitytolearnthesequenceofsteps
+nav_order: 1
 has_children: false
 ---
 # Necessary conditions 1: The opportunity to learn the sequence of steps 

@@ -2,7 +2,7 @@
 layout: default
 title: "he variables which determine what counts as sufficient practice 
 "
-nav_order: hevariableswhichdeterminewhatcountsassufficientpractice
+nav_order: 1
 has_children: false
 ---
 # he variables which determine what counts as sufficient practice 

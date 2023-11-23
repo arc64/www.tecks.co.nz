@@ -2,7 +2,7 @@
 layout: default
 title: "Features of the New Zealand curriculum 
 "
-nav_order: FeaturesoftheNewZealandcurriculum
+nav_order: 2
 has_children: false
 ---
 # Features of the New Zealand curriculum 

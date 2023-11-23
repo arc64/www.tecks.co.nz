@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Stimulus prompts 
-"
-nav_order: Stimulusprompts
 has_children: false
+layout: default
+nav_order: 2
+title: 'Stimulus prompts '
 ---
 # Stimulus prompts 
 

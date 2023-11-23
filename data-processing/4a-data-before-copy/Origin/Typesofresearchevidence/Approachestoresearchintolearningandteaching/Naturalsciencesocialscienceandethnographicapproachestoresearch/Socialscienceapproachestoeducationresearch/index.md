@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Social science approaches to education research 
-"
-nav_order: Socialscienceapproachestoeducationresearch
 has_children: false
+layout: default
+nav_order: 2
+title: 'Social science approaches to education research '
 ---
 # Social science approaches to education research 
 

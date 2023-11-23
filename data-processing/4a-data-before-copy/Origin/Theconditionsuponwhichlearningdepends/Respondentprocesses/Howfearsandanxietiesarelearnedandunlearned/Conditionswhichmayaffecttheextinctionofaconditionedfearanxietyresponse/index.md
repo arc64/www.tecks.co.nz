@@ -2,7 +2,7 @@
 layout: default
 title: "Conditions which may affect the extinction of a conditioned fear/anxiety response 
 "
-nav_order: Conditionswhichmayaffecttheextinctionofaconditionedfearanxietyresponse
+nav_order: 1
 has_children: false
 ---
 # Conditions which may affect the extinction of a conditioned fear/anxiety response 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of social reinforcement 
-"
-nav_order: Effectsofsocialreinforcement
 has_children: false
+layout: default
+nav_order: 4
+title: 'Effects of social reinforcement '
 ---
 # Effects of social reinforcement 
 

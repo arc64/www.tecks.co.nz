@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of negative social reactions 
-"
-nav_order: Effectsofnegativesocialreactions
 has_children: false
+layout: default
+nav_order: 4
+title: 'Effects of negative social reactions '
 ---
 # Effects of negative social reactions 
 

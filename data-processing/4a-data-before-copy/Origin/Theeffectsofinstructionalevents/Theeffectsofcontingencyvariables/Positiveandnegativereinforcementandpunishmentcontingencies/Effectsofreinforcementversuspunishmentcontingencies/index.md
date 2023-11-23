@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of reinforcement versus punishment contingencies 
-"
-nav_order: Effectsofreinforcementversuspunishmentcontingencies
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of reinforcement versus punishment contingencies '
 ---
 # Effects of reinforcement versus punishment contingencies 
 

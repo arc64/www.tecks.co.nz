@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of varying the prompt delay interval 
-"
-nav_order: Effectsofvaryingthepromptdelayinterval
 has_children: false
+layout: default
+nav_order: 5
+title: 'Effects of varying the prompt delay interval '
 ---
 # Effects of varying the prompt delay interval 
 

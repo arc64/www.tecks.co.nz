@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which may accelerate the learning of new concepts and generalisations 
-"
-nav_order: Conditionswhichmayacceleratethelearningofnewconceptsandgeneralisations
 has_children: false
+layout: default
+nav_order: 6
+title: 'Conditions which may accelerate the learning of new concepts and generalisations '
 ---
 # Conditions which may accelerate the learning of new concepts and generalisations 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The types of explanation sought by ethnographers 
-"
-nav_order: Thetypesofexplanationsoughtbyethnographers
 has_children: false
+layout: default
+nav_order: 3
+title: 'The types of explanation sought by ethnographers '
 ---
 # The types of explanation sought by ethnographers 
 

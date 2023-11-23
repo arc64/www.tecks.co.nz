@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 3: Differential reinforcement of satisfactory performances 
 "
-nav_order: Necessarycondition3Differentialreinforcementofsatisfactoryperformances
+nav_order: 3
 has_children: false
 ---
 # Necessary condition 3: Differential reinforcement of satisfactory performances 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Natural science approaches to education research 
-"
-nav_order: Naturalscienceapproachestoeducationresearch
 has_children: false
+layout: default
+nav_order: 1
+title: 'Natural science approaches to education research '
 ---
 # Natural science approaches to education research 
 

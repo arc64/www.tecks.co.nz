@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 2. Sufficient interactions with each proposition to ensure retention 
 "
-nav_order: Necessarycondition2Sufficientinteractionswitheachpropositiontoensureretention
+nav_order: 2
 has_children: false
 ---
 # Necessary condition 2. Sufficient interactions with each proposition to ensure retention 

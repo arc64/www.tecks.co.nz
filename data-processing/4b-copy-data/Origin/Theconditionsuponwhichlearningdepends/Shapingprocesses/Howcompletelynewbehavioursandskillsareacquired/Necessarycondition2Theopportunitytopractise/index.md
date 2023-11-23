@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 2: The opportunity to practise 
 "
-nav_order: Necessarycondition2Theopportunitytopractise
+nav_order: 2
 has_children: false
 ---
 # Necessary condition 2: The opportunity to practise 

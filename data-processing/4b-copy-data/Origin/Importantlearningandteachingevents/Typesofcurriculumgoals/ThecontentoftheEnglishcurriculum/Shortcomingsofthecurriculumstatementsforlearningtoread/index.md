@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Shortcomings of the curriculum statements for learning to read 
-"
-nav_order: Shortcomingsofthecurriculumstatementsforlearningtoread
 has_children: false
+layout: default
+nav_order: 2
+title: 'Shortcomings of the curriculum statements for learning to read '
 ---
 # Shortcomings of the curriculum statements for learning to read 
 

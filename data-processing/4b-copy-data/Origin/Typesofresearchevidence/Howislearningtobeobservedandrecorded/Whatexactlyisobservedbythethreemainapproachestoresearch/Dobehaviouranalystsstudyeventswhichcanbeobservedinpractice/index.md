@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Do behaviour analysts study events which can be observed in practice? 
-"
-nav_order: Dobehaviouranalystsstudyeventswhichcanbeobservedinpractice
 has_children: false
+layout: default
+nav_order: 1
+title: 'Do behaviour analysts study events which can be observed in practice? '
 ---
 # Do behaviour analysts study events which can be observed in practice? 
 

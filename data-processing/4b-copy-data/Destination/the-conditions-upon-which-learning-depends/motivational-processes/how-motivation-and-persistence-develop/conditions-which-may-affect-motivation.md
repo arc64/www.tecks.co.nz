@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which may affect motivation 
-"
-nav_order: Conditionswhichmayaffectmotivation
 has_children: false
+layout: default
+nav_order: 3
+title: 'Conditions which may affect motivation '
 ---
 # Conditions which may affect motivation 
 

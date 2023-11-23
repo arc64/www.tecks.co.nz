@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The number of children in the class 
-"
-nav_order: Thenumberofchildrenintheclass
 has_children: false
+layout: default
+nav_order: 4
+title: 'The number of children in the class '
 ---
 # The number of children in the class 
 

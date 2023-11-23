@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Actions have effects 
-"
-nav_order: Actionshaveeffects
 has_children: false
+layout: default
+nav_order: 5
+title: 'Actions have effects '
 ---
 # Actions have effects 
 

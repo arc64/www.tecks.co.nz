@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of variations in exit criteria 
-"
-nav_order: Effectsofvariationsinexitcriteria
 has_children: false
+layout: default
+nav_order: 3
+title: 'Effects of variations in exit criteria '
 ---
 # Effects of variations in exit criteria 
 

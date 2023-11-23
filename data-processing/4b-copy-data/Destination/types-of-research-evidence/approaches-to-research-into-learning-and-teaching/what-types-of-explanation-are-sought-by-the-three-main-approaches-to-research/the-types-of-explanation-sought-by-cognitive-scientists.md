@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The types of explanation sought by cognitive scientists 
-"
-nav_order: Thetypesofexplanationsoughtbycognitivescientists
 has_children: false
+layout: default
+nav_order: 2
+title: 'The types of explanation sought by cognitive scientists '
 ---
 # The types of explanation sought by cognitive scientists 
 

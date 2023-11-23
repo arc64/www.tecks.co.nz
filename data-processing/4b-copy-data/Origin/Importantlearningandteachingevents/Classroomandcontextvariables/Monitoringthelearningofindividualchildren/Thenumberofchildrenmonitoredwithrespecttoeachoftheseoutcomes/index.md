@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The number of children monitored with respect to each of these outcomes 
-"
-nav_order: Thenumberofchildrenmonitoredwithrespecttoeachoftheseoutcomes
 has_children: false
+layout: default
+nav_order: 3
+title: 'The number of children monitored with respect to each of these outcomes '
 ---
 # The number of children monitored with respect to each of these outcomes 
 

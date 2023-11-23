@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of continuous versus intermittent schedules of consequences 
-"
-nav_order: Effectsofcontinuousversusintermittentschedulesofconsequences
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of continuous versus intermittent schedules of consequences '
 ---
 # Effects of continuous versus intermittent schedules of consequences 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "School organisation 
-"
-nav_order: Schoolorganisation
 has_children: false
+layout: default
+nav_order: 1
+title: 'School organisation '
 ---
 # School organisation 
 

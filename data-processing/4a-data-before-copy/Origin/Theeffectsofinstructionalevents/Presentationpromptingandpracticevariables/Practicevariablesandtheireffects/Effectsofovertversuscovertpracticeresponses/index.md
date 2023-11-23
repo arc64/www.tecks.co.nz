@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of overt versus covert practice responses 
-"
-nav_order: Effectsofovertversuscovertpracticeresponses
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of overt versus covert practice responses '
 ---
 # Effects of overt versus covert practice responses 
 

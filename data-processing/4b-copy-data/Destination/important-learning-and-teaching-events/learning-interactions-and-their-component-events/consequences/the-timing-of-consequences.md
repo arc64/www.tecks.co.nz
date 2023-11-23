@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The timing of consequences 
-"
-nav_order: Thetimingofconsequences
 has_children: false
+layout: default
+nav_order: 8
+title: 'The timing of consequences '
 ---
 # The timing of consequences 
 

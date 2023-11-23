@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 1
+nav_order: 2
 title: 'The relationship detection procedures used by the three main approaches to
   research '
 ---

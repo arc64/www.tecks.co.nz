@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Increasing teachers' understanding of learning processes 
-"
-nav_order: Increasingteachersunderstandingoflearningprocesses
 has_children: false
+layout: default
+nav_order: 1
+title: 'Increasing teachers'' understanding of learning processes '
 ---
 # Increasing teachers' understanding of learning processes 
 

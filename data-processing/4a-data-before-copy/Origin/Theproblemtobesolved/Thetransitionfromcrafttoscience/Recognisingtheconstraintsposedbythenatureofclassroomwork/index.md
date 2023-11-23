@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Recognising the constraints posed by the nature of classroom work 
-"
-nav_order: Recognisingtheconstraintsposedbythenatureofclassroomwork
 has_children: false
+layout: default
+nav_order: 4
+title: 'Recognising the constraints posed by the nature of classroom work '
 ---
 # Recognising the constraints posed by the nature of classroom work 
 

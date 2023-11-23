@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Descriptive, correlational and experimental procedures 
-"
-nav_order: Descriptivecorrelationalandexperimentalprocedures
 has_children: false
+layout: default
+nav_order: 3
+title: 'Descriptive, correlational and experimental procedures '
 ---
 # Descriptive, correlational and experimental procedures 
 

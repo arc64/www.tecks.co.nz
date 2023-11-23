@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The relationship detection procedures used by cognitive scientists 
-"
-nav_order: Therelationshipdetectionproceduresusedbycognitivescientists
 has_children: false
+layout: default
+nav_order: 2
+title: 'The relationship detection procedures used by cognitive scientists '
 ---
 # The relationship detection procedures used by cognitive scientists 
 

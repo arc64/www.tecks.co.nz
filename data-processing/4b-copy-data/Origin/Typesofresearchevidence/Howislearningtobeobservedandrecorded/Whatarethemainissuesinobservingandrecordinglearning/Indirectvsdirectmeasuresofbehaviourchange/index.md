@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Indirect vs. direct measures of behaviour change 
-"
-nav_order: Indirectvsdirectmeasuresofbehaviourchange
 has_children: false
+layout: default
+nav_order: 1
+title: 'Indirect vs. direct measures of behaviour change '
 ---
 # Indirect vs. direct measures of behaviour change 
 

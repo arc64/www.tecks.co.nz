@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 2
+nav_order: 3
 title: 'What units of analysis are used by the three main approaches to research? '
 ---
 # What units of analysis are used by the three main approaches to research? 

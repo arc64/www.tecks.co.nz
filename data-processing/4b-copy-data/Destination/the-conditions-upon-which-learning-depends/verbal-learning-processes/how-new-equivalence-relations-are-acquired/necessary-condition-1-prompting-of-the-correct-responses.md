@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 1. Prompting of the correct responses 
 "
-nav_order: Necessarycondition1Promptingofthecorrectresponses
+nav_order: 1
 has_children: false
 ---
 # Necessary condition 1. Prompting of the correct responses 

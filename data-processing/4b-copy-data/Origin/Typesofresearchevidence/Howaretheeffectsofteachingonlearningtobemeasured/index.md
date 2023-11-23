@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 2
+nav_order: 3
 title: 'How are the effects of teaching on learning to be measured? '
 ---
 # How are the effects of teaching on learning to be measured? 

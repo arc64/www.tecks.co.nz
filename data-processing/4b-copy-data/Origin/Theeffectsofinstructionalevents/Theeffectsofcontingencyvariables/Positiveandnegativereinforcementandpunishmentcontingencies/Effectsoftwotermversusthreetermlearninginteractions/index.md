@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of two term versus three term learning interactions 
-"
-nav_order: Effectsoftwotermversusthreetermlearninginteractions
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of two term versus three term learning interactions '
 ---
 # Effects of two term versus three term learning interactions 
 

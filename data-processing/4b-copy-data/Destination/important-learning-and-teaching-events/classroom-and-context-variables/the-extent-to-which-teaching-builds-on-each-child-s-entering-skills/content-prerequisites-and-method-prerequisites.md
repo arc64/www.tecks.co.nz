@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Content prerequisites and method prerequisites 
-"
-nav_order: Contentprerequisitesandmethodprerequisites
 has_children: false
+layout: default
+nav_order: 1
+title: 'Content prerequisites and method prerequisites '
 ---
 # Content prerequisites and method prerequisites 
 

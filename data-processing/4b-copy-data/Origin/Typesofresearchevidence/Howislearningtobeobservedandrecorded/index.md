@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 1
+nav_order: 2
 title: 'How is learning to be observed and recorded? '
 ---
 # How is learning to be observed and recorded? 

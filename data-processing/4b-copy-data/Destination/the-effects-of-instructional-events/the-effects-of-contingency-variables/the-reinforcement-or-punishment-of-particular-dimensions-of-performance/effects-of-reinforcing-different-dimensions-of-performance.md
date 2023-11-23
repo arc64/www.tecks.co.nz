@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of reinforcing different dimensions of performance 
-"
-nav_order: Effectsofreinforcingdifferentdimensionsofperformance
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of reinforcing different dimensions of performance '
 ---
 # Effects of reinforcing different dimensions of performance 
 

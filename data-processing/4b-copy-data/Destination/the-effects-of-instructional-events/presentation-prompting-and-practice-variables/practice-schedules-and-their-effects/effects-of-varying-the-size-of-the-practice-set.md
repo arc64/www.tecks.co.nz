@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of varying the size of the practice set 
-"
-nav_order: Effectsofvaryingthesizeofthepracticeset
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of varying the size of the practice set '
 ---
 # Effects of varying the size of the practice set 
 

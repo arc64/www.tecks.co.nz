@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The five key competencies 
-"
-nav_order: Thefivekeycompetencies
 has_children: false
+layout: default
+nav_order: 4
+title: 'The five key competencies '
 ---
 # The five key competencies 
 

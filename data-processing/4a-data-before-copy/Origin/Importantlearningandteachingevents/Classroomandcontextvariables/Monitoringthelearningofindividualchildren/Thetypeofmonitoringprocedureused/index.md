@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The type of monitoring procedure used 
-"
-nav_order: Thetypeofmonitoringprocedureused
 has_children: false
+layout: default
+nav_order: 1
+title: 'The type of monitoring procedure used '
 ---
 # The type of monitoring procedure used 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The acquisition of new knowledge 
-"
-nav_order: Theacquisitionofnewknowledge
 has_children: false
+layout: default
+nav_order: 6
+title: 'The acquisition of new knowledge '
 ---
 # The acquisition of new knowledge 
 

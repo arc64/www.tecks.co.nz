@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which may affect the development of fluency 
-"
-nav_order: Conditionswhichmayaffectthedevelopmentoffluency
 has_children: false
+layout: default
+nav_order: 4
+title: 'Conditions which may affect the development of fluency '
 ---
 # Conditions which may affect the development of fluency 
 

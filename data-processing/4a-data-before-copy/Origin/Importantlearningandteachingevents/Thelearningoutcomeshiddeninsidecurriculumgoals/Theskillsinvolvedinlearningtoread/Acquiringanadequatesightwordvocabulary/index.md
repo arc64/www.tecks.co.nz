@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Acquiring an adequate sight word vocabulary 
-"
-nav_order: Acquiringanadequatesightwordvocabulary
 has_children: false
+layout: default
+nav_order: 5
+title: 'Acquiring an adequate sight word vocabulary '
 ---
 # Acquiring an adequate sight word vocabulary 
 

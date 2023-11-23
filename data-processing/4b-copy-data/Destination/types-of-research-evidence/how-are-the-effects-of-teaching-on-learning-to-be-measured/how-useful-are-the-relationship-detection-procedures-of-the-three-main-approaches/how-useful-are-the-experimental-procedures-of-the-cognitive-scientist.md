@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "How useful are the experimental procedures of the cognitive scientist? 
-"
-nav_order: Howusefularetheexperimentalproceduresofthecognitivescientist
 has_children: false
+layout: default
+nav_order: 3
+title: 'How useful are the experimental procedures of the cognitive scientist? '
 ---
 # How useful are the experimental procedures of the cognitive scientist? 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of different example sequencing procedures 
-"
-nav_order: Effectsofdifferentexamplesequencingprocedures
 has_children: false
+layout: default
+nav_order: 3
+title: 'Effects of different example sequencing procedures '
 ---
 # Effects of different example sequencing procedures 
 

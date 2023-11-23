@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The accuracy of the measure of experimental effects 
-"
-nav_order: Theaccuracyofthemeasureofexperimentaleffects
 has_children: false
+layout: default
+nav_order: 2
+title: 'The accuracy of the measure of experimental effects '
 ---
 # The accuracy of the measure of experimental effects 
 

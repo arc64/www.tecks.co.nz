@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Achievement objectives for learning to write 
-"
-nav_order: Achievementobjectivesforlearningtowrite
 has_children: false
+layout: default
+nav_order: 3
+title: 'Achievement objectives for learning to write '
 ---
 # Achievement objectives for learning to write 
 

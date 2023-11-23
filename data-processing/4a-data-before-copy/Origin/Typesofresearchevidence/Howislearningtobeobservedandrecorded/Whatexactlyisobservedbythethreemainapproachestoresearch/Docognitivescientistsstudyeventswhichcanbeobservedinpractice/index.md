@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Do cognitive scientists study events which can be observed in practice? 
-"
-nav_order: Docognitivescientistsstudyeventswhichcanbeobservedinpractice
 has_children: false
+layout: default
+nav_order: 2
+title: 'Do cognitive scientists study events which can be observed in practice? '
 ---
 # Do cognitive scientists study events which can be observed in practice? 
 

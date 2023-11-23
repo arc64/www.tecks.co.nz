@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Overcoming practice limitations imposed by the curriculum 
-"
-nav_order: Overcomingpracticelimitationsimposedbythecurriculum
 has_children: false
+layout: default
+nav_order: 2
+title: 'Overcoming practice limitations imposed by the curriculum '
 ---
 # Overcoming practice limitations imposed by the curriculum 
 

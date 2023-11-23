@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Diagnostic assessment resources 
-"
-nav_order: Diagnosticassessmentresources
 has_children: false
+layout: default
+nav_order: 1
+title: 'Diagnostic assessment resources '
 ---
 # Diagnostic assessment resources 
 

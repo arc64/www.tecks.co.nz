@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of response cost contingencies 
-"
-nav_order: Effectsofresponsecostcontingencies
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of response cost contingencies '
 ---
 # Effects of response cost contingencies 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning mathematical operations 
-"
-nav_order: Learningmathematicaloperations
 has_children: false
+layout: default
+nav_order: 3
+title: 'Learning mathematical operations '
 ---
 # Learning mathematical operations 
 

@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 3
+nav_order: 4
 title: 'The amount of practice is provided '
 ---
 # The amount of practice is provided 

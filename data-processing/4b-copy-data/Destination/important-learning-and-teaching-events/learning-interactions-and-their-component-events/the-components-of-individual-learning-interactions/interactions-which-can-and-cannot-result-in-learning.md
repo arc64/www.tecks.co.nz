@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Interactions which can and cannot result in learning 
-"
-nav_order: Interactionswhichcanandcannotresultinlearning
 has_children: false
+layout: default
+nav_order: 6
+title: 'Interactions which can and cannot result in learning '
 ---
 # Interactions which can and cannot result in learning 
 

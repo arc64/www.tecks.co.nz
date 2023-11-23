@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The acquisition of new equivalence relations 
-"
-nav_order: Theacquisitionofnewequivalencerelations
 has_children: false
+layout: default
+nav_order: 4
+title: 'The acquisition of new equivalence relations '
 ---
 # The acquisition of new equivalence relations 
 

@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary conditions 2: The opportunity to engage in unprompted practice 
 "
-nav_order: Necessaryconditions2Theopportunitytoengageinunpromptedpractice
+nav_order: 2
 has_children: false
 ---
 # Necessary conditions 2: The opportunity to engage in unprompted practice 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The validity of the conclusions drawn from the experimental results 
-"
-nav_order: Thevalidityoftheconclusionsdrawnfromtheexperimentalresults
 has_children: false
+layout: default
+nav_order: 3
+title: 'The validity of the conclusions drawn from the experimental results '
 ---
 # The validity of the conclusions drawn from the experimental results 
 

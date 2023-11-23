@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions necessary for the acquisition of new meanings 
-"
-nav_order: Conditionsnecessaryfortheacquisitionofnewmeanings
 has_children: false
+layout: default
+nav_order: 1
+title: 'Conditions necessary for the acquisition of new meanings '
 ---
 # Conditions necessary for the acquisition of new meanings 
 

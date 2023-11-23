@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Example range 
-"
-nav_order: Examplerange
 has_children: false
+layout: default
+nav_order: 2
+title: 'Example range '
 ---
 # Example range 
 

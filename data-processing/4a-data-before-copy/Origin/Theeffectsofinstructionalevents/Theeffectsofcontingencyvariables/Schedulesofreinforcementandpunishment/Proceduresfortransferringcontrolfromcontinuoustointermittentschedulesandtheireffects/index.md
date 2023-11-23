@@ -1,9 +1,9 @@
 ---
-layout: default
-title: "Procedures for transferring control from continuous to intermittent schedules and their effects 
-"
-nav_order: Proceduresfortransferringcontrolfromcontinuoustointermittentschedulesandtheireffects
 has_children: false
+layout: default
+nav_order: 3
+title: 'Procedures for transferring control from continuous to intermittent schedules
+  and their effects '
 ---
 # Procedures for transferring control from continuous to intermittent schedules and their effects 
 

@@ -1,9 +1,9 @@
 ---
-layout: default
-title: "Effect of concurrent schedules of reinforcement for appropriate and inappropriate behaviour 
-"
-nav_order: Effectofconcurrentschedulesofreinforcementforappropriateandinappropriatebehaviour
 has_children: false
+layout: default
+nav_order: 4
+title: 'Effect of concurrent schedules of reinforcement for appropriate and inappropriate
+  behaviour '
 ---
 # Effect of concurrent schedules of reinforcement for appropriate and inappropriate behaviour 
 

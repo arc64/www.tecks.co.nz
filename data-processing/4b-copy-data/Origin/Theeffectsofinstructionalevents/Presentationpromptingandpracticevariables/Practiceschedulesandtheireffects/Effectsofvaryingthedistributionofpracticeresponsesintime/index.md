@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of varying the distribution of practice responses in time 
-"
-nav_order: Effectsofvaryingthedistributionofpracticeresponsesintime
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of varying the distribution of practice responses in time '
 ---
 # Effects of varying the distribution of practice responses in time 
 

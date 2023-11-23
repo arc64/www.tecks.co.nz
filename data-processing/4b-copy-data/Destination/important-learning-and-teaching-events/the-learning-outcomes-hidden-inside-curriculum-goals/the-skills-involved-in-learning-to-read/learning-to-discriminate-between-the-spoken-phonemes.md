@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning to discriminate between the spoken phonemes 
-"
-nav_order: Learningtodiscriminatebetweenthespokenphonemes
 has_children: false
+layout: default
+nav_order: 2
+title: 'Learning to discriminate between the spoken phonemes '
 ---
 # Learning to discriminate between the spoken phonemes 
 

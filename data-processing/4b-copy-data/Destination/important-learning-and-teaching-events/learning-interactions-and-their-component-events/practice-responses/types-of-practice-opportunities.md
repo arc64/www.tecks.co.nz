@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Types of practice opportunities 
-"
-nav_order: Typesofpracticeopportunities
 has_children: false
+layout: default
+nav_order: 4
+title: 'Types of practice opportunities '
 ---
 # Types of practice opportunities 
 

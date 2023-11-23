@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Number of practice opportunities 
-"
-nav_order: Numberofpracticeopportunities
 has_children: false
+layout: default
+nav_order: 1
+title: 'Number of practice opportunities '
 ---
 # Number of practice opportunities 
 

@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 4
+nav_order: 5
 title: 'What types of explanation are sought by the three main approaches to research? '
 ---
 # What types of explanation are sought by the three main approaches to research? 

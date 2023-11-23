@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Timed vs. untimed practice 
-"
-nav_order: Timedvsuntimedpractice
 has_children: false
+layout: default
+nav_order: 6
+title: 'Timed vs. untimed practice '
 ---
 # Timed vs. untimed practice 
 

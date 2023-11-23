@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Response effort 
-"
-nav_order: Responseeffort
 has_children: false
+layout: default
+nav_order: 5
+title: 'Response effort '
 ---
 # Response effort 
 

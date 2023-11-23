@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Time based schedules versus response based schedules 
-"
-nav_order: Timebasedschedulesversusresponsebasedschedules
 has_children: false
+layout: default
+nav_order: 3
+title: 'Time based schedules versus response based schedules '
 ---
 # Time based schedules versus response based schedules 
 

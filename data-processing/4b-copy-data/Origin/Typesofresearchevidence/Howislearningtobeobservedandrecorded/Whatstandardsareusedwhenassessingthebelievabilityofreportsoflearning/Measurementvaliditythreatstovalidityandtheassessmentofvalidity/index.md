@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Measurement validity, threats to validity and the assessment of validity 
-"
-nav_order: Measurementvaliditythreatstovalidityandtheassessmentofvalidity
 has_children: false
+layout: default
+nav_order: 3
+title: 'Measurement validity, threats to validity and the assessment of validity '
 ---
 # Measurement validity, threats to validity and the assessment of validity 
 

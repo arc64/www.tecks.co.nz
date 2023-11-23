@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Do ethnographers study events which can be observed in practice? 
-"
-nav_order: Doethnographersstudyeventswhichcanbeobservedinpractice
 has_children: false
+layout: default
+nav_order: 3
+title: 'Do ethnographers study events which can be observed in practice? '
 ---
 # Do ethnographers study events which can be observed in practice? 
 

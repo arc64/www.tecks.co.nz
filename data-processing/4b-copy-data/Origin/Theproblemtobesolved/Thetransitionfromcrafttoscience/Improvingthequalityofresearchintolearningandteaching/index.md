@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 6
+nav_order: 7
 title: 'Improving the quality of research into learning and teaching '
 ---
 # Improving the quality of research into learning and teaching 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of effortful tasks as consequences 
-"
-nav_order: Effectsofeffortfultasksasconsequences
 has_children: false
+layout: default
+nav_order: 3
+title: 'Effects of effortful tasks as consequences '
 ---
 # Effects of effortful tasks as consequences 
 

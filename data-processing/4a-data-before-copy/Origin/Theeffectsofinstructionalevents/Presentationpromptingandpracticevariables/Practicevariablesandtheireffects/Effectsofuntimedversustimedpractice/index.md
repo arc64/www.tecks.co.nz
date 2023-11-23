@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of untimed versus timed practice 
-"
-nav_order: Effectsofuntimedversustimedpractice
 has_children: false
+layout: default
+nav_order: 6
+title: 'Effects of untimed versus timed practice '
 ---
 # Effects of untimed versus timed practice 
 

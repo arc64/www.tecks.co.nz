@@ -2,7 +2,7 @@
 layout: default
 title: "Effect of concurrent schedules of reinforcement and punishment 
 "
-nav_order: Effectofconcurrentschedulesofreinforcementandpunishment
+nav_order: 6
 has_children: false
 ---
 # Effect of concurrent schedules of reinforcement and punishment 

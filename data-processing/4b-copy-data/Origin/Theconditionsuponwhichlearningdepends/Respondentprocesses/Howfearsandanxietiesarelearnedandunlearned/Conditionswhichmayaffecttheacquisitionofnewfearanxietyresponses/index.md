@@ -2,7 +2,7 @@
 layout: default
 title: "Conditions which may affect the acquisition of new fear/anxiety responses 
 "
-nav_order: Conditionswhichmayaffecttheacquisitionofnewfearanxietyresponses
+nav_order: 1
 has_children: false
 ---
 # Conditions which may affect the acquisition of new fear/anxiety responses 

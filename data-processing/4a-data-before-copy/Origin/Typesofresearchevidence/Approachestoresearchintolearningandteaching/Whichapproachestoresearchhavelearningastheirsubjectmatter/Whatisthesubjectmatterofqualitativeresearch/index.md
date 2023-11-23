@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "What is the subject matter of qualitative research? 
-"
-nav_order: Whatisthesubjectmatterofqualitativeresearch
 has_children: false
+layout: default
+nav_order: 3
+title: 'What is the subject matter of qualitative research? '
 ---
 # What is the subject matter of qualitative research? 
 

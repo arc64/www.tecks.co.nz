@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 3. Differential reinforcement for correct responses 
 "
-nav_order: Necessarycondition3Differentialreinforcementforcorrectresponses
+nav_order: 3
 has_children: false
 ---
 # Necessary condition 3. Differential reinforcement for correct responses 

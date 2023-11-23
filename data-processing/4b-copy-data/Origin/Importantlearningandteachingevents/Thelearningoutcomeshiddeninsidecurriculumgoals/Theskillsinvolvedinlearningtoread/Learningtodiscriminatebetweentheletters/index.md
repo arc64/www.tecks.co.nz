@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning to discriminate between the letters 
-"
-nav_order: Learningtodiscriminatebetweentheletters
 has_children: false
+layout: default
+nav_order: 1
+title: 'Learning to discriminate between the letters '
 ---
 # Learning to discriminate between the letters 
 

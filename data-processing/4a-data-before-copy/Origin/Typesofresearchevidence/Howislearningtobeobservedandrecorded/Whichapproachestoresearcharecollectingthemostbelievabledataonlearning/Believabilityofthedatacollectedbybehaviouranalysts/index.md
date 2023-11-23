@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Believability of the data collected by behaviour analysts 
-"
-nav_order: Believabilityofthedatacollectedbybehaviouranalysts
 has_children: false
+layout: default
+nav_order: 1
+title: 'Believability of the data collected by behaviour analysts '
 ---
 # Believability of the data collected by behaviour analysts 
 

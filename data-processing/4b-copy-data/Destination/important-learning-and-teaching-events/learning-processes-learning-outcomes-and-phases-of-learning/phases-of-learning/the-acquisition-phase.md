@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The acquisition phase 
-"
-nav_order: Theacquisitionphase
 has_children: false
+layout: default
+nav_order: 1
+title: 'The acquisition phase '
 ---
 # The acquisition phase 
 

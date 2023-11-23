@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 1
+nav_order: 2
 title: 'The resources immediately available for classroom use '
 ---
 # The resources immediately available for classroom use 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning the equivalence relations for irregularly spelled words 
-"
-nav_order: Learningtheequivalencerelationsforirregularlyspelledwords
 has_children: false
+layout: default
+nav_order: 5
+title: 'Learning the equivalence relations for irregularly spelled words '
 ---
 # Learning the equivalence relations for irregularly spelled words 
 

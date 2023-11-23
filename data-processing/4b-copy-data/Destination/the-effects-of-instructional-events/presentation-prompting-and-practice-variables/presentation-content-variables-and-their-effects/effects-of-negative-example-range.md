@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of negative example range 
-"
-nav_order: Effectsofnegativeexamplerange
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of negative example range '
 ---
 # Effects of negative example range 
 

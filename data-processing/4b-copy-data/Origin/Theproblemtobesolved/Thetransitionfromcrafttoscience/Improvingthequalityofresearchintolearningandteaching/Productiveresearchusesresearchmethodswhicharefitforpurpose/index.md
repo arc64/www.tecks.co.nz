@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Productive research uses research methods which are fit for purpose 
-"
-nav_order: Productiveresearchusesresearchmethodswhicharefitforpurpose
 has_children: false
+layout: default
+nav_order: 2
+title: 'Productive research uses research methods which are fit for purpose '
 ---
 # Productive research uses research methods which are fit for purpose 
 

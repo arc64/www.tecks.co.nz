@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of reinforcing task engagement versus accuracy 
-"
-nav_order: Effectsofreinforcingtaskengagementversusaccuracy
 has_children: false
+layout: default
+nav_order: 3
+title: 'Effects of reinforcing task engagement versus accuracy '
 ---
 # Effects of reinforcing task engagement versus accuracy 
 

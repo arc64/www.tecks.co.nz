@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning occurs in individuals 
-"
-nav_order: Learningoccursinindividuals
 has_children: false
+layout: default
+nav_order: 2
+title: 'Learning occurs in individuals '
 ---
 # Learning occurs in individuals 
 

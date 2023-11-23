@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The degree of diversity amongst the children in the class 
-"
-nav_order: Thedegreeofdiversityamongstthechildrenintheclass
 has_children: false
+layout: default
+nav_order: 5
+title: 'The degree of diversity amongst the children in the class '
 ---
 # The degree of diversity amongst the children in the class 
 

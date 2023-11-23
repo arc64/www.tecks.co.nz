@@ -1,9 +1,9 @@
 ---
-layout: default
-title: "Do cognitive scientists explore the generalisability of their experimental findings? 
-"
-nav_order: Docognitivescientistsexplorethegeneralisabilityoftheirexperimentalfindings
 has_children: false
+layout: default
+nav_order: 2
+title: 'Do cognitive scientists explore the generalisability of their experimental
+  findings? '
 ---
 # Do cognitive scientists explore the generalisability of their experimental findings? 
 
