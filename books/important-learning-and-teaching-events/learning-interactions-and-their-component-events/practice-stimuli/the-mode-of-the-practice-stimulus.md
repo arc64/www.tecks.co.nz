@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The mode of the practice stimulus 
-"
-nav_order: Themodeofthepracticestimulus
 has_children: false
+layout: default
+nav_order: 1
+title: 'The mode of the practice stimulus '
 ---
 # The mode of the practice stimulus 
 

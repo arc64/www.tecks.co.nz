@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning to print, write, and type 
-"
-nav_order: Learningtoprintwriteandtype
 has_children: false
+layout: default
+nav_order: 1
+title: 'Learning to print, write, and type '
 ---
 # Learning to print, write, and type 
 

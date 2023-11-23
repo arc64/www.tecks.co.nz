@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of massed versus spaced practice 
-"
-nav_order: Effectsofmassedversusspacedpractice
 has_children: false
+layout: default
+nav_order: 5
+title: 'Effects of massed versus spaced practice '
 ---
 # Effects of massed versus spaced practice 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The number of practice responses required for acquisition 
-"
-nav_order: Thenumberofpracticeresponsesrequiredforacquisition
 has_children: false
+layout: default
+nav_order: 2
+title: 'The number of practice responses required for acquisition '
 ---
 # The number of practice responses required for acquisition 
 

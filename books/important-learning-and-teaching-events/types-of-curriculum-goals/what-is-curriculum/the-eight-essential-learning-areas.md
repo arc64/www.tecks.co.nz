@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The eight essential learning areas 
-"
-nav_order: Theeightessentiallearningareas
 has_children: false
+layout: default
+nav_order: 3
+title: 'The eight essential learning areas '
 ---
 # The eight essential learning areas 
 

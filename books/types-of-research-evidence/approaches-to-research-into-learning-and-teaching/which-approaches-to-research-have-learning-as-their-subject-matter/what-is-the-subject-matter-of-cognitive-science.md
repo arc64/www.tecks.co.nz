@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "What is the subject matter of cognitive science? 
-"
-nav_order: Whatisthesubjectmatterofcognitivescience
 has_children: false
+layout: default
+nav_order: 2
+title: 'What is the subject matter of cognitive science? '
 ---
 # What is the subject matter of cognitive science? 
 

@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 5
+nav_order: 6
 title: 'Classroom and context variables '
 ---
 # Classroom and context variables 

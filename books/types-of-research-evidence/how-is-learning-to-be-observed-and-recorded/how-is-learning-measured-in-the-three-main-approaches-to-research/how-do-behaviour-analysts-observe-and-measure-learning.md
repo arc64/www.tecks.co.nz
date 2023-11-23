@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "How do behaviour analysts observe and measure learning? 
-"
-nav_order: Howdobehaviouranalystsobserveandmeasurelearning
 has_children: false
+layout: default
+nav_order: 1
+title: 'How do behaviour analysts observe and measure learning? '
 ---
 # How do behaviour analysts observe and measure learning? 
 

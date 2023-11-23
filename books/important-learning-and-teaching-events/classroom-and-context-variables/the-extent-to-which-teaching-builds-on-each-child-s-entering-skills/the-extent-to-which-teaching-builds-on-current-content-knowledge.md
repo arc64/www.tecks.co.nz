@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The extent to which teaching builds on current content knowledge 
-"
-nav_order: Theextenttowhichteachingbuildsoncurrentcontentknowledge
 has_children: false
+layout: default
+nav_order: 2
+title: 'The extent to which teaching builds on current content knowledge '
 ---
 # The extent to which teaching builds on current content knowledge 
 

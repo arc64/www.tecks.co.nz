@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Inadvertent positive reinforcement of misbehaviour 
-"
-nav_order: Inadvertentpositivereinforcementofmisbehaviour
 has_children: false
+layout: default
+nav_order: 1
+title: 'Inadvertent positive reinforcement of misbehaviour '
 ---
 # Inadvertent positive reinforcement of misbehaviour 
 

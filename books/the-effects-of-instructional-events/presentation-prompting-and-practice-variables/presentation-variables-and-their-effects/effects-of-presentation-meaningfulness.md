@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of presentation meaningfulness 
-"
-nav_order: Effectsofpresentationmeaningfulness
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of presentation meaningfulness '
 ---
 # Effects of presentation meaningfulness 
 

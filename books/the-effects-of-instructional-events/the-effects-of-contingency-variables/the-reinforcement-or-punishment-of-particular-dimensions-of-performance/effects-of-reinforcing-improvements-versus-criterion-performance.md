@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of reinforcing improvements versus criterion performance 
-"
-nav_order: Effectsofreinforcingimprovementsversuscriterionperformance
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of reinforcing improvements versus criterion performance '
 ---
 # Effects of reinforcing improvements versus criterion performance 
 

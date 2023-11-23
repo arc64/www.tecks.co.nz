@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning the main grammatical concepts and rules 
-"
-nav_order: Learningthemaingrammaticalconceptsandrules
 has_children: false
+layout: default
+nav_order: 6
+title: 'Learning the main grammatical concepts and rules '
 ---
 # Learning the main grammatical concepts and rules 
 

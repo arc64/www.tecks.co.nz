@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The amount of time available for lesson materials preparation 
-"
-nav_order: Theamountoftimeavailableforlessonmaterialspreparation
 has_children: false
+layout: default
+nav_order: 7
+title: 'The amount of time available for lesson materials preparation '
 ---
 # The amount of time available for lesson materials preparation 
 

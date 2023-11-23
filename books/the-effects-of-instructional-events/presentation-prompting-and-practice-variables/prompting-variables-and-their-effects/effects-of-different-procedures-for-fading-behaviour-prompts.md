@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of different procedures for fading behaviour prompts 
-"
-nav_order: Effectsofdifferentproceduresforfadingbehaviourprompts
 has_children: false
+layout: default
+nav_order: 11
+title: 'Effects of different procedures for fading behaviour prompts '
 ---
 # Effects of different procedures for fading behaviour prompts 
 

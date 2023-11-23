@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Shortcomings of the writing curriculum 
-"
-nav_order: Shortcomingsofthewritingcurriculum
 has_children: false
+layout: default
+nav_order: 4
+title: 'Shortcomings of the writing curriculum '
 ---
 # Shortcomings of the writing curriculum 
 

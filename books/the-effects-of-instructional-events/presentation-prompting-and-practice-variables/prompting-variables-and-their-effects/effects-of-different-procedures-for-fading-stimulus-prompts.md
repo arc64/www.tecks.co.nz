@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of different procedures for fading stimulus prompts 
-"
-nav_order: Effectsofdifferentproceduresforfadingstimulusprompts
 has_children: false
+layout: default
+nav_order: 9
+title: 'Effects of different procedures for fading stimulus prompts '
 ---
 # Effects of different procedures for fading stimulus prompts 
 

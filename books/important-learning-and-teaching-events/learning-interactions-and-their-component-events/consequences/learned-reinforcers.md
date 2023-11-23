@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learned reinforcers 
-"
-nav_order: Learnedreinforcers
 has_children: false
+layout: default
+nav_order: 5
+title: 'Learned reinforcers '
 ---
 # Learned reinforcers 
 

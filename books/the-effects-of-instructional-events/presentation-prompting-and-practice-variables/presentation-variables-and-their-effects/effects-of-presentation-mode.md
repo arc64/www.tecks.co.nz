@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of presentation mode 
-"
-nav_order: Effectsofpresentationmode
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of presentation mode '
 ---
 # Effects of presentation mode 
 

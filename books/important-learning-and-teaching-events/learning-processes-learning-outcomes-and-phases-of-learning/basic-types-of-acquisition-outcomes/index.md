@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 2
+nav_order: 3
 title: 'Basic types of acquisition outcomes '
 ---
 # Basic types of acquisition outcomes 

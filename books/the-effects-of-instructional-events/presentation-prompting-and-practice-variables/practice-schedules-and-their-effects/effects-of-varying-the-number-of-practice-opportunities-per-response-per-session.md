@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of varying the number of practice opportunities per response per session 
-"
-nav_order: Effectsofvaryingthenumberofpracticeopportunitiesperresponsepersession
 has_children: false
+layout: default
+nav_order: 3
+title: 'Effects of varying the number of practice opportunities per response per session '
 ---
 # Effects of varying the number of practice opportunities per response per session 
 

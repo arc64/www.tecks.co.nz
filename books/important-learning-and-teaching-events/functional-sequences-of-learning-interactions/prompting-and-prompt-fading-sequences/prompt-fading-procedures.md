@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Prompt fading procedures 
-"
-nav_order: Promptfadingprocedures
 has_children: false
+layout: default
+nav_order: 5
+title: 'Prompt fading procedures '
 ---
 # Prompt fading procedures 
 

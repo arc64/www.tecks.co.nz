@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Predictable versus unpredictable schedules 
-"
-nav_order: Predictableversusunpredictableschedules
 has_children: false
+layout: default
+nav_order: 2
+title: 'Predictable versus unpredictable schedules '
 ---
 # Predictable versus unpredictable schedules 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Believability of the data collected by ethnographers 
-"
-nav_order: Believabilityofthedatacollectedbyethnographers
 has_children: false
+layout: default
+nav_order: 3
+title: 'Believability of the data collected by ethnographers '
 ---
 # Believability of the data collected by ethnographers 
 

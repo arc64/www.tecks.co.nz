@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of biological reinforcers 
-"
-nav_order: Effectsofbiologicalreinforcers
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of biological reinforcers '
 ---
 # Effects of biological reinforcers 
 

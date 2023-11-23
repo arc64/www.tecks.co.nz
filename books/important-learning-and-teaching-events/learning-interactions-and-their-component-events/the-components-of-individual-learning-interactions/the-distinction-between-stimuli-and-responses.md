@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The distinction between stimuli and responses 
-"
-nav_order: Thedistinctionbetweenstimuliandresponses
 has_children: false
+layout: default
+nav_order: 1
+title: 'The distinction between stimuli and responses '
 ---
 # The distinction between stimuli and responses 
 

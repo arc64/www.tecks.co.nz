@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Acquiring an adequate receptive vocabulary 
-"
-nav_order: Acquiringanadequatereceptivevocabulary
 has_children: false
+layout: default
+nav_order: 7
+title: 'Acquiring an adequate receptive vocabulary '
 ---
 # Acquiring an adequate receptive vocabulary 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Number of practice opportunities per response per session 
-"
-nav_order: Numberofpracticeopportunitiesperresponsepersession
 has_children: false
+layout: default
+nav_order: 4
+title: 'Number of practice opportunities per response per session '
 ---
 # Number of practice opportunities per response per session 
 

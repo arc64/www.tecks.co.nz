@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Achievement objectives for science 
-"
-nav_order: Achievementobjectivesforscience
 has_children: false
+layout: default
+nav_order: 1
+title: 'Achievement objectives for science '
 ---
 # Achievement objectives for science 
 

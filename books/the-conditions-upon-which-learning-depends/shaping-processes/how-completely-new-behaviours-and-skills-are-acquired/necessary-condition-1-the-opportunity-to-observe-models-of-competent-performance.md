@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 1: The opportunity to observe models of competent performance 
 "
-nav_order: Necessarycondition1Theopportunitytoobservemodelsofcompetentperformance
+nav_order: 1
 has_children: false
 ---
 # Necessary condition 1: The opportunity to observe models of competent performance 

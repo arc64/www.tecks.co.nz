@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 1. All essential information in a form which can be referred to repeatedly 
 "
-nav_order: Necessarycondition1Allessentialinformationinaformwhichcanbereferredtorepeatedly
+nav_order: 1
 has_children: false
 ---
 # Necessary condition 1. All essential information in a form which can be referred to repeatedly 

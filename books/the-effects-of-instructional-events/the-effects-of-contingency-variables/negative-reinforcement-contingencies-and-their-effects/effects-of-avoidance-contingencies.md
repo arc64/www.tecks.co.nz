@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of avoidance contingencies 
-"
-nav_order: Effectsofavoidancecontingencies
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of avoidance contingencies '
 ---
 # Effects of avoidance contingencies 
 

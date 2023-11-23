@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Should conclusions be based on the performance of individuals or of groups? 
-"
-nav_order: Shouldconclusionsbebasedontheperformanceofindividualsorofgroups
 has_children: false
+layout: default
+nav_order: 5
+title: 'Should conclusions be based on the performance of individuals or of groups? '
 ---
 # Should conclusions be based on the performance of individuals or of groups? 
 

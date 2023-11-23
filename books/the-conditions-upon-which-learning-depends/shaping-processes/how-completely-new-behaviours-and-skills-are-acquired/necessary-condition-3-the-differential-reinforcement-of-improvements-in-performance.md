@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 3: The differential reinforcement of improvements in performance 
 "
-nav_order: Necessarycondition3Thedifferentialreinforcementofimprovementsinperformance
+nav_order: 3
 has_children: false
 ---
 # Necessary condition 3: The differential reinforcement of improvements in performance 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The fluency building phase 
-"
-nav_order: Thefluencybuildingphase
 has_children: false
+layout: default
+nav_order: 2
+title: 'The fluency building phase '
 ---
 # The fluency building phase 
 

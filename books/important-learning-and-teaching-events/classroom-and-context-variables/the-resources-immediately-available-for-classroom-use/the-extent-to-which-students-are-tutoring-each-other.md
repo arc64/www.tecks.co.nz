@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The extent to which students are tutoring each other 
-"
-nav_order: Theextenttowhichstudentsaretutoringeachother
 has_children: false
+layout: default
+nav_order: 5
+title: 'The extent to which students are tutoring each other '
 ---
 # The extent to which students are tutoring each other 
 

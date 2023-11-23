@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 3
+nav_order: 4
 title: 'How is learning measured in the three main approaches to research? '
 ---
 # How is learning measured in the three main approaches to research? 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Shortcomings of the mathematics curriculum 
-"
-nav_order: Shortcomingsofthemathematicscurriculum
 has_children: false
+layout: default
+nav_order: 2
+title: 'Shortcomings of the mathematics curriculum '
 ---
 # Shortcomings of the mathematics curriculum 
 

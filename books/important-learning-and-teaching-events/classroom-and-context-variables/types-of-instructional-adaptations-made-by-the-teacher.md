@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Types of instructional adaptations made by the teacher 
-"
-nav_order: Typesofinstructionaladaptationsmadebytheteacher
 has_children: false
+layout: default
+nav_order: 6
+title: 'Types of instructional adaptations made by the teacher '
 ---
 # Types of instructional adaptations made by the teacher 
 

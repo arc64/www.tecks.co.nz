@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of predictable versus unpredictable schedules of consequences 
-"
-nav_order: Effectsofpredictableversusunpredictableschedulesofconsequences
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of predictable versus unpredictable schedules of consequences '
 ---
 # Effects of predictable versus unpredictable schedules of consequences 
 

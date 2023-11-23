@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 2
+nav_order: 3
 title: 'How fears and anxieties are learned and unlearned '
 ---
 # How fears and anxieties are learned and unlearned 

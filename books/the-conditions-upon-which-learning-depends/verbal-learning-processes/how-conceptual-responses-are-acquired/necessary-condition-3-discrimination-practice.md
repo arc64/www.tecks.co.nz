@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 3. Discrimination practice 
 "
-nav_order: Necessarycondition3Discriminationpractice
+nav_order: 3
 has_children: false
 ---
 # Necessary condition 3. Discrimination practice 

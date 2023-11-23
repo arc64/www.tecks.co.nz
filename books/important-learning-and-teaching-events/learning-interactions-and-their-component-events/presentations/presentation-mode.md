@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Presentation mode 
-"
-nav_order: Presentationmode
 has_children: false
+layout: default
+nav_order: 1
+title: 'Presentation mode '
 ---
 # Presentation mode 
 

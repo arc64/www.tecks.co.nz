@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of variations in the number of practice opportunities 
-"
-nav_order: Effectsofvariationsinthenumberofpracticeopportunities
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of variations in the number of practice opportunities '
 ---
 # Effects of variations in the number of practice opportunities 
 

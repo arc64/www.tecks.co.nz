@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Increasing the size of the research establishment 
-"
-nav_order: Increasingthesizeoftheresearchestablishment
 has_children: false
+layout: default
+nav_order: 6
+title: 'Increasing the size of the research establishment '
 ---
 # Increasing the size of the research establishment 
 

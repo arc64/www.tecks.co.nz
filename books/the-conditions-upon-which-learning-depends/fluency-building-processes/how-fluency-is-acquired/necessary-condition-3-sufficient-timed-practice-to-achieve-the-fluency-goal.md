@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 3. Sufficient timed practice to achieve the fluency goal 
 "
-nav_order: Necessarycondition3Sufficienttimedpracticetoachievethefluencygoal
+nav_order: 3
 has_children: false
 ---
 # Necessary condition 3. Sufficient timed practice to achieve the fluency goal 

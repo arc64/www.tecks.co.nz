@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Do behaviour analysts explore the generalisability of their experimental findings? 
-"
-nav_order: Dobehaviouranalystsexplorethegeneralisabilityoftheirexperimentalfindings
 has_children: false
+layout: default
+nav_order: 1
+title: 'Do behaviour analysts explore the generalisability of their experimental findings? '
 ---
 # Do behaviour analysts explore the generalisability of their experimental findings? 
 

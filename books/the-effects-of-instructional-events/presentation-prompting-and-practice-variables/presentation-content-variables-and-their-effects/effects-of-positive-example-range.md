@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of positive example range 
-"
-nav_order: Effectsofpositiveexamplerange
 has_children: false
+layout: default
+nav_order: 1
+title: 'Effects of positive example range '
 ---
 # Effects of positive example range 
 

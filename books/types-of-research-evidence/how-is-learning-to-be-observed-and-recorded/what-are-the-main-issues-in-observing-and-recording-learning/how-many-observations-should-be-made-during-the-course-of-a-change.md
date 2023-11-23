@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "How many observations should be made during the course of a change? 
-"
-nav_order: Howmanyobservationsshouldbemadeduringthecourseofachange
 has_children: false
+layout: default
+nav_order: 2
+title: 'How many observations should be made during the course of a change? '
 ---
 # How many observations should be made during the course of a change? 
 

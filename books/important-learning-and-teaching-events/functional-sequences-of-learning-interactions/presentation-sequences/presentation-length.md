@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Presentation length 
-"
-nav_order: Presentationlength
 has_children: false
+layout: default
+nav_order: 1
+title: 'Presentation length '
 ---
 # Presentation length 
 

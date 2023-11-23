@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of time based versus response based contingencies 
-"
-nav_order: Effectsoftimebasedversusresponsebasedcontingencies
 has_children: false
+layout: default
+nav_order: 4
+title: 'Effects of time based versus response based contingencies '
 ---
 # Effects of time based versus response based contingencies 
 

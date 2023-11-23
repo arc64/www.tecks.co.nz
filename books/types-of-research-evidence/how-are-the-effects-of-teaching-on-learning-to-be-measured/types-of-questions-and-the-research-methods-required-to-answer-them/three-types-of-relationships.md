@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Three types of relationships 
-"
-nav_order: Threetypesofrelationships
 has_children: false
+layout: default
+nav_order: 2
+title: 'Three types of relationships '
 ---
 # Three types of relationships 
 

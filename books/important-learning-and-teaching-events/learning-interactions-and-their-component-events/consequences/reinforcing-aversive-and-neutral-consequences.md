@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Reinforcing, aversive, and neutral consequences 
-"
-nav_order: Reinforcingaversiveandneutralconsequences
 has_children: false
+layout: default
+nav_order: 1
+title: 'Reinforcing, aversive, and neutral consequences '
 ---
 # Reinforcing, aversive, and neutral consequences 
 

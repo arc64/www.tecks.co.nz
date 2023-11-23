@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of stimulus prompts and behaviour prompts 
-"
-nav_order: Effectsofstimuluspromptsandbehaviourprompts
 has_children: false
+layout: default
+nav_order: 7
+title: 'Effects of stimulus prompts and behaviour prompts '
 ---
 # Effects of stimulus prompts and behaviour prompts 
 

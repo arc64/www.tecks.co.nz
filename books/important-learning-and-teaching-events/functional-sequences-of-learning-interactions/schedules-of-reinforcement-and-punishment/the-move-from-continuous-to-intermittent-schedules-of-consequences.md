@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The move from continuous to intermittent schedules of consequences 
-"
-nav_order: Themovefromcontinuoustointermittentschedulesofconsequences
 has_children: false
+layout: default
+nav_order: 5
+title: 'The move from continuous to intermittent schedules of consequences '
 ---
 # The move from continuous to intermittent schedules of consequences 
 

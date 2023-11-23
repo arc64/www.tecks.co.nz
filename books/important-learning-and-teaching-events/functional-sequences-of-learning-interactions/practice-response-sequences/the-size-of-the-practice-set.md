@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The size of the practice set 
-"
-nav_order: Thesizeofthepracticeset
 has_children: false
+layout: default
+nav_order: 3
+title: 'The size of the practice set '
 ---
 # The size of the practice set 
 

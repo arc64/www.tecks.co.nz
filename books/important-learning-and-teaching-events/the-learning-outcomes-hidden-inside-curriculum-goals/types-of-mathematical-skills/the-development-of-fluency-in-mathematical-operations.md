@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The development of fluency in mathematical operations 
-"
-nav_order: Thedevelopmentoffluencyinmathematicaloperations
 has_children: false
+layout: default
+nav_order: 5
+title: 'The development of fluency in mathematical operations '
 ---
 # The development of fluency in mathematical operations 
 

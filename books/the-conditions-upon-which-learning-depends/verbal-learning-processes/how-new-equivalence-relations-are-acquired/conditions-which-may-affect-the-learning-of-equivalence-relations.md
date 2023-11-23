@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which may affect the learning of equivalence relations 
-"
-nav_order: Conditionswhichmayaffectthelearningofequivalencerelations
 has_children: false
+layout: default
+nav_order: 5
+title: 'Conditions which may affect the learning of equivalence relations '
 ---
 # Conditions which may affect the learning of equivalence relations 
 

@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Overt vs. covert responses 
-"
-nav_order: Overtvscovertresponses
 has_children: false
+layout: default
+nav_order: 1
+title: 'Overt vs. covert responses '
 ---
 # Overt vs. covert responses 
 

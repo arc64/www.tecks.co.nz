@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Acquiring an adequate level of morphographic knowledge 
-"
-nav_order: Acquiringanadequatelevelofmorphographicknowledge
 has_children: false
+layout: default
+nav_order: 4
+title: 'Acquiring an adequate level of morphographic knowledge '
 ---
 # Acquiring an adequate level of morphographic knowledge 
 

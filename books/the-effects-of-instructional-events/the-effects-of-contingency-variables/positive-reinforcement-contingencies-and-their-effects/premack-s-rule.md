@@ -2,7 +2,7 @@
 layout: default
 title: "Premack's Rule 
 "
-nav_order: PremacksRule
+nav_order: 3
 has_children: false
 ---
 # Premack's Rule 

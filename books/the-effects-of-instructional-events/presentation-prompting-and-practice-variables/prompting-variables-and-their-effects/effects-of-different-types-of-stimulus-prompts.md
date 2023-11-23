@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of different types of stimulus prompts 
-"
-nav_order: Effectsofdifferenttypesofstimulusprompts
 has_children: false
+layout: default
+nav_order: 8
+title: 'Effects of different types of stimulus prompts '
 ---
 # Effects of different types of stimulus prompts 
 

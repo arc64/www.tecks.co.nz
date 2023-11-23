@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Overcoming practice limitation resulting from teacher beliefs 
-"
-nav_order: Overcomingpracticelimitationresultingfromteacherbeliefs
 has_children: false
+layout: default
+nav_order: 3
+title: 'Overcoming practice limitation resulting from teacher beliefs '
 ---
 # Overcoming practice limitation resulting from teacher beliefs 
 

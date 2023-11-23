@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Believability of the data collected by cognitive scientists 
-"
-nav_order: Believabilityofthedatacollectedbycognitivescientists
 has_children: false
+layout: default
+nav_order: 2
+title: 'Believability of the data collected by cognitive scientists '
 ---
 # Believability of the data collected by cognitive scientists 
 

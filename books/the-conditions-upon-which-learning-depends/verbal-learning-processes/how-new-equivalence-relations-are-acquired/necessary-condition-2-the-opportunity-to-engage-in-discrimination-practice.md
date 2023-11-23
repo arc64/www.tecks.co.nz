@@ -2,7 +2,7 @@
 layout: default
 title: "Necessary condition 2: The opportunity to engage in discrimination practice 
 "
-nav_order: Necessarycondition2Theopportunitytoengageindiscriminationpractice
+nav_order: 2
 has_children: false
 ---
 # Necessary condition 2: The opportunity to engage in discrimination practice 

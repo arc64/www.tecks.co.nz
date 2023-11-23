@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The interspersal ratio 
-"
-nav_order: Theinterspersalratio
 has_children: false
+layout: default
+nav_order: 5
+title: 'The interspersal ratio '
 ---
 # The interspersal ratio 
 

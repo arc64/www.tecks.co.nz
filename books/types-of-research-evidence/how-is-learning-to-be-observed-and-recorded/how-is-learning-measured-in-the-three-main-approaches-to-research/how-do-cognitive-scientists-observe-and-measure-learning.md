@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "How do cognitive scientists observe and measure learning? 
-"
-nav_order: Howdocognitivescientistsobserveandmeasurelearning
 has_children: false
+layout: default
+nav_order: 2
+title: 'How do cognitive scientists observe and measure learning? '
 ---
 # How do cognitive scientists observe and measure learning? 
 

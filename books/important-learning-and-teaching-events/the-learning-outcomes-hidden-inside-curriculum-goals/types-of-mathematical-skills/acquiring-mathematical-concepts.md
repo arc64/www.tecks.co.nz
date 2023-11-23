@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Acquiring mathematical concepts 
-"
-nav_order: Acquiringmathematicalconcepts
 has_children: false
+layout: default
+nav_order: 2
+title: 'Acquiring mathematical concepts '
 ---
 # Acquiring mathematical concepts 
 

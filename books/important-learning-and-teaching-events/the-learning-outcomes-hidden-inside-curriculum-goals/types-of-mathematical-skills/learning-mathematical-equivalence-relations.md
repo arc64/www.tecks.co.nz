@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learning mathematical equivalence relations 
-"
-nav_order: Learningmathematicalequivalencerelations
 has_children: false
+layout: default
+nav_order: 1
+title: 'Learning mathematical equivalence relations '
 ---
 # Learning mathematical equivalence relations 
 

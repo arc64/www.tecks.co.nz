@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Some common types of immediate cause explanations 
-"
-nav_order: Somecommontypesofimmediatecauseexplanations
 has_children: false
+layout: default
+nav_order: 3
+title: 'Some common types of immediate cause explanations '
 ---
 # Some common types of immediate cause explanations 
 

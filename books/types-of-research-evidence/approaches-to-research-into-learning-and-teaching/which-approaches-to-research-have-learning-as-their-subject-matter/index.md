@@ -1,7 +1,7 @@
 ---
 has_children: true
 layout: default
-nav_order: 1
+nav_order: 2
 title: 'Which approaches to research have learning as their subject matter? '
 ---
 # Which approaches to research have learning as their subject matter? 

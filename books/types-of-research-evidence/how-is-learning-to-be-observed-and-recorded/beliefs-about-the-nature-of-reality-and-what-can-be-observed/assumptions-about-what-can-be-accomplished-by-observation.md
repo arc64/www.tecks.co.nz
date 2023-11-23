@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Assumptions about what can be accomplished by observation 
-"
-nav_order: Assumptionsaboutwhatcanbeaccomplishedbyobservation
 has_children: false
+layout: default
+nav_order: 2
+title: 'Assumptions about what can be accomplished by observation '
 ---
 # Assumptions about what can be accomplished by observation 
 

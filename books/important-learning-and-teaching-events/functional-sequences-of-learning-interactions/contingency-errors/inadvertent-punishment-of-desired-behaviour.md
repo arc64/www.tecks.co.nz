@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Inadvertent punishment of desired behaviour 
-"
-nav_order: Inadvertentpunishmentofdesiredbehaviour
 has_children: false
+layout: default
+nav_order: 3
+title: 'Inadvertent punishment of desired behaviour '
 ---
 # Inadvertent punishment of desired behaviour 
 

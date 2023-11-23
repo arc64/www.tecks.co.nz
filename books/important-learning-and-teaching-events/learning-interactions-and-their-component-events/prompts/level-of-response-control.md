@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Level of response control 
-"
-nav_order: Levelofresponsecontrol
 has_children: false
+layout: default
+nav_order: 5
+title: 'Level of response control '
 ---
 # Level of response control 
 

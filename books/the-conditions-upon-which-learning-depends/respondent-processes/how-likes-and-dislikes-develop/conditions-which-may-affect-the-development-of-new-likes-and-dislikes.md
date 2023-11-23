@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which may affect the development of new likes and dislikes 
-"
-nav_order: Conditionswhichmayaffectthedevelopmentofnewlikesanddislikes
 has_children: false
+layout: default
+nav_order: 2
+title: 'Conditions which may affect the development of new likes and dislikes '
 ---
 # Conditions which may affect the development of new likes and dislikes 
 

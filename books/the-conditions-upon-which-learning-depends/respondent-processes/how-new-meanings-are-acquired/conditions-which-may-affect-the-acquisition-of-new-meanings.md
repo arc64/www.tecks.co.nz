@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Conditions which may affect the acquisition of new meanings 
-"
-nav_order: Conditionswhichmayaffecttheacquisitionofnewmeanings
 has_children: false
+layout: default
+nav_order: 2
+title: 'Conditions which may affect the acquisition of new meanings '
 ---
 # Conditions which may affect the acquisition of new meanings 
 

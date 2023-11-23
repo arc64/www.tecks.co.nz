@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of naturally occurring aversive consequences 
-"
-nav_order: Effectsofnaturallyoccurringaversiveconsequences
 has_children: false
+layout: default
+nav_order: 2
+title: 'Effects of naturally occurring aversive consequences '
 ---
 # Effects of naturally occurring aversive consequences 
 

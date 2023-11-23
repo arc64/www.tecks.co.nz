@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The number of antisocial children in the class 
-"
-nav_order: Thenumberofantisocialchildrenintheclass
 has_children: false
+layout: default
+nav_order: 6
+title: 'The number of antisocial children in the class '
 ---
 # The number of antisocial children in the class 
 

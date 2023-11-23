@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The selection and specification of exit criteria 
-"
-nav_order: Theselectionandspecificationofexitcriteria
 has_children: false
+layout: default
+nav_order: 7
+title: 'The selection and specification of exit criteria '
 ---
 # The selection and specification of exit criteria 
 

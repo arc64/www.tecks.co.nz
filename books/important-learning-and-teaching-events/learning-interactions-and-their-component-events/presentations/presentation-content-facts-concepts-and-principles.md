@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Presentation content: facts, concepts and principles 
-"
-nav_order: Presentationcontentfactsconceptsandprinciples
 has_children: false
+layout: default
+nav_order: 2
+title: 'Presentation content: facts, concepts and principles '
 ---
 # Presentation content: facts, concepts and principles 
 

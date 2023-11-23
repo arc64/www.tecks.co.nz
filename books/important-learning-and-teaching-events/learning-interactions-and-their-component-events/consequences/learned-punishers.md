@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Learned punishers 
-"
-nav_order: Learnedpunishers
 has_children: false
+layout: default
+nav_order: 6
+title: 'Learned punishers '
 ---
 # Learned punishers 
 

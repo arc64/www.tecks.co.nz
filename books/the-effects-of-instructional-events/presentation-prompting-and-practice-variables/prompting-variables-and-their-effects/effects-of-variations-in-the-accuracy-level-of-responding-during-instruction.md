@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Effects of variations in the accuracy level of responding during instruction 
-"
-nav_order: Effectsofvariationsintheaccuracylevelofrespondingduringinstruction
 has_children: false
+layout: default
+nav_order: 6
+title: 'Effects of variations in the accuracy level of responding during instruction '
 ---
 # Effects of variations in the accuracy level of responding during instruction 
 

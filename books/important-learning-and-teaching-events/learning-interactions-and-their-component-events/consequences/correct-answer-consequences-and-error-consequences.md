@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "Correct answer consequences and error consequences 
-"
-nav_order: Correctanswerconsequencesanderrorconsequences
 has_children: false
+layout: default
+nav_order: 7
+title: 'Correct answer consequences and error consequences '
 ---
 # Correct answer consequences and error consequences 
 

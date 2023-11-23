@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "The previously acquired knowledge of the children in the class 
-"
-nav_order: Thepreviouslyacquiredknowledgeofthechildrenintheclass
 has_children: false
+layout: default
+nav_order: 4
+title: 'The previously acquired knowledge of the children in the class '
 ---
 # The previously acquired knowledge of the children in the class 
 
