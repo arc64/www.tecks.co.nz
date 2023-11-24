@@ -1,7 +1,9 @@
 ---
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: true
 layout: default
 nav_order: 1
+parent: 'Important learning and teaching events '
 title: 'Learning processes, learning outcomes and phases of learning '
 ---
 # Learning processes, learning outcomes and phases of learning 

@@ -1,7 +1,11 @@
 ---
+grand_parent: 'The transition from craft to science '
+great_grand_parent: 'The problem to be solved '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'Improving the quality of research into learning and teaching '
 title: 'Correcting the imbalance and upgrading educational research methods training '
 ---
 # Correcting the imbalance and upgrading educational research methods training 

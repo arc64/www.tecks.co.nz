@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 5
+parent: 'Is a move to evidence-based teaching practice feasible at this time? '
 title: 'Progress in developing an empirical theory of learning '
 ---
 # Progress in developing an empirical theory of learning 

@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Functional sequences of learning interactions '
+great_grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 5
+parent: 'Schedules of reinforcement and punishment '
 title: 'The move from continuous to intermittent schedules of consequences '
 ---
 # The move from continuous to intermittent schedules of consequences 

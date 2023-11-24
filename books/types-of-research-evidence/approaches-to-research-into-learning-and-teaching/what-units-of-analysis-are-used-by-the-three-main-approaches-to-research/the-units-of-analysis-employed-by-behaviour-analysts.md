@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Approaches to research into learning and teaching '
+great_grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 1
+parent: 'What units of analysis are used by the three main approaches to research? '
 title: 'The units of analysis employed by behaviour analysts '
 ---
 # The units of analysis employed by behaviour analysts 

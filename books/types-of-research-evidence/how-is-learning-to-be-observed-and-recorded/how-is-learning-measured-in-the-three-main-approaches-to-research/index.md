@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 4
+parent: 'How is learning to be observed and recorded? '
 title: 'How is learning measured in the three main approaches to research? '
 ---
 # How is learning measured in the three main approaches to research? 

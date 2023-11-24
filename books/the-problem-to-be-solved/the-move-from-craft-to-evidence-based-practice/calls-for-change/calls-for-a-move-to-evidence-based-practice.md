@@ -1,7 +1,11 @@
 ---
+grand_parent: 'The move from craft to evidence-based practice '
+great_grand_parent: 'The problem to be solved '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'Calls for change '
 title: 'Calls for a move to evidence-based practice '
 ---
 # Calls for a move to evidence-based practice 

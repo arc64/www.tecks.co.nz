@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Functional sequences of learning interactions '
+great_grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'Contingency errors '
 title: 'Inadvertent punishment of desired behaviour '
 ---
 # Inadvertent punishment of desired behaviour 

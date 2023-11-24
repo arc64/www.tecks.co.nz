@@ -1,7 +1,9 @@
 ---
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: true
 layout: default
 nav_order: 3
+parent: 'Types of research evidence '
 title: 'How are the effects of teaching on learning to be measured? '
 ---
 # How are the effects of teaching on learning to be measured? 

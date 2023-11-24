@@ -1,7 +1,11 @@
 ---
+grand_parent: 'The learning outcomes hidden inside curriculum goals '
+great_grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 1
+parent: 'Types of mathematical skills '
 title: 'Learning mathematical equivalence relations '
 ---
 # Learning mathematical equivalence relations 

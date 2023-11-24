@@ -1,9 +1,13 @@
 ---
-layout: default
-title: "Necessary condition 2. Sufficient interactions with each proposition to ensure retention 
-"
-nav_order: 2
+grand_parent: 'Verbal learning processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
+layout: default
+nav_order: 2
+parent: 'How new knowledge responses are acquired '
+title: 'Necessary condition 2. Sufficient interactions with each proposition to ensure
+  retention '
 ---
 # Necessary condition 2. Sufficient interactions with each proposition to ensure retention 
 

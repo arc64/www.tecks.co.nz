@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Fluency building processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 4
+parent: 'How fluency is acquired '
 title: 'Conditions which may affect the development of fluency '
 ---
 # Conditions which may affect the development of fluency 

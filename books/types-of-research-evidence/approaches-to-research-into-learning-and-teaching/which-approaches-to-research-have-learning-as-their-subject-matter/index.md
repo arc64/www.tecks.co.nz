@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 2
+parent: 'Approaches to research into learning and teaching '
 title: 'Which approaches to research have learning as their subject matter? '
 ---
 # Which approaches to research have learning as their subject matter? 

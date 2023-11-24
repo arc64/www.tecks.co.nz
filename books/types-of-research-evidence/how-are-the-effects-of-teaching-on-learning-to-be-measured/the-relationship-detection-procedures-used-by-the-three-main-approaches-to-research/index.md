@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 2
+parent: 'How are the effects of teaching on learning to be measured? '
 title: 'The relationship detection procedures used by the three main approaches to
   research '
 ---

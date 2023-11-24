@@ -1,9 +1,12 @@
 ---
-layout: default
-title: "Necessary condition 3. Differential reinforcement for correct responses 
-"
-nav_order: 3
+grand_parent: 'Verbal learning processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
+layout: default
+nav_order: 3
+parent: 'How new knowledge responses are acquired '
+title: 'Necessary condition 3. Differential reinforcement for correct responses '
 ---
 # Necessary condition 3. Differential reinforcement for correct responses 
 

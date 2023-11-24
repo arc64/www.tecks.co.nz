@@ -1,7 +1,11 @@
 ---
+grand_parent: 'The move from craft to evidence-based practice '
+great_grand_parent: 'The problem to be solved '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 1
+parent: 'Calls for change '
 title: 'Calls for an end to faddism '
 ---
 # Calls for an end to faddism 

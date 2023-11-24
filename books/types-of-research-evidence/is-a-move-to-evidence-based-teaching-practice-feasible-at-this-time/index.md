@@ -1,7 +1,9 @@
 ---
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: true
 layout: default
 nav_order: 4
+parent: 'Types of research evidence '
 title: 'Is a move to evidence-based teaching practice feasible at this time? '
 ---
 # Is a move to evidence-based teaching practice feasible at this time? 

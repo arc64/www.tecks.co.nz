@@ -1,9 +1,11 @@
 ---
-layout: default
-title: "The content of the English curriculum 
-"
-nav_order: 2
+grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
+layout: default
+nav_order: 2
+parent: 'Types of curriculum goals '
+title: 'The content of the English curriculum '
 ---
 # The content of the English curriculum 
 

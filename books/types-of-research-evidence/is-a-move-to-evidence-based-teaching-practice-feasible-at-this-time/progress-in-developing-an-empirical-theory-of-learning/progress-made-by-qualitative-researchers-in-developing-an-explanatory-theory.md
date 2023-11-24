@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Is a move to evidence-based teaching practice feasible at this time? '
+great_grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'Progress in developing an empirical theory of learning '
 title: 'Progress made by qualitative researchers in developing an explanatory theory '
 ---
 # Progress made by qualitative researchers in developing an explanatory theory 

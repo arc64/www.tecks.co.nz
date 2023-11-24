@@ -1,9 +1,13 @@
 ---
-layout: default
-title: "Necessary condition 2.  Examples which illustrate the full extent of the generalisation 
-"
-nav_order: 2
+grand_parent: 'Verbal learning processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
+layout: default
+nav_order: 2
+parent: 'How conceptual responses are acquired '
+title: "Necessary condition 2.\_ Examples which illustrate the full extent of the\
+  \ generalisation "
 ---
 # Necessary condition 2.  Examples which illustrate the full extent of the generalisation 
 

@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 5
+parent: 'How are the effects of teaching on learning to be measured? '
 title: 'How accurate are within-subject and between-group measures of experimental
   effects? '
 ---

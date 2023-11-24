@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Classroom and context variables '
+great_grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'The resources immediately available for classroom use '
 title: 'Teaching resources '
 ---
 # Teaching resources 

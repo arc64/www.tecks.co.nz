@@ -1,7 +1,11 @@
 ---
+grand_parent: 'How are the effects of teaching on learning to be measured? '
+great_grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'What standards are used to evaluate the results of an experimental analysis? '
 title: 'The validity of the conclusions drawn from the experimental results '
 ---
 # The validity of the conclusions drawn from the experimental results 

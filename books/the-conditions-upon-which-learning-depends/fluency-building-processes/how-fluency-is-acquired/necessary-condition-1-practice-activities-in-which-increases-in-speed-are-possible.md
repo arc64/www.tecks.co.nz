@@ -1,9 +1,13 @@
 ---
-layout: default
-title: "Necessary condition 1. Practice activities in which increases in speed are possible 
-"
-nav_order: 1
+grand_parent: 'Fluency building processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
+layout: default
+nav_order: 1
+parent: 'How fluency is acquired '
+title: 'Necessary condition 1. Practice activities in which increases in speed are
+  possible '
 ---
 # Necessary condition 1. Practice activities in which increases in speed are possible 
 

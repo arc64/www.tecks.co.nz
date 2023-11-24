@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 5
+parent: 'Approaches to research into learning and teaching '
 title: 'What types of explanation are sought by the three main approaches to research? '
 ---
 # What types of explanation are sought by the three main approaches to research? 

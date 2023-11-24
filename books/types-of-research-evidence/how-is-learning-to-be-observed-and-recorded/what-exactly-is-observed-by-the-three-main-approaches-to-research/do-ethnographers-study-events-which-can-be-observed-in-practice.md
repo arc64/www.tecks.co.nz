@@ -1,7 +1,11 @@
 ---
+grand_parent: 'How is learning to be observed and recorded? '
+great_grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'What, exactly, is observed by the three main approaches to research? '
 title: 'Do ethnographers study events which can be observed in practice? '
 ---
 # Do ethnographers study events which can be observed in practice? 

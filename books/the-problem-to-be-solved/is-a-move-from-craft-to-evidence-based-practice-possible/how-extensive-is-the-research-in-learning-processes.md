@@ -1,7 +1,10 @@
 ---
+grand_parent: 'The problem to be solved '
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: false
 layout: default
 nav_order: 1
+parent: 'Is a move from craft- to evidence-based practice possible? '
 title: 'How extensive is the research in learning processes? '
 ---
 # How extensive is the research in learning processes? 

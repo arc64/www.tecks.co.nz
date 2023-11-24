@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Respondent processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 2
+parent: 'How new meanings are acquired '
 title: 'Conditions which may affect the acquisition of new meanings '
 ---
 # Conditions which may affect the acquisition of new meanings 

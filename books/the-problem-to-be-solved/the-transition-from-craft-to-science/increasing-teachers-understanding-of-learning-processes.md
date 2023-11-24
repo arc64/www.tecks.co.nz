@@ -1,7 +1,10 @@
 ---
+grand_parent: 'The problem to be solved '
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: false
 layout: default
 nav_order: 1
+parent: 'The transition from craft to science '
 title: 'Increasing teachers'' understanding of learning processes '
 ---
 # Increasing teachers' understanding of learning processes 

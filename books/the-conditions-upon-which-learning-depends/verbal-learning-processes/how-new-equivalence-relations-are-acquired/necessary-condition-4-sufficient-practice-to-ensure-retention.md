@@ -1,9 +1,12 @@
 ---
-layout: default
-title: "Necessary condition 4: Sufficient practice to ensure retention 
-"
-nav_order: 4
+grand_parent: 'Verbal learning processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
+layout: default
+nav_order: 4
+parent: 'How new equivalence relations are acquired '
+title: "Necessary condition 4:\_Sufficient practice to ensure retention "
 ---
 # Necessary condition 4: Sufficient practice to ensure retention 
 

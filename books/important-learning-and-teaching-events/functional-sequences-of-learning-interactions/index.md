@@ -1,7 +1,9 @@
 ---
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: true
 layout: default
 nav_order: 5
+parent: 'Important learning and teaching events '
 title: 'Functional sequences of learning interactions '
 ---
 # Functional sequences of learning interactions 

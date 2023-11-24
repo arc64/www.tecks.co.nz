@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Important learning and teaching events '
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: false
 layout: default
 nav_order: 2
+parent: 'Learning processes, learning outcomes and phases of learning '
 title: 'Three important learning processes '
 ---
 # Three important learning processes 

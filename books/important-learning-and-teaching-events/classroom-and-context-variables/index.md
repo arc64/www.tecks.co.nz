@@ -1,7 +1,9 @@
 ---
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: true
 layout: default
 nav_order: 6
+parent: 'Important learning and teaching events '
 title: 'Classroom and context variables '
 ---
 # Classroom and context variables 

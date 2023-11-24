@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 6
+parent: 'How are the effects of teaching on learning to be measured? '
 title: 'The generalisability of experimental results '
 ---
 # The generalisability of experimental results 

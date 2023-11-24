@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Important learning and teaching events '
+great_grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
 has_children: false
 layout: default
 nav_order: 6
+parent: 'Classroom and context variables '
 title: 'Types of instructional adaptations made by the teacher '
 ---
 # Types of instructional adaptations made by the teacher 

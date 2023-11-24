@@ -1,7 +1,11 @@
 ---
+grand_parent: 'How is learning to be observed and recorded? '
+great_grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 2
+parent: 'Beliefs about the nature of reality and what can be observed '
 title: 'Assumptions about what can be accomplished by observation '
 ---
 # Assumptions about what can be accomplished by observation 

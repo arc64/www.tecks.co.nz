@@ -1,9 +1,12 @@
 ---
-layout: default
-title: "he variables which determine what counts as sufficient practice 
-"
-nav_order: 1
+grand_parent: 'Classroom and context variables '
+great_grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
+layout: default
+nav_order: 1
+parent: 'The amount of practice is provided '
+title: 'he variables which determine what counts as sufficient practice '
 ---
 # he variables which determine what counts as sufficient practice 
 

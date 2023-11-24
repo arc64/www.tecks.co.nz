@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Learning interactions and their component events '
+great_grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 2
+parent: 'The components of individual learning interactions '
 title: 'The distinction between antecedent stimuli and consequences '
 ---
 # The distinction between antecedent stimuli and consequences 

@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Motivational processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'How motivation and persistence develop '
 title: 'Conditions which may affect motivation '
 ---
 # Conditions which may affect motivation 

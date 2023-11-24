@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 1
+parent: 'Learning processes, learning outcomes and phases of learning '
 title: 'What is learning? '
 ---
 # What is learning? 

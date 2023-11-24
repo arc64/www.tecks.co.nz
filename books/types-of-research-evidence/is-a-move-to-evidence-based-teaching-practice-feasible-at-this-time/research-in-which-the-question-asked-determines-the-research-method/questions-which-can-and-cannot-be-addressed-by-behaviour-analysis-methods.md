@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Is a move to evidence-based teaching practice feasible at this time? '
+great_grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 1
+parent: 'Research in which the question asked determines the research method? '
 title: 'Questions which can and cannot be addressed by behaviour analysis methods '
 ---
 # Questions which can and cannot be addressed by behaviour analysis methods 

@@ -1,9 +1,12 @@
 ---
-layout: default
-title: "Conditions necessary for the extinction of conditioned anxiety/fear responses 
-"
-nav_order: 1
+grand_parent: 'Respondent processes '
+great_grand_parent: 'The conditions upon which learning depends '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
+layout: default
+nav_order: 1
+parent: 'How fears and anxieties are learned and unlearned '
+title: 'Conditions necessary for the extinction of conditioned anxiety/fear responses '
 ---
 # Conditions necessary for the extinction of conditioned anxiety/fear responses 
 

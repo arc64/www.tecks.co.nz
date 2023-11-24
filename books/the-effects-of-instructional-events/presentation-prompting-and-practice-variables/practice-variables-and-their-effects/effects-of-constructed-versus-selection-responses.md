@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Presentation, prompting and practice variables '
+great_grand_parent: 'The effects of instructional events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
+parent: 'Practice variables and their effects '
 title: 'Effects of constructed versus selection responses '
 ---
 # Effects of constructed versus selection responses 

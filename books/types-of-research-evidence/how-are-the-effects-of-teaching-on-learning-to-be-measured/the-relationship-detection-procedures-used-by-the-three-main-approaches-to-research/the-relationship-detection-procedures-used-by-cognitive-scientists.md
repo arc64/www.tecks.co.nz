@@ -1,7 +1,12 @@
 ---
+grand_parent: 'How are the effects of teaching on learning to be measured? '
+great_grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 2
+parent: 'The relationship detection procedures used by the three main approaches to
+  research '
 title: 'The relationship detection procedures used by cognitive scientists '
 ---
 # The relationship detection procedures used by cognitive scientists 

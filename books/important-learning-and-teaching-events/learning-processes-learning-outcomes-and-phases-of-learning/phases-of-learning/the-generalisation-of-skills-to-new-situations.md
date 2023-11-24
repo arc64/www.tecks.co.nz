@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Learning processes, learning outcomes and phases of learning '
+great_grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 4
+parent: 'Phases of learning '
 title: 'The generalisation of skills to new situations '
 ---
 # The generalisation of skills to new situations 

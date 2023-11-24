@@ -1,7 +1,10 @@
 ---
+grand_parent: 'Important learning and teaching events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 2
+parent: 'Functional sequences of learning interactions '
 title: 'Prompting and prompt fading sequences '
 ---
 # Prompting and prompt fading sequences 

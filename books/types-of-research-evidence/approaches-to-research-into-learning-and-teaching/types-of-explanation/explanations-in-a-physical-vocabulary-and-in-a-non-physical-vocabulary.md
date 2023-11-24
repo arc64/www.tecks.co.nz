@@ -1,7 +1,11 @@
 ---
+grand_parent: 'Approaches to research into learning and teaching '
+great_grand_parent: 'Types of research evidence '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 1
+parent: 'Types of explanation '
 title: 'Explanations in a physical vocabulary and in a non-physical vocabulary '
 ---
 # Explanations in a physical vocabulary and in a non-physical vocabulary 

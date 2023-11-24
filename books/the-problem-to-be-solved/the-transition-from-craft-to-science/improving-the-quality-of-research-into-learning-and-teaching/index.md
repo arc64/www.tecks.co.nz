@@ -1,7 +1,10 @@
 ---
+grand_parent: 'The problem to be solved '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 7
+parent: 'The transition from craft to science '
 title: 'Improving the quality of research into learning and teaching '
 ---
 # Improving the quality of research into learning and teaching 

@@ -1,7 +1,10 @@
 ---
+grand_parent: 'The effects of instructional events '
+great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 1
+parent: 'Presentation, prompting and practice variables '
 title: 'Presentation variables and their effects '
 ---
 # Presentation variables and their effects 
