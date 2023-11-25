@@ -9,17 +9,17 @@ parent: 'Schedules of reinforcement and punishment '
 title: 'Effect of concurrent schedules of reinforcement for appropriate and inappropriate
   behaviour '
 ---
-# Effect of concurrent schedules of reinforcement for appropriate and inappropriate behaviour 
+# Effect of concurrent schedules of reinforcement for appropriate and inappropriate behaviour
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-20771138cef04fc793a528b94910d411}
+
 There are many occasions when people find themselves in a situation
 where there are several different actions which can be taken to achieve
 a particular goal. In this kind of situation the various actions which
@@ -89,9 +89,8 @@ from about 20 per cent correct to 100 per cent correct within a few
 days. The experiment demonstrated that, by providing individualised
 assistance, the teacher had mistakenly been providing more reinforcement
 for error responses than for correct responses.
-:::
 
-::: referencesList
+
 #### References
 
 -   Ayllon, T., Garber, S., & Pisor, K. (1975). The elimination of
@@ -157,4 +156,3 @@ for error responses than for correct responses.
 -   Workman, E. A., Kindall, L. M., & Williams, R. L. (1980). The
     consultative merits of praise-ignore versus praise-reprimand
     instruction. Journal of School Psychology, 18, 373-380.
-:::

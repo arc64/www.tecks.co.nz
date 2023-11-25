@@ -6,17 +6,17 @@ nav_order: 6
 parent: 'Important learning and teaching events '
 title: 'Classroom and context variables '
 ---
-# Classroom and context variables 
+# Classroom and context variables
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0da3890d1ce64adebdc3a6ad4bf763e2}
+
 When learning and teaching are occurring in schools, learning depends
 not only on the variables referred to in earlier sections of this
 chapter but also on a number of additional variables related to the fact
@@ -49,4 +49,3 @@ headings:
     progress of individual students from day to day and
 -   Section 6: the extent to which the teacher is able to adapt on-going
     teaching to meet the unique learning needs of individual children.
-:::

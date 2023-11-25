@@ -6,10 +6,8 @@ nav_order: 1
 parent: 'The problem to be solved '
 title: 'The move from craft to evidence-based practice '
 ---
-# The move from craft to evidence-based practice 
+# The move from craft to evidence-based practice
 
-
-::: {#parent-fieldname-text .plain}
 The basic structure of teacher-student interaction and the teaching
 activities which occur in classrooms have changed little during the past
 80 years -- a fact which has been documented many times (e.g. Hoetker &
@@ -108,7 +106,6 @@ groups" (Carnine, 2000, p. 9).
 
 ### A very short history of scientific progress in teaching
 
-::: {#parent-fieldname-text .kssattr-macro-rich-field-view .kssattr-templateId-widgets/rich .kssattr-atfieldname-text}
 Educational researchers have been studying learning and teaching for
 more than 100 years -- since Edgar Rice's 1895 study of the effects of
 time spent on spelling practice (Nuthall, 2005). In a century of
@@ -188,19 +185,3 @@ Practice is when it works but you don\'t know why.
 We combine theory and practice.
 
 It doesn\'t work and we don\'t know why.\"
-:::
-:::
-
-[ ![Section](../../../++resource++section_icon.gif){width="16"
-height="16"} [Calls for change](Callsforchange){.contenttype-section
-.state-published .url} ]{.summary} [ ]{.documentByLine}
-
-[ ![Section](../../../++resource++section_icon.gif){width="16"
-height="16"} [What is to count as evidence-based
-practice?](Whatistocountasevidence-basedpractice){.contenttype-section
-.state-published .url} ]{.summary} [ ]{.documentByLine}
-
-[ ![Section](../../../++resource++section_icon.gif){width="16"
-height="16"} [What is to count as
-evidence?](Whatistocountasevidence){.contenttype-section
-.state-published .url} ]{.summary} [ ]{.documentByLine}

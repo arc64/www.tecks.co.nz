@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Practice variables and their effects '
 title: 'Effects of variations in response size and response effort '
 ---
-# Effects of variations in response size and response effort 
+# Effects of variations in response size and response effort
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2d77b64d4bac4eaf9ecae48a1778f0d5}
+
 The research on response effort has been reviewed by Friman & Poling
 (1995). Most of the research on response effort has involved children
 and adults with severe intellectual disabilities and non-academic
@@ -48,9 +48,8 @@ effort required for reinforcement is also small. We have located one
 test of this assumption so far. The results of an experiment by Gwinn,
 Derby, Fisher, Kurtz, Fahs, Augustine and McLaughlin (2005) are
 consistent with this view.
-:::
 
-::: referencesList
+
 #### References
 
 -   Gwinn, M. M., Derby, K. M., Fisher, W., Kurtz, P., Fahs, A.,
@@ -65,4 +64,3 @@ consistent with this view.
     instructional response requirements on the multiplication
     performance of behaviorally disordered students. Behavioral
     Disorders, 17, 56-65.
-:::

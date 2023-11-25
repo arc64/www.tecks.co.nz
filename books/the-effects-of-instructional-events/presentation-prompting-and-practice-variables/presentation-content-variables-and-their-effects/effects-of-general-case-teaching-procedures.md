@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Presentation content variables and their effects '
 title: 'Effects of general case teaching procedures '
 ---
-# Effects of general case teaching procedures 
+# Effects of general case teaching procedures
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9abcaf1656d14da1831d6abf0bad4132}
+
 Analyses of the concept learning task by a number of authors (e.g.
 Becker & Carnine, 1980; Church, 1999; Engelmann & Carnine, 1991) suggest
 that, in order to teach generalised correct responding to the members of
@@ -53,9 +53,8 @@ learning disabled students acquire new concepts more rapidly when these
 rules are followed (e.g. Becker & Carnine, 1980; Carnine, 1980a;
 Carnine, 1980b; Engelmann & Carnine, 1991; Granzin & Carnine, 1977;
 Kelly, Gersten & Carnine, 1990; Williams & Carnine, 1981).
-:::
 
-::: referencesList
+
 #### References
 
 -   Becker, W. C., & Carnine, D. (1980). Direct Instruction: An
@@ -83,4 +82,3 @@ Kelly, Gersten & Carnine, 1990; Williams & Carnine, 1981).
 -   Williams, P. B., & Carnine, D. W. (1981), Relationship between range
     of examples and of instructions and attention in concept attainment.
     Journal of Educational Research, 74, 144-148.
-:::

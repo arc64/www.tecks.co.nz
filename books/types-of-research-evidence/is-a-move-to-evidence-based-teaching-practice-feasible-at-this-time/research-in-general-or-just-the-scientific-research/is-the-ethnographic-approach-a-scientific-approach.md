@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Research in general or just the scientific research? '
 title: 'Is the ethnographic approach a scientific approach? '
 ---
-# Is the ethnographic approach a scientific approach? 
+# Is the ethnographic approach a scientific approach?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f2b1ee69eb7048d4867e78ed095d8c67}
+
 It is hard to tell whether ethnographers intend that their research
 efforts should be regarded as scientific efforts. Qualitative
 researchers of the interpretivist persuasion usually argue that research
@@ -92,9 +92,8 @@ have been put to the test as thoroughly as quantitative procedures have
 been in the past, the qualitative methods will be found to be just as
 fallible and feeble" (Reichardt & Cook, 1979, p. 26). Twenty-five years
 later it appears that this prediction has turned out to be true.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bogdan, R. C., & Biklen, S. K. (1998). Qualitative research for
@@ -106,4 +105,3 @@ later it appears that this prediction has turned out to be true.
     quantitative methods. In T. D. Cook & C. S. Reichardt (Eds.),
     Qualitative and quantitative methods in evaluation research (pp.
     7-32). Beverly Hills, CA: Sage.
-:::

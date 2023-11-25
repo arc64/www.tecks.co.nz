@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Types of mathematical skills '
 title: 'Learning when a particular procedure should be used '
 ---
-# Learning when a particular procedure should be used 
+# Learning when a particular procedure should be used
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-829c99d8a87348a9a32b3685cff5735e}
+
 Knowing how to perform a particular mathematical procedure is of little
 practical value unless the learner also acquires the ability to
 recognise those situations in which this procedure can, and cannot, be
@@ -39,9 +39,8 @@ probably this fact which has led a number of writers to conclude that
 procedural knowledge and conceptual knowledge develop in an interactive
 or reciprocal fashion -- with each influencing the other (Gersten &
 Chard, 1999; Siegler, 1991).
-:::
 
-::: referencesList
+
 #### References
 
 -   Gersten, R., & Chard, D. (1999). Number sense: Rethinking arithmetic
@@ -49,4 +48,3 @@ Chard, 1999; Siegler, 1991).
     of Special Education, 44, 18-28.
 -   Siegler, R. S. (1991). In young children's counting, procedures
     precede principles. Educational Psychology Review, 3, 127-135.
-:::

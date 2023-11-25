@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Practice schedules and their effects '
 title: 'Effects of varying the size of the practice set '
 ---
-# Effects of varying the size of the practice set 
+# Effects of varying the size of the practice set
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3243f1fbf90f474e894c8f3966efe6a2}
+
 Several variables operate to determine the distribution of practice
 responses in time. One of these is the size of the practice set.
 Students may engage in learning activities in which they are set to
@@ -89,4 +89,3 @@ Johnson, G., Gersten, R., & Carnine, D. (1987). Effects of instructional
 design variables on vocabulary acquisition of LD students: A study of
 computer-assisted instruction. *Journal of Learning Disabilities*, *20*,
 206-213.
-:::

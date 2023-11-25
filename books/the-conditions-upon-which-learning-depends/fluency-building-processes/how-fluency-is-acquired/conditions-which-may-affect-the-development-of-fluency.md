@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'How fluency is acquired '
 title: 'Conditions which may affect the development of fluency '
 ---
-# Conditions which may affect the development of fluency 
+# Conditions which may affect the development of fluency
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-1d86974214d74f1ba8e8dac02c5e0968}
+
 In addition to the conditions which are necessary for fluency building,
 there are several other variables which may operate to affect the rate
 of progress towards a criterion level of fluency.
@@ -152,9 +152,8 @@ accelerating rapidly to the established fluency criterion" (White &
 Haring, 1980, p. 237). Examples of how rapidly fluency can improve when
 students are motivated by strong incentives have been provided by a
 number of experiments (e.g. Church et al., 2005; Sandford, 1991).
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, J., Nixon, J. Williams, D. & Zintl, S. (2005). Building
@@ -181,4 +180,3 @@ number of experiments (e.g. Church et al., 2005; Sandford, 1991).
     227-230.
 -   White, O. R. & Haring, N. G. (1980). Exceptional teaching (2nd ed.).
     Columbus, OH: Charles E. Merrill.
-:::

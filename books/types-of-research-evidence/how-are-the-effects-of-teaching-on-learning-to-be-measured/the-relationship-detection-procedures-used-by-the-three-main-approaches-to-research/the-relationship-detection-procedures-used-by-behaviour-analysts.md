@@ -9,17 +9,17 @@ parent: 'The relationship detection procedures used by the three main approaches
   research '
 title: 'The relationship detection procedures used by behaviour analysts '
 ---
-# The relationship detection procedures used by behaviour analysts 
+# The relationship detection procedures used by behaviour analysts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-830d313b3b744d05a87df349068aced9}
+
 Behaviour analysts have shown a strong preference for experimental
 analysis and 95% of published behaviour analysis reports are reports of
 experiments (Church, 1998). Most behaviour analysis experiments are
@@ -73,9 +73,8 @@ undertaken before the experimental manipulation was introduced
 did not work might be extended to include subsequent phases documenting
 the effectiveness of successive attempts to improve the effectiveness of
 that intervention (e.g. Sandford, 1991).
-:::
 
-::: referencesList
+
 #### References
 
 -   Barlow, D. H., & Hersen, M. (1984). Single case experimental
@@ -109,4 +108,3 @@ that intervention (e.g. Sandford, 1991).
     Unpublished EDUC 650 case study project report.
 -   Sidman, M. (1960). Tactics of scientific research: Evaluating
     experimental data in psychology. New York: Basic Books.
-:::

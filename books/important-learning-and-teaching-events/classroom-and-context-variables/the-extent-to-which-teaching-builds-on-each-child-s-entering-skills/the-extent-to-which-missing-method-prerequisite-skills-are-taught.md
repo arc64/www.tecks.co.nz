@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'The extent to which teaching builds on each child''s entering skills '
 title: 'The extent to which missing method prerequisite skills are taught '
 ---
-# The extent to which missing method prerequisite skills are taught 
+# The extent to which missing method prerequisite skills are taught
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5cdfc7caea434f27a95941cd94873281}
+
 Careful observation of the way in which individual students cope with
 different kinds of classroom activities fairly quickly identifies those
 students who have and have not mastered key method prerequisite skills.
@@ -60,4 +60,3 @@ to variations in method prerequisite skills affects student learning in
 the classroom and is another variable which needs to be taken into
 account during any study of the effects of teaching on learning in this
 context.
-:::

@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'Verbal learning processes '
 title: 'How conceptual responses are acquired '
 ---
-# How conceptual responses are acquired 
+# How conceptual responses are acquired
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-78c3ada4e32f44a1a32ec29099f5bdda}
+
 Much school learning involves the acquisition of new concepts,
 generalisations and general principles. Common examples include learning
 to identify, name and use new concepts and learning when to use and when
@@ -156,9 +156,8 @@ class and non-examples, correct responses to examples and non-examples
 must be differentially reinforced, and sufficient practice must be
 provided to ensure that the new understanding is maintained (retained).
 .
-:::
 
-::: referencesList
+
 #### References
 
 -   Carnine, D. W. (1990). New research on the brain: Implications for
@@ -169,4 +168,3 @@ provided to ensure that the new understanding is maintained (retained).
     as a function of curriculum design: Teaching fractions to remedial
     high school students and high school students with learning
     disabilities. Journal of Learning Disabilities, 23(1), 23-29.
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Practice responses '
 title: 'Constructed responses vs. selection responses '
 ---
-# Constructed responses vs. selection responses 
+# Constructed responses vs. selection responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d6b0f579bde44fcc95f881b0549c0210}
+
 Sometimes students are set to work on activities where they have to
 select the correct spelling from several options, or select the correct
 name from the names given, or select the correct answer from examples
@@ -35,4 +35,3 @@ answer of another student.
 The distinction between constructed responses and selection responses is
 an important one because the two types of responding have different
 effects both on acquisition and on remembering.
-:::

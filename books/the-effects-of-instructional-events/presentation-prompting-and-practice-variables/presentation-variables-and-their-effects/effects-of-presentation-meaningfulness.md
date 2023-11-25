@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Presentation variables and their effects '
 title: 'Effects of presentation meaningfulness '
 ---
-# Effects of presentation meaningfulness 
+# Effects of presentation meaningfulness
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8b3026031a4d4106b8270b7d8bf070c3}
+
 It is widely believed that the content of a meaningful presentation,
 that is a presentation which consist of words that are understood by the
 learner, is more likely to be remembered than the content of a
@@ -36,9 +36,8 @@ meaningful. If the teacher is introducing a new concept, the concept
 name may not be meaningful initially. Considerable discussion of the
 concept's definition and of concept examples and non-examples may be
 necessary before the new name acquires meaning.
-:::
 
-::: referencesList
+
 #### References
 
 -   Gage, N. L. & Berliner, D. C. (1988). Educational psychology (4th
@@ -46,4 +45,3 @@ necessary before the new name acquires meaning.
 -   Marks, C. B., Doctorow, M. J., & Wittrock, M. C. (1974). Word
     frequency and reading comprehension. Journal of Educational
     Research, 67, 259-262, 295.
-:::

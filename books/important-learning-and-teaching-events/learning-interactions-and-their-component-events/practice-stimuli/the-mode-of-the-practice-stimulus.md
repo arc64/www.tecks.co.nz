@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Practice stimuli '
 title: 'The mode of the practice stimulus '
 ---
-# The mode of the practice stimulus 
+# The mode of the practice stimulus
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a9fe9486509b4949a8218205a357ba68}
+
 The practice stimuli which are provided for children to respond to can
 occur in various modes: aural, visual, audio-visual, and so on.
 
@@ -40,4 +40,3 @@ of *symbols* as when a teacher presents letters and words to be copied
 studied for their content, written questions to be answered, written
 problems and exercises to be worked, music to be read and played, and so
 on.
-:::

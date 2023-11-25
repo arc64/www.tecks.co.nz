@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How completely new behaviours and skills are acquired '
 title: 'Necessary condition 1: The opportunity to observe models of competent performance '
 ---
-# Necessary condition 1: The opportunity to observe models of competent performance 
+# Necessary condition 1: The opportunity to observe models of competent performance
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3675b199322d4e2f9289e888dc439329}
+
 The first condition necessary for the acquisition of a completely new
 behaviour is for the learner to be able to observe someone else
 performing the behaviour. This is often referred to as the opportunity
@@ -43,9 +43,8 @@ target behaviour to copy that, for all practical purposes, such models
 may be considered a necessary condition for the human learning of new
 skills (e.g. Allison, & Ayllon, 1980; Buzas & Ayllon 1981; Fitterling &
 Ayllon, 1983).
-:::
 
-::: referencesList
+
 #### References
 
 -   Allison, M. G., & Ayllon, T. (1980). Behavior coaching in the
@@ -60,4 +59,3 @@ Ayllon, 1983).
     Modification, 7, 345-368.
 -   Shaffer, D. R. (1989). Developmental psychology: Childhood and
     adolescence (2nd ed.). Pacific Grove, CA: Brooks/Cole.
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What is to count as evidence? '
 title: 'Evidence collected at what level of specificity? '
 ---
-# Evidence collected at what level of specificity? 
+# Evidence collected at what level of specificity?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f1ad33480d104c7386e247a314a978a5}
+
 Claims about what works in the classroom need to specify the particular
 teaching practice under consideration, the particular types of learning
 outcome which are affected by this practice, the strength of this
@@ -138,9 +138,8 @@ required in order to evaluate the research base which is being cited in
 favour of a particular teaching practice. We will consider in some
 detail the level of specificity which is required if the research base
 is to be of any practical value in Book 2 of this website.
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, G.L. & Engelmann, S. (1996). Research on Direct Instruction:
@@ -166,4 +165,3 @@ is to be of any practical value in Book 2 of this website.
 -   Walberg, H. J., & Paik, S. J. (2004). Effective general practices.
     In G. Cawelti (Ed.) Handbook of research on improving student
     achievement (3rd ed.). Arlington, VA: Educational Research Service.
-:::

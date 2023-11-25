@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Schedules of reinforcement and punishment '
 title: 'Effects of continuous versus intermittent schedules of consequences '
 ---
-# Effects of continuous versus intermittent schedules of consequences 
+# Effects of continuous versus intermittent schedules of consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-bfe9032e7b0548729e9d6ff7547143d3}
+
 Generally speaking the introduction of schedules in which particular
 low-rate responses are reinforced frequently rather than infrequently
 result in the most rapid behaviour changes (McLaughlin & Malaby, 1975b;
@@ -81,9 +81,8 @@ less predictable. Otherwise, the desired persistence will not develop.
 The makes the ability to thin the reinforcement for individual students
 as they move from one phase of learning to the next a very important
 teaching skill.
-:::
 
-::: referencesList
+
 #### References
 
 -   Clark, H. B., Rowbury, T., Baer, A. M., & Baer, D. M. (1973).
@@ -128,4 +127,3 @@ teaching skill.
 -   Zanolli, K., & Daggett, J. (1998). The effects of reinforcement rate
     on the spontaneous social initiations of socially withdrawn
     preschoolers. Journal of Applied Behavior Analysis, 31, 117-125.
-:::

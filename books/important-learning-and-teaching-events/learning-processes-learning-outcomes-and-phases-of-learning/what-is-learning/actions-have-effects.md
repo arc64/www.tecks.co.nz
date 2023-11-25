@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'What is learning? '
 title: 'Actions have effects '
 ---
-# Actions have effects 
+# Actions have effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4888f0ea462c4cb7beafdc3f5f64699b}
+
 The actions of learners also have effects. These effects may be the same
 as the purpose for which the action was performed or they may be
 different. In other words, an action may be successful in achieving the
@@ -44,4 +44,3 @@ fail to track each attempt to perform the new behaviour together with
 the consequences or outcomes of each of these attempts, will almost
 certainly fail to collect the very data which is needed in order to
 explain the changes which are observed.
-:::

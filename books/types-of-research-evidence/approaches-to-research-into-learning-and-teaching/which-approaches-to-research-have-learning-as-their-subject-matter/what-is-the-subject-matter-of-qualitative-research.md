@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Which approaches to research have learning as their subject matter? '
 title: 'What is the subject matter of qualitative research? '
 ---
-# What is the subject matter of qualitative research? 
+# What is the subject matter of qualitative research?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-cd15dfba4ea9442dadce2d1b6946a965}
+
 For educational ethnographers, interpretive researchers and most other
 qualitative researchers, the subject matter - the phenomena to be
 observed and described - are the actions, interactions, choices, beliefs
@@ -131,9 +131,8 @@ and across time. The teacher who is interested in generalisations about
 what should be done to bring about particular learning outcomes will
 find that ethnographic reports are almost always silent on such
 questions.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bogdan, R. C., & Biklen, S. K. (1992). Qualitative research for
@@ -149,4 +148,3 @@ questions.
 -   Wolcott, H. F. (1988). Ethnographic research in education. In R. M.
     Jaeger (Ed.), Complementary methods for research in education (pp.
     185-206). Washington, DC: American Educational Research Association.
-:::

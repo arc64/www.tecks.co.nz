@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Contingency errors '
 title: 'Inadvertent punishment of desired behaviour '
 ---
-# Inadvertent punishment of desired behaviour 
+# Inadvertent punishment of desired behaviour
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-fc871817e841428a8a82d5d4acd1ef74}
+
 Careless, inappropriate, and antisocial behaviour often has aversive
 outcomes. But it is possible for desirable, appropriate, and correct
 responses to generate aversive consequences as well. A child may work
@@ -39,4 +39,3 @@ feedback. The effect of being required to work on such tasks is that the
 child gradually loses interest and develops a dislike for this type of
 task because working on such tasks too often generates aversive outcomes
 and too infrequently generates reinforcing outcomes.
-:::

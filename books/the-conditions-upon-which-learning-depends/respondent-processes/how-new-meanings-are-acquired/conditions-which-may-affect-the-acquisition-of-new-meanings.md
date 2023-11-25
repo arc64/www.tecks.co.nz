@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'How new meanings are acquired '
 title: 'Conditions which may affect the acquisition of new meanings '
 ---
-# Conditions which may affect the acquisition of new meanings 
+# Conditions which may affect the acquisition of new meanings
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e8fadb894e444104bc7141096c10e369}
+
 It is to be expected that there will be a number of conditions which
 will affect how speedily learners can acquire the meanings of initially
 meaningless words, symbols, signs and so on. For example, it is has been
@@ -42,9 +42,8 @@ of the learner whereas the experimental analysis of children who are in
 the process of acquiring new meanings suggests that meaning responses
 tend to be acquired extremely quickly and, in many cases, to be acquired
 without conscious awareness (e.g. Staats, Staats & Crawford, 1962).
-:::
 
-::: referencesList
+
 #### References
 
 -   Staats, A. W. & Staats, C. K. (1959). Effect of number of trials on
@@ -53,4 +52,3 @@ without conscious awareness (e.g. Staats, Staats & Crawford, 1962).
 -   Staats, A. W., Staats, C. K. & Crawford, H. L. (1962). First-order
     conditioning of meaning and the parallel conditioning of a GSR.
     Journal of General Psychology, 97, 159-167.
-:::

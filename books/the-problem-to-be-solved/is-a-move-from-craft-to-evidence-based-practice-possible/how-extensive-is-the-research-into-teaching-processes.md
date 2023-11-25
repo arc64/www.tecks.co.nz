@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'Is a move from craft- to evidence-based practice possible? '
 title: 'How extensive is the research into teaching processes? '
 ---
-# How extensive is the research into teaching processes? 
+# How extensive is the research into teaching processes?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-1b71fbcc06644b38ad6d9c3c2b246cc9}
+
 University of Canterbury, Christchurch, New Zealand. © University of
 Canterbury 2008.
 
@@ -236,9 +236,8 @@ Much the research reviewed in Book 4 and Book 5 of this site is research
 which has been undertaken by practitioners. We have also set aside the
 final volume (Book 9) to receive reports of practitioner research which
 meet the inclusion criteria for this site.
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, G. L., & Engelmann, S. (1996). Research on Direct
@@ -380,4 +379,3 @@ meet the inclusion criteria for this site.
 -   Wolery, M., Bailey, D. B., & Sugai, G. M. (1988). Effective
     teaching: Principles and procedures of applied behavior analysis
     with exceptional students. Boston: Allyn and Bacon Inc.
-:::

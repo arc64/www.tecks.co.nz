@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How likes and dislikes develop '
 title: 'Conditions necessary for the development of a liking for '
 ---
-# Conditions necessary for the development of a liking for 
+# Conditions necessary for the development of a liking for
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2a0f0c14ff4f40feb9196d4aaa1d2d97}
+
 What must the teacher do to ensure that the learner develops a liking
 for a particular class of learning activities such as reading? In spite
 of its importance, the question has prompted almost no controlled
@@ -66,4 +66,3 @@ behaved.
 must ensure that students experience predominantly reinforcing outcomes
 (success) in all subjects including those which students generally
 experience as tedious and difficult.
-:::

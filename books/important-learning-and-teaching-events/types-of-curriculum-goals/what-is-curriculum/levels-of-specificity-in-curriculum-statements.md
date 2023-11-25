@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'What is curriculum? '
 title: 'Levels of specificity in curriculum statements '
 ---
-# Levels of specificity in curriculum statements 
+# Levels of specificity in curriculum statements
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b5b780149eb4410ab17d56fcee9e7c1e}
+
 Achievement objectives can be described with varying levels of
 specificity. For example, a curriculum goal for the end of Year 2 in,
 say, learning to read might be given at any of the following levels of
@@ -47,4 +47,3 @@ adequate progress in learning to read, learning to spell and write,
 learning to relate to other children, and so on. This is only possible
 if the school curriculum specifies achievement standards with a level of
 specificity sufficient to allow such judgements to be made.
-:::

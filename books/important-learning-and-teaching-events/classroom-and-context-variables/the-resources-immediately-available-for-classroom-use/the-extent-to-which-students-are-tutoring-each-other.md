@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'The resources immediately available for classroom use '
 title: 'The extent to which students are tutoring each other '
 ---
-# The extent to which students are tutoring each other 
+# The extent to which students are tutoring each other
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4ec404668f804f7e8c58d8e885a3b6f2}
+
 Modern western-style classrooms tend to be organised so that the
 students are spending much of their time working on tasks in peer-led
 groups of various kinds. Included here are all of the peer-tutoring
@@ -45,9 +45,8 @@ measure degree of "learning communityness" it will be difficult to
 design research into the effects which this aspect of classroom life
 have on the academic development of the students who comprise this
 community.
-:::
 
-::: referencesList
+
 #### References
 
 -   Alton-Lee, A. (2003). Quality teaching for diverse students in
@@ -58,4 +57,3 @@ community.
     Elsevier.
 -   Darling-Hammond, L. (1997). The right to learn: A blueprint for
     creating schools that work. San Francisco: Jossey-Bass.
-:::

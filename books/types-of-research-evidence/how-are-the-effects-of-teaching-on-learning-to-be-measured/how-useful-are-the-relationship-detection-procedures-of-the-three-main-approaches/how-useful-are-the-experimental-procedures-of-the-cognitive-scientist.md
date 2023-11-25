@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'How useful are the relationship detection procedures of the three main approaches? '
 title: 'How useful are the experimental procedures of the cognitive scientist? '
 ---
-# How useful are the experimental procedures of the cognitive scientist? 
+# How useful are the experimental procedures of the cognitive scientist?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b7087b60b8a843fda9bb5d18a24d1d80}
+
 Between-groups experimental procedures and the statistical procedures
 which have to be mastered in order to interpret the results of such
 experiments remain the staple content of research methods textbooks and
@@ -109,9 +109,8 @@ experimentation, is one of the major reasons why even lengthy series of
 investigations into the same topic so often fail to generate any kind of
 conclusion or consensus about the answer to the question under
 examination (Rossi, 1997; Schmidt & Hunter, 1997).
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. (1998). The utility of qualitative, social science,
@@ -133,4 +132,3 @@ examination (Rossi, 1997; Schmidt & Hunter, 1997).
     38-64). Mahwah, N.J.: Lawrence Erlbaum Associates.
 -   Sidman, M. (1960). Tactics of scientific research: Evaluating
     experimental data in psychology. New York: Basic Books.
-:::

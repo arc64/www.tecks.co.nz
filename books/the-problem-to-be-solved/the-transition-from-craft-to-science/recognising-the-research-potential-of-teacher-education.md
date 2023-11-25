@@ -7,17 +7,17 @@ nav_order: 5
 parent: 'The transition from craft to science '
 title: 'Recognising the research potential of teacher education '
 ---
-# Recognising the research potential of teacher education 
+# Recognising the research potential of teacher education
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0c5901b134d04089bc37d2b986bdc416}
+
 University of Canterbury, Christchurch, New Zealand. © University of
 Canterbury 2008.
 
@@ -124,9 +124,8 @@ activities integrated into our teacher education courses and when we see
 the graduates of those programmes continuing to use these research based
 materials and procedures in their classrooms in the years following
 their registration as teachers.
-:::
 
-::: referencesList
+
 #### References
 
 -   Burkhardt, H., & Schoenfeld, A. H. (2003). Improving educational
@@ -187,4 +186,3 @@ their registration as teachers.
     professional learning and development. Best evidence synthesis
     iteration (BES). Wellington, New Zealand: New Zealand Ministry of
     Education.
-:::

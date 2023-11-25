@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Positive punishment contingencies and their effects '
 title: 'Effects of naturally occurring aversive consequences '
 ---
-# Effects of naturally occurring aversive consequences 
+# Effects of naturally occurring aversive consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c0abf0b4c29f4c36b43ba7b83583a55d}
+
 There are many situations where a given behaviour has a consequence and
 that consequence is an aversive consequence which motivates the learner
 to avoid that behaviour in particular situations in the future. Examples
@@ -32,4 +32,3 @@ risky behaviours which adults have learned to avoid and it seems safe to
 assume that much of this learning occurs as a result of experiencing the
 aversive consequences which are often the natural result of careless
 actions.
-:::

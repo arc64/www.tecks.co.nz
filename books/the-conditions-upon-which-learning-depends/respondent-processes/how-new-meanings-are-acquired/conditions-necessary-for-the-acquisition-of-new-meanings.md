@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How new meanings are acquired '
 title: 'Conditions necessary for the acquisition of new meanings '
 ---
-# Conditions necessary for the acquisition of new meanings 
+# Conditions necessary for the acquisition of new meanings
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ef6f74d3f0dd4cfa9d3099467e518173}
+
 The only condition which has been demonstrated to be necessary for the
 acquisition of meaning is the repeated contiguous occurrence of the
 conditioned eliciting stimulus (which already elicits the visual image
@@ -28,9 +28,8 @@ Finley & Minke, 1953; Staats, Staats, Heard & Nims, 1959; Staats &
 Staats, 1957). There may well be other necessary conditions, such as the
 form or intensity of the meaning elicited by the meaningful stimulus,
 but the effects of variables such as these have yet to be measured.
-:::
 
-::: referencesList
+
 #### References
 
 -   Staats, A. W. (1968). Learning, language and cognition. New York:
@@ -44,4 +43,3 @@ but the effects of variables such as these have yet to be measured.
 -   Staats, C. K. & Staats, A. W. (1957). Meaning established by
     classical conditioning. Journal of Experimental Psychology, 54,
     74-80.
-:::

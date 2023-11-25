@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Practice stimuli '
 title: 'The match between practice stimulus and learning outcome '
 ---
-# The match between practice stimulus and learning outcome 
+# The match between practice stimulus and learning outcome
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f3aeaf3785ca49b4b591894a1f2096b8}
+
 If I am trying to improve a child's reading (reading is the learning
 outcome) and I provide a story for the child to read (the story is the
 practice stimulus), there is likely to be a close match between the
@@ -40,4 +40,3 @@ which result in practice of the responses listed in the teaching aim are
 more likely to move the child towards achievement of that aim than
 practice stimuli which result in the practice of responses which are not
 included in the teaching aim.
-:::

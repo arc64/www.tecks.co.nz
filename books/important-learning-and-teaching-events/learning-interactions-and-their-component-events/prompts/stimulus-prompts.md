@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Prompts '
 title: 'Stimulus prompts '
 ---
-# Stimulus prompts 
+# Stimulus prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d1b286e79e2643ada8c0d809db2a2892}
+
 *Stimulus prompts are prompts which point backwards to important
 features of a practice stimulus* -- features of the practice stimulus to
 which the learner must attend in order to respond correctly. Let\'s say
@@ -49,4 +49,3 @@ attend to particular features (e.g. "Notice how these sedimentary rocks
 look and feel sandy to the touch"), or by prompting attention to the
 definition which defines membership in a particular category ("Remember
 that a hexagon has six sides").
-:::

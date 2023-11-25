@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'The move from craft to evidence-based practice '
 title: 'What is to count as evidence? '
 ---
-# What is to count as evidence? 
+# What is to count as evidence?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-be1a3dd946cd4f26b98a59474b14c156}
+
 Suggestions that teaching practice might be based on research evidence
 do not always deal with the question "what kinds of research evidence?"
 This is an important question because educational researchers employ a
@@ -43,4 +43,3 @@ review the research literature, especially when they try to look across
 investigations which have used different types of research method, and
 this results in review-based conclusions which vary widely with respect
 to their validity and believability.
-:::

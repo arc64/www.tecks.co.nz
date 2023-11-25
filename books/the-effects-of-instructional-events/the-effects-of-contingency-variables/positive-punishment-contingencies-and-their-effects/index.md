@@ -7,17 +7,17 @@ nav_order: 4
 parent: 'The effects of contingency variables '
 title: 'Positive punishment contingencies and their effects '
 ---
-# Positive punishment contingencies and their effects 
+# Positive punishment contingencies and their effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-88c1d202d4b74fc7b93bb49cd725178f}
+
 A variety of punishment contingencies are possible: positive punishment
 contingencies (in which misbehaviour results in an aversive outcome) and
 negative punishment contingencies (where misbehaviour results in a loss
@@ -37,4 +37,3 @@ positive punishment is widely discouraged, if not prohibited, in
 educational settings and because ethics committees rarely approve
 proposals to investigate the effects of punishment on the behaviour of
 human subjects.
-:::

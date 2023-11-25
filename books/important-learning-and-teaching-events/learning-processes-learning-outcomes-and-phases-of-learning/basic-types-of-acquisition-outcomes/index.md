@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'Learning processes, learning outcomes and phases of learning '
 title: 'Basic types of acquisition outcomes '
 ---
-# Basic types of acquisition outcomes 
+# Basic types of acquisition outcomes
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-87d1cbae06f44996a721cffd3a28d1fe}
+
 A child may learn how to perform a completely new behaviour such as how
 to print various letters, or learn how to perform a new operation or
 procedure such as long multiplication. A child may learn the name of a
@@ -51,4 +51,3 @@ out research into the most effective ways of helping children acquire
 different kinds of skills and understandings and will be unable to
 devise measurement procedures which they can use to monitor children's
 acquisition of new skills and understandings.
-:::

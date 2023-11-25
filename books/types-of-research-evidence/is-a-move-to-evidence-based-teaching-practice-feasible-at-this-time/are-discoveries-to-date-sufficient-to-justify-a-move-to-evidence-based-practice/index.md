@@ -7,17 +7,17 @@ nav_order: 4
 parent: 'Is a move to evidence-based teaching practice feasible at this time? '
 title: 'Are discoveries to date sufficient to justify a move to evidence-based practice? '
 ---
-# Are discoveries to date sufficient to justify a move to evidence-based practice? 
+# Are discoveries to date sufficient to justify a move to evidence-based practice?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-237abb4cceb84f13bbb83725eb47b735}
+
 There is little point in arguing that "teaching should be based on
 research" if there is little or no reliable research-based data into how
 children acquire different kinds of skills and understandings and how
@@ -37,4 +37,3 @@ developed to the point where we could possibly make research-based
 decisions regarding the kinds of classroom teaching activities which
 will work best to foster the mastery of different curriculum goals by
 individual children at different levels of development?
-:::

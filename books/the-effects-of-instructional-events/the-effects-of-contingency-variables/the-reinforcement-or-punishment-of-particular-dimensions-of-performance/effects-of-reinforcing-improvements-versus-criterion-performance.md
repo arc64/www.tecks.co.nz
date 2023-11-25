@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The reinforcement or punishment of particular dimensions of performance '
 title: 'Effects of reinforcing improvements versus criterion performance '
 ---
-# Effects of reinforcing improvements versus criterion performance 
+# Effects of reinforcing improvements versus criterion performance
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b307f734b082461abb78bcc27f171a94}
+
 It is widely argued that teachers should reinforce improvements. This is
 an entirely reasonable suggestion since, if reinforcement was withheld
 until the learner achieved criterion performance, the learner would
@@ -45,9 +45,8 @@ performance. This means that we have yet to gain a clear idea of those
 learning outcomes for which it is more effective to reinforce
 improvements and those learning outcomes where it is more effective to
 reinforce criterion levels of performance such as responding correctly.
-:::
 
-::: referencesList
+
 #### References
 
 -   Allison, M. G., & Ayllon, T. (1980). Behavior coaching in the
@@ -80,4 +79,3 @@ reinforce criterion levels of performance such as responding correctly.
     peer-mediated accountability on opportunities to respond and correct
     skill performance by elementary school children in physical
     education. Journal of Behavioral Education, 8, 103-114.
-:::

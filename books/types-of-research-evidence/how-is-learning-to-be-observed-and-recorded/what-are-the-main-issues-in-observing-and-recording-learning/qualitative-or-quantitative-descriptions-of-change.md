@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'What are the main issues in observing and recording learning? '
 title: 'Qualitative or quantitative descriptions of change? '
 ---
-# Qualitative or quantitative descriptions of change? 
+# Qualitative or quantitative descriptions of change?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a9ede536db6846bd87a14e63c1da4241}
+
 Some kinds of data can be presented only in words. Examples include
 respondent self-reports of the situations in which they feel anxious, or
 the social rules which operate in a given setting, and so on. Other
@@ -74,9 +74,8 @@ quantitative data and modes of description. Goldstein and Goldstein
 a standard measure to replace subjective judgements of hot, hotter and
 hottest, that is, the development of the Fahrenheit scale to measure
 temperature.
-:::
 
-::: referencesList
+
 #### References
 
 -   Goldstein, M., & Goldstein I. F. (1980). How we know: An exploration
@@ -86,4 +85,3 @@ temperature.
 -   Stevens, S. S. (1951). Mathematics, measurement and psychophysics.
     In S. S. Stevens (Ed.), Handbook of experimental psychology (pp.
     1-49). New York: Wiley.
-:::

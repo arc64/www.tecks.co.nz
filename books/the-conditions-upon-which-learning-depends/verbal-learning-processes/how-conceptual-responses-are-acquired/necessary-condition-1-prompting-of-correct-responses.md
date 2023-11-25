@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How conceptual responses are acquired '
 title: "Necessary condition 1.\_Prompting of correct responses "
 ---
-# Necessary condition 1. Prompting of correct responses 
+# Necessary condition 1. Prompting of correct responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9029ee3c96d04724a21bcb9249a8e26c}
+
 When the child is first asked to distinguish between (and to name)
 examples of real numbers and examples of integers, or examples of verbs
 and examples of adverbs, or examples of mass and examples of weight,
@@ -46,9 +46,8 @@ Of course, any prompts which are required during the initial stages of
 instruction must be withdrawn as soon as the student can respond without
 them otherwise the development of independent performance will be
 postponed.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bourne, L. E., Jr. (1966). Human conceptual behavior. Boston: Allyn
@@ -56,4 +55,3 @@ postponed.
 -   Ross, D., & Carnine, D. (1982). Analytic assistance: Effects of
     example selection, subjects\' age and syntactic complexity. Journal
     of Educational Research, 75, 294-298.
-:::

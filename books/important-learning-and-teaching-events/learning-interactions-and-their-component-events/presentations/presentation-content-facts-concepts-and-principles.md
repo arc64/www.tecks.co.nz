@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Presentations '
 title: 'Presentation content: facts, concepts and principles '
 ---
-# Presentation content: facts, concepts and principles 
+# Presentation content: facts, concepts and principles
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-34ad8c534ce54e798444261c00dc4e73}
+
 Presentations may be about facts, concepts, or principles and they may
 make reference to definitions, examples, non-examples, and so on.
 
@@ -86,4 +86,3 @@ objective and immediately distinguish between the facts, concepts and
 principles contained in that objective, the teacher will be unable to
 select the kinds of learning experiences which are needed in order to
 produce these various different kinds of learning outcomes.
-:::

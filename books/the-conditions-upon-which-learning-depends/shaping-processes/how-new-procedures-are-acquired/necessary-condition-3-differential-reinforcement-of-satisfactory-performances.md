@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'How new procedures are acquired '
 title: 'Necessary condition 3: Differential reinforcement of satisfactory performances '
 ---
-# Necessary condition 3: Differential reinforcement of satisfactory performances 
+# Necessary condition 3: Differential reinforcement of satisfactory performances
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e3b6d70339b8406e9b9716526bff0828}
+
 During the initial acquisition phase of learning a new procedure, it is
 appropriate to differentially reinforce the successful completion of
 each step in turn (e.g., Grimm, Bijou & Parsons, 1973). Once the learner
@@ -47,9 +47,8 @@ which does not generate its own reinforcement is unlikely unless the
 learner is reinforced for using the procedure. Without some immediate
 reinforcement for using the new procedure, the student\'s use of the
 procedure may extinguish (the student may cease to use the procedure).
-:::
 
-::: referencesList
+
 #### References
 
 -   Grimm, J. A., Bijou, S. W., & Parsons, J. A. (1973). A
@@ -59,4 +58,3 @@ procedure may extinguish (the student may cease to use the procedure).
 -   Luiselli, J. K., & Downing, J. N. (1980). Improving a student\'s
     arithmetic performance using feedback and reinforcement procedures.
     Education and Treatment of Children, 3, 45-49.
-:::

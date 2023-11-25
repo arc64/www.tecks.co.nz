@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Presentation sequences '
 title: 'Example range '
 ---
-# Example range 
+# Example range
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f4736207b15346b48b07958e9d6c793b}
+
 During explanations and other types of presentation sequences, the
 concept or principle under examination will usually be illustrated or
 given meaning by the use of selected examples. The number of examples
@@ -35,4 +35,3 @@ learner will develop. This variable also plays a role in preventing the
 development of misconceptions about new concepts. If only a limited set
 of examples of a new concept are used the learner may develop an
 undergeneralised understanding of the concept.
-:::

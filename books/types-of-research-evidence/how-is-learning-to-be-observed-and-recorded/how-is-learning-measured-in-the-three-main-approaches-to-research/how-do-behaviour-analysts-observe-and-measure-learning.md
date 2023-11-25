@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How is learning measured in the three main approaches to research? '
 title: 'How do behaviour analysts observe and measure learning? '
 ---
-# How do behaviour analysts observe and measure learning? 
+# How do behaviour analysts observe and measure learning?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8c8a4543bfcd443b9899062b1d1fe528}
+
 Behaviour analysis recording procedures are procedures which have been
 developed to track the behaviour of individual learners over time. The
 observation procedures tend to be direct observation procedures,
@@ -182,9 +182,8 @@ observations have been scheduled. If observations have been scheduled on
 a daily basis, the typical behaviour analysis experiment tends to last
 for between two to six weeks. However, investigations spanning a whole
 school term, or even an entire school year, have been reported.
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. (1996). Within-subject experimental analysis: A guide
@@ -203,4 +202,3 @@ school term, or even an entire school year, have been reported.
     International Reading Association.
 -   West, R. P., Young, K. R., & Spooner, F. (1990). Precision teaching:
     An introduction. Teaching Exceptional Children, 22, 4-9.
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The skills involved in learning to read '
 title: 'Learning to discriminate between the letters '
 ---
-# Learning to discriminate between the letters 
+# Learning to discriminate between the letters
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4538c2d957b245519f74507d543a0901}
+
 In order to begin to learn the letter-sound equivalence relations which
 will be necessary in order to make timely progress in learning to read,
 the child must first learn to discriminate (tell the difference) between
@@ -35,4 +35,3 @@ is most commonly referred to as letter naming or knowledge of letter
 names, or orthographic knowledge and is widely recognised as a skill
 which needs to be acquired during the first year of school, if not
 before.
-:::

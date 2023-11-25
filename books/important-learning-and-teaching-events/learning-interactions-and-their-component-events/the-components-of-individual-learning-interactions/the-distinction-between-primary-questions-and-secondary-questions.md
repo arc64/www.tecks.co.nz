@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'The components of individual learning interactions '
 title: 'The distinction between primary questions and secondary questions '
 ---
-# The distinction between primary questions and secondary questions 
+# The distinction between primary questions and secondary questions
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-76c09c3ef7f74f01a70c21d03f9d7eb8}
+
 When the learner is having difficulty in responding, the teacher may
 provide several opportunities for the student to make the one response.
 In the following case, the student\'s first response was incorrect, so
@@ -47,4 +47,3 @@ and this is an important function because, without practice responses
 there would be no learning. But it is the consequences of practice
 responses which operate to determine whether or not a particular
 practice response will be remembered and used again in the future.
-:::

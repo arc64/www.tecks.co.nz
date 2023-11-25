@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Positive punishment contingencies and their effects '
 title: 'Effects of effortful tasks as consequences '
 ---
-# Effects of effortful tasks as consequences 
+# Effects of effortful tasks as consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0117a395f5814551be367fd81b425515}
+
 One of the penalties commonly employed as a consequence for
 inappropriate behaviour in the home setting is the "extra chore". There
 has been little in the way of experimental analysis of the conditions
@@ -46,9 +46,8 @@ The rapid suppression observed in each of these experiments indicates
 that having to complete the chore or the positive practice as a penalty
 for inappropriate behaviour functioned as a punishment contingency for
 each of the behaviours studied in these experiments.
-:::
 
-::: referencesList
+
 #### References
 
 -   Carstens, C. (1982). Application of a work penalty threat in the
@@ -67,4 +66,3 @@ each of the behaviours studied in these experiments.
     exercise: A mild but powerful procedure for suppressing
     inappropriate verbal and aggressive behavior. Journal of Applied
     Behavior Analysis, 13, 583-594.
-:::

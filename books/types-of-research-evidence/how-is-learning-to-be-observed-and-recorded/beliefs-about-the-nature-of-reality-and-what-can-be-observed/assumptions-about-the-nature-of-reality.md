@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Beliefs about the nature of reality and what can be observed '
 title: 'Assumptions about the nature of reality '
 ---
-# Assumptions about the nature of reality 
+# Assumptions about the nature of reality
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-440ce8b3af164e6ebf28a2dc6506bc9e}
+
 **Idealism**
 
 Some researchers work on the assumption that there is no external
@@ -80,9 +80,8 @@ matters about a bicycle is that I see it, call it by its name, may lend
 it to a friend, may ride it myself. Pragmatism remains agnostic about
 whether there is a real bicycle behind these effects" (Baum, 1994, p.
 20).
-:::
 
-::: referencesList
+
 #### References
 
 -   Baum, W. M. (1994). Understanding behaviorism: Science, behavior and
@@ -94,4 +93,3 @@ whether there is a real bicycle behind these effects" (Baum, 1994, p.
     Hills, CA: Sage Publications.
 -   Popper, K. (1963). Conjectures and refutations: The growth of
     scientific knowledge. London: Routledge and Kegan Paul.
-:::

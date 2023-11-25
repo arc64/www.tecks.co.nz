@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'The context provided by schools and classrooms '
 title: 'The number of antisocial children in the class '
 ---
-# The number of antisocial children in the class 
+# The number of antisocial children in the class
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6875847c51264b5a89c63357131054ae}
+
 The presence in the classroom of one or more children who engage in
 antisocial behaviour or who fail to follow teacher directions makes the
 classroom teacher's task much more complex than it would otherwise be.
@@ -34,4 +34,3 @@ important measure of the level of diversity in the classroom is a simple
 count of the number of students who regularly fail to follow teacher
 instructions and/or who engage in higher rates of antisocial children
 than same age peers.
-:::

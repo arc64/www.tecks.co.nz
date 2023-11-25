@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Positive and negative reinforcement and punishment contingencies '
 title: 'Effects of variations in the timing of consequences '
 ---
-# Effects of variations in the timing of consequences 
+# Effects of variations in the timing of consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8be10235a10543448f8d53e3f8357f28}
+
 It is widely argued that that reinforcing consequences have their
 strongest effect when they follow the target behaviour or performance
 immediately rather than some time later (Alberto & Troutman, 1999). This
@@ -45,9 +45,8 @@ better levels of maintenance (Mayhew & Anderson, 1980) and better
 generalisation to new settings (Fowler & Baer, 1981) than immediate
 reinforcement. However, these effects have yet to be studied in any
 systematic fashion.
-:::
 
-::: referencesList
+
 #### References
 
 -   Abramowitz, A. J., & O\'Leary, S. G. (1990). Effectiveness of
@@ -64,4 +63,3 @@ systematic fashion.
 -   Mayhew, G. L., & Anderson, J. (1980). Delayed and immediate
     reinforcement: Retarded adolescents in an educational setting.
     Behavior Modification, 4, 527-545.
-:::

@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'How new equivalence relations are acquired '
 title: 'Conditions which may affect the learning of equivalence relations '
 ---
-# Conditions which may affect the learning of equivalence relations 
+# Conditions which may affect the learning of equivalence relations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0739935dfc894bfabedfbd3a8a9dd32c}
+
 The careful sequencing and systematic practice of new equivalence
 relations can result in rapid mastery of new naming, reading and
 spelling responses. Research has also identified a number of additional
@@ -296,9 +296,8 @@ naturalist, devilish, liberalism.
 5.Words which end with *consonant-o*, usually add *es* to form the
 plural. e.g. potatoes, tomatoes, volcanoes, torpedoes. Exceptions:
 pianos, solos, Eskimos, zeros.
-:::
 
-::: referencesList
+
 #### References
 
 -   Agramonte, V., & Belfiore, P. J. (2002). Using mnemonics to increase
@@ -401,4 +400,3 @@ pianos, solos, Eskimos, zeros.
 -   Wood, D. K., Frank, A. R., & Wacker, D. P. (1998). Teaching
     multiplication facts to students with learning disabilities. Journal
     of Applied Behavior Analysis, 31, 323-337.
-:::

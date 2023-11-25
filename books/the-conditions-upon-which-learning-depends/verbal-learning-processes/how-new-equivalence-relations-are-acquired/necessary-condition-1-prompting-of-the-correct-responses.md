@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How new equivalence relations are acquired '
 title: "Necessary condition 1.\_Prompting of the correct responses "
 ---
-# Necessary condition 1. Prompting of the correct responses 
+# Necessary condition 1. Prompting of the correct responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8867fe6d01c545f895b25fc9038d5de0}
+
 The child who is asked to name the letter w, or to read the word worst,
 or to name the element referred to by the symbol Fe for the very first
 time will not be able to respond correctly because they will not know
@@ -52,9 +52,8 @@ prompting of the response to that stimulus should cease so that the
 practice of independent responding can begin (Espin & Deno, 1989;
 Hendrickson, Roberts & Shores, 1978; Johnson, Schuster & Bell, 1996;
 Keel & Gast, 1992).
-:::
 
-::: referencesList
+
 #### References
 
 -   Espin, C. A., & Deno, S. L. (1989). The effects of modelling and
@@ -74,4 +73,3 @@ Keel & Gast, 1992).
 -   Telecsan, B. L., Slaton, D. B., & Stevens, K. B. (1999). Peer
     tutoring: Teaching students with learning disabilities to deliver
     time delay instruction. Journal of Behavioral Education, 9, 133-154.
-:::

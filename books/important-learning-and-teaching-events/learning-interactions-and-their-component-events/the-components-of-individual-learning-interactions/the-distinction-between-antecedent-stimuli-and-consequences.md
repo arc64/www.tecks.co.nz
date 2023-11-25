@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The components of individual learning interactions '
 title: 'The distinction between antecedent stimuli and consequences '
 ---
-# The distinction between antecedent stimuli and consequences 
+# The distinction between antecedent stimuli and consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4e442dc9d8d44838aeb291d73f8b35d1}
+
 In the analysis and description of learning interactions, two general
 classes of stimuli are always distinguished: stimuli which are sensed
 *before* the learner responds and those which the learner senses *after*
@@ -85,4 +85,3 @@ self-correction](../../../../../../assets/images/TECKSFig2412c.png "Figure 2412c
 
 *Figure 2412c. A learning interaction with a response which includes a
 self-correction*
-:::

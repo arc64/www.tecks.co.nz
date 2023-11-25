@@ -9,17 +9,17 @@ parent: 'How fluency is acquired '
 title: 'Necessary condition 1. Practice activities in which increases in speed are
   possible '
 ---
-# Necessary condition 1. Practice activities in which increases in speed are possible 
+# Necessary condition 1. Practice activities in which increases in speed are possible
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4bae0d5e5b674fc5ac6eb8622e1e5f5c}
+
 Fluency building activities may take a wide variety of forms: oral
 quizzes, flash cards, 1-minute sprints on sheets of practice items
 (e.g., Rhymer, Skinner, Hennington, D'Reaux & Sims, 1998), and games of
@@ -63,9 +63,8 @@ reduced to half a minute. Where the teaching aim is to teach mastery of
 a new procedure, measuring the time which the student takes to complete
 the procedure without assistance is the preferred way of measuring
 improvements in fluency.
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. & Liberty, K. A. (1992). The experimental analysis of
@@ -87,4 +86,3 @@ improvements in fluency.
     Procedural variations in group contingencies: Effects on children\'s
     academic and social behaviors. Journal of Applied Behavior Analysis,
     15, 533-544.
-:::

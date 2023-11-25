@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'What is curriculum? '
 title: 'The eight essential learning areas '
 ---
-# The eight essential learning areas 
+# The eight essential learning areas
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-88644f38ef0a4404842f91bf79bffd58}
+
 In the latest revision of the New Zealand curriculum (Ministry of
 Education, 2007) the eight essential learning areas are defined as
 follows.
@@ -97,11 +97,9 @@ The eighth curriculum area provides the opportunity to learn a language
 other than the language of instruction. Learning to use the language
 (communication) is central but this curriculum area also includes
 knowledge about the language and cultural knowledge.
-:::
 
-::: referencesList
+
 #### References
 
 -   Ministry of Education. (2007). The New Zealand curriculum.
     Wellington, NZ: New Zealand Ministry of Education.
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Basic types of acquisition outcomes '
 title: 'The acquisition of new meanings '
 ---
-# The acquisition of new meanings 
+# The acquisition of new meanings
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9127af513f1541b286f18e86f3f3ee31}
+
 Much learning, especially during the early years, involves learning what
 particular symbols mean. Young English speaking children have to learn
 the meaning of the word *dog*, young French speaking children must learn
@@ -61,12 +61,10 @@ link between a symbol and its meaning extremely quickly and without
 conscious effort, it will not normally be possible to track an evolving
 or developing understanding of the meaning of a symbol but only to
 establish whether the child understands the meaning or not.
-:::
 
-::: referencesList
+
 #### References
 
 -   Staats, A. W., Staats, C. K. & Crawford, H. L. (1962). First-order
     conditioning of meaning and the parallel conditioning of a GSR.
     Journal of General Psychology, 97, 159-167.
-:::

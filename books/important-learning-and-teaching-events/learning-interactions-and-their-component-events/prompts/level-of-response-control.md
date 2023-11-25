@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Prompts '
 title: 'Level of response control '
 ---
-# Level of response control 
+# Level of response control
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e3f16443c1cf4b468ff710c522a9d852}
+
 Prompts can vary with respect to their effectiveness. In technical terms
 we say that prompts vary with respect to the degree of control which
 they have over the desired response. I can provide a demonstration of
@@ -61,4 +61,3 @@ prompts are of little use during the initial phase of learning (when the
 child has yet to learn how to respond correctly) but they have an
 important role to play during the transition from prompted to unprompted
 (independent) performance.
-:::

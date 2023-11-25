@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Calls for change '
 title: 'Calls for a move to evidence-based practice '
 ---
-# Calls for a move to evidence-based practice 
+# Calls for a move to evidence-based practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-18f362f389bf4157bf87b9279fd7d623}
+
 From researchers themselves, the call has been a call to begin the move
 to evidence-based practice. "To improve the results achieved by schools,
 the instructional practices that are shared widely across the profession
@@ -61,9 +61,8 @@ Research Council's Committee on Scientific Principles in Educational
 Research to conclude that "The current demand for scientific
 understanding of educational phenomena is unmatched in history" (Feuer,
 Towne & Shavelson, 2002, p. 11-12).
-:::
 
-::: referencesList
+
 #### References
 
 -   Alton-Lee, A. (2003). Quality teaching for diverse students in
@@ -107,4 +106,3 @@ Towne & Shavelson, 2002, p. 11-12).
     education. Behavioral Disorders, 27, 21-29.
 -   Wheldall, K. (2005). When will we ever learn? Educational
     Psychology, 25, 573-584.
-:::

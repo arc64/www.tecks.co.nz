@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The resources immediately available for classroom use '
 title: 'Diagnostic assessment resources '
 ---
-# Diagnostic assessment resources 
+# Diagnostic assessment resources
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-88c776d42f5f47638cd96e8e8243256d}
+
 The term *diagnostic assessment resource* refers to standardised tests
 for assessing the level of development of individual children with
 respect to key academic skills such as phonemic awareness, decoding
@@ -39,4 +39,3 @@ may be measured by examining the school store room and counting the
 number of academic skills at each year level for which diagnostic
 instruments of known reliability are immediately available for classroom
 use.
-:::

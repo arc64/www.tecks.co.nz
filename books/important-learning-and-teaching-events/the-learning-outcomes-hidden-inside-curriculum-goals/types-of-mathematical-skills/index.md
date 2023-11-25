@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'The learning outcomes hidden inside curriculum goals '
 title: 'Types of mathematical skills '
 ---
-# Types of mathematical skills 
+# Types of mathematical skills
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-024a109cf5ea4e5baa481360c3888298}
+
 Mathematical terms, concepts, operations, and generalisations are
 hierarchically interrelated (Resnick, Wang and Kaplan, 1973). Some of
 the hierarchical relationships which must be understood in order to plan
@@ -32,9 +32,8 @@ component skills: mastering the equivalence relations of mathematics,
 developing an adequate understanding of mathematical concepts, learning
 how to perform a variety of mathematical procedures (operations), and
 learning when it is appropriate to use each of these operations.
-:::
 
-::: referencesList
+
 #### References
 
 -   Evans, S. S., Evans, W. H., & Mercer, C. D. (1986). Assessment for
@@ -47,4 +46,3 @@ learning when it is appropriate to use each of these operations.
     mathematics (2nd ed.). Columbus, OH: Merrill.
 -   Underhill, R. J., Uprichard, A. E. & Heddens, J. W. (1980).
     Diagnosing mathematical difficulties. Columbus, OH: Merrill.
-:::

@@ -9,17 +9,17 @@ parent: 'How accurate are within-subject and between-group measures of experimen
   effects? '
 title: 'Problems arising from the inappropriate use of significance testing procedures '
 ---
-# Problems arising from the inappropriate use of significance testing procedures 
+# Problems arising from the inappropriate use of significance testing procedures
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f2f1b5c594e94ec594aeb23b4c8b71d6}
+
 Social science research strategies such as the between-groups
 experiment, and the statistical procedures used to interpret the data
 from such experiments, have been the subject of critical scrutiny for
@@ -121,9 +121,8 @@ that if the risky hypothesis is confirmed it provides strong
 corroboration for the theory, and that all studies should be replicated
 several times with only the reproducible results being published (see,
 for example, Harlow, 1997).
-:::
 
-::: referencesList
+
 #### References
 
 -   Bakan, D. (1967). On method: Toward a reconstruction of
@@ -165,4 +164,3 @@ for example, Harlow, 1997).
     (pp. 23-86). Stamford, CT: JAI Press Inc.
 -   Tukey, J. W. (1969). Analyzing data: Sanctification or detective
     work? American Psychologist, 24, 83-91.
-:::

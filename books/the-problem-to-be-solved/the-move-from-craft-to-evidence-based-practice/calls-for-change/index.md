@@ -7,11 +7,7 @@ nav_order: 1
 parent: 'The move from craft to evidence-based practice '
 title: 'Calls for change '
 ---
-# Calls for change 
-
-
-::: {#parent-fieldname-text .plain}
- 
+# Calls for change
 
 One does not have to look far to find suggestions that we could and
 should be developing and implementing more effective teaching practices.
@@ -33,19 +29,3 @@ Some have called for a move to evidence-based practice. By
 evidence-based practice they mean the replacement of teaching procedures
 of unknown effectiveness with procedures which have been shown, by
 controlled research, to be effective for all students.
-:::
-
-[ ![Section](../../../../++resource++section_icon.gif){width="16"
-height="16"} [Calls for an end to
-faddism](Callsforanendtofaddism){.contenttype-section .state-published
-.url} ]{.summary} [ ]{.documentByLine}
-
-[ ![Section](../../../../++resource++section_icon.gif){width="16"
-height="16"} [Calls for increased
-accountability](Callsforincreasedaccountability){.contenttype-section
-.state-published .url} ]{.summary} [ ]{.documentByLine}
-
-[ ![Section](../../../../++resource++section_icon.gif){width="16"
-height="16"} [Calls for a move to evidence-based
-practice](Callsforamovetoevidence-basedpractice){.contenttype-section
-.state-published .url} ]{.summary} [ ]{.documentByLine}

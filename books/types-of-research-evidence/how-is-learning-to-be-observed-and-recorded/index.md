@@ -6,17 +6,17 @@ nav_order: 2
 parent: 'Types of research evidence '
 title: 'How is learning to be observed and recorded? '
 ---
-# How is learning to be observed and recorded? 
+# How is learning to be observed and recorded?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c942a5f6dd184243a8b2f7a03199d471}
+
 In order to study the conditions necessary for learning, or the effects
 of teaching on learning, the very first problem to be solved is the
 problem of how to observe learning and how to measure the rate at which
@@ -48,4 +48,3 @@ describes ways in which each may be assessed.
 
 In Section 6 we evaluate the believability of the data commonly
 collected by behaviour analysts, cognitive scientists and ethnographers.
-:::

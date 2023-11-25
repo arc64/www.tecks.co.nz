@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Practice responses '
 title: 'Response effort '
 ---
-# Response effort 
+# Response effort
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a390e88e712747b48ec08c7dc4b132ab}
+
 Practice responses can vary in size (and effort) from writing a single
 word through to writing a complete project report. The effort which is
 involved in completing a practice activity is also a function of how
@@ -33,4 +33,3 @@ unfortunate because practice activities which involve considerable
 response effort are much less likely to be completed than practice
 activities which involve the learner in less response effort. Response
 effort also has a very powerful effect on student motivation.
-:::

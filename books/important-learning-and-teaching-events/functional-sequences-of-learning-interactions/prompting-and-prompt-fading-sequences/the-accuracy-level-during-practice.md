@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Prompting and prompt fading sequences '
 title: 'The accuracy level during practice '
 ---
-# The accuracy level during practice 
+# The accuracy level during practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-589be38ebfe848a9baea58a79650ca2f}
+
 The proportion of learner responses which are correct during practice
 may vary from 0 to 100 per cent. This variable is often referred to as
 the "error rate" but in this account we will refer to it as the accuracy
@@ -43,11 +43,9 @@ routinely counselled to select instructional reading materials which the
 child can read with at least 85% accuracy to maintain motivation. These
 accuracy levels are impossible to achieve using discovery learning
 activities.
-:::
 
-::: referencesList
+
 #### References
 
 -   Rosenshine, B. (1983). Teaching functions in instructional programs.
     The Elementary School Journal, 83, 335-351.
-:::

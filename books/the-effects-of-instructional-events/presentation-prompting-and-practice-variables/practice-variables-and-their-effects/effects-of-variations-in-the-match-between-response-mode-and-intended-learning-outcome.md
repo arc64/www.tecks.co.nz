@@ -9,17 +9,17 @@ parent: 'Practice variables and their effects '
 title: 'Effects of variations in the match between response mode and intended learning
   outcome '
 ---
-# Effects of variations in the match between response mode and intended learning outcome 
+# Effects of variations in the match between response mode and intended learning outcome
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b19b49c9407d4a6584e9a3b08347c103}
+
 It seems reasonable to assume that a learner is more likely to learn how
 to do something new if practice responses closely resemble the terminal
 performance which is being aimed for. For example, it seem reasonable to
@@ -57,9 +57,8 @@ in the performance of a new procedure (Jones, Ollendick & Shinske,
 to 10-year olds learning a fire evacuation procedure found that students
 who practised the steps performed better on the post-test (mean=66) than
 those who just engaged in verbal rehearsal (mean=12).
-:::
 
-::: referencesList
+
 #### References
 
 -   Bradley, L. (1981). The organisation of motor patterns for spelling:
@@ -86,4 +85,3 @@ those who just engaged in verbal rehearsal (mean=12).
     spelling words into small segments on the spelling performance of
     students with learning disabilities. Journal of Behavioral
     Education, 1, 399-411.
-:::

@@ -6,17 +6,17 @@ nav_order: 2
 parent: 'The effects of instructional events '
 title: 'The effects of contingency variables '
 ---
-# The effects of contingency variables 
+# The effects of contingency variables
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-bd91c5737a704d648ddf369ff941945a}
+
 Research into the effects of various kinds of consequences and
 contingency operations on motivation and learning is extensive. The
 effects of reinforcing pupils for their effort, their productivity, and
@@ -44,12 +44,10 @@ contingencies, the effects of introducing and removing positive and
 negative punishment contingencies, the effects of differentially
 reinforcing differing dimensions of performance and the effects of
 differing schedules of reinforcement and punishment.
-:::
 
-::: referencesList
+
 #### References
 
 -   Lysakowski, R. S. & Walberg, H. J. (1981). Classroom reinforcement
     and learning: A quantitative synthesis. Journal of Educational
     Research, 75, 69-77.
-:::

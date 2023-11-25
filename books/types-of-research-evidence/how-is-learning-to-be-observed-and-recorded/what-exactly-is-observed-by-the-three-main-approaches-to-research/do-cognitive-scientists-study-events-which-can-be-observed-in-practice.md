@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What, exactly, is observed by the three main approaches to research? '
 title: 'Do cognitive scientists study events which can be observed in practice? '
 ---
-# Do cognitive scientists study events which can be observed in practice? 
+# Do cognitive scientists study events which can be observed in practice?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-95a83deafbb64f89aacb51822ec718b9}
+
 Most cognitive scientists presume that the behaviour of others exists
 independently of our perception of it (the realist presumption) and that
 the changes which we refer to as learning can be objectively observed
@@ -124,9 +124,8 @@ or she desires and to attribute to these whatever properties he or she
 desires. The use of constructs which cannot be observed leaves the
 cognitive scientist open to the charge that cognitive science is not a
 science at all.
-:::
 
-::: referencesList
+
 #### References
 
 -   Best, J. W., & Kahn, J. V. (1993). Research in education (7th ed.).
@@ -145,4 +144,3 @@ science at all.
     Psychologist, 33, 1005-1008.
 -   Vasta, R., Haith, M. M., & Miller, S. A. (1992). Child psychology:
     The modern science. New York: John Wiley & Sons, Inc.
-:::

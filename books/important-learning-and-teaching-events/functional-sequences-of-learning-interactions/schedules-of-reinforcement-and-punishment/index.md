@@ -7,17 +7,17 @@ nav_order: 8
 parent: 'Functional sequences of learning interactions '
 title: 'Schedules of reinforcement and punishment '
 ---
-# Schedules of reinforcement and punishment 
+# Schedules of reinforcement and punishment
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2df28ceea85f49e4a777fd94a68a003e}
+
 Most behaviours are engaged in repeatedly over time. Sometimes a
 particular response is successful and generates reinforcement and
 sometimes it does not. A student who seeks help in the classroom will
@@ -48,4 +48,3 @@ punishment](../../../../../assets/images/TECKSFig2570.png "Figure 2570. Five bas
 The distinctions in the preceding table are important because different
 schedules of reinforcement have different effects on motivation and
 learning.
-:::

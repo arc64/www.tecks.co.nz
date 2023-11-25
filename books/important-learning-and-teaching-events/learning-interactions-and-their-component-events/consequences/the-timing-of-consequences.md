@@ -8,17 +8,17 @@ nav_order: 8
 parent: 'Consequences '
 title: 'The timing of consequences '
 ---
-# The timing of consequences 
+# The timing of consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b3ca38f97e4a426dad8925decb979095}
+
 The consequence which follows a practice response may follow
 immediately, or after a short delay, or after a long delay. We will
 refer to the interval between responses and consequence as the
@@ -36,4 +36,3 @@ strongest effect when they immediately follow correct responses whereas
 error corrections have their strongest effect if they follow after a
 short delay (long enough for the learner to self correct if they are
 able to).
-:::

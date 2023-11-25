@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What is curriculum? '
 title: 'Features of the New Zealand curriculum '
 ---
-# Features of the New Zealand curriculum 
+# Features of the New Zealand curriculum
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c3d7d08ddfd54ff7b3da395a4205833a}
+
 The New Zealand curriculum (Ministry of Education, 2007) covers the Year
 levels 1 to 13, that is, ages 5 to 17. The curriculum statements apply
 to all New Zealand schools including kura kaupapa Mäori and special
@@ -77,11 +77,9 @@ Maori programmes, English programmes for speakers of other languages
 (ESOL), Pacific Islands language courses, and so on (as long as they
 incorporate the knowledge and understandings described in the eight
 learning areas).
-:::
 
-::: referencesList
+
 #### References
 
 -   Ministry of Education. (2007). The New Zealand curriculum.
     Wellington, NZ: New Zealand Ministry of Education.
-:::

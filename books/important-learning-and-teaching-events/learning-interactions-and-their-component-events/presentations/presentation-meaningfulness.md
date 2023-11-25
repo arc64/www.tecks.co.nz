@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Presentations '
 title: 'Presentation meaningfulness '
 ---
-# Presentation meaningfulness 
+# Presentation meaningfulness
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3190cff7c0c44bc495caa814f61276cd}
+
 Presentations may be more or less meaningful to the individual learner.
 A meaningful presentation is one which "makes sense" to the learner. In
 some accounts, meaningful presentations are referred to as
@@ -32,4 +32,3 @@ The meaningfulness dimension of instructional presentations is of
 critical importance because the content of meaningful presentations is
 more likely to be remembered than the content of presentations which are
 not meaningful to the learner .
-:::

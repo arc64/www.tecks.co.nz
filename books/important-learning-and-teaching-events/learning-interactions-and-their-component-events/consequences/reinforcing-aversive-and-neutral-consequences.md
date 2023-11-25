@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Consequences '
 title: 'Reinforcing, aversive, and neutral consequences '
 ---
-# Reinforcing, aversive, and neutral consequences 
+# Reinforcing, aversive, and neutral consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b74e67fdcd044ddebc2f04bd4c169411}
+
 In modern research into learning and motivation, consequences are
 classified according to their effects. A particular response may work in
 the sense that it produces the consequence which we intended it to
@@ -68,4 +68,3 @@ not a certain response or way of behaving will be learned and used again
 in the future depends upon the consequences produced by that response in
 the past. This is a very strong research finding which has been
 demonstrated hundreds of times.
-:::

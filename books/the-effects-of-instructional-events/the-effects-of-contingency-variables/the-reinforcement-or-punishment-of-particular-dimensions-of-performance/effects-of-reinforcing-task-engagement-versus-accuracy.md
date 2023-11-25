@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'The reinforcement or punishment of particular dimensions of performance '
 title: 'Effects of reinforcing task engagement versus accuracy '
 ---
-# Effects of reinforcing task engagement versus accuracy 
+# Effects of reinforcing task engagement versus accuracy
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f2a58447d72541058bc348b92235ff1b}
+
 In the classroom, the consequences which are being used to motive
 improvements in performance can be made contingent on engagement
 (attending to the task in hand), productivity (completing the task in
@@ -85,9 +85,8 @@ sessions suggest that, when classroom reinforcers are made contingent
 upon improvements in fluency, task engagement tends to be maintained at
 a high level. However, there appear to be no experimental demonstrations
 of this effect.
-:::
 
-::: referencesList
+
 #### References
 
 -   Broughton, S. F., & Lahey, B. B. (1978). Direct and collateral
@@ -121,4 +120,3 @@ of this effect.
 -   Schloss, P. J., Sedlak, R. A., Elliot, C., & Smothers, M. (1982).
     Application of the changing-criterion design in special education.
     The Journal of Special Education, 16, 359-367.
-:::

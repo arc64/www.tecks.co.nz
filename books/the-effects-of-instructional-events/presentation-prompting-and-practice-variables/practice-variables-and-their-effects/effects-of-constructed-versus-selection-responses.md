@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Practice variables and their effects '
 title: 'Effects of constructed versus selection responses '
 ---
-# Effects of constructed versus selection responses 
+# Effects of constructed versus selection responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8876d41ef1964054b7e726538fe3ad4f}
+
 It seems reasonable to assume that practice responses should closely
 simulate the responses which will be required after training has been
 completed. If this is the case, then selection responses will be more
@@ -30,4 +30,3 @@ responses will be more efficient when the child is learning how to
 perform a new response, procedure or skill as in, for example, learning
 to spell or to write or to calculate. However, there appears to have
 been no controlled research into this assumption.
-:::

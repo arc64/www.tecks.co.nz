@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Response-consequence contingencies '
 title: 'Positive versus negative contingencies '
 ---
-# Positive versus negative contingencies 
+# Positive versus negative contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b559239b8805445d866bf2e9cd821848}
+
 Some behaviours make things appear and other behaviours make things go
 away. A child can turn the radio on and make music *appear*. A child can
 turn the radio off and make the music *go away*.
@@ -35,4 +35,3 @@ When we are talking about contingencies, the terms "positive" and
 subtracting something from our immediate environment. These terms ***do
 not*** refer to "good" and "bad" consequences and they ***do not***
 refer to "nice" and "nasty" consequences.
-:::

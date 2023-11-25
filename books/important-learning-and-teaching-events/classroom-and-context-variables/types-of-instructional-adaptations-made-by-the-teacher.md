@@ -7,17 +7,17 @@ nav_order: 6
 parent: 'Classroom and context variables '
 title: 'Types of instructional adaptations made by the teacher '
 ---
-# Types of instructional adaptations made by the teacher 
+# Types of instructional adaptations made by the teacher
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-600bf91eb8d44a70b73d77809bbe3f18}
+
 Every classroom teacher tries to adapt the curriculum and their teaching
 procedures to meet the learning needs of individual students. However,
 the form and frequency of these adaptations vary widely. Some teachers
@@ -45,4 +45,3 @@ types or scheduling of these adaptations. This makes it almost
 impossible to control (and to describe) the teaching procedures used in
 experimental analyses of the effects of teaching on learning in the
 classroom.
-:::

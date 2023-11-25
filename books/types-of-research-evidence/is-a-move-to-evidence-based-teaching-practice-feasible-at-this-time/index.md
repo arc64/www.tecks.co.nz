@@ -6,17 +6,17 @@ nav_order: 4
 parent: 'Types of research evidence '
 title: 'Is a move to evidence-based teaching practice feasible at this time? '
 ---
-# Is a move to evidence-based teaching practice feasible at this time? 
+# Is a move to evidence-based teaching practice feasible at this time?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0f0bb88dd7f4490b9b6b8ed51c0f93e4}
+
 It is increasingly being argued that "teaching should be based on
 research" (e.g. Darling-Hammond & Bransford, 2005; Kameenui, Carnine,
 Dixon, Simmons & Coyne, 2002). However, education researchers sometimes
@@ -53,9 +53,8 @@ certain areas.
 Section 5 asks what progress, if any, has been made in developing an
 empirical theory of the conditions necessary in order for various kinds
 of learning to occur.
-:::
 
-::: referencesList
+
 #### References
 
 -   Darling-Hammond, L. & Bransford, J. (Eds.). (2005). Preparing
@@ -64,4 +63,3 @@ of learning to occur.
 -   Kameenui, E. J., Carnine, D. W., Dixon, R. C., Simmons, D. C., &
     Coyne, M. D. (2002). Effective teaching strategies that accommodate
     diverse learners (2nd ed.). Columbus, OH: Merrill.
-:::

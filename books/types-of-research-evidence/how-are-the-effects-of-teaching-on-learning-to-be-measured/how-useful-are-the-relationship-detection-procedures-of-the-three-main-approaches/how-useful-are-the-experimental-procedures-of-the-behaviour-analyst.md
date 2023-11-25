@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How useful are the relationship detection procedures of the three main approaches? '
 title: 'How useful are the experimental procedures of the behaviour analyst? '
 ---
-# How useful are the experimental procedures of the behaviour analyst? 
+# How useful are the experimental procedures of the behaviour analyst?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-03e864bd697e4618a3ec2e9ab6ab1569}
+
 The teacher or teacher educator who examines a sample of behaviour
 analysis reports will find that most of these are reports of
 within-subject experiments, that the data have been presented separately
@@ -37,4 +37,3 @@ generating results which can be generalised to individual learners. This
 makes these results much more useful to the practising teacher than the
 results of between-groups experiments which cannot be generalised to
 individual learners.
-:::

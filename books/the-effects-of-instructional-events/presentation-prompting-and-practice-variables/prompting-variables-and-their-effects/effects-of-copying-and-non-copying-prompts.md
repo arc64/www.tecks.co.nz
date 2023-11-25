@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Prompting variables and their effects '
 title: 'Effects of copying and non-copying prompts '
 ---
-# Effects of copying and non-copying prompts 
+# Effects of copying and non-copying prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a335116e69c24805b129db837bde2fd4}
+
 It is possible for a prompt to be presented and then removed from view
 prior to responding (a non-copying prompt) or for the prompt to stay in
 view while the learner responds (a copying prompt). Examples of copying
@@ -48,9 +48,8 @@ memory if the model of the correct word is removed prior to the practice
 response (McWilliams, 2005). In this case leaving the prompt in view can
 result in more rapid acquisition than is the case when non-copying
 prompts are used (Van Daal, & Van der Leij, 1992).
-:::
 
-::: referencesList
+
 #### References
 
 -   Anderson, R. C., Kulhavy, R. W., & Andre, T. (1971). Feedback
@@ -65,4 +64,3 @@ prompts are used (Van Daal, & Van der Leij, 1992).
 -   Van Daal, V. H. P., & Van der Leij, A. (1992). Computer-based
     reading and spelling practice for children with learning
     disabilities. Journal of Learning Disabilities, 25, 186-195.
-:::

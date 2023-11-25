@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'How conceptual responses are acquired '
 title: "Necessary condition 3.\_Discrimination practice "
 ---
-# Necessary condition 3. Discrimination practice 
+# Necessary condition 3. Discrimination practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-344b1541f9db45d29e8972683909cf80}
+
 In order to acquire a new generalisation, the learner must learn to
 distinguish between (and to respond differently to) instances which are,
 and which are not, members of the stimulus class. There are few concepts
@@ -40,9 +40,8 @@ most rapid concept formation are the close-in non-examples, that is,
 non-examples which are closely similar to the positive examples selected
 for instruction (Becker & Carnine, 1980; Carnine, 1980a, 1980b; Williams
 & Carnine, 1981).
-:::
 
-::: referencesList
+
 #### References
 
 -   Becker, W. C., & Carnine, D. (1980). Direct Instruction: An
@@ -59,4 +58,3 @@ for instruction (Becker & Carnine, 1980; Carnine, 1980a, 1980b; Williams
 -   Williams, P. B., & Carnine, D. W. (1981), Relationship between range
     of examples and of instructions and attention in concept attainment.
     Journal of Educational Research, 74, 144-148.
-:::

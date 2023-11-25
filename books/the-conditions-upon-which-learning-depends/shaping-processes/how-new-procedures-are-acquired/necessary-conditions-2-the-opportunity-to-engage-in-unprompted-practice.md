@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'How new procedures are acquired '
 title: 'Necessary conditions 2: The opportunity to engage in unprompted practice '
 ---
-# Necessary conditions 2: The opportunity to engage in unprompted practice 
+# Necessary conditions 2: The opportunity to engage in unprompted practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c1aef89101774042a895aa852b242b06}
+
 The aim of procedural learning is to get to the stage where one can
 perform the procedure independently, that is, without assistance. To
 achieve this goal the learner must have the opportunity to engage in
@@ -27,9 +27,8 @@ ability to perform parts of the procedure without error, the prompts for
 those steps should be removed so that acquisition is not delayed (e.g.,
 Chandler, Schuster & Stevens, 1993; Paine, Carnine, White, & Walters,
 1982; Wolery, Ault, Gast & Doyle, 1990).
-:::
 
-::: referencesList
+
 #### References
 
 -   Chandler, W., Schuster, J. W., & Stevens, K. B. (1993). Teaching
@@ -44,4 +43,3 @@ Chandler, Schuster & Stevens, 1993; Paine, Carnine, White, & Walters,
     of constant time delay and the system of least prompts in teaching
     chained tasks. Education and Training in Mental Retardation, 25,
     243-257.
-:::

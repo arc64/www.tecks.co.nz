@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The content of the mathematics curriculum '
 title: 'Achievement objectives for mathematics '
 ---
-# Achievement objectives for mathematics 
+# Achievement objectives for mathematics
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4c5618f5d67145d092255a6860c9dd81}
+
 Summaries of the achievement objectives for the first three levels of
 study in number and algebra, geometry and measurement, and statistics
 are as follows.
@@ -162,4 +162,3 @@ require them to:*
 -   Investigate simple situations that involve elements of chance by
     comparing experimental results with expectations from models of all
     the outcomes, acknowledging that samples vary.
-:::

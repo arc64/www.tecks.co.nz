@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'What is to count as evidence? '
 title: 'Evidence gathered using what kinds of research? '
 ---
-# Evidence gathered using what kinds of research? 
+# Evidence gathered using what kinds of research?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8443f2cad9694e33bf33e603499bf3be}
+
 It is possible to make the case that teaching practice should be based
 on the results of research, but only if it is understood that questions
 about teaching can take a variety of forms. Sometimes we are interested
@@ -163,9 +163,8 @@ base on particular aspects of teaching practice a fairly sophisticated
 understanding of the various types of research method and the kinds of
 knowledge which they generate is required. A more detailed account of
 these difficulties will be found in Book 3 of this website.
-:::
 
-::: referencesList
+
 #### References
 
 -   Alton-Lee, A. (2003). Quality teaching for diverse students in
@@ -211,4 +210,3 @@ these difficulties will be found in Book 3 of this website.
     behavior by modifying task difficulty: Effects of increasing the
     difficulty of too-easy tasks. Journal of Positive Behavior
     Interventions, 6, 13-20.
-:::

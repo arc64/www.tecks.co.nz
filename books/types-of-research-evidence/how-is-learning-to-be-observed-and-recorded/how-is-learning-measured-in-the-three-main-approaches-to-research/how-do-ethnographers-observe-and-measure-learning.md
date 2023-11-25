@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'How is learning measured in the three main approaches to research? '
 title: 'How do ethnographers observe and measure learning? '
 ---
-# How do ethnographers observe and measure learning? 
+# How do ethnographers observe and measure learning?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4bf2667be9534ee69115dfeb5d70742e}
+
 Ethnographic recording procedures are procedures which have been
 developed to provide a holistic picture or portrayal of the social life
 or culture of a particular social setting or site. However,
@@ -105,9 +105,8 @@ distinguish between interval scale and nominal scale measures of
 behaviour, and they do not distinguish between idemnotic and vaganotic
 measures of change. Textbooks on qualitative research methods simply
 ignore all of these matters.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bogdan, R. C., & Biklen, S. K. (1992). Qualitative research for
@@ -128,4 +127,3 @@ ignore all of these matters.
     Hills, CA: Sage Publications.
 -   Patton, M. Q. (1990). Qualitative evaluation and research methods
     (2nd ed.). Newbury Park, CA: Sage.
-:::

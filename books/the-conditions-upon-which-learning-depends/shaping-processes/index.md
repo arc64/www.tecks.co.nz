@@ -6,17 +6,17 @@ nav_order: 3
 parent: 'The conditions upon which learning depends '
 title: 'Shaping processes '
 ---
-# Shaping processes 
+# Shaping processes
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e1100063d85b443daf3de2d1f26e7913}
+
 Most research into the conditions affecting learning has been research
 into acquisition. Here too, the conditions which are necessary for
 learning depend upon the type of competency which the learner is
@@ -35,4 +35,3 @@ which involve the recombination of previously acquired skills. In this
 section and the section which follows we will attempt to identify the
 conditions which are necessary for (a) the acquisition of completely new
 behaviours and (b) the acquisition of new procedures and operations.
-:::

@@ -7,17 +7,17 @@ nav_order: 5
 parent: 'The effects of contingency variables '
 title: 'Negative punishment contingencies and their effects '
 ---
-# Negative punishment contingencies and their effects 
+# Negative punishment contingencies and their effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5b614fe371c94e55a5777d4558f836eb}
+
 Just as access to a desired activity will function as a reinforcing
 consequence, so loss of access to a desired activity will function as an
 aversive consequence. Let us say for example, that a particular child
@@ -41,12 +41,10 @@ engaging in a particular prohibited activity. Time out only functions as
 a punishment contingency if the child is engaged in, or is about to
 engage in, an activity which is a desired activity or high probability
 activity as far as he or she is concerned.
-:::
 
-::: referencesList
+
 #### References
 
 -   Lovitt, T. C., Lovitt, A. O., Eaton, M. D., & Kirkwood, M. (1973).
     The deceleration of inappropriate comments by a natural consequence.
     Journal of School Psychology, 11, 148-154.
-:::

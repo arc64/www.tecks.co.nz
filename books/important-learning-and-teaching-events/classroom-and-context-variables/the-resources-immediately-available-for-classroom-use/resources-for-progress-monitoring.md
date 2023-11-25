@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The resources immediately available for classroom use '
 title: 'Resources for progress monitoring '
 ---
-# Resources for progress monitoring 
+# Resources for progress monitoring
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-33d8be87091042fe95597f8bd1fa7d24}
+
 The term *progress monitoring test* refers to the 1-3 minute fluency
 tests which effective teachers use on a daily or twice weekly basis to
 measure student progress towards defined teaching goals such as decoding
@@ -37,4 +37,3 @@ the materials provision for progress monitoring may be measured by
 examining the school store room and counting the number of academic
 skills at each year level for which sets of probe tests are immediately
 available for classroom use.
-:::

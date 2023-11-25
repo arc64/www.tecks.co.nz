@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What types of explanation are sought by the three main approaches to research? '
 title: 'The types of explanation sought by cognitive scientists '
 ---
-# The types of explanation sought by cognitive scientists 
+# The types of explanation sought by cognitive scientists
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e3b6401407dd48b9a2a9cbb2a33532b6}
+
 Most cognitive scientists work on the presumption "that there are
 general laws that hold across individuals" (Borg & Gall, 1989, p. 24)
 and that the aim of research into an area such as learning and teaching
@@ -242,9 +242,8 @@ the dyslexia has been inferred *from the reading performance* this
 explanation is tautological. (We might as well say that "the reason why
 this student is reading at a low level is because I have seen him
 reading poorly.")
-:::
 
-::: referencesList
+
 #### References
 
 -   Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed
@@ -284,4 +283,3 @@ reading poorly.")
 -   Thagard, P. (1996). Cognitive Science. In N. Zalta (Ed.), Stanford
     Encyclopedia of Philosophy. Retrieved 15 January, 2001 from
     http://plato.stanford.edu/entries/cognitive-science/
-:::

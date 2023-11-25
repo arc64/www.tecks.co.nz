@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Contingency errors '
 title: 'Inadvertent positive reinforcement of misbehaviour '
 ---
-# Inadvertent positive reinforcement of misbehaviour 
+# Inadvertent positive reinforcement of misbehaviour
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-27d516312b104bbba28a070f05ce14d7}
+
 Whether a particular behaviour is socially "appropriate" or
 "inappropriate" is quite irrelevant when trying to identify the
 contingency which is motivating continued use of that behaviour.
@@ -41,4 +41,3 @@ has reached the independence phase -- with the result that dependency is
 inadvertently reinforced. One of the major causes of behaviour problems
 in children of all ages occurs when children discover that inappropriate
 behaviour works to get them something which they want.
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Negative punishment contingencies and their effects '
 title: 'Effects of time out from reinforcement '
 ---
-# Effects of time out from reinforcement 
+# Effects of time out from reinforcement
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-20e728276789444ea20bb52a9f753f8c}
+
 Time out from the current activity is widely used by parents as a
 punishment for defiance and other kinds of misbehaviour. It is also the
 punishment procedure recommended in most modern books on parenting
@@ -54,9 +54,8 @@ The effectiveness of time out depends to some extent to the punishment
 schedule with time-out following each disruptive response producing
 faster suppression than is the case with more intermittent schedules
 (Clark, Rowberry, Baer & Baer, 1973).
-:::
 
-::: referencesList
+
 #### References
 
 -   Baer, A. M., Rowbury, T. & Baer, D. M. (1973). The development of
@@ -85,4 +84,3 @@ faster suppression than is the case with more intermittent schedules
 -   Sherburne, S., Utley, B., McConnell, S., & Gannon, J. (1988).
     Decreasing violent or aggressive theme play among preschool children
     with behavior disorders. Exceptional Children, 55, 166-172.
-:::

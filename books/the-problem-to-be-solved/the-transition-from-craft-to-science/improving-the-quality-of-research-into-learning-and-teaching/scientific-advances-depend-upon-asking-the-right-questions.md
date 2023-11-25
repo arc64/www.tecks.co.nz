@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Improving the quality of research into learning and teaching '
 title: 'Scientific advances depend upon asking the right questions '
 ---
-# Scientific advances depend upon asking the right questions 
+# Scientific advances depend upon asking the right questions
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7145f4445954462182b7bcc45e16b3d7}
+
 In order for a field to advance, the researchers in that field must be
 in a position to ask worthwhile questions and to distinguish between
 questions which are worth studying and those which are not. A huge
@@ -233,9 +233,8 @@ Grossen, 1996; Nuthall, 2001; Meyer, 2002; Ravitch, 1998; Walsh, 2006).
 "Until we do longitudinal research on which approaches do in fact result
 in raising student achievement and reducing disparities, we are simply
 engaging in superstitious behaviour" (Meyer, 2002).
-:::
 
-::: referencesList
+
 #### References
 
 -   Becher, T. (1989). Academic tribes and territories: Intellectual
@@ -307,4 +306,3 @@ engaging in superstitious behaviour" (Meyer, 2002).
 -   Walsh, K. (2006). Teacher education: Coming up empty. Fwd:, 3(1),
     Retrieved 17 July 2006 from
     http://www.edexcellence.net/institute/publication/publication.cfm?id=353
-:::

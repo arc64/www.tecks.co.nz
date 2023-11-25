@@ -7,17 +7,17 @@ nav_order: 5
 parent: 'How is learning to be observed and recorded? '
 title: 'What standards are used when assessing the believability of reports of learning '
 ---
-# What standards are used when assessing the believability of reports of learning 
+# What standards are used when assessing the believability of reports of learning
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-870a91b8b4ab4079a6b1734fa746d8eb}
+
 "Whenever we observe something, we make errors; period, no exceptions,
 ever" (Dane, 1990, p. 28). Given that all measurement procedures are
 prone to error, it follows that the believability of a set of
@@ -41,11 +41,9 @@ which data quality can be compromised, the steps which educational
 researchers often take in order to enhance the believability of their
 data, and the main procedures which are used when evaluating data
 quality and believability.
-:::
 
-::: referencesList
+
 #### References
 
 -   Dane, F. C. (1990). Research methods. Pacific Grove, CA:
     Brooks/Cole.
-:::

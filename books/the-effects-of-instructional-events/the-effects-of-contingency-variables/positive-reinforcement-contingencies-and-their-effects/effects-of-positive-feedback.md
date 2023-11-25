@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Positive reinforcement contingencies and their effects '
 title: 'Effects of positive feedback '
 ---
-# Effects of positive feedback 
+# Effects of positive feedback
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5a6cee2745c54f7b898ccf1988d41d13}
+
 Positive feedback is the information which signals that a practice
 response is correct or appropriate or that a task has been performed in
 a satisfactory manner. Much of the positive feedback which occurs in
@@ -134,9 +134,8 @@ than children who receive feedback following a block of practice
 responses and children who receive feedback following a block of
 responses show greater improvement than children who receive feedback
 some time later (such as the following day) (Hillman, 1970).
-:::
 
-::: referencesList
+
 #### References
 
 -   Conlon, M. F., Hall, C., & Hanley, E. M. (1972). The effects of a
@@ -205,4 +204,3 @@ some time later (such as the following day) (Hillman, 1970).
     the classroom. In W. L. Heward, T. E. Heron, D. S. Hill, & J.
     Trap-Porter (Eds.), Focus on behavior analysis in education.
     Columbus, OH: Charles E. Merrill Publishing Co.
-:::

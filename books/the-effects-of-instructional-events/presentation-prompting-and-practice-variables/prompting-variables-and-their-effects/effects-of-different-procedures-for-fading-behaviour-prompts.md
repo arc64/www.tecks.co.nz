@@ -8,17 +8,17 @@ nav_order: 11
 parent: 'Prompting variables and their effects '
 title: 'Effects of different procedures for fading behaviour prompts '
 ---
-# Effects of different procedures for fading behaviour prompts 
+# Effects of different procedures for fading behaviour prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ad68edf9f2074199a3ac4832336b19d7}
+
 In order to shape independent performance of a new response or skill,
 any prompts which were used during the initial learning phase must be
 removed so that the learner has the opportunity to engage in independent
@@ -113,9 +113,8 @@ means that the parent, peer tutor or teacher can clearly see whether or
 not a prompt is necessary and can judge very accurately when prompting
 is no longer required. This makes the premature removal of prompts, and
 the use of unnecessary prompts, much less likely.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bennett, D. L., Gast, D. L., Wolery, M., & Schuster, J. (1986). Time
@@ -189,4 +188,3 @@ the use of unnecessary prompts, much less likely.
     Efficacy of constant time delay implemented by peer tutors in
     general education classrooms. Journal of Behavioral Education, 4,
     415-436.
-:::

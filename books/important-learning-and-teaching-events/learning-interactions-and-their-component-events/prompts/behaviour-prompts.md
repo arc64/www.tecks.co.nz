@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Prompts '
 title: 'Behaviour prompts '
 ---
-# Behaviour prompts 
+# Behaviour prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-70364cf84ff741f3a40dfe0dbe4e4cc1}
+
 Behaviour prompts are prompts which show or tell the learner how to
 perform a new behaviour, skill, or sequence of responses. A teacher who
 models a forehand tennis stroke to a novice tennis player is using a
@@ -93,4 +93,3 @@ procedure is prompted using a mixture of both demonstrations and
 instructions. Teaching a student how to perform the procedure for adding
 fractions, for example, would usually be achieved by both describing and
 demonstrating each of the steps in the procedure.
-:::

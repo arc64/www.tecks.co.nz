@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Effects of removing a pre-existing contingency '
 title: 'Effects of removing a punishment contingency (recovery) '
 ---
-# Effects of removing a punishment contingency (recovery) 
+# Effects of removing a punishment contingency (recovery)
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-03e83fa4c5944dada5c2d5fce1d64ddb}
+
 *Recovery* refers to operations where a punishment contingency which
 previously operated ceases to operate and the learner begins once again
 to engage in the behaviour which had been suppressed by the punishment
@@ -44,9 +44,8 @@ not acquired while the punishment contingency is operating and in cases
 where the inappropriate behaviour continues to generate reinforcement
 for the person using it both while the punishment contingency is
 operating and following its withdrawal.
-:::
 
-::: referencesList
+
 #### References
 
 -   Luce, S. C., Delquadri, J., & Hall, R. V. (1980). Contingent
@@ -56,4 +55,3 @@ operating and following its withdrawal.
 -   Ramp, E., Ulrich, R., & Dulaney, S. (1971). Delayed timeout as a
     procedure for reducing disruptive classroom behavior: A case study.
     Journal of Applied Behavior Analysis, 4, 235-239.
-:::

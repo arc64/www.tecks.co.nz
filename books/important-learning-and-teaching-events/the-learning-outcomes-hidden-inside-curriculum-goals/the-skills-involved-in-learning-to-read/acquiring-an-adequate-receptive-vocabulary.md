@@ -8,17 +8,17 @@ nav_order: 7
 parent: 'The skills involved in learning to read '
 title: 'Acquiring an adequate receptive vocabulary '
 ---
-# Acquiring an adequate receptive vocabulary 
+# Acquiring an adequate receptive vocabulary
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5d8afccebdec4e48818deb6f13c710da}
+
 While an adequate level of reading fluency is necessary for
 comprehension it is not sufficient for comprehension. Comprehension of a
 text requires also that the student knows (has learned) the meanings of
@@ -43,9 +43,8 @@ governing the structure and organisation of the various written genres.
 This means that, following the first three years at school, the student
 should be exposed not only to narrative texts, but also to descriptive,
 expository and explanatory texts on a regular basis.
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, M. J. (1990). Beginning to read: Thinking and learning about
@@ -57,4 +56,3 @@ expository and explanatory texts on a regular basis.
     NJ: Lawrence Erlbaum.
 -   Sidman, M. (1994). Equivalence relations and behavior: A research
     story. Boston: Authors Cooperative.
-:::

@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Natural science, social science, and ethnographic approaches to research '
 title: 'Ethnographic approaches to education research '
 ---
-# Ethnographic approaches to education research 
+# Ethnographic approaches to education research
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-df50f555a86147ddb21a67177f170c7a}
+
 For most of the 20th century, the intensive investigation of a single
 site or context has been referred to as ethnography. Ethnographic
 research methods were initially developed by social anthropologists
@@ -86,9 +86,8 @@ behaviour in terms of the beliefs which people hold about their
 behaviour is commonly referred to as interpretive research and this is
 the most common kind of ethnographic research currently being undertaken
 in classrooms.
-:::
 
-::: referencesList
+
 #### References
 
 -   Becker, H. S. (1952). Social-class variations in the teacher-pupil
@@ -138,4 +137,3 @@ in classrooms.
 -   Wolcott, H. F. (1988). Ethnographic research in education. In R. M.
     Jaeger (Ed.), Complementary methods for research in education (pp.
     185-206). Washington, DC: American Educational Research Association.
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The components of individual learning interactions '
 title: 'The distinction between stimuli and responses '
 ---
-# The distinction between stimuli and responses 
+# The distinction between stimuli and responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-bfaed34a6a8e4499b5894da07d3db9c0}
+
 The description and analysis of a learning interaction requires us to
 distinguish between (a) learner responses and (b) the stimuli (the
 objects and events) to which the learner is responding.
@@ -59,4 +59,3 @@ The great majority of stimuli are outside the learner but stimuli may be
 internal as when the learner responds to bodily sensations of various
 kinds (e.g. the sensation of a full bladder, the pain from a twisted
 ankle, a pounding heart, and so on).
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'What standards are used to evaluate the results of an experimental analysis? '
 title: 'The reliability (reproducibility) of the experimental procedure '
 ---
-# The reliability (reproducibility) of the experimental procedure 
+# The reliability (reproducibility) of the experimental procedure
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7656bac6e0fe4a4ca4876e65e73ae713}
+
 The first question which may be asked of a set of experimental
 procedures is the question "Did each experimental treatment operate in a
 consistent fashion from one occasion to the next?" In other words, if
@@ -40,4 +40,3 @@ experimental design is most commonly referred to as experimental
 control. The reliability of a set of experimental results is closely
 related to the degree of experimental control achieved during the course
 of the experiment.
-:::

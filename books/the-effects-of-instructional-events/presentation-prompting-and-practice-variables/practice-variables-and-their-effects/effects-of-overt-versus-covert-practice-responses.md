@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Practice variables and their effects '
 title: 'Effects of overt versus covert practice responses '
 ---
-# Effects of overt versus covert practice responses 
+# Effects of overt versus covert practice responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c69c95a56a874ee8b5cac1e469754ebc}
+
 The traditional classroom lesson -- in which the teacher asks a question
 and calls upon a single child to respond -- rests on the assumption that
 students learn as much from listening to a question-and-answer sequence
@@ -53,9 +53,8 @@ that that the superior acquisition which results when every child is
 required to respond overtly is a function of the requirement to respond
 (that is, increased task engagement) than it is to the requirement to
 respond overtly (rather than covertly).
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, G. L., & Engelmann, S. (1996). Research on Direct
@@ -84,4 +83,3 @@ respond overtly (rather than covertly).
     cards: Effects on test achievement, quiz achievement, participation,
     and off-task behavior. Journal of Positive Behavior Interventions,
     9, 113-128.
-:::

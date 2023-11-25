@@ -6,17 +6,17 @@ nav_order: 1
 parent: 'Types of research evidence '
 title: 'Approaches to research into learning and teaching '
 ---
-# Approaches to research into learning and teaching 
+# Approaches to research into learning and teaching
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8d9e1b9932bd425091d32974018208b4}
+
 Chapter 1 consists of 5 sections. Section 1 identifies the most common
 approaches to research in education. Section 2 examines the extent to
 which each of these approaches to research have learning and/or teaching
@@ -28,4 +28,3 @@ and teaching is most likely (a) to identify the conditions necessary in
 order for different kind of learning to occur and hence most likely (b)
 to identify the teaching procedures which are effective in developing
 different kinds of learning outcomes in different kinds of learners
-:::

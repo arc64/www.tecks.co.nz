@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'Basic types of acquisition outcomes '
 title: 'The acquisition of new knowledge '
 ---
-# The acquisition of new knowledge 
+# The acquisition of new knowledge
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d8d3b148c41a416ca8106ee81c15d3d4}
+
 There is a third kind of correct responding which we expect of children
 and this is the acquisition of new knowledge. In this third case, the
 learner\'s response does not have to be an exact, word-for-word
@@ -116,4 +116,3 @@ the original presentation. In order to respond correctly to a
 paraphrased question, the student must have understood and remembered
 the meaning of the original proposition (and not just memorised the
 words used in the presentation of the proposition).
-:::

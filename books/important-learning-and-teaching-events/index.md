@@ -5,17 +5,17 @@ layout: default
 nav_order: 2
 title: 'Important learning and teaching events '
 ---
-# Important learning and teaching events 
+# Important learning and teaching events
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-95d27fac776f42a4990d46cfa2e879f8}
+
 Distinctions between the events which do (and do not) affect learning
 are absolutely critical if we are to develop a science of learning and
 teaching. Little or no progress was made in any of the established
@@ -55,4 +55,3 @@ and the acquisition and retention of new responses. In Chapter 5, we
 list some of the ways in which learning interactions and their component
 events can be sequenced by teachers (and learners) in their attempts to
 acquire and master new skills and understandings.
-:::

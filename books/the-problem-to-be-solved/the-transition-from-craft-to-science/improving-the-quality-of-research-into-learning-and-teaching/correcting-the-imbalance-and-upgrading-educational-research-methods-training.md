@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Improving the quality of research into learning and teaching '
 title: 'Correcting the imbalance and upgrading educational research methods training '
 ---
-# Correcting the imbalance and upgrading educational research methods training 
+# Correcting the imbalance and upgrading educational research methods training
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f9a291e936734fdc9e1aa9bc648fb489}
+
 Investigators who call themselves "scientists" use a wide range of
 different investigative procedures (Phillips, 2006). For example,
 questions about "what works" are essentially causal questions and, in
@@ -158,9 +158,8 @@ and learning can be reliably identified during data analysis.
 We will know that the move to evidence-based practice is becoming more
 likely as increasing numbers of PhD candidates begin to engage in
 research projects which meet these requirements.
-:::
 
-::: referencesList
+
 #### References
 
 -   Boote, D. N. & Beille, P. (2005). Scholars before researchers: On
@@ -182,4 +181,3 @@ research projects which meet these requirements.
 -   Raudenbush, S. R. (2005). Learning from attempts to improve
     schooling: The contribution of methodological diversity. Educational
     Researcher, 35(5), 25-31.
-:::

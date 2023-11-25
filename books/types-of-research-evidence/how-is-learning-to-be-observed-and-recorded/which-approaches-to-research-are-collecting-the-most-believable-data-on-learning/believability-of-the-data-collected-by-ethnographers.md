@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Which approaches to research are collecting the most believable data on learning? '
 title: 'Believability of the data collected by ethnographers '
 ---
-# Believability of the data collected by ethnographers 
+# Believability of the data collected by ethnographers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8efbec0172c04234ac7b003f52cfd7cd}
+
 Qualitative researchers are concerned with data quality issues and these
 are addressed in most qualitative methods texts. However, qualitative
 researchers have yet to develop a common vocabulary for discussing data
@@ -294,9 +294,8 @@ follow from that data. The report is more like a novel, a poem, or a
 piece of music - enjoyable, insightful and stimulating but not something
 from which any kind of new knowledge, prediction, or practical
 implication can be derived.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bogdan, R. C., & Biklen, S. K. (1992). Qualitative research for
@@ -352,4 +351,3 @@ implication can be derived.
 -   Wolcott, H. F. (1988). Ethnographic research in education. In R. M.
     Jaeger (Ed.), Complementary methods for research in education (pp.
     185-206). Washington, DC: American Educational Research Association.
-:::

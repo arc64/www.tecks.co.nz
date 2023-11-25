@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'The skills involved in learning to read '
 title: 'Acquiring decoding fluency '
 ---
-# Acquiring decoding fluency 
+# Acquiring decoding fluency
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8cc6367166b94000a2f8a1679402fc20}
+
 Once the child has learned the code (or at least the first 80 or so
 items of the code) the ability to read these commonly occurring
 graphemes needs to be built to a functional level of fluency
@@ -52,9 +52,8 @@ passages containing unknown words and the level of prose reading fluency
 is likely to be too slow to be sufficiently interesting to motivate the
 large amount of reading practice which is required in order to become a
 competent reader.
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, M. J. (1990). Beginning to read: Thinking and learning about
@@ -65,4 +64,3 @@ competent reader.
 -   Share, D. L., & Stanovich, K. E. (1995). Cognitive processes in
     early reading development: Accommodating individual differences into
     a model of acquisition. Issues in Education, 1, 1-57.
-:::

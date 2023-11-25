@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'What, exactly, is observed by the three main approaches to research? '
 title: 'Do ethnographers study events which can be observed in practice? '
 ---
-# Do ethnographers study events which can be observed in practice? 
+# Do ethnographers study events which can be observed in practice?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9be2403694a8445e8c7be9b772cb6ff3}
+
 Qualitative researchers tend to disagree amongst themselves with respect
 to the epistemological assumptions which underpin their research. Some
 qualitative researchers adopt a realist or critical realist position.
@@ -130,9 +130,8 @@ teaching) then it follows that the systematic observation of instances
 of learning and teaching is pointless. If, as a result of systematic
 observation, no generalisations about learning and/or teaching are
 possible, then the research endeavour itself is pointless.
-:::
 
-::: referencesList
+
 #### References
 
 -   Clark, J. (1997). Educational research: Philosophy, politics,
@@ -156,4 +155,3 @@ possible, then the research endeavour itself is pointless.
 -   Phillips, D. C. (1992). The social scientist\'s bestiary: A guide to
     fabled threats to, and defences of, naturalistic social science.
     Oxford, england: Pergamon Press.
-:::

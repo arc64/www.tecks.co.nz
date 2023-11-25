@@ -8,17 +8,17 @@ nav_order: 8
 parent: 'Response-consequence contingencies '
 title: 'Negative punishment contingencies '
 ---
-# Negative punishment contingencies 
+# Negative punishment contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2554da21782d4da0a51c6aea2df0e652}
+
 There is a second kind of penalty which a behaviour may have. A
 behaviour may have a cost. When performed, it may result in the
 *subtraction* of something from that person\'s environment. It may
@@ -81,4 +81,3 @@ side of the classroom for a few minutes following stated misbehaviours
 (often referred to as "sit and wait"), sending the child to her room
 following stated misbehaviours at home (often referred to as "time
 out"), and sending a player off the field following a rule infringement.
-:::

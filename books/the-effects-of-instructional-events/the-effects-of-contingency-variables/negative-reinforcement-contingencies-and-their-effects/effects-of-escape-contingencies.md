@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Negative reinforcement contingencies and their effects '
 title: 'Effects of escape contingencies '
 ---
-# Effects of escape contingencies 
+# Effects of escape contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-799e4bd2449e4629b681231d40824102}
+
 The effects of escape contingencies in educational settings appears to
 have been little studied. This is probably because such studies would
 involve the application of an aversive stimulus which would continue in
@@ -31,9 +31,8 @@ tantrums have shown this to be the case both in children with persistent
 behaviour problems (Heckaman, Conroy, Fox & Chait, 2000) and in children
 without behaviour problems (e.g. Lee Wilder, Chen, Atwell, Pritchard &
 Weinstein, 2006).
-:::
 
-::: referencesList
+
 #### References
 
 -   Heckaman, K., Conroy. M., Fox, J., & Chait, A. (2000). Functional
@@ -44,4 +43,3 @@ Weinstein, 2006).
     (2006). Brief functional analysis and treatment of tantrums
     associated with transitions in preschool children. Journal of
     Applied Behavior Analysis, 39, 103-107.
-:::

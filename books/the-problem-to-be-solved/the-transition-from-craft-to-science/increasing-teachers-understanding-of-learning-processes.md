@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'The transition from craft to science '
 title: 'Increasing teachers'' understanding of learning processes '
 ---
-# Increasing teachers' understanding of learning processes 
+# Increasing teachers' understanding of learning processes
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ae24514050504bac9d43be360cec5372}
+
 A number of surveys have found relatively low levels of knowledge about
 learning at all levels of the teaching profession. For example, teachers
 often leave teacher education programmes with little knowledge of
@@ -126,9 +126,8 @@ to be sufficiently extensive to allow time for beliefs to change.
 Otherwise the cognitive conflict engendered by the new knowledge will
 not result in a change in beliefs about how learning occurs. It will
 result in a rejection of the hard won scientific knowledge.
-:::
 
-::: referencesList
+
 #### References
 
 -   Aitken, J. (1997). Policy makers' expectations: Education Review
@@ -187,4 +186,3 @@ result in a rejection of the hard won scientific knowledge.
 -   Yates, G. C. R. (2005). "How obvious": Personal reflections on the
     database of educational psychology and effective teaching research.
     Educational Psychology, 25, 681-700.
-:::

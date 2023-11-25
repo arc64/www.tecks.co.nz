@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'Prompting variables and their effects '
 title: 'Effects of variations in the accuracy level of responding during instruction '
 ---
-# Effects of variations in the accuracy level of responding during instruction 
+# Effects of variations in the accuracy level of responding during instruction
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-143ce984f4224052b351a1375fa121a0}
+
 Prompts have a crucial role to play during the initial learning phase of
 any new skill because they function to increase the level of correct
 responding (and to reduce the number of errors) made by the learner. The
@@ -78,9 +78,8 @@ motivation. Barak Rosenshine, who has written a number of reviews of
 research on teaching, is of the opinion that teachers should use
 prompting procedures which ensure that the learner is responding
 correctly at least 80 per cent of the time (Rosenshine, 1983, p. 341).
-:::
 
-::: referencesList
+
 #### References
 
 -   Bennett, D. L., Gast, D. L., Wolery, M., & Schuster, J. (1986). Time
@@ -105,4 +104,3 @@ correctly at least 80 per cent of the time (Rosenshine, 1983, p. 341).
     Comparison of constant time delay and the system of least prompts in
     teaching chained tasks. Education and Training in Mental
     Retardation, 25, 243-257.
-:::

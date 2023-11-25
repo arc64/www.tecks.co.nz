@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Learning processes, learning outcomes and phases of learning '
 title: 'What is learning? '
 ---
-# What is learning? 
+# What is learning?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6d2c9f5399d04044ae1a42e3e52d0a82}
+
 Gage and Berliner (1988) provide a fairly mainstream definition of
 learning.
 
@@ -70,4 +70,3 @@ maturation, or injury.
 Let us elaborate this common definition of learning to identify some of
 the implications and issues that arise when we try to study the
 phenomena which we refer to as learning.
-:::

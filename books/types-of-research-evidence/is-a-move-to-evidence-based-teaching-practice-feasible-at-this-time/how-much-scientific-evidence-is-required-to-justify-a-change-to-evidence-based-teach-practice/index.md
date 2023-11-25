@@ -8,17 +8,17 @@ parent: 'Is a move to evidence-based teaching practice feasible at this time? '
 title: 'How much scientific evidence is required to justify a change to evidence-based
   teach practice? '
 ---
-# How much scientific evidence is required to justify a change to evidence-based teach practice? 
+# How much scientific evidence is required to justify a change to evidence-based teach practice?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-14f2ddb3934c4fd8bd02ef67c895bb86}
+
 Some generalisations about the conditions necessary for learning, or the
 effects of a given teaching practice on learning have no research
 support, some are supported by the results of a single investigation and
@@ -26,4 +26,3 @@ some are supported by the results of many investigations by different
 teams of researchers. This raises the question of many times a research
 finding result needs to be replicated before it is admitted to the
 research base for teaching practice.
-:::

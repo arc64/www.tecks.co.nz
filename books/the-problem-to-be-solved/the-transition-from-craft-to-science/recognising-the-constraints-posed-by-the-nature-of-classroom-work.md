@@ -7,17 +7,17 @@ nav_order: 4
 parent: 'The transition from craft to science '
 title: 'Recognising the constraints posed by the nature of classroom work '
 ---
-# Recognising the constraints posed by the nature of classroom work 
+# Recognising the constraints posed by the nature of classroom work
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4bb28d4fbca342b2bf10cf5966899ba5}
+
 Classroom teaching is a task which looks easy -- because the *content*
 of that teaching is something which we have all experienced (Labaree,
 2004). It is, however, an enormously complex task. The classroom teacher
@@ -225,9 +225,8 @@ buy in the necessary expertise and to invest in the necessary
 infrastructure. One of the ways of accomplishing this -- by recruiting
 and training teacher educators to engage in materials development
 research and evaluation -- is described below.
-:::
 
-::: referencesList
+
 #### References
 
 -   Alberta Teachers' Association. (nd). Alberta teachers: A workload
@@ -284,4 +283,3 @@ research and evaluation -- is described below.
 -   Wößmann, L. & West, M. (2006). Class-size effects in school systems
     around the world: Evidence from between-grade variation in TIMSS.
     European Economic Review, 50, 695-736.
-:::

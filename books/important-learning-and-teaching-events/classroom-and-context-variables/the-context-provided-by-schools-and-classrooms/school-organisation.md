@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The context provided by schools and classrooms '
 title: 'School organisation '
 ---
-# School organisation 
+# School organisation
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4527d7009b0e43e9910d4d51565e1bbe}
+
 Classroom teaching occurs in schools. Schools vary with respect to the
 way in which they are organised, their organisational efficiency, and
 the extent to which school organisation supports classroom teaching and
@@ -48,4 +48,3 @@ attention. A second way of measuring the extent to which school and
 classroom organisation supports learning is to calculate the time spent
 by individual students in curriculum relevant learning activities as a
 proportion of the total time in which the school is open.
-:::

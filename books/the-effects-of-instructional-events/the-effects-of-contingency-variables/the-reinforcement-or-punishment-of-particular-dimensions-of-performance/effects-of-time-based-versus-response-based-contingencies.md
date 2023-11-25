@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'The reinforcement or punishment of particular dimensions of performance '
 title: 'Effects of time based versus response based contingencies '
 ---
-# Effects of time based versus response based contingencies 
+# Effects of time based versus response based contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7e7398b7882148bcbfb91ce43f0ad78f}
+
 There are a number of situations where teachers have a choice between
 response-based and time-based contingencies.
 
@@ -44,9 +44,8 @@ maths worksheets they found that the students preferred to earn
 reinforcement for being on task when the worksheets contained difficult
 exercises but to earn reinforcement for the number completed when the
 worksheets contained easy exercises.
-:::
 
-::: referencesList
+
 #### References
 
 -   Lannie, A. L., Martens, B. K. (2004). Effects of task difficulty and
@@ -55,4 +54,3 @@ worksheets contained easy exercises.
 -   Trice, A. D., & Parker, F. C. (1983). Decreasing adolescent swearing
     in an instructional setting. Education & Treatment of Children, 6,
     29-35.
-:::

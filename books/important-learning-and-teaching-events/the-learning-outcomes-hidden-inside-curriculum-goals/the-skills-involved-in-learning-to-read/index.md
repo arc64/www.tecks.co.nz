@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'The learning outcomes hidden inside curriculum goals '
 title: 'The skills involved in learning to read '
 ---
-# The skills involved in learning to read 
+# The skills involved in learning to read
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ce0e9e69aee2474fb1e9223e6bcdcd78}
+
 There have been many hundreds of research based analyses of how children
 learn to read and the results of this research have been summarised by
 many authors (e.g. Adams, 1990; Jenkins & O\'Connor, 2002; National
@@ -64,9 +64,8 @@ delays in learning to read, describe research participants, plan a
 reading programme, or provide the teaching conditions necessary to
 ensure that each child masters each of the various component skills in a
 timely fashion.
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, M. J. (1990). Beginning to read: Thinking and learning about
@@ -79,4 +78,3 @@ timely fashion.
 -   National Reading Panel. (2000). Teaching children to read. Retrieved
     June 25, 2000, from
     http://www.nichd.nih.gov/publications/nrp/smallbook.htm
-:::

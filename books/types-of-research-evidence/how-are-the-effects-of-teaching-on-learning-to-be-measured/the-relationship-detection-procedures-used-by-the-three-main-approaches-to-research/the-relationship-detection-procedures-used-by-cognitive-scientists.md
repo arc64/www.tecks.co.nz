@@ -9,17 +9,17 @@ parent: 'The relationship detection procedures used by the three main approaches
   research '
 title: 'The relationship detection procedures used by cognitive scientists '
 ---
-# The relationship detection procedures used by cognitive scientists 
+# The relationship detection procedures used by cognitive scientists
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-96d137d19caf4d1ea23b1ab7f0ca2418}
+
 In their search for relationships, researchers who employ a social
 science methodology make use of a variety of research designs. The 1997
 *International Handbook of Educational Research, Methodology and
@@ -62,9 +62,8 @@ of motivation) can function as either a dependent variable (the variable
 to be explained) or as an independent variable (a possible explanation).
 For the behaviour analyst variability in a measure of performance can
 only function as a dependent variable (the phenomenon to be explained).
-:::
 
-::: referencesList
+
 #### References
 
 -   Best, J. W., & Kahn, J. V. (1993). Research in education (7th ed.).
@@ -74,4 +73,3 @@ only function as a dependent variable (the phenomenon to be explained).
 -   Keeves, J. P. (Ed.) (1997). Educational research, methodology, and
     measurement: An international handbook (2nd ed.). Oxford, England:
     Pergamon/Elsevier Science Inc.
-:::

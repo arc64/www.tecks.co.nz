@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Practice response sequences '
 title: 'The interspersal ratio '
 ---
-# The interspersal ratio 
+# The interspersal ratio
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-27e62d0ea49940a0b27fc7076c509f6e}
+
 A practice set may consist of responses, skills or understandings which
 have already been acquired (but which still need further practice). Or
 it may consist of responses which have yet to be acquired. Or it may
@@ -36,4 +36,3 @@ determined during previous practice sessions or tests). The accuracy
 level during practice refers to the proportion of practice responses
 which are correct compared to the total (correct plus incorrect)
 practice responses during the current practice session.
-:::

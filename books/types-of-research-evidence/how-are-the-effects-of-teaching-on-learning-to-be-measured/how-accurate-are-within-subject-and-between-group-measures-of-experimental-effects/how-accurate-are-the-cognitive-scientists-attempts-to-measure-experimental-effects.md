@@ -10,17 +10,17 @@ parent: 'How accurate are within-subject and between-group measures of experimen
 title: 'How accurate are the cognitive scientists'' attempts to measure experimental
   effects? '
 ---
-# How accurate are the cognitive scientists' attempts to measure experimental effects? 
+# How accurate are the cognitive scientists' attempts to measure experimental effects?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8fd78e35f5c646479716d8badaec94bd}
+
 In a between-groups experiment the researcher determines whether or not
 a correlation exists between the independent and dependent variables
 selected for study by examining the size of the difference between the
@@ -155,9 +155,8 @@ determine whether or not the data meet the assumptions of that
 statistical test, and sufficient to interpret the results of the
 computer generated statistical analysis in the light of the experimental
 procedures used.
-:::
 
-::: referencesList
+
 #### References
 
 -   Campbell, D. T., & Stanley, J. C. (1963). Experimental and
@@ -187,4 +186,3 @@ procedures used.
     458-470.
 -   Sax, G. (1968). Empirical foundations of educational research.
     Englewood Cliffs, NJ: Prentice-Hall Inc.
-:::

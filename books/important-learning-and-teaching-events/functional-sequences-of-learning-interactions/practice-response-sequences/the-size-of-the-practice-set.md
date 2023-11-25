@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Practice response sequences '
 title: 'The size of the practice set '
 ---
-# The size of the practice set 
+# The size of the practice set
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-97b7f6ed640346b9badd3bed0f51c51f}
+
 When students are acquiring or practising new responses the number of
 different responses in the set of practice responses may vary from one
 to many dozens. For example, a child might be given the task of learning
@@ -35,4 +35,3 @@ capacity otherwise the child may be able to respond to practice stimuli
 from working memory with little learning occurring as a result. Second,
 working memory increases with age which means that the size of the
 practice set also needs to increase with age.
-:::

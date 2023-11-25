@@ -8,17 +8,17 @@ nav_order: 13
 parent: 'Response-consequence contingencies '
 title: 'The timing of consequences and the post-response interval '
 ---
-# The timing of consequences and the post-response interval 
+# The timing of consequences and the post-response interval
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-163fe12fdcb44fb88f0203535c9adf75}
+
 The consequences of successful and unsuccessful responses, behaviours,
 and actions may follow the action immediately or they may following the
 action after a period of time. For example, when a student attempts a
@@ -47,4 +47,3 @@ The post-response interval is an important instructional variable
 because it affects rate of acquisition. In addition, the most
 efficacious post-response interval is different for correct responses
 and for incorrect responses.
-:::

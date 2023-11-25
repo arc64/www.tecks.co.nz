@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Effects of removing a pre-existing contingency '
 title: 'Effects of removing a reinforcement contingency (extinction) '
 ---
-# Effects of removing a reinforcement contingency (extinction) 
+# Effects of removing a reinforcement contingency (extinction)
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3f047a97f6254d0b817cde03ad0374b4}
+
 It is possible for the reinforcement which has motivated continued use
 of a particular behaviour to be removed. The term *extinction* is the
 term which we use to refer to cases where the learner's environment
@@ -49,9 +49,8 @@ strong reinforcement contingency to motivate performance of a particular
 class of responses, and then carefully fades this contingency while
 continuing to provide adequate levels of social reinforcement and
 positive feedback, extinction is unlikely to occur.
-:::
 
-::: referencesList
+
 #### References
 
 -   Baer, M., Fowler, S. A., & Carden-Smith, L. (1984). Using
@@ -75,4 +74,3 @@ positive feedback, extinction is unlikely to occur.
 -   Simon, S. J., Ayllon, T., & Milan, M. A. (1982). Behavioral
     compensation: Contrast like effects in the classroom. Behavior
     Modification, 6, 407-420.
-:::

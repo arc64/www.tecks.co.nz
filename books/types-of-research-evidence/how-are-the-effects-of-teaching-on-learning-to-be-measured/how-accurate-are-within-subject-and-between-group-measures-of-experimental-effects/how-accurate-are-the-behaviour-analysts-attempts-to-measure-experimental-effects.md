@@ -10,17 +10,17 @@ parent: 'How accurate are within-subject and between-group measures of experimen
 title: 'How accurate are the behaviour analysts'' attempts to measure experimental
   effects? '
 ---
-# How accurate are the behaviour analysts' attempts to measure experimental effects? 
+# How accurate are the behaviour analysts' attempts to measure experimental effects?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0d645eaaa51443c0bd39c583ced1833a}
+
 Behaviour analytic reports of within-subject experiments generally show
 a high degree of awareness of the conditions which must be met before an
 experiment is likely to yield an interpretable result. Behaviour
@@ -119,9 +119,8 @@ the results of these data quality evaluations as a condition of
 publication represents a very considerable advance over the data quality
 assurance procedures employed by both ethnographers and cognitive
 scientists.
-:::
 
-::: referencesList
+
 #### References
 
 -   Cooper, J. O., Heron, T. E., & Heward, W. L. (1987). Applied
@@ -133,4 +132,3 @@ scientists.
     behavior analytic research. New York: Plenum Press.
 -   Sidman, M. (1960). Tactics of scientific research: Evaluating
     experimental data in psychology. New York: Basic Books.
-:::

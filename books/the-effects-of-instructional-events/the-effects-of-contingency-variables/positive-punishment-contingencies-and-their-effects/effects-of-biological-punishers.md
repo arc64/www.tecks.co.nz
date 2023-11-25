@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Positive punishment contingencies and their effects '
 title: 'Effects of biological punishers '
 ---
-# Effects of biological punishers 
+# Effects of biological punishers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-94b282b984594e978cb4f5919d06ee6a}
+
 The biological punishers include unpleasant tastes, smells and sounds,
 events which cause discomfort, events which cause pain, events which
 cause anxiety and fear, events which cause nausea, and so on. Because of
@@ -79,9 +79,8 @@ The research clearly does not support this claim. While an argument
 against punishment can be made on ethical grounds, it cannot be made on
 the grounds that punishment is ineffective or that its effects are only
 temporary.
-:::
 
-::: referencesList
+
 #### References
 
 -   Altman, K., Grahs, C., & Friman, P. (1982). Treatment of unobserved
@@ -113,4 +112,3 @@ temporary.
 -   Watson, T. S., Dittmer, K. I., & Ray, K. P. (2000). Treating
     trichotillomania in a toddler: Variations on effective treatments.
     Child & Family Behavior Therapy, 22, 29-40.
-:::

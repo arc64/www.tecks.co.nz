@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The skills involved in learning to write '
 title: 'Developing fluency in printing, writing, or typing '
 ---
-# Developing fluency in printing, writing, or typing 
+# Developing fluency in printing, writing, or typing
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-06d479cf5edb43f9b61aae24f26a5abe}
+
 The aim of handwriting instruction is to bring the student to the point
 where they can write both legibly and with a functional level of speed.
 Children "need to develop enough fluency so that the mechanics of
@@ -38,12 +38,10 @@ In spite of its obvious importance, educational researchers have yet to
 identify the handwriting fluency levels and the typing fluency levels
 which are characteristic of children at each age level who are making
 average rates of progress in learning to write.
-:::
 
-::: referencesList
+
 #### References
 
 -   Graham, S., & Weintraub, N. (1996). A review of handwriting
     research: Progress and prospects from 1980 to 1994. Educational
     Psychology Review, 8, 7-87.
-:::

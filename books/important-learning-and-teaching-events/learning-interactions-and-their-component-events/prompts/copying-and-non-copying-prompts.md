@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Prompts '
 title: 'Copying and non-copying prompts '
 ---
-# Copying and non-copying prompts 
+# Copying and non-copying prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-918f47681fd74c4797362af02039f24b}
+
 It is important to distinguish between prompts which stay in view while
 the learner responds and prompts which are presented (and removed)
 before the learner responds. For example a teacher might show a child
@@ -38,4 +38,3 @@ of acquisition, for example, a copying prompt may result in the
 performance of a completely new response and, hence, learning. During
 the later stages of acquisition, copying prompts often result in copying
 rather than learning.
-:::

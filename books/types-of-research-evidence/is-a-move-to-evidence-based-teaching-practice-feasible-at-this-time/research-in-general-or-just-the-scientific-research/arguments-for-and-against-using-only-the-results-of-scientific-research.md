@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Research in general or just the scientific research? '
 title: 'Arguments for and against using only the results of scientific research '
 ---
-# Arguments for and against using only the results of scientific research 
+# Arguments for and against using only the results of scientific research
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-989244dba8af493da6940b736ba466b9}
+
 By and large, classroom teaching is not based on the results of research
 -- of any type. This has not gone unnoticed by critics. "It is quite
 commonplace in education to see methods, programs, and techniques
@@ -264,9 +264,8 @@ remember a particular kind of skill (Johnston & Pennypacker, 1993). This
 leads us to our next question. Which of the three most common approaches
 to research into learning and teaching can be considered to be
 "scientific"?
-:::
 
-::: referencesList
+
 #### References
 
 -   Carnine, D. (2000). Why education experts resist effective
@@ -337,4 +336,3 @@ to research into learning and teaching can be considered to be
     http://www.americanprogress.org/issues/kfiles/ b492641.html.
 -   Wheldall, K. (2005). When will we ever learn? Educational
     Psychology, 25, 573-584.
-:::

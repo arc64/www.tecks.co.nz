@@ -9,17 +9,17 @@ parent: 'Schedules of reinforcement and punishment '
 title: 'Procedures for transferring control from continuous to intermittent schedules
   and their effects '
 ---
-# Procedures for transferring control from continuous to intermittent schedules and their effects 
+# Procedures for transferring control from continuous to intermittent schedules and their effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8d4acafc613b417eb6038b45b9371e4a}
+
 The aim of any teaching sequence is always to produce independent
 performance in the learner. Similarly, the aim of any procedure designed
 to improve self-regulation is always to produce a level of
@@ -46,9 +46,8 @@ present in order for this effect to occur. Is it dependent upon the
 level of mastery or fluency which has been achieved, for example? How
 rapidly can the schedule be thinned while still achieving maintenance,
 and so on?
-:::
 
-::: referencesList
+
 #### References
 
 -   Bailey, J. S., Wolf, M. M., & Phillips, E. L. (1970). Home-based
@@ -68,4 +67,3 @@ and so on?
 -   McNaughton, S. S. (1975). Some implications of a technique designed
     to produce rapid and generalized modification of out-of-seat
     behaviour. New Zealand Journal of Educational Studies, 10, 120-127.
-:::

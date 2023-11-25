@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Contingency errors '
 title: 'Inadvertent negative reinforcement of misbehaviour '
 ---
-# Inadvertent negative reinforcement of misbehaviour 
+# Inadvertent negative reinforcement of misbehaviour
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-214fef38720c4c4db02d09fd55a81d22}
+
 It is also possible for inappropriate child behaviour to be negatively
 reinforced. A child may throw a tantrum in an attempt to avoid
 completing a particular task and this tantrum may work to avoid the task
@@ -28,4 +28,3 @@ will have been negatively reinforced. A second major cause of behaviour
 problems in children of all ages occurs when the child discovers that
 inappropriate behaviour works to avoid having to do something which they
 do not want to do.
-:::

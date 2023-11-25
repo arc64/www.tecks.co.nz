@@ -8,17 +8,17 @@ nav_order: 7
 parent: 'Prompting variables and their effects '
 title: 'Effects of stimulus prompts and behaviour prompts '
 ---
-# Effects of stimulus prompts and behaviour prompts 
+# Effects of stimulus prompts and behaviour prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d81f916b46b54a12aec0b65b88dc5dd6}
+
 It seems reasonable to assume that, if the aim is to teach a student how
 to perform a new response, behaviour, or action then the type of prompt
 required will be some kind of behaviour prompt and not a stimulus
@@ -33,13 +33,11 @@ and \"on\" instructions using two kinds of prompts: (a) behaviour
 prompts (modelling, physical guidance or instructions) and (b) stimulus
 prompts (repeating the word "in" or "on"). The stimulus prompts resulted
 in acquisition while the behaviour prompts did not.
-:::
 
-::: referencesList
+
 #### References
 
 -   Summers, J. A., Rincover, A., & Feldman, M. A. (1993). Comparison of
     extra- and within-stimulus prompting to teach prepositional
     discriminations to preschool children with developmental
     disabilities. Journal of Behavioral Education, 3, 287-298.
-:::

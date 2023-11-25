@@ -7,17 +7,17 @@ nav_order: 4
 parent: 'Approaches to research into learning and teaching '
 title: 'Types of explanation '
 ---
-# Types of explanation 
+# Types of explanation
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-67401f836d104d0fbf207137fe7cce30}
+
 Why engage in research on learning? Presumably one of the major aims of
 such research is to identify the conditions on which learning depends
 or, more accurately, to identify the sets of conditions on which
@@ -49,4 +49,3 @@ used as a guide for future action. However, researchers bring to the
 research task different beliefs regarding what counts as an adequate
 explanation. These beliefs influence what is looked for and, hence, what
 is found as a result.
-:::

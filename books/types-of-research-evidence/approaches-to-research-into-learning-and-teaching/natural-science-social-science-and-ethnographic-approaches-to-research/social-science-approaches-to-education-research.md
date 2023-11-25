@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Natural science, social science, and ethnographic approaches to research '
 title: 'Social science approaches to education research '
 ---
-# Social science approaches to education research 
+# Social science approaches to education research
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-aa5eba343e404e93b7c5708a0bc35892}
+
 For most of the 20th century, the primary datum of educational and
 psychological research has been the average of the scores of samples of
 subjects on some kind of test, rating scale or self-report instrument.
@@ -94,9 +94,8 @@ collected is almost always interpreted with the aid of descriptive,
 correlational, or inferential statistics. The social science research
 which is most directly relevant to the study of learning and teaching is
 an area of research which has come to be known as cognitive science.
-:::
 
-::: referencesList
+
 #### References
 
 -   Borg, W. R., & Gall, M. D. (1989). Educational research: An
@@ -133,4 +132,3 @@ an area of research which has come to be known as cognitive science.
 -   Woodworth, R. S., & Thorndike, E. L. (1901). The influence of
     improvement in one mental function upon the efficiency of other
     functions (1). Psychological Review, 8, 247-261.
-:::

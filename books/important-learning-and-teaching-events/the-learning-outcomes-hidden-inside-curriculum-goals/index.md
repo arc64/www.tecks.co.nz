@@ -6,17 +6,17 @@ nav_order: 3
 parent: 'Important learning and teaching events '
 title: 'The learning outcomes hidden inside curriculum goals '
 ---
-# The learning outcomes hidden inside curriculum goals 
+# The learning outcomes hidden inside curriculum goals
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9b2717e1b6124f3e82227ab55ba3e798}
+
 At the present time, the school curriculum groups the competencies which
 are to be acquired during the school years into very broad collections
 such as \"English\", \"Mathematics\", \"Science\" and so on. English
@@ -61,4 +61,3 @@ read, learning to write, and learning to find the sum of 2-digit
 numbers. These are provided as illustrations of the work which still
 needs to be done in identifying the learning outcomes which are implicit
 in the \"achievement objectives\" listed in the New Zealand curriculum.
-:::

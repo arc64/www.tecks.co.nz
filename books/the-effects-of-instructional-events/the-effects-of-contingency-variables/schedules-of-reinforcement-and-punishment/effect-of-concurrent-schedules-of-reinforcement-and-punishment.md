@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'Schedules of reinforcement and punishment '
 title: 'Effect of concurrent schedules of reinforcement and punishment '
 ---
-# Effect of concurrent schedules of reinforcement and punishment 
+# Effect of concurrent schedules of reinforcement and punishment
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-52c1dcbc72f24b9d9b3852c7912b685c}
+
 When responses can be grouped into two mutually exclusive classes such
 as appropriate/ inappropriate or correct/incorrect or easy/difficult
 three interventions are possible. The teacher can (a) increase the
@@ -106,9 +106,8 @@ concurrent reinforce-prosocial/punish-antisocial contingency is the most
 effective across the age range, students usually prefer the
 reinforce-prosocial/ignore-antisocial contingency at least during the
 early years (Morris & Redd, 1975).
-:::
 
-::: referencesList
+
 #### References
 
 -   Conyers, C., Miltenberger, R., Romaniuk, C., Kopp, B., & Himle, M.
@@ -148,4 +147,3 @@ early years (Morris & Redd, 1975).
 -   Workman, E. A., Kindall, L. M., & Williams, R. L. (1980). The
     consultative merits of praise-ignore versus praise-reprimand
     instruction. Journal of School Psychology, 18, 373-380.
-:::

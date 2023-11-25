@@ -5,17 +5,17 @@ layout: default
 nav_order: 4
 title: 'The conditions upon which learning depends '
 ---
-# The conditions upon which learning depends 
+# The conditions upon which learning depends
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a6c73b4ef1bd45e68571129c1a14b0b3}
+
 Central to any research base for teaching is the research into how
 learning occurs, that is, research into the conditions necessary for
 learning. The first thing which we discover when examining the
@@ -70,4 +70,3 @@ Chapter 5 considers the conditions which are necessary for the
 development of mastery where mastery is defined as the ability to
 perform a particular response, skill, or task fluently and without
 error.
-:::

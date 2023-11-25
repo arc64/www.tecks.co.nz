@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'The content of the English curriculum '
 title: 'Shortcomings of the writing curriculum '
 ---
-# Shortcomings of the writing curriculum 
+# Shortcomings of the writing curriculum
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6d9204b354fd4bca8bb721a7543513bd}
+
 The achievement objectives listed in the New Zealand curriculum for
 writing are even less explicit than those for reading. These achievement
 objectives are largely useless as a guide to instructional planning or
@@ -63,9 +63,8 @@ writing speed is defined as 80 legible letters per minute, it appears
 that the average child in these US samples achieves a functional level
 of handwriting fluency around about 11 years of age, that is, after
 about six years at school.
-:::
 
-::: referencesList
+
 #### References
 
 -   Graham, S., Berninger, V., Weintraub, N., & Shafer, W. (1998). The
@@ -76,4 +75,3 @@ about six years at school.
     Psychology Review, 8, 7-87.
 -   Ministry of Education. (2003). Effective literacy practice in Years
     1 to 4. Wellington, NZ: Learning Media Ltd.
-:::

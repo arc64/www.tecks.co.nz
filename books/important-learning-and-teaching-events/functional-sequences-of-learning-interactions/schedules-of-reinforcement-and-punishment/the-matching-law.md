@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Schedules of reinforcement and punishment '
 title: 'The matching law '
 ---
-# The matching law 
+# The matching law
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0ef41f7c8c444c36af2ce1fb7a44c1d6}
+
 Children and adults often find themselves in a situation where there are
 several different responses which can be used to obtain a particular
 type of reinforcement, that is, several different actions which can be
@@ -44,9 +44,8 @@ reinforced on a richer variable ratio schedule than that produced by the
 inappropriate behaviour will have the effect of motivating a complete
 cessation of the inappropriate behaviour while interventions which do
 not will be completely ineffective (Myerson & Hale, 1984, p. 369).
-:::
 
-::: referencesList
+
 #### References
 
 -   Herrnstein, R. J. (1961). Relative and absolute strength of response
@@ -54,4 +53,3 @@ not will be completely ineffective (Myerson & Hale, 1984, p. 369).
     Experimental Analysis of Behavior, 4, 267-272.
 -   Meyerson, J., & Hale, S. (1984). Practical implications of the
     matching law. Journal of Applied Behavior Analysis, 17, 367-380.
-:::

@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'How conceptual responses are acquired '
 title: 'Conditions which may accelerate the learning of new concepts and generalisations '
 ---
-# Conditions which may accelerate the learning of new concepts and generalisations 
+# Conditions which may accelerate the learning of new concepts and generalisations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f6a4939aa4404ced85892970ebf352cc}
+
 The research into the learning of new generalisations also identifies a
 number of additional teaching variables which may be managed to
 accelerate the acquisition of generalised correct responding.
@@ -236,9 +236,8 @@ acquisition of an accurate generalisation than will be the case with
 teaching procedures which fail to identify the causes of student errors.
 As far as we can determine, this assumption has yet to be tested
 experimentally.
-:::
 
-::: referencesList
+
 #### References
 
 -   Becker, W., & Engelmann, S. (1978). Systems for basic instruction:
@@ -291,4 +290,3 @@ experimentally.
 -   Williams, P. B., & Carnine, D. W. (1981), Relationship between range
     of examples and of instructions and attention in concept attainment.
     Journal of Educational Research, 74, 144-148.
-:::

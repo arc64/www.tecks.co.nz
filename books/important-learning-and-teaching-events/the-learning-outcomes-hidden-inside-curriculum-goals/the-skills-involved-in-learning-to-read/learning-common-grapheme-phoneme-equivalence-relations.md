@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'The skills involved in learning to read '
 title: 'Learning common grapheme-phoneme equivalence relations '
 ---
-# Learning common grapheme-phoneme equivalence relations 
+# Learning common grapheme-phoneme equivalence relations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-869de9f00ac74af2b6453342ddfbacfe}
+
 Critical to learning to read is the acquisition, in a timely fashion, of
 the ability to translate English language graphemes (letters and letter
 groups) into phonemes. Being able to translate written graphemes into
@@ -48,9 +48,8 @@ during the process of learning to read (Carnine, Silbert & Kameenui,
 1990). There is, however, no agreement on which grapheme-phoneme
 relations should be specifically taught during the first three years of
 reading instruction (Adams, 1990).
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, M. J. (1990). Beginning to read: Thinking and learning about
@@ -59,4 +58,3 @@ reading instruction (Adams, 1990).
     instruction reading (2nd ed.). Columbus, OH: Merrill Publishing Co.
 -   Moats, L. C. (1995). Spelling: Development, disability, and
     instruction. Baltimore: York Press.
-:::

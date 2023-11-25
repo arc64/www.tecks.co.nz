@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The content of the mathematics curriculum '
 title: 'Shortcomings of the mathematics curriculum '
 ---
-# Shortcomings of the mathematics curriculum 
+# Shortcomings of the mathematics curriculum
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3ff4991ff9ea47668afc8c58d895d845}
+
 Although achievement objectives are given with a greater degree of
 specificity in the mathematics curriculum than they are in any of the
 other seven curriculum statements, most are still expressed in terms
@@ -73,9 +73,8 @@ write, the mathematics curriculum needs to be developed in a way which
 provides teachers with greater guidance regarding the annual performance
 benchmarks which are to be used as measures of student progress in
 mathematics.
-:::
 
-::: referencesList
+
 #### References
 
 -   Andrew, K, & Claridge, A. (2006, August 24). Kids' maths doesn't add
@@ -86,4 +85,3 @@ mathematics.
     Mathematics assessment results 2005. National Education Monitoring
     Report 37. University of Otago, N.Z.: Educational Assessment
     Research Unit.
-:::

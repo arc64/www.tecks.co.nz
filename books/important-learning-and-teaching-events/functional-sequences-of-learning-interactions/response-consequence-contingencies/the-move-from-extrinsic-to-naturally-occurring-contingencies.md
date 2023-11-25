@@ -8,17 +8,17 @@ nav_order: 14
 parent: 'Response-consequence contingencies '
 title: 'The move from extrinsic to naturally occurring contingencies '
 ---
-# The move from extrinsic to naturally occurring contingencies 
+# The move from extrinsic to naturally occurring contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7bef76c9dbb149f0a6f3fab3e9365274}
+
 Sometimes teachers choose to motivate poorly motivated students using
 some kind of extrinsic reinforcement such as a star chart, preferred
 activity reward, or regular praise. These kinds of reinforcers are often
@@ -50,4 +50,3 @@ is an important variable and that the way in which the teacher manages
 this transition is an important teaching function. Currently however,
 this transition (from extrinsic to naturally occurring contingencies of
 reinforcement) has no agreed name.
-:::

@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'The skills involved in learning to read '
 title: 'Acquiring an adequate sight word vocabulary '
 ---
-# Acquiring an adequate sight word vocabulary 
+# Acquiring an adequate sight word vocabulary
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0d9c32a406b34c94811150e2df41d50a}
+
 After a certain amount of practice, the learner acquires the ability to
 instantly recognise particular printed words. In this account we will
 refer to those words which the learner instantly recognises as *sight
@@ -43,9 +43,8 @@ self-teaching process is the only kind of process which could
 conceivably account for the explosive growth which occurs in the
 normally developing child\'s sight word vocabulary during the first four
 years of reading instruction (Share & Stanovich, 1995).
-:::
 
-::: referencesList
+
 #### References
 
 -   Share, D. L. (1995). Phonological recoding and self-teaching: Sine
@@ -53,4 +52,3 @@ years of reading instruction (Share & Stanovich, 1995).
 -   Share, D. L., & Stanovich, K. E. (1995). Cognitive processes in
     early reading development: Accommodating individual differences into
     a model of acquisition. Issues in Education, 1, 1-57.
-:::

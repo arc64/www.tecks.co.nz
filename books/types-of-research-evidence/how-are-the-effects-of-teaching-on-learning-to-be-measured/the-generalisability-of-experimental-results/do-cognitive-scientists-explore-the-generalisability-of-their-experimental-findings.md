@@ -9,17 +9,17 @@ parent: 'The generalisability of experimental results '
 title: 'Do cognitive scientists explore the generalisability of their experimental
   findings? '
 ---
-# Do cognitive scientists explore the generalisability of their experimental findings? 
+# Do cognitive scientists explore the generalisability of their experimental findings?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e385b58acc174c2286c0c5f4bbf99a5e}
+
 The types of generalisations which are of primary interest to the
 cognitive scientist are generalisations regarding causal relationships
 (sometimes referred to as functional relationships) at the population
@@ -67,9 +67,8 @@ research "may hold the appearance of an interwoven and established
 literature, . . . it will prove to be a disappointing facade that does
 not live up to its seeming utility" (Johnston & Pennypacker, 1993, p.
 179).
-:::
 
-::: referencesList
+
 #### References
 
 -   Bakan, D. (1967). On method: Toward a reconstruction of
@@ -87,4 +86,3 @@ not live up to its seeming utility" (Johnston & Pennypacker, 1993, p.
     tests? (pp. 394-425). Mahwah, N.J.: Lawrence Erlbaum Associates.
 -   Nunnally, J. (1960). The place of statistics in psychology.
     Educational and Psychological Measurement, 20, 641-650.
-:::

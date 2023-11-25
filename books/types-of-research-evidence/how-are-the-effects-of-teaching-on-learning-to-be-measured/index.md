@@ -6,17 +6,17 @@ nav_order: 3
 parent: 'Types of research evidence '
 title: 'How are the effects of teaching on learning to be measured? '
 ---
-# How are the effects of teaching on learning to be measured? 
+# How are the effects of teaching on learning to be measured?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5d02a86fe4174f41ad17a451f1c558ed}
+
 Once the learning researcher or teaching researcher has developed an
 accurate and reproducible measure of learning it becomes possible to
 seek the answer to many interesting questions. For example learning
@@ -61,4 +61,3 @@ from the results of (a) the within-subject experiments of the behaviour
 analyst and (b) the randomised groups experiments of the cognitive
 scientist and identifies some of the problems arising from the way in
 which significance testing procedures are currently being employed.
-:::

@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'The components of individual learning interactions '
 title: 'The distinction between two-term and three-term learning interactions '
 ---
-# The distinction between two-term and three-term learning interactions 
+# The distinction between two-term and three-term learning interactions
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5f581db64de0410fa1b97c6fdd8845db}
+
 Once a distinction has been made between antecedents and consequences,
 it becomes possible to distinguish between two general types of learning
 interactions: three-term interactions, and two-term interactions.
@@ -33,4 +33,3 @@ The distinction between two-term and three-term learning interactions is
 extremely important because three-term interactions often result in more
 rapid learning than is the case with two-term interactions especially
 during the initial phase of learning something new.
-:::

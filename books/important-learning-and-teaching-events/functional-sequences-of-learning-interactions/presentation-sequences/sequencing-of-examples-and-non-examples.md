@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Presentation sequences '
 title: 'Sequencing of examples and non-examples '
 ---
-# Sequencing of examples and non-examples 
+# Sequencing of examples and non-examples
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-94845acfa4eb4c81b4bf0f89235c1dae}
+
 The sequence of concept examples and non-examples used within a set of
 presentations or exercises may vary in many ways. The only
 example/non-example sequencing procedure which has been studied in any
@@ -51,4 +51,3 @@ research and the only one which has been given a name. As can be seen
 from the above rules, general case programming involves the selection
 and sequencing of teaching examples in such a way as to teach the
 desired generalisation without producing any misconceptions.
-:::

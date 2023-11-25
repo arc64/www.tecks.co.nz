@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Types of questions and the research methods required to answer them '
 title: 'Descriptive questions and relational questions '
 ---
-# Descriptive questions and relational questions 
+# Descriptive questions and relational questions
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-64fa4ced6bfa43d7bd39cdfb4a8cf1c4}
+
 The aim of research is to find the answer to questions for which the
 answer is not yet known. Such questions may take a variety of forms.
 Consider, for example, the following questions:
@@ -76,4 +76,3 @@ they imply a research strategy which will identify relationships between
 variables, that is, relationships between recurring events. The two main
 research procedures which are used to identify relationships are the
 correlational procedures and the experimental procedures.
-:::

@@ -7,17 +7,17 @@ nav_order: 6
 parent: 'Learning interactions and their component events '
 title: 'Consequences '
 ---
-# Consequences 
+# Consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-492a7b17f978431e8e8070a49f6aeab8}
+
 In three-term learning interactions, practice responses have
 consequences. During instruction, improvements and non-improvements in
 performance typically have different consequences. For example, the
@@ -42,4 +42,3 @@ indicates very clearly that a number of distinctions between different
 kinds of consequences (and response-consequence relationships) are
 critical to both the design of effective teaching sequences and the
 design of interpretable learning and teaching experiments.
-:::

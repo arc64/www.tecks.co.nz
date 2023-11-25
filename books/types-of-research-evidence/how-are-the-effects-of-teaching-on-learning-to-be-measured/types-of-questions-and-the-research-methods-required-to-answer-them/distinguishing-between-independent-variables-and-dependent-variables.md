@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Types of questions and the research methods required to answer them '
 title: 'Distinguishing between independent variables and dependent variables '
 ---
-# Distinguishing between independent variables and dependent variables 
+# Distinguishing between independent variables and dependent variables
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e32a82076bc247b79674dbd0a3b8336a}
+
 When the subject matter is teaching and/or learning the dependent
 variable which is of primary interest is learning, that is, improvement
 in the *behaviour* of the learner. Other behaviours such as intelligence
@@ -60,4 +60,3 @@ occasions and the independent variable (one of the factors presumed to
 be necessary for learning) on other occasions is most unlikely to lead
 to an increased understanding of the factors which are necessary for
 learning.
-:::

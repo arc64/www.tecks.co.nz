@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'How likes and dislikes develop '
 title: 'Conditions which may affect the development of new likes and dislikes '
 ---
-# Conditions which may affect the development of new likes and dislikes 
+# Conditions which may affect the development of new likes and dislikes
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-70546a505e8c428ea11573baec757b09}
+
 There are many conditions which operate in the classroom to affect the
 ratio of reinforcement to punishment experienced by individual students.
 This is because there are many sources of reinforcement and punishment
@@ -312,9 +312,8 @@ want rather than the behaviour which they do not want. The research
 suggests that the goal of responding in a primarily positive fashion to
 the behaviour to students in the classroom is a goal which many teachers
 find difficult to achieve (Rose, 1994; Rossiter, 1982).
-:::
 
-::: referencesList
+
 #### References
 
 -   Allington, R. L. (1980). Teacher interruption behavior during
@@ -380,4 +379,3 @@ find difficult to achieve (Rose, 1994; Rossiter, 1982).
     Psychology in the Schools, 36, 319-325.
 -   Wyatt, W. J., & Hawkins, R. P. (1987). Rates of teachers\' verbal
     approval and disapproval. Behavior Modification, 11, 27-51.
-:::

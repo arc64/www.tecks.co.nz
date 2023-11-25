@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Research in which the question asked determines the research method? '
 title: 'Questions which can and cannot be addressed by ethnographic methods '
 ---
-# Questions which can and cannot be addressed by ethnographic methods 
+# Questions which can and cannot be addressed by ethnographic methods
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-19a988fbda7e4f6e9a58b57f14bb0314}
+
 Ethnographic research methods have a smaller role to play in the study
 of settings in which learning and teaching occur. They are, however,
 well suited to answering certain kinds of questions about these
@@ -87,4 +87,3 @@ research could conceivably be used to support a case for a change in the
 curriculum, a change in teaching materials, a change in the teaching
 resources available for learners, or a change in the employment
 conditions of teachers.
-:::

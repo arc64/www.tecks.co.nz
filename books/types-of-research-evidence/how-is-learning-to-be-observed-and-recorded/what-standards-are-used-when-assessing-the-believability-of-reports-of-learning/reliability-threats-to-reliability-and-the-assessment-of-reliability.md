@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'What standards are used when assessing the believability of reports of learning '
 title: 'Reliability, threats to reliability and the assessment of reliability '
 ---
-# Reliability, threats to reliability and the assessment of reliability 
+# Reliability, threats to reliability and the assessment of reliability
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-61c6cf172aae40bf96b8a7a4f0fb19c2}
+
 "If the information produced by observing is to be of any long-term or
 general use, it has to be repeatable information; in other words, it has
 to be information that would be obtained by any one else attempting to
@@ -143,9 +143,8 @@ and even numbered items), and the degree of correlation between the
 scores on the two sets of items is calculated. Strictly speaking this
 procedure does not provide a measure of test reliability because each
 learner completes each item only once.
-:::
 
-::: referencesList
+
 #### References
 
 -   Allen, M. J., & Yen, W. M. (1979). Introduction to measurement
@@ -175,4 +174,3 @@ learner completes each item only once.
     possible methodological problem. Child Development, 41, 1143-1150.
 -   Saslow, C. A. (1982). Basic research methods. New York: Random
     House.
-:::

@@ -9,17 +9,17 @@ parent: 'The relationship detection procedures used by the three main approaches
   research '
 title: 'The relationship detection procedures of the ethnographer '
 ---
-# The relationship detection procedures of the ethnographer 
+# The relationship detection procedures of the ethnographer
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5613dc9069c04553a6217710363570d0}
+
 Ethnographic research is almost always descriptive. Ethnographers rarely
 undertake comparative evaluations or experiments. In fact, ethnographers
 go to some pains *not* to manipulate the setting in which they are
@@ -36,12 +36,10 @@ questions of the form "What is going on here?" While a qualitative study
 may point to possible relationships -- relationships which might be
 studied by behaviour analysts or cognitive scientists, this all that
 they can accomplish.
-:::
 
-::: referencesList
+
 #### References
 
 -   LeCompte, M. D., & Preissle, J. (1993). Ethnography and qualitative
     design in educational research (2nd ed.). San Diego, CA: Academic
     Press.
-:::

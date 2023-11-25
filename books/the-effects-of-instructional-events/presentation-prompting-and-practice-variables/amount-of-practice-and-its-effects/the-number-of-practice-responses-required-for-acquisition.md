@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Amount of practice and its effects '
 title: 'The number of practice responses required for acquisition '
 ---
-# The number of practice responses required for acquisition 
+# The number of practice responses required for acquisition
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-756fa6c3333e42f4aa42f73d1c2030e2}
+
 The experiments cited in the preceding section show that increasing
 student engagement in a lesson by requiring a response to every question
 increases student retention of lesson content but the experiments do not
@@ -65,9 +65,8 @@ experiences the complete proposition on one or more occasions. The
 identified, with 82 to 85 per cent accuracy, the previously unknown
 items of information which individual children have learned and
 remembered across half a dozen separate lesson samples.
-:::
 
-::: referencesList
+
 #### References
 
 -   Keel, M. C., & Gast, D. L. (1992). Small group instruction for
@@ -90,4 +89,3 @@ remembered across half a dozen separate lesson samples.
     student experience of teaching: A theory of student knowledge
     construction in classrooms. American Educational Research Journal,
     30, 799-840.
-:::

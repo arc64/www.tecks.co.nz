@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Calls for change '
 title: 'Calls for an end to faddism '
 ---
-# Calls for an end to faddism 
+# Calls for an end to faddism
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9eb18626d84e4142a385c90955a2ba4a}
+
 A number of writers have described the cyclical pattern of "innovation"
 in education as "faddism".
 
@@ -52,18 +52,15 @@ evaluated, which have been shown to be more effective than current
 practice, which are supported by well developed curriculum materials and
 which are supported by a commitment to long term funding, research, and
 professional development support (Slavin, 1989).
-:::
 
-::: referencesList
+
 #### References
 
 ::: {#parent-fieldname-tecks_references-9eb18626d84e4142a385c90955a2ba4a}
 Slavin, R. E. (1989).  PET and the pendulum: Faddism in education and
 how to stop it. Phi Delta Kappan, 70, 750- 756.
-:::
-:::
 
-::: referencesList
+
 #### References
 
 -   Slavin, R. E. (1989). PET and the pendulum: Faddism in education and
@@ -75,4 +72,3 @@ how to stop it. Phi Delta Kappan, 70, 750- 756.
     Success for All. Remedial and Special Education, 25, 61-66.
 -   Wheldall, K. (2005). When will we ever learn? Educational
     Psychology, 25, 573-584.
-:::

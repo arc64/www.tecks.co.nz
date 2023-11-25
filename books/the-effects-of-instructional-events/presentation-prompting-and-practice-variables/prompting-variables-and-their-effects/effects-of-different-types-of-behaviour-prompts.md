@@ -8,17 +8,17 @@ nav_order: 10
 parent: 'Prompting variables and their effects '
 title: 'Effects of different types of behaviour prompts '
 ---
-# Effects of different types of behaviour prompts 
+# Effects of different types of behaviour prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-bb6fb590e5db44d89118f7390c9ae7e8}
+
 The research into behaviour prompting is extensive. Controlled studies
 of behaviour prompting procedures have demonstrated that the
 introduction of models of correct responding greatly increases the rate
@@ -93,9 +93,8 @@ cannot be used to prompt the performance of new behaviours in pre-verbal
 learners, or in learners who have not yet learned to comply with the
 instructions of other people, or with learners who do not understand the
 instruction.
-:::
 
-::: referencesList
+
 #### References
 
 -   Camarata, S. (1993). The application of naturalistic conversation
@@ -188,4 +187,3 @@ instruction.
 -   Werts, M. G., Caldwell, N. K., & Wolery, M. (1996). Peer modeling of
     response chains: Observational learning by students with
     disabilities. Journal of Applied Behavior Analysis, 29, 56-66.
-:::

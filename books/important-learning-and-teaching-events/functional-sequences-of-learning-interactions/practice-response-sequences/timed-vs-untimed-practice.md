@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'Practice response sequences '
 title: 'Timed vs. untimed practice '
 ---
-# Timed vs. untimed practice 
+# Timed vs. untimed practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-724cf2d1b28747aebe4a1a22b60790fc}
+
 Practice responses may be timed or untimed. During the initial
 acquisition phase, teachers tend to be more concerned with improvements
 in the learner's ability to respond correctly and untimed practice is
@@ -31,4 +31,3 @@ achieved. It can be seen therefore that timed and untimed practice serve
 quite different functions and must therefore be clearly distinguished
 both during instructional planning and during the design of learning and
 teaching experiments.
-:::

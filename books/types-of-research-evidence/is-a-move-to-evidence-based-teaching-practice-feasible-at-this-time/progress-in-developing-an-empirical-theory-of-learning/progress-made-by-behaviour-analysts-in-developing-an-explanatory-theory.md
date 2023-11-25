@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Progress in developing an empirical theory of learning '
 title: 'Progress made by behaviour analysts in developing an explanatory theory '
 ---
-# Progress made by behaviour analysts in developing an explanatory theory 
+# Progress made by behaviour analysts in developing an explanatory theory
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-51c8f4a020024a079c3800885be2e539}
+
 Behaviour analytic studies of learning and teaching first began to
 appear in the educational literature in 1964 and, over the intervening
 period of not much more than 40 years, behaviour analysts have made good
@@ -95,9 +95,8 @@ Menzies & Packman, 2001), cures for toilet training failures (e.g. Foxx
 innovative practices developed by behaviour analysts to accelerate the
 development of children with intellectual disabilities (Snell, 1997) and
 children with autism spectrum disorders (Rogers, 1998).
-:::
 
-::: referencesList
+
 #### References
 
 -   Barlow, D. H. (1988). Anxiety and its disorders: The nature and
@@ -156,4 +155,3 @@ children with autism spectrum disorders (Rogers, 1998).
 -   Wolery, M., Bailey, D. B. & Sugai, G. M. (1988). Effective teaching:
     Principles and procedures of applied behavior analysis with
     exceptional students. Boston: Allyn and Bacon Inc.
-:::

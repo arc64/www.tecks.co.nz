@@ -7,17 +7,17 @@ nav_order: 6
 parent: 'Presentation, prompting and practice variables '
 title: 'Practice schedules and their effects '
 ---
-# Practice schedules and their effects 
+# Practice schedules and their effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-be11232b8fa84127a17f3ff5ad4d8ed5}
+
 Practice occurs across time. Practice opportunities can be scheduled
 across time in many different ways. The way in which individual practice
 responses are distributed in time can vary. The way in which practice
@@ -35,4 +35,3 @@ suggest that a much more fine grained analysis of the relationship
 between practice responses and their distribution in time will be
 necessary in order to identify optimal schedules of practice for
 different kinds of learning outcomes.
-:::

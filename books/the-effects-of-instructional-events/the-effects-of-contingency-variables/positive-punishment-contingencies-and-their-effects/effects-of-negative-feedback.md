@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Positive punishment contingencies and their effects '
 title: 'Effects of negative feedback '
 ---
-# Effects of negative feedback 
+# Effects of negative feedback
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-86b1d5cb47024c16a0e9d07b0c1ee808}
+
 Incorrect responses and inappropriate responses can generate feedback
 from the physical or social environment. When an incorrect or
 unsuccessful response generates feedback this feedback is variously
@@ -81,9 +81,8 @@ better simply to ignore children\'s errors during practice than it is to
 correct them. Research into the effects of error corrections clearly
 provides no empirical support for this view as far as the learning of
 new skills is concerned.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bangert-Drowns, R. L., Kulik, C. C., Kulik, J. A. & Morgan, M. T.
@@ -116,4 +115,3 @@ new skills is concerned.
     (1997). Improving migrant students' spelling of English and Spanish
     words with error correction. Journal of Behavioral Education, 7,
     13-23.
-:::

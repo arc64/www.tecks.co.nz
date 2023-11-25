@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'How conceptual responses are acquired '
 title: 'Necessary condition 4. Differential reinforcement for correct responses '
 ---
-# Necessary condition 4. Differential reinforcement for correct responses 
+# Necessary condition 4. Differential reinforcement for correct responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8f5a49e58790494699b9f48d256c24fa}
+
 If the child is to learn to respond differently to examples and to
 non-examples of a stimulus class, then correct responding must be
 differentially reinforced. Note that when the learner is practising
@@ -40,4 +40,3 @@ develop. If learning is slow, or motivation flags, before the
 generalisation has been acquired then the teacher may need to introduce
 consequences for correct responding which are, in fact, reinforcing for
 the individual learner.
-:::

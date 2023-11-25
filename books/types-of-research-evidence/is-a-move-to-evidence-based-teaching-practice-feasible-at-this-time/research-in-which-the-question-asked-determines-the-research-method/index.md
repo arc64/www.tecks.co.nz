@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Is a move to evidence-based teaching practice feasible at this time? '
 title: 'Research in which the question asked determines the research method? '
 ---
-# Research in which the question asked determines the research method? 
+# Research in which the question asked determines the research method?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-61fa762972e5472aa6c3f7deee163a5e}
+
 Research begins with the selection of an appropriate question. Research
 into learning and teaching begins with the selection of an appropriate
 question about the conditions which are necessary in order to bring
@@ -37,4 +37,3 @@ hunt around for a question which can be studied using that method. To
 avoid this mistake, teaching researchers need to be very clear about the
 questions which can and cannot be addressed by within-subjects,
 randomised groups and ethnographic methods.
-:::

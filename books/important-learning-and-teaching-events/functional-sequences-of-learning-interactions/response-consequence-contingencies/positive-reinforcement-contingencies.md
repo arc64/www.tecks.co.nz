@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Response-consequence contingencies '
 title: 'Positive reinforcement contingencies '
 ---
-# Positive reinforcement contingencies 
+# Positive reinforcement contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-cca227f53c1a4a77bd4009ce2086fd82}
+
 A particular response or behaviour can *produce* an outcome. It can make
 something happen. It can add something to our environment. The learner
 may work carefully, get all their answers correct, and get a merit
@@ -56,4 +56,3 @@ those behaviours which we engage in because we get paid for doing so.
 And it includes all those behaviours which work to provide intellectual
 stimulation, to keep us warm, to satisfy hunger and to satisfy other
 bodily needs.
-:::

@@ -8,17 +8,17 @@ nav_order: 11
 parent: 'Response-consequence contingencies '
 title: 'Two types of differential reinforcement contingencies '
 ---
-# Two types of differential reinforcement contingencies 
+# Two types of differential reinforcement contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3e1967925b83437db70af4a0022d8f60}
+
 Successful responses may generate many different kinds of reinforcing
 consequences. They may be naturally reinforced by getting the outcome
 which the learner wants, they may be reinforced with positive feedback,
@@ -71,4 +71,3 @@ reinforcement because many teachers prefer to use the first type (in
 which errors are ignored) whereas others teachers believe that errors
 should be corrected. (The research suggests that we learn more rapidly
 when our errors are corrected.)
-:::

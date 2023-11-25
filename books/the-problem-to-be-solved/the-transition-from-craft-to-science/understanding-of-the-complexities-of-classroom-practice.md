@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'The transition from craft to science '
 title: 'Understanding of the complexities of classroom practice '
 ---
-# Understanding of the complexities of classroom practice 
+# Understanding of the complexities of classroom practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-52544cac8a2e406e9c63dfdfbf8875c9}
+
 University of Canterbury, Christchurch, New Zealand. © University of
 Canterbury 2008.
 
@@ -88,9 +88,8 @@ complex six-dimensional puzzle (e.g., "Which types of examples sequences
 lead to the most accurate generalisations about *x* in 6-7 year old
 children with little prior knowledge of *x* in classrooms where none of
 the children know much about *x*?").
-:::
 
-::: referencesList
+
 #### References
 
 -   Alton-Lee, A. (2003). Quality teaching for diverse students in
@@ -123,4 +122,3 @@ the children know much about *x*?").
 -   Wolery, M., Bailey, D. B., & Sugai, G. M. (1988). Effective
     teaching: Principles and procedures of applied behavior analysis
     with exceptional students. Boston: Allyn and Bacon Inc.
-:::

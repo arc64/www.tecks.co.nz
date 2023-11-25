@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Positive and negative reinforcement and punishment contingencies '
 title: 'Effects of reinforcement versus punishment contingencies '
 ---
-# Effects of reinforcement versus punishment contingencies 
+# Effects of reinforcement versus punishment contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-bf8fdb6638fd4e95889aa0930c0fe44b}
+
 Most people can distinguish between the use of rewards (which often
 function as reinforcers) and punishments. However, it is important to
 remember that one cannot classify a consequence as reinforcing or
@@ -49,9 +49,8 @@ from the room aversive and will work to avoid being sent from the room,
 there are some children for whom being sent from the room is reinforcing
 because it allows them to escape from having to work on tasks which are
 too hard for them.
-:::
 
-::: referencesList
+
 #### References
 
 -   Thomas, D. R., Becker, W. C., & Armstrong, M. (1968). Production and
@@ -61,4 +60,3 @@ too hard for them.
 -   Weissenburger, F. E., & Loney, J. (1977). Hyperkinesis in the
     classroom: If cerebral stimulants are the last resort, what is the
     first resort? Journal of Learning Disabilities, 10, 339-348.
-:::

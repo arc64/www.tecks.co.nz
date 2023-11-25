@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'What standards are used when assessing the believability of reports of learning '
 title: 'Measurement validity, threats to validity and the assessment of validity '
 ---
-# Measurement validity, threats to validity and the assessment of validity 
+# Measurement validity, threats to validity and the assessment of validity
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d73ed7ec19db412cb7d561af7e18f4e3}
+
 A third question which may be asked of research data is the question "Is
 the conclusion which the researcher has drawn from his or her data a
 valid conclusion given the nature of the data and the conditions under
@@ -119,9 +119,8 @@ conclusions in the light of the information which has been provided
 regarding the selection procedures used, and the characteristics of any
 sample of occasions, participants, or test items selected by the
 researcher.
-:::
 
-::: referencesList
+
 #### References
 
 -   Martella, R. C., Nelson, R. & Marchand-Martella, N. E. (1999).
@@ -133,4 +132,3 @@ researcher.
     research, methodology, and measurement: An international handbook
     (2nd ed., pp. 822-829). Oxford, England: Pergamon/Elsevier Science
     Inc.
-:::

@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Practice schedules and their effects '
 title: 'Effects of varying the interspersal ratio '
 ---
-# Effects of varying the interspersal ratio 
+# Effects of varying the interspersal ratio
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-86d6c237a9464914a121a5f1c26ced8a}
+
 Practice activities often consist of a mixture of new and previously
 acquired responses. The technical name for this is *interspersal
 training* -- because new (yet-to-be-acquired) and old (previously
@@ -116,9 +116,8 @@ the student gets twice as much practice with new items as they get with
 old items. A variation of this procedure is to return *incorrectly
 answered* items to the middle of the pack and correctly answered items
 to the end of the pack (Van Houten & Rolider, 1989).
-:::
 
-::: referencesList
+
 #### References
 
 -   Cates, G. L. (2005). A review of the effects of interspersing
@@ -218,4 +217,3 @@ to the end of the pack (Van Houten & Rolider, 1989).
     additional brief, easy problems to increase assignment preference on
     mathematics reading problems. Journal of Behavioral Education, 8,
     337-346.
-:::

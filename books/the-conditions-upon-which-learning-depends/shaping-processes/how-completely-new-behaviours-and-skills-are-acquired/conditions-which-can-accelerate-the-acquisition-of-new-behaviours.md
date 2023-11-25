@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'How completely new behaviours and skills are acquired '
 title: 'Conditions which can accelerate the acquisition of new behaviours '
 ---
-# Conditions which can accelerate the acquisition of new behaviours 
+# Conditions which can accelerate the acquisition of new behaviours
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-bcd07c6e68094613a07e19271f8bd1dd}
+
 Research has identified a number of additional conditions which,
 although not essential for learning, may function to accelerate the rate
 at which new behaviours and skills are acquired.
@@ -104,9 +104,8 @@ engage in independent practice instead of having to wait until a teacher
 or coach is available to evaluate their performance (Sweeney, Salva,
 Cooper & Talbert-Johnson, 1993). This allows learners to practise on
 their own and hence to make faster rates of progress.
-:::
 
-::: referencesList
+
 #### References
 
 -   Allison, M. G., & Ayllon, T. (1980). Behavior coaching in the
@@ -142,4 +141,3 @@ their own and hence to make faster rates of progress.
 -   Ziegler, S. G. (1987). Effects of stimulus cueing on the acquisition
     of ground strokes by beginning tennis players. Journal of Applied
     Behavior Analysis, 20, 405-411.
-:::

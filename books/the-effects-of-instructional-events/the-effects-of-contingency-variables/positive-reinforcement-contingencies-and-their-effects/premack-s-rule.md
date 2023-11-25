@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Positive reinforcement contingencies and their effects '
 title: 'Premack''s Rule '
 ---
-# Premack's Rule 
+# Premack's Rule
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-299531f5c35944f6af74e2d5d4653a13}
+
 Given a choice, all human beings engage in certain behaviours more often
 than others. In everyday language we refer to these behaviours as
 "preferred activities". The technical term is *high probability
@@ -98,9 +98,8 @@ bike is the additional, new, reinforcing activities (such as visiting
 friends' houses) which become accessible once one has learned how to
 ride a bike. It is this kind of outcome which often motivates people to
 practise, and eventually to master, new skills.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bording, C., McLaughlin, T. F., & Williams, R. L. (1984). Effects of
@@ -170,4 +169,3 @@ practise, and eventually to master, new skills.
     (1971). The effect of intermittent feedback and intermittent
     contingent access to play on printing of kindergarten children.
     Journal of Applied Behavior Analysis, 4, 163-171.
-:::

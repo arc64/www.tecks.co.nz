@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Which approaches to research are collecting the most believable data on learning? '
 title: 'Believability of the data collected by cognitive scientists '
 ---
-# Believability of the data collected by cognitive scientists 
+# Believability of the data collected by cognitive scientists
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f0381468d2cd481d94c54e27858c860d}
+
 Researchers who work in the social science tradition consider data
 quality issues to be matters of some importance. "Research findings
 requiring the use of tests can be no more accurate than the measures
@@ -181,9 +181,8 @@ accuracy of those individual scores is neither assessed nor reported.
 This routine failure to consider data quality issues (in spite of the
 fact that procedures have been developed for assessing data quality) is
 a major weakness of much of the published cognitive science research.
-:::
 
-::: referencesList
+
 #### References
 
 -   Allen, M. J., & Yen, W. M. (1979). Introduction to measurement
@@ -207,4 +206,3 @@ a major weakness of much of the published cognitive science research.
     research, methodology, and measurement: An international handbook
     (2nd ed., pp. 822-829). Oxford, England: Pergamon/Elsevier Science
     Inc.
-:::

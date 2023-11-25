@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'How new procedures are acquired '
 title: 'Necessary condition 4: Sufficient practice to ensure mastery '
 ---
-# Necessary condition 4: Sufficient practice to ensure mastery 
+# Necessary condition 4: Sufficient practice to ensure mastery
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ed469356e5f34939b03f3f07e1b86554}
+
 Where the student can already perform most of the steps which go to make
 up the procedure, acquisition may be quite rapid (e.g., Joseph & Cooper,
 1991; Rivera & Smith, 1987). Nevertheless, some practice will be
@@ -49,9 +49,8 @@ substantial teaching and practice over a long period of time and across
 multiple tasks. This provides . . . ample opportunities for students to
 discover when and where to use particular strategies and to adapt these
 procedures to new situations" (Borkowski & Muthukrishna, 1992, p. 491).
-:::
 
-::: referencesList
+
 #### References
 
 -   Borkowski, J.G., & Muthukrishna, N. (1992). Moving metacognition
@@ -82,4 +81,3 @@ procedures to new situations" (Borkowski & Muthukrishna, 1992, p. 491).
     Acquisition, fluency training, generalization, and maintenance of
     dressing skills of two developmentally disabled children. Education
     and Treatment of Children, 9, 16-29.
-:::

@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Verbal learning processes '
 title: 'How new equivalence relations are acquired '
 ---
-# How new equivalence relations are acquired 
+# How new equivalence relations are acquired
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-01613f47e0de43b087fa37439d588559}
+
 Much human learning involves learning how to respond correctly to
 letters, words, numbers, mathematical symbols, mathematical expressions,
 chemical symbols, and so on. In this account we are referring to this
@@ -219,9 +219,8 @@ equivalence relations may take place within the context of authentic
 activities, practice activities, self-study activities, peer tutoring
 activities (e.g., Telecsan, Slaton & Stevens, 1999), computer presented
 activities (e.g., Kinney, Stevens & Schuster, 1988), and so on.
-:::
 
-::: referencesList
+
 #### References
 
 -   Barbetta, P. M., Heward, W. L., & Bradley, D. M. C. (1993). Relative
@@ -280,4 +279,3 @@ activities (e.g., Kinney, Stevens & Schuster, 1988), and so on.
 -   Telecsan, B. L., Slaton, D. B., & Stevens, K. B. (1999). Peer
     tutoring: Teaching students with learning disabilities to deliver
     time delay instruction. Journal of Behavioral Education, 9, 133-154.
-:::

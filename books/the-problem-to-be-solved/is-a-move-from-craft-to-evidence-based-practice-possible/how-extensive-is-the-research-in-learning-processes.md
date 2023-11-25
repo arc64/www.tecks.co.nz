@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Is a move from craft- to evidence-based practice possible? '
 title: 'How extensive is the research in learning processes? '
 ---
-# How extensive is the research in learning processes? 
+# How extensive is the research in learning processes?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4532417c6c19471e914a0589e9b9b64b}
+
 University of Canterbury, Christchurch, New Zealand. © University of
 Canterbury 2008.
 
@@ -184,9 +184,8 @@ learning will be found in Book 2 of this website and a detailed account
 of the scientific research into the conditions necessary in order for
 these different kinds of learning to occur will be found in Book 4 of
 this site.
-:::
 
-::: referencesList
+
 #### References
 
 -   Albers, A. E. & Greer, R. D. (1991). Is the three-term contingency
@@ -335,4 +334,3 @@ this site.
     education. Journal of Behavioral Education, 8, 103-114.
 -   Wittrock, M. C. (Ed.). (1986). Handbook of research on teaching (3rd
     ed.). New York: Macmillan Publishing Co.
-:::

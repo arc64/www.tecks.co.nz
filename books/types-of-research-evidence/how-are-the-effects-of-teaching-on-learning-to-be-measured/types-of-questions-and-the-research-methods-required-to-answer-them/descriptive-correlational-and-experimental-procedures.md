@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Types of questions and the research methods required to answer them '
 title: 'Descriptive, correlational and experimental procedures '
 ---
-# Descriptive, correlational and experimental procedures 
+# Descriptive, correlational and experimental procedures
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ac89cfcc99ba437480fafd62b49c81c0}
+
 In order to identify relationships between particular kinds of teaching
 events and particular types of learning outcomes, we need a research
 procedure which is effective in detecting relationships. Not all
@@ -84,4 +84,3 @@ environment-behaviour relationships because the factors which are of
 most interest to teachers are the ones which they can do something about
 and these factors are *external* to the learner, that is, they involve
 the learner's interaction with his or her environment.
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Phases of learning '
 title: 'The fluency building phase '
 ---
-# The fluency building phase 
+# The fluency building phase
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9a27308d56a540cb994c9a588a4f88d2}
+
 Even after students have learned how to respond correctly, we often
 provide additional practice to bring them to the point where they can
 respond fluently, that is, both correctly and quickly. Fluent
@@ -94,4 +94,3 @@ the case, it is normally sufficient simply to measure fluency to see if
 the targeted response can be recalled in less than 1 second. If this
 outcome is achieved, the later retention test will prove to be
 unnecessary and can be abandoned.
-:::

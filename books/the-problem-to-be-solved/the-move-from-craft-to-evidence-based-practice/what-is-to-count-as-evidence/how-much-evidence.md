@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'What is to count as evidence? '
 title: 'How much evidence? '
 ---
-# How much evidence? 
+# How much evidence?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e3e948fab4fd42149459674c62d10dfd}
+
 Some generalisations about the effects of a given teaching practice on
 learning have no research support, some are supported by the results of
 a single scientific investigation and some are supported by the results
@@ -56,9 +56,8 @@ Cottrell, Phillips & Kurtz, 2002) but is certainly an improvement over
 the current situation in education where effectiveness claims are often
 being made on the basis of a single investigation (e.g., Alton Lee,
 2003; Anthony & Walshaw, 2007).
-:::
 
-::: referencesList
+
 #### References
 
 -   Alton-Lee, A. (2003). Quality teaching for diverse students in
@@ -76,4 +75,3 @@ being made on the basis of a single investigation (e.g., Alton Lee,
     Journal of Clinical Child Psychology, 27, 138-145.
 -   Martens, B. K., & Eckert, T. L. (2000). The essential role of data
     in psychological theory. Journal of School Psychology, 38, 369-376.
-:::

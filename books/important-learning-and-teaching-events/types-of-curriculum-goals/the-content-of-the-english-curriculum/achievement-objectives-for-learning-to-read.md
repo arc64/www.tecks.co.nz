@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The content of the English curriculum '
 title: 'Achievement objectives for learning to read '
 ---
-# Achievement objectives for learning to read 
+# Achievement objectives for learning to read
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-742a881629fe46a1a4b6ce8e939db9b8}
+
 The achievement objectives for the teaching of reading during the first
 six years of schooling are stated in the English section of the New
 Zealand curriculum in the following form.
@@ -218,9 +218,8 @@ Literacy Practice" (Ministry of Education, 2003)*
     material
 -   Can read, comprehend and respond to texts at the 8 year old
     difficulty level
-:::
 
-::: referencesList
+
 #### References
 
 -   Ministry of Education. (1996). The learner as a reader: Developing
@@ -229,4 +228,3 @@ Literacy Practice" (Ministry of Education, 2003)*
     1 to 4. Wellington NZ: Learning Media Ltd.
 -   Ministry of Education. (2007). The New Zealand curriculum.
     Wellington, NZ: New Zealand Ministry of Education.
-:::

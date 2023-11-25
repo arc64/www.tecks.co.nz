@@ -9,17 +9,17 @@ parent: 'How conceptual responses are acquired '
 title: "Necessary condition 2.\_ Examples which illustrate the full extent of the\
   \ generalisation "
 ---
-# Necessary condition 2.  Examples which illustrate the full extent of the generalisation 
+# Necessary condition 2.  Examples which illustrate the full extent of the generalisation
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8aa58d4944f44952ad2fc5e35857d6f4}
+
 If the learner is to acquire a new generalisation, practice
 opportunities must include a number of examples from the stimulus set
 (Haring, 1985; Tateyama-Snieziek, 1989).
@@ -47,9 +47,8 @@ presented with a full range of positive examples of how to convert
 fractions into decimals obtained higher scores on a generalisation test
 (82% correct) than students who were presented with only a restricted
 range of examples (40% correct) (Becker & Carnine, 1980).
-:::
 
-::: referencesList
+
 #### References
 
 -   Becker, W. C., & Carnine, D. (1980). Direct Instruction: An
@@ -71,4 +70,3 @@ range of examples (40% correct) (Becker & Carnine, 1980).
     on the generalization performance of students with moderate
     retardation. Education and Training in Mental Retardation, 24,
     89-94.
-:::

@@ -9,17 +9,17 @@ parent: 'How new knowledge responses are acquired '
 title: 'Necessary condition 1. All essential information in a form which can be referred
   to repeatedly '
 ---
-# Necessary condition 1. All essential information in a form which can be referred to repeatedly 
+# Necessary condition 1. All essential information in a form which can be referred to repeatedly
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-08e85ba864cc4c91a2395a973afb985b}
+
 In seems reasonable to assume that only those students who have access
 to every item of information listed in the teaching aim will be in a
 position to acquire the knowledge responses which go to make up the aim
@@ -62,4 +62,3 @@ possible to develop more effective teaching procedures unless student
 learning is being measured and it is not possible to measure student
 learning unless the teaching aim has been specified before teaching
 begins.
-:::

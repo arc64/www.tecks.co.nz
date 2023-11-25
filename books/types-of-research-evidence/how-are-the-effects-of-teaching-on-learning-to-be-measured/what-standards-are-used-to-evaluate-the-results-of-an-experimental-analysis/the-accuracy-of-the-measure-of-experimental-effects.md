@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What standards are used to evaluate the results of an experimental analysis? '
 title: 'The accuracy of the measure of experimental effects '
 ---
-# The accuracy of the measure of experimental effects 
+# The accuracy of the measure of experimental effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ff218ab2890c44d7a01b8a2bd93f2cdb}
+
 The second question which may be asked of an experimental result is the
 question "Does the data from this experiment accurately represent the
 degree or rate of change (learning) which resulted from the intervention
@@ -55,9 +55,8 @@ detect treatment effects may be achieved with relatively small
 experimental groups of 20 to 30 subjects. Where the experimental
 treatment has only a weak effect, the power to detect treatment effects
 may require experimental groups of several hundreds of subjects.
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. (1996). Within-subject experimental analysis: A guide
@@ -65,4 +64,3 @@ may require experimental groups of several hundreds of subjects.
     Zealand Association for Research in Education.
 -   Cohen, J, (1988). Statistical power analysis for the behavioral
     sciences (2nd ed.). Hillsdale, NJ: Lawrence Erlbaum Associates.
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Research in which the question asked determines the research method? '
 title: 'Questions which can and cannot be addressed by behaviour analysis methods '
 ---
-# Questions which can and cannot be addressed by behaviour analysis methods 
+# Questions which can and cannot be addressed by behaviour analysis methods
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-016768dec73242beb066a24a1c789b4c}
+
 Unlike the social science procedures, behaviour analysis research
 procedures were specifically designed to study behaviour change
 (learning) in individual learners. At the present time, therefore, it is
@@ -77,4 +77,3 @@ for large scale programme evaluations, and they have not been designed
 to provide in-depth descriptions of the activities, beliefs and social
 conventions of those who live, work, or learn together in a particular
 setting.
-:::

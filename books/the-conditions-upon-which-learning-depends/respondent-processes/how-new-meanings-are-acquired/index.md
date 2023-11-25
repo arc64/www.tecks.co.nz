@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Respondent processes '
 title: 'How new meanings are acquired '
 ---
-# How new meanings are acquired 
+# How new meanings are acquired
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-af355a40a6dc47889cb646d5782daf9e}
+
 Much learning, especially during the early years, involves learning what
 particular symbols mean. Young English speaking children have to learn
 the meaning of the word *dog*, young French speaking children must learn
@@ -137,9 +137,8 @@ actual performance of one step in the preparation of a particular meal
 can elicit the next step, so too can the sequence of mental images which
 have been acquired as a result of previous experience in preparing that
 meal.
-:::
 
-::: referencesList
+
 #### References
 
 -   Mowrer, O. H. (1954). The psychologist looks at language. American
@@ -166,4 +165,3 @@ meal.
 -   Staats, C. K., & Staats, A. W. (1957). Meaning established by
     classical conditioning. Journal of Experimental Psychology, 54,
     74-80.
-:::

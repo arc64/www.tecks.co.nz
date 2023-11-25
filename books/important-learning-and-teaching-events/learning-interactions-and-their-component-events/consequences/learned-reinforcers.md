@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Consequences '
 title: 'Learned reinforcers '
 ---
-# Learned reinforcers 
+# Learned reinforcers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-44e3f83033854903b53edea9bc1a2736}
+
 Learned reinforcers are those environmental events which acquire their
 reinforcing properties as a result of experience (usually the experience
 of occurring in association with events which already function as
@@ -275,13 +275,11 @@ situation then, "lesson proceeding" is the feedback event which
 indicates that the previous answer was acceptable to the teacher and
 "question redirected to another student" is the feedback event which
 indicates that the previous answer was less than satisfactory.
-:::
 
-::: referencesList
+
 #### References
 
 -   Premack, D. (1959). Toward empirical behavior laws: I. Positive
     reinforcement. Psychological Review, 66, 219-233.
 -   Sulzer-Azaroff, B. & Mayer, G.R. (1991) Behavior analysis for
     lasting change. Fort Worth, TX: Holt, Rinehart and Winston.
-:::

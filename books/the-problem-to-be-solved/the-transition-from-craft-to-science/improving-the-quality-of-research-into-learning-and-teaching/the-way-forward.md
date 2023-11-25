@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Improving the quality of research into learning and teaching '
 title: 'The way forward '
 ---
-# The way forward 
+# The way forward
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-94e60bf6e1b9469db4ecb8802a0c581c}
+
 In this introduction to the TECKS website we have reviewed the current
 state of classroom practice and have concluded that it remains a craft
 largely untouched by the scientific research into learning and teaching.
@@ -171,9 +171,8 @@ is to show that this journey has already begun. Thirty years ago, Robert
 Glaser (1967) predicted that we were about to witness the emergence of a
 science of instruction and a technology of instructional design. This
 didn't happen in his lifetime. Perhaps it will in yours.
-:::
 
-::: referencesList
+
 #### References
 
 -   Alton-Lee, A. (2004). A collaborative knowledge building strategy to
@@ -252,4 +251,3 @@ didn't happen in his lifetime. Perhaps it will in yours.
     Office of Elementary and Secondary Education.
 -   Wheldall, K. (2005). When will we ever learn? Educational
     Psychology, 25, 573-584.
-:::

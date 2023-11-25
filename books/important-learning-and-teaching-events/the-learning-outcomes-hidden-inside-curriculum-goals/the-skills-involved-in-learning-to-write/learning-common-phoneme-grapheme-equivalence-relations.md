@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'The skills involved in learning to write '
 title: 'Learning common phoneme-grapheme equivalence relations '
 ---
-# Learning common phoneme-grapheme equivalence relations 
+# Learning common phoneme-grapheme equivalence relations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f45464e0585841b6aaf256cfb29397fb}
+
 The act of spelling involves reproducing the correct sequence of letters
 for a particular word. The stimulus may be either the spoken word (as
 when taking notes) or it may be the thought of the word (as when
@@ -63,9 +63,8 @@ of this learning outcome is essential if a child is to become a
 competent writer. Although not systematically taught at the present
 time, these equivalence relations could be systematically taught thereby
 greatly accelerating the rate at which young children learn to write.
-:::
 
-::: referencesList
+
 #### References
 
 -   Dixon, R. C. (1991).The application of sameness analysis to
@@ -86,4 +85,3 @@ greatly accelerating the rate at which young children learn to write.
 -   Templeton, S., & Morris, D. (2000). Spelling. In M. L. Kamil, P. B.
     Mosenthal, P. D. Pearson, & R. Barr (Eds.), Handbook of reading
     research. Vol 3 (pp. 525-543). Mahwah, NJ: Erlbaum.
-:::

@@ -7,17 +7,17 @@ nav_order: 8
 parent: 'The effects of contingency variables '
 title: 'Schedules of reinforcement and punishment '
 ---
-# Schedules of reinforcement and punishment 
+# Schedules of reinforcement and punishment
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c6740897b38d45ac884c98037eb83cef}
+
 A particular response may be successful in generating reinforcement or
 in avoiding punishment every time that it is used or it may be
 successful on only some occasions. A teacher or parent may correct or
@@ -29,4 +29,3 @@ punishment). Schedules of reinforcement and punishment may vary in a
 number of ways. For example, consequences may be scheduled to occur
 frequently or infrequently, to occur continuously or intermittently and
 to occur predictably or unpredictably.
-:::

@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Response-consequence contingencies '
 title: 'Negative reinforcement contingencies '
 ---
-# Negative reinforcement contingencies 
+# Negative reinforcement contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8efa0e94c54a4c89aee58248934ac112}
+
 A particular behaviour can also function to *put a stop* to things, or
 enable us *to escape* from things or *to avoid* things. For example, a
 child might be being reprimanded by a parent, the child might apologise
@@ -109,4 +109,3 @@ which they are working and the tasks which they are being asked to
 perform. In short, positive reinforcement contingencies produce positive
 attitudes and negative reinforcement contingencies produce negative
 attitudes.
-:::

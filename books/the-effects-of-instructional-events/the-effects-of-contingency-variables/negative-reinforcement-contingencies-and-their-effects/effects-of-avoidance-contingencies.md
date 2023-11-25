@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Negative reinforcement contingencies and their effects '
 title: 'Effects of avoidance contingencies '
 ---
-# Effects of avoidance contingencies 
+# Effects of avoidance contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-53662eed594945f5bab3d6f91df1f28e}
+
 Our search for applied examples of avoidance contingencies identified
 six experimental analyses. Four of these demonstrated the reinforcing
 (motivating) effects of negative reinforcement contingencies in school
@@ -65,9 +65,8 @@ perception of the likelihood that the punishing outcome will actually
 occur if requirements are not met. However, these experiments have
 little to say about the effects of negative reinforcement arrangements
 on attitudes and long term motivation.
-:::
 
-::: referencesList
+
 #### References
 
 -   Cote, C. A., Thompson, R. H., & McKerchar, P. M. (2005). The effects
@@ -92,4 +91,3 @@ on attitudes and long term motivation.
 -   Witt, J. C., & Elliott, S. N. (1982). The response cost lottery: A
     time efficient and effective classroom intervention. Journal of
     School Psychology, 20, 155-161.
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What is learning? '
 title: 'Learning occurs in individuals '
 ---
-# Learning occurs in individuals 
+# Learning occurs in individuals
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2058b94f951547fabc2be6f97df8fddb}
+
 Learning is the ability to profit from experience and it is the
 individual learner who profits from experience. In other words, it is
 individuals who learn. The term *learning* refers to changes which are
@@ -37,4 +37,3 @@ requirement. Between-groups procedures do not meet this requirement
 because it is impossible to generalise from the average performance of a
 group of learners to the performance of any of the individual learners
 in that group.
-:::

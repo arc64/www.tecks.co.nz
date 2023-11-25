@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Phases of learning '
 title: 'Adapting skills to meet new task demands '
 ---
-# Adapting skills to meet new task demands 
+# Adapting skills to meet new task demands
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e67ea4cc1d4c4748a5133cbd569cf254}
+
 Sometimes it is important that a particular skill be performed in much
 the same way every time that it is used. This is the case in learning to
 use a concept name correctly, for example. There is only one correct
@@ -40,11 +40,9 @@ responding correctly to new variations of particular tasks, this is
 called *adaptation*. Adaptation is required whenever the learner must
 learn to give a *class of responses* to the members of a class of
 stimuli.
-:::
 
-::: referencesList
+
 #### References
 
 -   Sulzer-Azaroff, B. & Mayer, G. R. (1991). Behavior analysis for
     lasting change. Fort Worth, TX: Holt, Rinehart and Winston.
-:::

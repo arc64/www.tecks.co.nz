@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Positive reinforcement contingencies and their effects '
 title: 'Effects of social reinforcement '
 ---
-# Effects of social reinforcement 
+# Effects of social reinforcement
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0a7ac4bed4fd4e52b7d30f3d16dcd510}
+
 The reinforcing consequence which is most commonly used by teachers and
 parents is the positive social reaction which we refer to as praise or
 approval. Common sense accounts of praise usually argue that praise
@@ -135,9 +135,8 @@ children (Hrydowy, Stokes & Martin, 1984), primary students with
 learning disabilities (Alber, Heward & Hippler, 1999), primary students
 with behaviour problems (Morgan, Young & Goldstein, 1983) and primary
 students with intellectual disabilities (Craft, Alber & Heward, 1988).
-:::
 
-::: referencesList
+
 #### References
 
 -   Alber, S. R. , & Heward, W. L. (2000). Teaching students to recruit
@@ -224,4 +223,3 @@ students with intellectual disabilities (Craft, Alber & Heward, 1988).
 -   Yawkey, T. D. (1971). Conditioning independent work behavior in
     reading with seven-year-old children in a regular early childhood
     classroom. Child Study Journal, 2, 23-34.
-:::

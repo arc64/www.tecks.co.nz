@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'How new knowledge responses are acquired '
 title: 'Necessary condition 3. Differential reinforcement for correct responses '
 ---
-# Necessary condition 3. Differential reinforcement for correct responses 
+# Necessary condition 3. Differential reinforcement for correct responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-0d0aa912d16448c3899ee61b7c09d2a3}
+
 Having established that knowledge responses must be practised, it seems
 reasonable to assume that these practice responses will need to be
 differentially reinforced if they are to be remembered. The sources of
@@ -83,9 +83,8 @@ information included in the test. It is essential, therefore, that the
 learner's responses be marked, and errors corrected, immediately
 following the test. In the classroom, this can be accomplished using
 peer marking or self marking from an answer key.
-:::
 
-::: referencesList
+
 #### References
 
 -   Anderson, R. C., Kulhavy, R. W., & Andre, T. (1971). Feedback
@@ -112,4 +111,3 @@ peer marking or self marking from an answer key.
     tutors: Immediate and generative effects on instructional
     performance and spelling achievement. Behavioral Disorders, 7,
     136-148.
-:::

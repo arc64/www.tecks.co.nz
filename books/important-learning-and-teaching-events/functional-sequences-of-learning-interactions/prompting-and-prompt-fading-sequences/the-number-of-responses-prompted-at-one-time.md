@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Prompting and prompt fading sequences '
 title: 'The number of responses prompted at one time '
 ---
-# The number of responses prompted at one time 
+# The number of responses prompted at one time
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-390972b624794e73bf8dd53c5613fe36}
+
 When someone is learning how to perform a new operation or procedure,
 the teacher may demonstrate, describe or otherwise prompt one step at a
 time, or several steps at a time, or all of the steps in the procedure.
@@ -36,9 +36,8 @@ procedure, the demonstration-assimilation span may need to be limited to
 two or three steps at a time. As the learner begins to master some of
 the steps in the sequence of responses, the demonstration-assimilation
 span can be, and usually is, increased.
-:::
 
-::: referencesList
+
 #### References
 
 -   Margolius, G. J. & Sheffield, F. D. (1961). Optimum methods of
@@ -47,4 +46,3 @@ span can be, and usually is, increased.
     In R. C. Anderson, G. W. Faust, R. C. Roderick, D. J. Cunningham,
     & T. Andre (Eds.), Current research on instruction. Englewood
     Cliffs, NJ: Prentice Hall.
-:::

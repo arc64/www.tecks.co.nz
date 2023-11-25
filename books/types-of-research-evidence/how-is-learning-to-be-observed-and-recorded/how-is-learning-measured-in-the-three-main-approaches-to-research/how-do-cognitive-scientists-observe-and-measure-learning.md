@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'How is learning measured in the three main approaches to research? '
 title: 'How do cognitive scientists observe and measure learning? '
 ---
-# How do cognitive scientists observe and measure learning? 
+# How do cognitive scientists observe and measure learning?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7a70ac4fc3c94f2788ff2cba6c01667b}
+
 **The focus of individual investigations***.* Decisions regarding the
 particular variables which are to be observed are almost always made by
 cognitive scientists before the investigation begins. Typically the
@@ -171,9 +171,8 @@ terms of (the) variability characterizing a set of otherwise direct
 observations seems peculiar to the social sciences. This is one of the
 most fundamental differences between the natural and social sciences
 (Johnston & Pennypacker, 1993, p. 29).
-:::
 
-::: referencesList
+
 #### References
 
 -   Best, J. W., & Kahn, J. V. (1993). Research in education (7th ed.).
@@ -190,4 +189,3 @@ most fundamental differences between the natural and social sciences
     in print IV: an index to tests, test reviews, and the literature on
     specific tests Volumes 1 & 2. Lincoln: Buros Institute of Mental
     Measurements of the University of Nebraska, Lincoln.
-:::

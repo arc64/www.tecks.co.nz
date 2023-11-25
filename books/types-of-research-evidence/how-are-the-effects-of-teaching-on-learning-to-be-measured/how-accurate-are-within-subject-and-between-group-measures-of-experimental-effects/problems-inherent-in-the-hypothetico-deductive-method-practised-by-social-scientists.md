@@ -10,17 +10,17 @@ parent: 'How accurate are within-subject and between-group measures of experimen
 title: 'Problems inherent in the hypothetico-deductive method practised by social
   scientists '
 ---
-# Problems inherent in the hypothetico-deductive method practised by social scientists 
+# Problems inherent in the hypothetico-deductive method practised by social scientists
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-16aae81b183e416a956cba5a7799f85d}
+
 One of the most common uses of the between-groups experiment is to test
 experimenter-generated hypotheses about relationships between
 independent and dependent variables. Hypothesis testing has an important
@@ -142,9 +142,8 @@ that is, replication is not a requirement for publication. As a
 consequence, the great majority of social science experiments in
 teaching and learning have never been replicated and the reliability
 (reproducibility) of their results remains completely unknown.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bakan, D. (1967). On method: Toward a reconstruction of
@@ -167,4 +166,3 @@ teaching and learning have never been replicated and the reliability
     significance test. Psychological Bulletin, 57, 416-428.
 -   Sidman, M. (1960). Tactics of scientific research: Evaluating
     experimental data in psychology. New York: Basic Books.
-:::

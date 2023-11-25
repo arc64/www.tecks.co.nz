@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Practice responses '
 title: 'Types of practice opportunities '
 ---
-# Types of practice opportunities 
+# Types of practice opportunities
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-13e34f2cd37f4709a1d5b6eab6e8aa79}
+
 Different practice stimulus modes may be combined with different
 practice response modes to produce a variety of different kinds of
 practice stimulus--\>practice response combinations.
@@ -61,4 +61,3 @@ describing, the degree of match between particular practice
 opportunities and particular learning outcomes. This is unfortunate
 given the obvious importance of this variable in the selection of
 effective learning activities.
-:::

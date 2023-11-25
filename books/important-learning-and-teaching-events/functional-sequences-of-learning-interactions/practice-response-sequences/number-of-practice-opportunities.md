@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Practice response sequences '
 title: 'Number of practice opportunities '
 ---
-# Number of practice opportunities 
+# Number of practice opportunities
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e0b31ee55d1a4da39ac6f9be96c4c6fa}
+
 Someone who is trying to learn a new idea, or concept, or word or skill
 may experience any number of practice opportunities involving that new
 idea or skill from none to thousands. Only if practice responses occur
@@ -31,4 +31,3 @@ practice responses is a major determinant of learning it follows that
 this variable is the most important of the variables which needs to be
 managed by teachers and the most important of the variables which must
 be controlled and recorded during research into learning and teaching.
-:::

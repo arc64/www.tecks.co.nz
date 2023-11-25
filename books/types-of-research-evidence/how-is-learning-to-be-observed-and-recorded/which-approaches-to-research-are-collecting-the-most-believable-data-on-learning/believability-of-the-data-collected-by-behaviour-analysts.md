@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Which approaches to research are collecting the most believable data on learning? '
 title: 'Believability of the data collected by behaviour analysts '
 ---
-# Believability of the data collected by behaviour analysts 
+# Believability of the data collected by behaviour analysts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b197ce3469bb47199abdc233a89af1b5}
+
 Behaviour analysts have developed a well defined set of terms which they
 use when considering data quality issues. Behaviour analysts routinely
 distinguish between (i) the adequacy of a measurement *procedure* and
@@ -133,9 +133,8 @@ checks, and must report the results of these data quality evaluations as
 a condition of publication represents a very considerable advance over
 the data quality assurance procedures employed by both qualitative
 researchers and social science researchers.
-:::
 
-::: referencesList
+
 #### References
 
 -   Cooper, J. O., Heron, T. E., & Heward, W. L. (1987). Applied
@@ -146,4 +145,3 @@ researchers and social science researchers.
 -   Powell, J., Martindale, A., & Kulp, S. (1975). An evaluation of
     time-sample measures of behavior. Journal of Applied Behavior
     Analysis, 8, 463-469.
-:::

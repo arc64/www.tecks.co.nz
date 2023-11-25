@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Prompting and prompt fading sequences '
 title: 'Prompt fading procedures '
 ---
-# Prompt fading procedures 
+# Prompt fading procedures
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-cea34b0f34d34c6db92cea1320df1624}
+
 The task of withdrawing any prompts which have been used during the
 initial phase of learning is referred to as *fading*. Fading is an
 essential teaching process during transition from the initial learning
@@ -94,4 +94,3 @@ multiplication procedure) with an explicit show and tell demonstration
 the next day (reduced prompting) and, during subsequent practice of the
 procedure, cease to provide any reminders regarding how to perform the
 procedure (no prompting).
-:::

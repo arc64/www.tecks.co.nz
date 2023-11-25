@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'What is learning? '
 title: 'Implications of this definition '
 ---
-# Implications of this definition 
+# Implications of this definition
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-fc7a32cbd12a45b78ebaccf6f561a5c3}
+
 To summarise: most human behaviours are actions, that is, they are
 behaviours which are undertaken for some purpose and which have effects
 in the sense that the action may be successful or unsuccessful in
@@ -37,11 +37,9 @@ these requirements is unlikely to qualify as a scientific study of
 learning. It can be seen, therefore, that, as a subject matter for study
 and scientific research, learning has a number of characteristics which
 make its observation and measurement somewhat difficult.
-:::
 
-::: referencesList
+
 #### References
 
 -   Gage, N.L. & Berliner, D.C. (1988). Educational psychology (4th
     ed.). Boston: Houghton Mifflin Co.
-:::

@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'Learning processes, learning outcomes and phases of learning '
 title: 'Three important learning processes '
 ---
-# Three important learning processes 
+# Three important learning processes
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-fcb2d01ad2f5461ab7f1622a4dcc9803}
+
 The main problem with the word learning is that it does not refer to
 just a single process. "Learning" is a collective noun which refers to a
 number of different processes.
@@ -43,4 +43,3 @@ to response effort is a primary determinant of motivation but has little
 effect on acquisition or liking for. The ratio of success to failure has
 a major effect on liking for but has a much smaller effect on
 acquisition and motivation.
-:::

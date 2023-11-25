@@ -7,17 +7,17 @@ nav_order: 6
 parent: 'The transition from craft to science '
 title: 'Increasing the size of the research establishment '
 ---
-# Increasing the size of the research establishment 
+# Increasing the size of the research establishment
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4c32169e4f714291905c3943fcf93436}
+
 University of Canterbury, Christchurch, New Zealand. © University of
 Canterbury 2008.
 
@@ -180,9 +180,8 @@ teaching which have been completed by classroom teachers at both the
 undergraduate and postgraduate levels so that practising teachers and
 teachers in training can see the contribution which they could be making
 to the scientific development of improvements in classroom practice.
-:::
 
-::: referencesList
+
 #### References
 
 -   Alcorn, N., Bishop, R., Cardno, C., Crooks, T., Fairbairn-Dunlop, P,
@@ -235,4 +234,3 @@ to the scientific development of improvements in classroom practice.
     Performance-based research fund: Evaluating research excellence. The
     2003 assessment. Wellington, N.Z.: Tertiary Education Commission.
 -   Whitcombe, J. (1985). Who gets the research money? Input, 7(4), 1-4
-:::

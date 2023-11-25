@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'What, exactly, is observed by the three main approaches to research? '
 title: 'Do behaviour analysts study events which can be observed in practice? '
 ---
-# Do behaviour analysts study events which can be observed in practice? 
+# Do behaviour analysts study events which can be observed in practice?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-37da29be49a44964a9e157d277bd75a2}
+
 Behaviour analysts consider epistemological questions to be important
 questions and have written at length about the philosophy of science
 which underlies behaviour analysis research (e.g. Skinner, 1974; Baum,
@@ -167,9 +167,8 @@ possible. In this respect, behaviour analysts are no different from
 qualitative researchers and cognitive scientists who have also found it
 impossible to demonstrate the truthfulness of individuals\' self-reports
 of their thought processes, attitudes, opinions and beliefs.
-:::
 
-::: referencesList
+
 #### References
 
 -   Baum, W. M. (1994). Understanding behaviorism: Science, behavior and
@@ -203,4 +202,3 @@ of their thought processes, attitudes, opinions and beliefs.
     and laypersons\' interpretations of correlational findings. In J.
     Valsiner (Ed.), The individual subject and scientific methodology
     (pp 134-151). New York: Plenum Press.
-:::

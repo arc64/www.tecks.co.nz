@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Types of explanation '
 title: 'Immediate cause explanations and historical explanations '
 ---
-# Immediate cause explanations and historical explanations 
+# Immediate cause explanations and historical explanations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-bc548813f4c84e3193aaca17fc54f704}
+
 Explanations may be framed in terms of immediate causes, that is, in
 terms of events immediately preceding the behaviour change which is of
 interest, or in terms of historical causes, that is in terms of
@@ -70,4 +70,3 @@ complex operation . . . is made possible only because musical capability
 was pre-programmed into the human brain from birth. . . . Is it not
 evident that man\'s intellectual qualities mirror those of a Supreme
 Intellect?" (Watchtower Bible and Tract Society of Pennsylvania, 1985).
-:::

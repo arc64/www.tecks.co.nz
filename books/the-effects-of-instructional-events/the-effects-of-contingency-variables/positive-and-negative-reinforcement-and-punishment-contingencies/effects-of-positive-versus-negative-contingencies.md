@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Positive and negative reinforcement and punishment contingencies '
 title: 'Effects of positive versus negative contingencies '
 ---
-# Effects of positive versus negative contingencies 
+# Effects of positive versus negative contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-24065f810a1d478fb4de30759aaa11dd}
+
 It is possible to motivate improvements in performance using either
 positive reinforcement contingencies or negative reinforcement
 contingencies. Both have a similar effect both on motivation and on
@@ -59,9 +59,8 @@ Punishment contingencies *suppress* the punished behaviour (e.g.,
 Lovittt, Lovitt, Eaton & Kirkwood, 1973; Luce, Delquadri & Hall, 1980)
 while negative reinforcement contingencies *strengthen* the avoidance
 behaviour (e.g., Leach & Tan, 1996; Pfiffner & O'Leary, 1987).
-:::
 
-::: referencesList
+
 #### References
 
 -   Leach, D. J., & Tan, R. (1996). The effects of sending positive and
@@ -91,4 +90,3 @@ behaviour (e.g., Leach & Tan, 1996; Pfiffner & O'Leary, 1987).
 -   Trice, A. D., & Parker, F. C. (1983). Decreasing adolescent swearing
     in an instructional setting. Education & Treatment of Children, 6,
     29-35.
-:::

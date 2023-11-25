@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Prompting variables and their effects '
 title: 'Effects of varying the number of responses prompted at one time '
 ---
-# Effects of varying the number of responses prompted at one time 
+# Effects of varying the number of responses prompted at one time
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b8430e6fa796414fb676616685f00ced}
+
 How many responses should be prompted at one time? The answer to this
 question depends upon the attentional capacity of the learner.
 
@@ -99,9 +99,8 @@ stimuli, the same rule holds. In teaching the names of the letters, for
 example, the teacher should prompt the correct response to only one or
 two unknown letters at a time before arranging for the learner to make
 some kind of practice response or responses.
-:::
 
-::: referencesList
+
 #### References
 
 -   Case, R. (1978). A developmentally based theory and technology of
@@ -117,4 +116,3 @@ some kind of practice response or responses.
 -   Miller, G. (1956). The magical number seven, plus or minus two: Some
     limits on our capacity for processing information. Psychological
     Review, 63, 81-97.
-:::

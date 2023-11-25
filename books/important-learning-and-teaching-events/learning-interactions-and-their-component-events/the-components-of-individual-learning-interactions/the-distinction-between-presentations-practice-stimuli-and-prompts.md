@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'The components of individual learning interactions '
 title: 'The distinction between presentations, practice stimuli and prompts '
 ---
-# The distinction between presentations, practice stimuli and prompts 
+# The distinction between presentations, practice stimuli and prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5e619f134bd942cbb0843f8726ba2074}
+
 Teachers use many different kinds of antecedent instructional events.
 Three of these serve such different instructional functional that they
 must always be distinguished. These are presentations, practice stimuli,
@@ -61,4 +61,3 @@ people travel to school". No response is expected, so this statement is
 not a practice stimulus. The statement does not describe how to respond
 correctly, so it is not a prompt. But the statement does contain
 information and this makes it a presentation.
-:::

@@ -8,17 +8,17 @@ nav_order: 9
 parent: 'Response-consequence contingencies '
 title: 'Extinction contingencies '
 ---
-# Extinction contingencies 
+# Extinction contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-890ffe0b5243484da94a94b49b86124c}
+
 There is a third contingency which may cause a behaviour to *decrease in
 frequency* (to be used less often). Let us say that a behaviour has been
 used in the past because, in the past, it has worked to produce
@@ -45,4 +45,3 @@ declines in frequency. This is an example of extinction following the
 withdrawal of negative reinforcement. The behaviour has declined in
 frequency because performance of the behaviour (completing homework) is
 no longer necessary in order to avoid punishment (teacher disapproval).
-:::

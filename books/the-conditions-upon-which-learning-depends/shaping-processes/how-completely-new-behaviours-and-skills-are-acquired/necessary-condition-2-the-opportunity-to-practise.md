@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'How completely new behaviours and skills are acquired '
 title: 'Necessary condition 2: The opportunity to practise '
 ---
-# Necessary condition 2: The opportunity to practise 
+# Necessary condition 2: The opportunity to practise
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-386c8f239064463a840a8981e11010ae}
+
 The second condition which must be present, if the learner is to acquire
 the ability to perform a completely new behaviour, is the opportunity to
 practise that behaviour. When the behaviour to be acquired is completely
@@ -38,12 +38,10 @@ The infant who has many conversations with caregivers each day acquires
 the ability to pronounce new words (and an understanding of the meanings
 of those words) more quickly than the infant who has few conversations
 with caregivers (Hart & Risley, 1995).
-:::
 
-::: referencesList
+
 #### References
 
 -   Hart, B., & Risley, T. R. (1995). Meaningful differences in the
     everyday experience of young American children. Baltimore: Paul H.
     Brookes.
-:::

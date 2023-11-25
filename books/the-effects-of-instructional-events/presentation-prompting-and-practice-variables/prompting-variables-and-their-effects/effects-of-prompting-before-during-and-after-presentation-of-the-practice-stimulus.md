@@ -9,17 +9,17 @@ parent: 'Prompting variables and their effects '
 title: 'Effects of prompting before, during, and after presentation of the practice
   stimulus '
 ---
-# Effects of prompting before, during, and after presentation of the practice stimulus 
+# Effects of prompting before, during, and after presentation of the practice stimulus
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c546dddcb3374e1eb962dcc6c3c967a5}
+
 It is possible for a prompt to be presented prior to the practice
 stimulus to which the learner is attempting to respond (premature
 prompting), at the same time as the practice stimulus (simultaneous
@@ -41,9 +41,8 @@ average than students in delayed prompting conditions. These experiments
 tend to support the view that prompts should be introduced following the
 practice stimulus, presumably because the student is more likely to
 attend to the practice stimulus under these conditions.
-:::
 
-::: referencesList
+
 #### References
 
 -   Adepoju, A. A., & Elliott, R. T. (1997). Comparison of different
@@ -64,4 +63,3 @@ attend to the practice stimulus under these conditions.
 -   Solman, R. T., & Chung, K. K. H. (1996). Language transfer and
     blocking in second language vocabulary learning. Journal of
     Behavioral Education, 6, 173-190.
-:::

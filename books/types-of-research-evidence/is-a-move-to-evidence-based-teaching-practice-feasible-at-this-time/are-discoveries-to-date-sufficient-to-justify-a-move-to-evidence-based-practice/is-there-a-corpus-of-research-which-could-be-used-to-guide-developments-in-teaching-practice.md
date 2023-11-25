@@ -9,17 +9,17 @@ parent: 'Are discoveries to date sufficient to justify a move to evidence-based 
 title: 'Is there a corpus of research which could be used to guide developments in
   teaching practice? '
 ---
-# Is there a corpus of research which could be used to guide developments in teaching practice? 
+# Is there a corpus of research which could be used to guide developments in teaching practice?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a9fbffadcc0542ada614018a15290055}
+
 Educational researchers have been studying learning and teaching for
 more than 100 years -- since Ebbinghaus's 1885 studies of memory and
 Edgar Rice's 1895 studies of the effects of time spent on spelling
@@ -216,9 +216,8 @@ Bateman, 2002; Church, 1999; Johnson & Layng, 1994; White and Haring,
 fluency and fluency building, although essential for planning effective
 teaching-practice cycles is almost completely unknown to classroom
 teachers.
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, G. L., & Engelmann, S. (1996). Research on Direct
@@ -400,4 +399,3 @@ teachers.
 -   Wolery, M., Bailey, D. B., & Sugai, G. M. (1988). Effective
     teaching: Principles and procedures of applied behavior analysis
     with exceptional students. Boston: Allyn and Bacon Inc.
-:::

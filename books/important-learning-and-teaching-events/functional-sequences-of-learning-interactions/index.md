@@ -6,17 +6,17 @@ nav_order: 5
 parent: 'Important learning and teaching events '
 title: 'Functional sequences of learning interactions '
 ---
-# Functional sequences of learning interactions 
+# Functional sequences of learning interactions
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b1f925ab492b4b60a05097f2f80fbbe0}
+
 Chapter 4 described the important components of a single learning
 interaction, the various values which these components can take, and the
 varied functions which each can perform. Of course, very little is
@@ -48,4 +48,3 @@ Sections 6 describes different types of schedules of reinforcement and
 punishment and Section 7 identifies three important types of contingency
 errors (contingencies which have effects which differ from those
 intended).
-:::

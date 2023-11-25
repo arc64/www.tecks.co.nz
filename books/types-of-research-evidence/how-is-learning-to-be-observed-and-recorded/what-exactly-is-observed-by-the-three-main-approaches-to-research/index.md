@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'How is learning to be observed and recorded? '
 title: 'What, exactly, is observed by the three main approaches to research? '
 ---
-# What, exactly, is observed by the three main approaches to research? 
+# What, exactly, is observed by the three main approaches to research?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6c438a1f2e814dd5a52f2b50e282556b}
+
 The history of science tells us that scientific developments begin to
 occur when we begin to make the transition from religious, philosophical
 and theoretical discussion to systematic and direct observation of the
@@ -29,4 +29,3 @@ learning and teaching events can, in fact, be observed given current
 levels of technological development in observational techniques? And
 secondly, what is likely to be the most scientifically productive way of
 observing learning and teaching events?
-:::

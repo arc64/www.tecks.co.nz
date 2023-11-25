@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Types of explanation '
 title: 'Some common types of immediate cause explanations '
 ---
-# Some common types of immediate cause explanations 
+# Some common types of immediate cause explanations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4336fe0f389a4efab14bdc0faef57e9a}
+
 The most common types of immediate cause explanation found in the
 educational and psychological research literature are intentional
 explanation, dispositional explanation, and mechanistic explanation.
@@ -81,9 +81,8 @@ stimulus-response theories to which have been added some kind of
 mediating mental process. The mediating mental process functions to
 bridge the gap between an earlier experience (stimulus input) and a
 later behaviour (response output) (Chiesa, 1992, p. 1290).
-:::
 
-::: referencesList
+
 #### References
 
 -   Alessi, G. (1992). Models of proximate and ultimate causation in
@@ -106,4 +105,3 @@ later behaviour (response output) (Chiesa, 1992, p. 1290).
 -   Watchtower Bible and Tract Society of Pennsylvania. (1985). Life -
     How did it get here? By evolution or by creation? Brooklyn, New
     York: Watchtower Bible and Tract Society of New York.
-:::

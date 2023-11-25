@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'How fluency is acquired '
 title: 'Necessary condition 3. Sufficient timed practice to achieve the fluency goal '
 ---
-# Necessary condition 3. Sufficient timed practice to achieve the fluency goal 
+# Necessary condition 3. Sufficient timed practice to achieve the fluency goal
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-1190f5115abf437ca287c6c5feeb97b9}
+
 Fluency development is primarily a function of additional practice. This
 practice needs to continue until the fluency goal is reached. A
 considerable amount of research has been undertaken into the fluency
@@ -73,9 +73,8 @@ reading (Church & Martin, 1992), early maths textbooks do not contain
 sufficient exercises to build fluency in basic maths skills (Silbert,
 Carnine & Stein, 1981), and spelling textbooks do not contain sufficient
 exercises to build fluency in spelling (Brown, 1990).
-:::
 
-::: referencesList
+
 #### References
 
 -   Binder, C. (1993). Behavioral fluency: A new paradigm. Educational
@@ -131,4 +130,3 @@ exercises to build fluency in spelling (Brown, 1990).
     Acquisition, fluency training, generalization, and maintenance of
     dressing skills of two developmentally disabled children. Education
     and Treatment of Children, 9, 16-29.
-:::

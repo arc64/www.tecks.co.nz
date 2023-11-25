@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'The context provided by schools and classrooms '
 title: 'Clarity of curriculum goals '
 ---
-# Clarity of curriculum goals 
+# Clarity of curriculum goals
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ccbcd0908516445d9f501840bd668443}
+
 National curriculum documents rarely specify just what it is students
 are expected to learn, when they are expected to learn it, or how well
 they are expected to learn it. This means that it is up to individual
@@ -39,4 +39,3 @@ the specification of teaching objectives at the school level, and no
 procedures for assessing or evaluating how well individual school
 schemes have succeeding in specifying the teaching objectives which they
 contain.
-:::

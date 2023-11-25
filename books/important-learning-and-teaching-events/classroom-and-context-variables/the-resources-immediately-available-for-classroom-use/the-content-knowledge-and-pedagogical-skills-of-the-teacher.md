@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'The resources immediately available for classroom use '
 title: 'The content knowledge and pedagogical skills of the teacher '
 ---
-# The content knowledge and pedagogical skills of the teacher 
+# The content knowledge and pedagogical skills of the teacher
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3659ed6dfbb94158a50819a1b958acce}
+
 It is widely assumed that the rate of progress made by students in the
 classroom setting is strongly determined by the content knowledge and
 pedagogical knowledge of the teacher (e.g. Darling-Hammond, 2000; Rivers
@@ -39,9 +39,8 @@ dimensions of teacher competence so that we can begin to measure the
 size of the effect of different pedagogical skills on student learning
 and hence begin to identify the content knowledge and the pedagogical
 skills which have the strongest effects on learning in the classroom.
-:::
 
-::: referencesList
+
 #### References
 
 -   Darling-Hammond, L. (2000). How teacher education matters. Journal
@@ -51,4 +50,3 @@ skills which have the strongest effects on learning in the classroom.
     In L. T. Izumi & W. M. Evers, Teacher Quality (pp. 33-54). Hoover
     Institution. Retrieved 12 April, 2005, from
     http://www-hoover.stanford.edu/publications/books/fulltext/teacher/
-:::

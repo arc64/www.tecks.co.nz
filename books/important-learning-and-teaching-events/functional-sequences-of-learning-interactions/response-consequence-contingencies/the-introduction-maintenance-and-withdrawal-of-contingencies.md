@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Response-consequence contingencies '
 title: 'The introduction, maintenance, and withdrawal of contingencies '
 ---
-# The introduction, maintenance, and withdrawal of contingencies 
+# The introduction, maintenance, and withdrawal of contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f9d69da861da44ff9459c739a84a0cc2}
+
 When an action is being engaged in repeatedly over time, the
 consequences of that action may change. The action may initially have no
 consequence but, over time may come to have a consistent consequence.
@@ -47,4 +47,3 @@ using that behaviour again in the future. Over time, contingencies of
 reinforcement and punishment gradually shape the performance of the
 learner resulting in a person who habitually behaves in certain ways,
 but not others, in particular circumstances.
-:::

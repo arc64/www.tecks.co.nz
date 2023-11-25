@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'Presentation, prompting and practice variables '
 title: 'Prompting variables and their effects '
 ---
-# Prompting variables and their effects 
+# Prompting variables and their effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-13421d65fc1446a3aa913d7af9e64688}
+
 Prompting procedures (sometimes referred to as scaffolding) show the
 learner how to respond or how to respond correctly. They therefore play
 a critical role in all situations where the learner does not yet know
@@ -37,4 +37,3 @@ been the focus of a considerable amount of controlled experimental
 research. As a result, learning researchers now have a reasonably good
 understanding of the effects of different types of prompting
 arrangements.
-:::

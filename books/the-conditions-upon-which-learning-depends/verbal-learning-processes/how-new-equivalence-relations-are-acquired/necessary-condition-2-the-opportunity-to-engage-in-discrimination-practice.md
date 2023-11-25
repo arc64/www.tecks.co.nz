@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'How new equivalence relations are acquired '
 title: "Necessary condition 2:\_The opportunity to engage in discrimination practice "
 ---
-# Necessary condition 2: The opportunity to engage in discrimination practice 
+# Necessary condition 2: The opportunity to engage in discrimination practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8981b223af57493b8d86a26d623df229}
+
 The great majority of the equivalence relations taught in schools come
 in sets: for example the 52 letters, the 43 English phonemes, the 300
 words which occur most frequently in written English, the 100 single
@@ -65,9 +65,8 @@ greatly increased. At the point of this transition the set size is
 normally increased to at least 80 stimulus items so that the child can
 practice, using 1 minute sprints, towards the goal of 60 to 70 correct
 responses per minute (Keel, Slatton & Blackhurst, 2001).
-:::
 
-::: referencesList
+
 #### References
 
 -   Ferkis, M. S., Belfiore, P. J., & Skinner, C. H. (1997). The effects
@@ -82,4 +81,3 @@ responses per minute (Keel, Slatton & Blackhurst, 2001).
 -   Keel, M. C., Slaton, D. B., & Blackhurst, A. E. (2001). Acquisition
     of content area vocabulary for students with learning disabilities.
     Education and Treatment of Children, 24, 46-71.
-:::

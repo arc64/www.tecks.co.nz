@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Practice variables and their effects '
 title: 'Effects of child initiated and teacher initiated learning interactions '
 ---
-# Effects of child initiated and teacher initiated learning interactions 
+# Effects of child initiated and teacher initiated learning interactions
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-09a8159c458b46ecb3046e5fad4c52f6}
+
 Learning interactions may be initiated by the learner or by the teacher.
 Child-initiated learning interactions are strongly preferred by early
 childhood educators and are justified by arguing (a) that it is
@@ -125,9 +125,8 @@ Childhood of the Council for Exceptional Children. The most recent
 guidelines from both of these organisations recommend an appropriate mix
 of child and adult initiated learning activities in the preschool
 setting.
-:::
 
-::: referencesList
+
 #### References
 
 -   Cavallaro, C. & Bambara, L. (1982). Two strategies for teaching
@@ -161,4 +160,3 @@ setting.
 -   Warren, S. F. & Kaiser, A. P. (1986). Incidental language teaching:
     A critical review. Journal of Speech and Hearing Disorders, 51,
     291-299.
-:::

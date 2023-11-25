@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Improving the quality of research into learning and teaching '
 title: 'Upgrading the quality of research funded by the Ministry of Education '
 ---
-# Upgrading the quality of research funded by the Ministry of Education 
+# Upgrading the quality of research funded by the Ministry of Education
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a75a2a8bc42f4af486b1226ffd718562}
+
 In New Zealand, the Ministry of Education is a the major source of funds
 for research into all aspects of learning, teaching, materials
 development and school functioning. During 2005 and 2006 more than 50
@@ -228,9 +228,8 @@ for educational researchers to emulate. These standards are currently
 being set so low that Ministry research is currently subverting the
 Ministry's stated aim of encouraging the move to evidence-based practice
 in this country.
-:::
 
-::: referencesList
+
 #### References
 
 -   Alcorn, N. (2005). Will scholarship trump teachers in New Zealand
@@ -279,4 +278,3 @@ in this country.
     Competencies at age 14 and competency development for the Competent
     Children: Competent Learners study sample. Wellington, N. Z.: New
     Zealand Council for Educational Research.
-:::

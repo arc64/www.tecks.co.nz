@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The skills involved in learning to write '
 title: 'Learning to print, write, and type '
 ---
-# Learning to print, write, and type 
+# Learning to print, write, and type
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ce91646174dc4727b849ca6c559d6173}
+
 In order to set down their ideas on paper, students must first learn how
 to print, or to write cursively, or to type. Handwriting is a fine motor
 skill which can only be shaped through extensive practice in copying
@@ -33,11 +33,9 @@ which is required for keyboarding is considerably less than it is for
 handwriting. Given the spread of small computers it is clearly important
 than all young children have the opportunity to master not only
 handwriting but also keyboarding skills.
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. (1999). Instructional processes. Christchurch, NZ:
     University of Canterbury, Education Department.
-:::

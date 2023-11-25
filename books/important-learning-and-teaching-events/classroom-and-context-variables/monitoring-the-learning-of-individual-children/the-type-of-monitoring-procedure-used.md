@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Monitoring the learning of individual children '
 title: 'The type of monitoring procedure used '
 ---
-# The type of monitoring procedure used 
+# The type of monitoring procedure used
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7526de3024d34af28fd1aefcdffc57e2}
+
 Many different procedures are used for monitoring student progress
 towards particular teaching goals: the daily probes used in Precision
 Teaching, the weekly tests used in Curriculum Based Measurement, the
@@ -39,4 +39,3 @@ and the knowledge which they bring to the monitoring task. This produces
 very considerable variability across classrooms and, presumably, very
 considerable variability in the effects of these practices on student
 learning.
-:::

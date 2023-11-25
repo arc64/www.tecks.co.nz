@@ -9,17 +9,17 @@ parent: 'How much scientific evidence is required to justify a change to evidenc
   teach practice? '
 title: 'Levels of empirical support '
 ---
-# Levels of empirical support 
+# Levels of empirical support
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-002b2675da69484aa9e3aa27653f5dcc}
+
 Education researchers have engaged in little discussion of the amount of
 empirical evidence which would be required in order to justify a claim
 that a given practice qualified as "evidence based". This changed in
@@ -117,9 +117,8 @@ situation in which only randomised groups evaluations can contribute to
 the decision as to whether or not a particular intervention qualifies as
 empirically supported either at the probably efficacious level or at the
 well established level.
-:::
 
-::: referencesList
+
 #### References
 
 -   Fonagy, P., Target, M., Cottrell, D., Phillips, J., & Kurtz, Z.
@@ -128,4 +127,3 @@ well established level.
 -   Lonigan, C. J., Elbert, J. C., & Johnson, S. B. (1998). Empirically
     supported psychosocial interventions for children: An overview.
     Journal of Clinical Child Psychology, 27, 138-145.
-:::

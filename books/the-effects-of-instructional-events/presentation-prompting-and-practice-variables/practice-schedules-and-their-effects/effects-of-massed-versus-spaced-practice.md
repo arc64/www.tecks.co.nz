@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Practice schedules and their effects '
 title: 'Effects of massed versus spaced practice '
 ---
-# Effects of massed versus spaced practice 
+# Effects of massed versus spaced practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7e6e4640a1bb4988a42c946b7e6ab7ea}
+
 Given that a certain amount of practice will be required in order to
 achieve a given learning outcome, the next question to be addressed is
 the question of how practice sessions should be scheduled in the days
@@ -85,9 +85,8 @@ a result of new experiences for up to 12 hours following the experience
 interval between practice sessions is more than 2 days, then there is a
 good chance that previously learned material will be forgotten again
 (Nuthall & Alton-Lee, 1993).
-:::
 
-::: referencesList
+
 #### References
 
 -   Dempster, F. N. (1991). Synthesis of research on reviews and tests.
@@ -100,4 +99,3 @@ good chance that previously learned material will be forgotten again
     construction in classrooms. American Educational Research Journal,
     30, 799-840.
 -   Rose, S. (1993). The making of memory. Toronto: Bantam Books.
-:::

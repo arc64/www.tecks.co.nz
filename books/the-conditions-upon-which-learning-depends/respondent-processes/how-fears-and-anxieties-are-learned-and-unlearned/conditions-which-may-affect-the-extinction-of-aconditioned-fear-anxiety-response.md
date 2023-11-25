@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How fears and anxieties are learned and unlearned '
 title: 'Conditions which may affect the extinction of a conditioned fear/anxiety response '
 ---
-# Conditions which may affect the extinction of a conditioned fear/anxiety response 
+# Conditions which may affect the extinction of a conditioned fear/anxiety response
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b9544f369a15463da352281218d900a5}
+
 In order for a dysfunctional anxiety reaction to extinguish, we have to
 arrange for repeated exposure to the anxiety eliciting situation or
 situations. However, this is not easy because whenever an unrealistic
@@ -167,9 +167,8 @@ desensitisation procedure (Davey, 1997; Vasey & Dadds, 2001). Generally
 speaking, a set of 20 to 40 graded practice sessions is all that is
 required to assist someone to overcome a simple fear such as a fear of a
 specific setting or task.
-:::
 
-::: referencesList
+
 #### References
 
 -   Croghan, L., & Musante, G. R. (1975). The elimination of a boy\'s
@@ -206,4 +205,3 @@ specific setting or task.
     Journal of Experimental Psychology, 3, 1-14.
 -   Wolpe, J. (1958). Psychotherapy by reciprocal inhibition. Stanford,
     CA: Stanford University Press.
-:::

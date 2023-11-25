@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The amount of practice is provided '
 title: 'he variables which determine what counts as sufficient practice '
 ---
-# he variables which determine what counts as sufficient practice 
+# he variables which determine what counts as sufficient practice
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-737065121ff04a379db172b8d2a3fa8c}
+
 The variables which determine what counts as sufficient practice have
 been described in an earlier chapter. In brief, the number of practice
 responses which the learner must experience in order to ensure that a
@@ -40,4 +40,3 @@ upon
 -   the level of proficiency, fluency, or automaticity required -- with
     functional levels of fluency requiring much more reinforced practice
     than is required for initial acquisition.
-:::

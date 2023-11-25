@@ -6,17 +6,17 @@ nav_order: 3
 parent: 'The problem to be solved '
 title: 'The transition from craft to science '
 ---
-# The transition from craft to science 
+# The transition from craft to science
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-756f5f9193d344e996ef22d136545358}
+
 Discovering that there is a very considerable tradition of scientific
 research in child development, in basic learning processes, and in the
 relative effectiveness of many commonly used teaching procedures does
@@ -48,4 +48,3 @@ scientific practice in classroom teaching include the following.
 
 In this section we examine each of these conditions and the likelihood
 that they will occur in the New Zealand setting.
-:::

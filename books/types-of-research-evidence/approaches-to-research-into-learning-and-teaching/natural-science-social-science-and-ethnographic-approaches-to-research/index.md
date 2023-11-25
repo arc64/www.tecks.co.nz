@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Approaches to research into learning and teaching '
 title: 'Natural science, social science, and ethnographic approaches to research '
 ---
-# Natural science, social science, and ethnographic approaches to research 
+# Natural science, social science, and ethnographic approaches to research
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3f99772c66d342ee8a68bfea5bde71cd}
+
 Research into teaching is a relatively recent activity. The earliest
 reports of teaching research date from the beginning of the 20th
 century. The earliest educational researchers believed that educational
@@ -110,9 +110,8 @@ approach (and in particular cognitive science research) and (c) the
 ethnographic approach (and in particular interpretive research). (For an
 example of a research methods text organised along these lines, see, for
 example, Martella, Nelson and Marchand-Martella, 1999.)
-:::
 
-::: referencesList
+
 #### References
 
 -   Best, J. W., & Kahn, J. V. (1993). Research in education (7th ed.).
@@ -135,4 +134,3 @@ example, Martella, Nelson and Marchand-Martella, 1999.)
     Research Association.
 -   Travers, R. M. W. (1978). An introduction to educational research
     (4th ed.). New York: Macmillan Publishing Co.
-:::

@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Progress in developing an empirical theory of learning '
 title: 'Progress made by qualitative researchers in developing an explanatory theory '
 ---
-# Progress made by qualitative researchers in developing an explanatory theory 
+# Progress made by qualitative researchers in developing an explanatory theory
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d25eeea6e4944d4cb434726dfd810878}
+
 Qualitative studies of educational sites such as classrooms have been
 undertaken for more than 40 years. In 1995 approximately 17 per cent of
 the research published in leading journals in learning and teaching were
@@ -79,9 +79,8 @@ pages of classroom protocols alone" (LeCompte & Preissle, 1993, p. 239).
 The expenditure of such huge amounts of effort for so little return
 raises serious questions about why this research method suddenly became
 so popular amongst teaching researchers.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bogdan, R. C., & Biklen, S. K. (1992). Qualitative research for
@@ -98,4 +97,3 @@ so popular amongst teaching researchers.
 -   LeCompte, M. D., & Preissle, J. (1993). Ethnography and qualitative
     design in educational research (2nd ed.). San Diego, CA: Academic
     Press.
-:::

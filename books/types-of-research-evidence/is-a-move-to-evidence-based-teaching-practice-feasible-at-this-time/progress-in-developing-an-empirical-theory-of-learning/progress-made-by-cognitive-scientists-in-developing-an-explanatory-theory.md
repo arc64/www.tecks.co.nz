@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Progress in developing an empirical theory of learning '
 title: 'Progress made by cognitive scientists in developing an explanatory theory '
 ---
-# Progress made by cognitive scientists in developing an explanatory theory 
+# Progress made by cognitive scientists in developing an explanatory theory
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-96b40c768bad4ecbb7417da210ea6ecc}
+
 Studies of learning and teaching based on cognitive theorising and using
 a social science methodology have been appearing in research journals
 for over 100 years. Notwithstanding recent developments in both
@@ -78,9 +78,8 @@ in the collection of a large amount of data but absolutely no consensus
 regarding theory (or even the organising concepts) which might be used
 to integrate all that data (Bauer, 1992; Gellner, 1984; Machado,
 Lourenço & Silva, 2000).
-:::
 
-::: referencesList
+
 #### References
 
 -   Bauer, H. H. (1992). Scientific literacy and the myth of scientific
@@ -129,4 +128,3 @@ Lourenço & Silva, 2000).
     England: Pergamon Press.
 -   Wittrock, M. C. (Ed.). (1986). Handbook of research on teaching (3rd
     ed.). New York: Macmillan Publishing Co.
-:::

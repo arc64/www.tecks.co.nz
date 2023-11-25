@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'What are the main issues in observing and recording learning? '
 title: 'Vaganotic or idemnotic measures of change? '
 ---
-# Vaganotic or idemnotic measures of change? 
+# Vaganotic or idemnotic measures of change?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2e79defac6344d2ebb7d7359f12ddcb7}
+
 Measurement is one of the cornerstones of the research activity.
 Measurement involves the "quantification of observations with respect to
 a reference scale defined by units that are both absolute and standard"
@@ -111,9 +111,8 @@ learning was seriously subverted by the move to vaganotic measurement
 and that the scientific study of learning will again become possible
 only when learning researchers return to the use of idemnotic measures
 of change (Chiesa, 1994; Johnston & Pennypacker, 1993b).
-:::
 
-::: referencesList
+
 #### References
 
 -   Chiesa, M. (1994). Radical behaviorism: The philosophy and the
@@ -129,4 +128,3 @@ of change (Chiesa, 1994; Johnston & Pennypacker, 1993b).
 -   Stevens, S. S. (1951). Mathematics, measurement and psychophysics.
     In S. S. Stevens (Ed.), Handbook of experimental psychology (pp.
     1-49). New York: Wiley.
-:::

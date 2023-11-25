@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Negative punishment contingencies and their effects '
 title: 'Effects of response cost contingencies '
 ---
-# Effects of response cost contingencies 
+# Effects of response cost contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2a1fcf85bbe9467c91fa20357a7707ae}
+
 A number of classroom experiments have shown rapid suppression of
 disruptive behaviour and antisocial behaviour in 3- to 16-year olds as a
 result of the introduction of a response cost contingency (Ramp, Ulrich
@@ -50,9 +50,8 @@ However, there have been some cases where reinforcement interventions
 have been found to be just as effective as response cost interventions
 in motivating reductions in disruptive behaviour (e.g. McGoey & DuPaul,
 2000).
-:::
 
-::: referencesList
+
 #### References
 
 -   Kelley, M., & McCain, A. P. (1995). Promoting academic performance
@@ -83,4 +82,3 @@ in motivating reductions in disruptive behaviour (e.g. McGoey & DuPaul,
 -   Trice, A. D., & Parker, F. C. (1983). Decreasing adolescent swearing
     in an instructional setting. Education & Treatment of Children, 6,
     29-35.
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The content of the science curriculum '
 title: 'Achievement objectives for science '
 ---
-# Achievement objectives for science 
+# Achievement objectives for science
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ac10abec88f945348bae2c12ed1394f7}
+
 Set out in the table below are the achievement objectives for each of
 the 6 strands for the first three levels (Levels 1 to 3) of the Science
 area of the New Zealand Curriculum.
@@ -221,9 +221,8 @@ The fourth, *Making Better Sense of the Living World* (Ministry of
 Education, 2001) includes important science principles that teachers
 need to understand and chapters on classification, structure and
 function; and life stages and genetics.
-:::
 
-::: referencesList
+
 #### References
 
 -   Ministry of Education. (1993). Science in the New Zealand
@@ -240,4 +239,3 @@ function; and life stages and genetics.
     and Beyond: Levels 1 to 4. Wellington, NZ: Learning Media Ltd.
 -   Ministry of Education. (2001). Making Better Sense of the Living
     World: Levels 1 to 4. Wellington, NZ: Learning Media Ltd.
-:::

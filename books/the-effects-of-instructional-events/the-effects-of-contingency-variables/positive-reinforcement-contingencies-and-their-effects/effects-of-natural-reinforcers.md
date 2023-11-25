@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Positive reinforcement contingencies and their effects '
 title: 'Effects of natural reinforcers '
 ---
-# Effects of natural reinforcers 
+# Effects of natural reinforcers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-02e4735c742f459c923cfacfdaa5ad70}
+
 Much reinforcement arises naturally as a result of successful
 performance. Successful meal preparation results in a reinforcing meal.
 Successful navigation gets us to a reinforcing social event, on time, on
@@ -56,9 +56,8 @@ whether the motivating effects of successful performance are due to
 "intrinsic reinforcement", whether they are due to the reinforcing
 effects of the feedback which signals a job well done, or whether they
 are due to some other, as yet unrecognised, cause.
-:::
 
-::: referencesList
+
 #### References
 
 -   Clifford, M. M. (1990). Students need challenge, not easy success.
@@ -67,4 +66,3 @@ are due to some other, as yet unrecognised, cause.
     behavior by modifying task difficulty: Effects of increasing the
     difficulty of too-easy tasks. Journal of Positive Behavior
     Interventions, 6, 13-20.
-:::

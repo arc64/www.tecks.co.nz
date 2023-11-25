@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'The learning outcomes hidden inside curriculum goals '
 title: 'The skills involved in learning to write '
 ---
-# The skills involved in learning to write 
+# The skills involved in learning to write
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-cb8ba1bf19894b0ea22502ba677ffe3b}
+
 Although there has been less research into the development of writing
 skills than there has been into the development of reading skills, the
 research into how children learn to write is nevertheless substantial
@@ -73,9 +73,8 @@ of development in writing, identify component skills weaknesses which
 are causing delays in learning to write, plan a teaching programme, or
 provide the teaching conditions necessary to ensure that each child
 acquires each of the various component skills in a timely fashion.
-:::
 
-::: referencesList
+
 #### References
 
 -   Baker, S., Gersten, R., & Graham, S. (2003). Teaching expressive
@@ -97,4 +96,3 @@ acquires each of the various component skills in a timely fashion.
 -   Templeton, S., & Morris, D. (2000). Spelling. In M. L. Kamil, P. B.
     Mosenthal, P. D. Pearson, & R. Barr (Eds.), Handbook of reading
     research. Vol 3 (pp. 525-543). Mahwah, NJ: Erlbaum.
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'How motivation and persistence develop '
 title: 'Necessary condition 2. The matching law for negative reinforcement '
 ---
-# Necessary condition 2. The matching law for negative reinforcement 
+# Necessary condition 2. The matching law for negative reinforcement
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f45583bb2ec04def94c9db00e2d25f63}
+
 In some classrooms (and families) teachers (and parents) attempt to
 maintain the motivation to complete classroom (and household) tasks
 using negative reinforcement contingencies. In these situations, the
@@ -42,9 +42,8 @@ task loses part of a reward. This type of differential reinforcement
 contingency can have an even stronger motivating effect than the
 reinforcement contingency on its own (Kelley & McCain, 1995; McLaughlin
 & Malaby, 1974; Morris & Redd, 1975; Pfiffner & O'Leary, 1987).
-:::
 
-::: referencesList
+
 #### References
 
 -   Broughton, S. F., & Lahey, B. B. (1978). Direct and collateral
@@ -67,4 +66,3 @@ reinforcement contingency on its own (Kelley & McCain, 1995; McLaughlin
 -   Pfiffner, L. J., & O\'Leary, S. G. (1987). The efficacy of
     all-positive management as a function of the prior use of negative
     consequences. Journal of Applied Behavior Analysis, 20, 265-271.
-:::

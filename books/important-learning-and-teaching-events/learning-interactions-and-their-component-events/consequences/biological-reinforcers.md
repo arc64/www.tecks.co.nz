@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Consequences '
 title: 'Biological reinforcers '
 ---
-# Biological reinforcers 
+# Biological reinforcers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-de43be3964d8472fbf1093520f5cdf55}
+
 The biological reinforcers are those environmental events which are
 essential to the survival and comfort of individuals as human beings.
 The biological reinforcers include such things as food (after a period
@@ -51,4 +51,3 @@ stimulation in the classroom. Teachers can also use activity change (and
 the resultant increase in sensory stimulation) to reinforce attention,
 effort, task completion, and improvement on the part of individual
 students.
-:::

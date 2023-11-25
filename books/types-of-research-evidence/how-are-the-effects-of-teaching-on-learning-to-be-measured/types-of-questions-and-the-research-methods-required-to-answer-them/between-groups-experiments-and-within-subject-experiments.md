@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Types of questions and the research methods required to answer them '
 title: 'Between-groups experiments and within-subject experiments '
 ---
-# Between-groups experiments and within-subject experiments 
+# Between-groups experiments and within-subject experiments
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-de02bf82f08b4acaa139b91d2e9a3b91}
+
 In educational and psychological research, two general types of
 experiment have evolved. These are (a) the between-groups experiment and
 (b) the within-subject experiment.
@@ -95,4 +95,3 @@ new, it is not always described in research methods textbooks. Because
 an understanding of within-subject experimentation is essential
 knowledge for teachers, teacher educators and teaching researchers, this
 is a very serious omission.
-:::

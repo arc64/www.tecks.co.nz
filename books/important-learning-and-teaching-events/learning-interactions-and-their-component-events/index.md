@@ -6,17 +6,17 @@ nav_order: 4
 parent: 'Important learning and teaching events '
 title: 'Learning interactions and their component events '
 ---
-# Learning interactions and their component events 
+# Learning interactions and their component events
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8f7aadc8fcab44ada9628384cb6cc669}
+
 In this section we identify some of the main events which learning
 depends upon. These events have been the subject of scientific study for
 the better part of 100 years and, as a result it is possible to describe
@@ -72,4 +72,3 @@ presentations (Sections 2) and antecedent prompts (Section 3). Section 4
 describes various ways in which practice responses can vary and Section
 5 describes several different kinds of consequences (such as
 reinforcing, aversive and neutral consequences).
-:::

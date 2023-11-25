@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How new procedures are acquired '
 title: 'Necessary conditions 1: The opportunity to learn the sequence of steps '
 ---
-# Necessary conditions 1: The opportunity to learn the sequence of steps 
+# Necessary conditions 1: The opportunity to learn the sequence of steps
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-cb6a76b3a59c4b1686df76a2c593698f}
+
 When learning a new procedure, the first thing to be learned is the
 sequence of steps. This is only possible if each step is somehow
 prompted in turn. These sequential prompts may take the form of
@@ -55,9 +55,8 @@ acquire metacognitive knowledge, that is, explicit instruction with
 feedback during strategy training is superior to asking students to
 infer or abstract a strategy\'s characteristics" (Borkowski &
 Muthukrishna, 1992, p. 489).
-:::
 
-::: referencesList
+
 #### References
 
 -   Blankenship, C. S. (1978). Remediating systematic inversion errors
@@ -95,4 +94,3 @@ Muthukrishna, 1992, p. 489).
 -   Wolery, M., Bailey, D. B., Jr., & Sugai, G. M. (1988). Effective
     teaching: Principles and procedures of applied behavior analysis
     with exceptional students. Boston. MA: Allyn and Bacon.
-:::

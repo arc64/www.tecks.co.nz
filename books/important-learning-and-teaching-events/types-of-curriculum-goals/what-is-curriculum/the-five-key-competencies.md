@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'What is curriculum? '
 title: 'The five key competencies '
 ---
-# The five key competencies 
+# The five key competencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ecb59f64db694d6280146259ffbff18f}
+
 The New Zealand curriculum identifies five competencies which are to be
 considered the key to learning in each of the eight learning areas.
 Students are to be continually challenged to develop these key
@@ -41,4 +41,3 @@ range of people in a variety of contexts).
 5.Participating and contributing (the ability to respond appropriately
 as a member of a group, to make connections with others, and to create
 opportunities for including others in group activities).
-:::

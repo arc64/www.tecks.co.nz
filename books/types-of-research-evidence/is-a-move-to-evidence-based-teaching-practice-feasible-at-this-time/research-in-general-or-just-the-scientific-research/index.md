@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'Is a move to evidence-based teaching practice feasible at this time? '
 title: 'Research in general or just the scientific research? '
 ---
-# Research in general or just the scientific research? 
+# Research in general or just the scientific research?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-333772304e9c43a984f77dbb38e52541}
+
 Some of the research into learning and teaching is narrative and
 descriptive, some is normative and statistical, and some is experimental
 and scientific. During the past 100 years, the fields in which knowledge
@@ -56,13 +56,11 @@ describe the methodological characteristics of the research studies
 which are providing the most believable evidence about the conditions
 necessary for different kinds of learning outcomes and the relative
 effectiveness of various teaching practices.
-:::
 
-::: referencesList
+
 #### References
 
 -   National Research Council. (2002). Scientific research in education.
     Washington, DC: National Academic Press.
 -   Wheldall, K. (2005). When will we ever learn? Educational
     Psychology, 25, 573-584.
-:::

@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'The skills involved in learning to write '
 title: 'Acquiring an adequate level of morphographic knowledge '
 ---
-# Acquiring an adequate level of morphographic knowledge 
+# Acquiring an adequate level of morphographic knowledge
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-995715ff98834db494059445dbe5df83}
+
 In addition to mastering the phoneme--\>grapheme equivalence relations
 which are involved in spelling regularly spelled syllables and words,
 the novice writer must also acquire a large amount of morphographic
@@ -41,9 +41,8 @@ in which they appear. Either they are spelled in exactly the same way or
 else they change their spelling in quite predicable ways - as when
 "save" and "make" become "saving" and "making" (Dixon, 1993; Moats,
 1995; Templeton & Morris, 2000).
-:::
 
-::: referencesList
+
 #### References
 
 -   Dixon, R. C. (1991).The application of sameness analysis to
@@ -53,4 +52,3 @@ else they change their spelling in quite predicable ways - as when
 -   Templeton, S., & Morris, D. (2000). Spelling. In M. L. Kamil, P. B.
     Mosenthal, P. D. Pearson, & R. Barr (Eds.), Handbook of reading
     research. Vol 3 (pp. 525-543). Mahwah, NJ: Erlbaum.
-:::

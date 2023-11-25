@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What units of analysis are used by the three main approaches to research? '
 title: 'The units of analysis employed by cognitive scientists '
 ---
-# The units of analysis employed by cognitive scientists 
+# The units of analysis employed by cognitive scientists
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b1a28bb011f04628a52b3b005fc7f385}
+
 Cognitive scientists divide human abilities, performances, attitudes,
 beliefs, and so on into classes, which they refer to as constructs or
 variables, for the purposes of study and analysis. The kinds of
@@ -188,9 +188,8 @@ which distinguishes it from other sciences is that cognitive scientists
 have no agreed rules for deciding whether or not a new construct should
 be admitted to their science. This has resulted in an enormous
 proliferation of constructs (see, for example, Reber, 1995).
-:::
 
-::: referencesList
+
 #### References
 
 -   Kerlinger, F. N. (1964). Foundations of behavioral research:
@@ -204,4 +203,3 @@ proliferation of constructs (see, for example, Reber, 1995).
     Englewood Cliffs, NJ: Prentice-Hall Inc.
 -   Travers, R. M. W. (1978). An introduction to educational research
     (4th ed.). New York: Macmillan Publishing Co.
-:::

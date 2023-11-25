@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'Classroom and context variables '
 title: 'The extent to which teaching builds on each child''s entering skills '
 ---
-# The extent to which teaching builds on each child's entering skills 
+# The extent to which teaching builds on each child's entering skills
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-02b40aa38c41485d81bc108b62a92ec1}
+
 The learners who arrive at a particular classroom invariably arrive with
 a wide diversity of previously acquired beliefs, knowledge,
 understandings and skills. These previously acquired skills are often
@@ -43,4 +43,3 @@ who cannot read. It can be acquired by instructing the learner orally.
 So reading is not a *necessary* prerequisite for knowledge learning in
 the sense that the learner has to be able to read before she can learn
 new knowledge responses.
-:::

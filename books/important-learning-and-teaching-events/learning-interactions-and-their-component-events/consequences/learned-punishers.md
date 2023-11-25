@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'Consequences '
 title: 'Learned punishers '
 ---
-# Learned punishers 
+# Learned punishers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7d1438bd31064c9ba2e34ffcf213db91}
+
 Punishing consequences are consequences which the individual tries to
 avoid and the learned punishers are those consequences which function as
 punishers by virtue of the society or culture in which one lives and by
@@ -99,4 +99,3 @@ work hard not to make mistakes in their school work so that can avoid
 the teacher corrections which result if the child makes a mistake. For
 such children, we can see that error corrections have become aversive
 consequences (because we can see the child trying hard to avoid them).
-:::

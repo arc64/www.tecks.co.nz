@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'How new equivalence relations are acquired '
 title: "Necessary condition 4:\_Sufficient practice to ensure retention "
 ---
-# Necessary condition 4: Sufficient practice to ensure retention 
+# Necessary condition 4: Sufficient practice to ensure retention
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c4d3152db9c8484ba9468e7403778b78}
+
 In order to learn a set of symbol--\>response equivalence relations the
 learner must have multiple opportunities to practise responding to each
 of the new symbols. Research suggests that, with this kind of learning
@@ -47,9 +47,8 @@ report that 9- to 13-year old students who had been identified as
 learning disabled required about 30 practice responses per word to
 achieve a fluency criterion of 70 correct responses per minute on
 reading a set of content-area vocabulary words.
-:::
 
-::: referencesList
+
 #### References
 
 -   Chiang, B., & Schilling, M. E. (1983). Effectiveness of the "Speed
@@ -69,4 +68,3 @@ reading a set of content-area vocabulary words.
 -   Rinaldi, L., Sells, D., & McLaughlin, T. F. (1997). The effects of
     reading racetracks on the sight word acquisition and fluency of
     elementary students. Journal of Behavioral Education, 7, 219-233.
-:::

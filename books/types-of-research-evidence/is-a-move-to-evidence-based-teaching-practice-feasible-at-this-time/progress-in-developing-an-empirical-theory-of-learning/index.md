@@ -7,17 +7,17 @@ nav_order: 5
 parent: 'Is a move to evidence-based teaching practice feasible at this time? '
 title: 'Progress in developing an empirical theory of learning '
 ---
-# Progress in developing an empirical theory of learning 
+# Progress in developing an empirical theory of learning
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8b988c31a98e4b3994870dc31bc61c75}
+
 There are many different kinds of theories about the relationship
 between teaching and learning and some of these allow us to make
 predictions about what works, and some do not. From a practitioner's
@@ -38,4 +38,3 @@ theory of learning and teaching, that is, a set of empirically validated
 different kinds of teaching events on particular kinds of learning
 outcomes and/or to make predictions about the conditions under which
 different kinds of learning are, and are not, likely to occur.
-:::

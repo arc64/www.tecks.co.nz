@@ -9,17 +9,17 @@ parent: 'How fluency is acquired '
 title: 'Necessary condition 2. Regular assessment of accuracy rate and reinforcement
   for increases in accuracy rate '
 ---
-# Necessary condition 2. Regular assessment of accuracy rate and reinforcement for increases in accuracy rate 
+# Necessary condition 2. Regular assessment of accuracy rate and reinforcement for increases in accuracy rate
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7555aa198cec4b259f5ff68881de2864}
+
 During fluency building, *two* dimensions of the learner's performance
 need to be reinforced. The teaching procedure must be one which
 continues to differentially reinforce *correct* responses because the
@@ -89,9 +89,8 @@ learner's attempts to go faster. During fluency building, the assessment
 of responses as correct and incorrect, and the correction of incorrect
 responses, should occur at the end of blocks or sets of practice
 responses (e.g., Miller, Hall & Heward, 1995).
-:::
 
-::: referencesList
+
 #### References
 
 -   Ayllon, T., Garber, S., & Pisor, K. (1976). Reducing time limits: A
@@ -131,4 +130,3 @@ responses (e.g., Miller, Hall & Heward, 1995).
     Acquisition, fluency training, generalization, and maintenance of
     dressing skills of two developmentally disabled children. Education
     and Treatment of Children, 9, 16-29.
-:::

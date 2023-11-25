@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'What are the main issues in observing and recording learning? '
 title: 'Should conclusions be based on the performance of individuals or of groups? '
 ---
-# Should conclusions be based on the performance of individuals or of groups? 
+# Should conclusions be based on the performance of individuals or of groups?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6b52d7ad1310462d93e67ffb93a34393}
+
 Often the observations of the educational researcher are observations of
 the performance of individuals in a particular setting or of individuals
 operating under particular conditions (such as a test). The data which
@@ -53,4 +53,3 @@ individuals](../../../../../../assets/images/Figure3235.png "Figure 3235. Exampl
 
 *Figure 3235. Examples of various data types which do and do not involve
 aggregation across individuals*
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Basic types of acquisition outcomes '
 title: 'The acquisition of new behaviours '
 ---
-# The acquisition of new behaviours 
+# The acquisition of new behaviours
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-7c8c3295832f409e897433d893d5af30}
+
 Some acquisition outcomes involve learning a response, behaviour, skill
 or action which does not yet exist in the learner's repertoire. These
 are behaviours and skills which the learner cannot yet perform even when
@@ -108,4 +108,3 @@ one observation to the next) in the number of responses which produce a
 given critical effect (or which can be performed to a given standard)
 will provide an accurate measure of rate of progress towards this kind
 of teaching outcome.
-:::

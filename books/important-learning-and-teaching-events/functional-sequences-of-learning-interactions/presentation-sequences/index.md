@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Functional sequences of learning interactions '
 title: 'Presentation sequences '
 ---
-# Presentation sequences 
+# Presentation sequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-29ac19aa95fd458882925a3f4f0e190d}
+
 When teachers provide an explanation, take a lesson, give a lecture, and
 so on, you will almost always observe sequences of presentations, that
 is sequences of statements about the subject matter or topic which the
@@ -30,4 +30,3 @@ can sequences of presentations. In addition, sequences of presentations
 can vary with respect to their length, the number of and range of
 examples referred to, the way in which examples and non-examples are
 sequenced, and so on.
-:::

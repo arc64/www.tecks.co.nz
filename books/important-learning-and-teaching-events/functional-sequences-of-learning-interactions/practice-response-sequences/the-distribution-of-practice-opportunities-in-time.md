@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Practice response sequences '
 title: 'The distribution of practice opportunities in time '
 ---
-# The distribution of practice opportunities in time 
+# The distribution of practice opportunities in time
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-5e30704de8754854b1af830911388daf}
+
 The practice opportunities which are necessary for learning and
 remembering may be distributed across time in a wide variety of ways --
 clumped together in a single learning activity, spread across several
@@ -64,9 +64,8 @@ control and describe not only (a) the number of practice opportunities
 which occurred with respect to each response, skill or item of
 information being taught but also (b) the distribution of each of these
 practice opportunities in time for each individual learner.
-:::
 
-::: referencesList
+
 #### References
 
 -   Dempster, F. N. (1991). Synthesis of research on reviews and tests.
@@ -79,4 +78,3 @@ practice opportunities in time for each individual learner.
     construction in classrooms. American Educational Research Journal,
     30, 799-840.
 -   Rose, S. (1993). The making of memory. Toronto: Bantam Books.
-:::

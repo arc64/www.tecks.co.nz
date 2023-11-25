@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Research in which the question asked determines the research method? '
 title: 'Questions which can and cannot be addressed by social science research '
 ---
-# Questions which can and cannot be addressed by social science research 
+# Questions which can and cannot be addressed by social science research
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4299d0e65d5d416688877abe7d9a6c51}
+
 The group-statistical methods of the social scientist also have a useful
 role to play in research into learning and teaching. Because social
 scientists study the performance of groups of people, the social science
@@ -100,4 +100,3 @@ scientists spend the bulk of their time engaged in premature theorising
 (rather than in observing changes in motivation, competence and recall)
 and partly because social and cognitive scientists ignore the
 individuals in which these changes are occurring.
-:::

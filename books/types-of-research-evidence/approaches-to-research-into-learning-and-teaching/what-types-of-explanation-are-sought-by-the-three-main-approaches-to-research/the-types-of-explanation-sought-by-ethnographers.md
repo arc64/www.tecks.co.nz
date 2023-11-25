@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'What types of explanation are sought by the three main approaches to research? '
 title: 'The types of explanation sought by ethnographers '
 ---
-# The types of explanation sought by ethnographers 
+# The types of explanation sought by ethnographers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3ddc7da42a4f4ccb8b7f46296ba46311}
+
 Ethnographers typically use the word *theory* to refer to the set of
 generalisations or assertions which appear to be warranted with respect
 to the data collected during the course of a particular ethnographic
@@ -256,9 +256,8 @@ used as scientific explanations for, while they may appear to explain
 why someone engaged in a particular action, they provide no explanation
 for classes of actions and no explanation for those changes in behaviour
 which we refer to as learning.
-:::
 
-::: referencesList
+
 #### References
 
 -   Baum, W. M., & Heath, J. L. (1992). Behavioral explanations and
@@ -289,4 +288,3 @@ which we refer to as learning.
     Boulder, CO: Westview Press.
 -   Smith, J. K. (1983). Quantitative vs. qualitative research: An
     attempt to clarify the issue. Educational Researcher, 15(1), 4-12.
-:::

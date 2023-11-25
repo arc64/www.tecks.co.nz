@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'How new knowledge responses are acquired '
 title: 'Conditions which may accelerate the learning of new knowledge responses '
 ---
-# Conditions which may accelerate the learning of new knowledge responses 
+# Conditions which may accelerate the learning of new knowledge responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4dbad6b34daf4df8858954d4f146c58c}
+
 In addition to the three necessary conditions suggested by a structural
 analysis of the acquisition of new knowledge, research into the
 variables affecting this type of acquisition suggest that there are a
@@ -458,9 +458,8 @@ Beth Gettinger (1989) suggests that about six goal-study-test-feedback
 cycles are sufficient to teach 8-year olds how much study is required to
 meet a defined learning goal. Obviously, this training would need to be
 repeated for different kinds of learning goals.
-:::
 
-::: referencesList
+
 #### References
 
 -   Carnine, D., Jitendra, A. K., & Silbert, J. (1997). A descriptive
@@ -546,4 +545,3 @@ repeated for different kinds of learning goals.
 -   Tindall-Ford, S., Chandler, P., & Sweller, J. (1997). When two
     sensory modes are better than one. Journal of Experimental
     Psychology: Applied, 4, 257-287.
-:::

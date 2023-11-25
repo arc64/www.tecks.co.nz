@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The reinforcement or punishment of particular dimensions of performance '
 title: 'Effects of reinforcing different dimensions of performance '
 ---
-# Effects of reinforcing different dimensions of performance 
+# Effects of reinforcing different dimensions of performance
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2838723e34924cbe8043889683005f6b}
+
 **Effects of reinforcing on task behaviour**
 
 Attention to the task at hand is an essential prerequisite for learning
@@ -149,9 +149,8 @@ increased creativity. These results challenge the widely held belief
 that creativity is an inherited disposition or that it can be fostered
 simply by providing opportunities to "be creative" (Fallon & Goetz,
 1975).
-:::
 
-::: referencesList
+
 #### References
 
 -   Blue, S. W., Madsen, C. H., & Heimberg, R. G. (1981). Increasing
@@ -371,4 +370,3 @@ simply by providing opportunities to "be creative" (Fallon & Goetz,
 -   Zwald, L., & Gresham, F. M. (1982). Behavioral consultation in a
     secondary class: Using DRL to decrease negative verbal interactions.
     School Psychology Review, 11, 428-432.
-:::

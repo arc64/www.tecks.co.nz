@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Phases of learning '
 title: 'The generalisation of skills to new situations '
 ---
-# The generalisation of skills to new situations 
+# The generalisation of skills to new situations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-90963ec347754b988767b7b78f90cc9f}
+
 There are many situations where the desired learning outcome is to learn
 *when* a particular response, behaviour or operation should be used.
 This often involves teaching the learner to generalise across those
@@ -40,4 +40,3 @@ Although the ability to generalise skills to new situation is clearly an
 important kind of learning outcome, agreed procedures for measuring
 changes in the degree of stimulus generalisation have yet to be
 developed.
-:::

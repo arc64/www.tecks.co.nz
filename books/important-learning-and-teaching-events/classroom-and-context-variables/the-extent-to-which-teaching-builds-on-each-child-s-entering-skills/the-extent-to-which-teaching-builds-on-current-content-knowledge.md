@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The extent to which teaching builds on each child''s entering skills '
 title: 'The extent to which teaching builds on current content knowledge '
 ---
-# The extent to which teaching builds on current content knowledge 
+# The extent to which teaching builds on current content knowledge
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a2e4d3418cb54b458bf10a1360b7b219}
+
 Effective teaching involves the selection of developmentally appropriate
 teaching goals, that is teaching goals which build upon those curriculum
 relevant skills which have already been acquired without assuming
@@ -94,4 +94,3 @@ learning which will result from particular lessons and learning
 activities and is, therefore, an important variable which needs to be
 taken into account during any study of the effects of teaching on
 learning in the classroom.
-:::

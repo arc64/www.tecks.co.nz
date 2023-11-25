@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Research in general or just the scientific research? '
 title: 'What is to count as evidence in the move to evidence-based practice? '
 ---
-# What is to count as evidence in the move to evidence-based practice? 
+# What is to count as evidence in the move to evidence-based practice?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f45abb2c4047452a9a356e3f08b368ad}
+
 Teaching research of all types varies widely with respect to quality.
 Some investigations have measured learning, some have measured only
 achievement and some have measured neither learning nor achievement.
@@ -331,12 +331,10 @@ compelling reason might be that the experiment has generated a
 particularly important or interesting result and the explanation
 provided by the investigator, although pre-scientific, is simply
 irrelevant.
-:::
 
-::: referencesList
+
 #### References
 
 -   Thompson, B. (2002). What future quantitative social science
     research could look like: Confidence intervals for effect sizes.
     Educational Researcher, 31, 25-32.
-:::

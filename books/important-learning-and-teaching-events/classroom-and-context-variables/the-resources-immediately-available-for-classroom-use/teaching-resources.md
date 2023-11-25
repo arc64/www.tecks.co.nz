@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'The resources immediately available for classroom use '
 title: 'Teaching resources '
 ---
-# Teaching resources 
+# Teaching resources
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2f31848d00304d2c8b3b4e9ad9e2828e}
+
 Effective concurrent teaching of 25 to 30 students simultaneously is
 only possible if reasonable supplies of teaching, practice, and fluency
 building materials are immediately available for classroom use at each
@@ -56,4 +56,3 @@ levels of teaching resources may be measured by examining the resources
 which are immediately available to every student in the classroom for
 each of the curriculum topics in each of the curriculum areas which the
 teacher intends to cover during the course of the school year.
-:::

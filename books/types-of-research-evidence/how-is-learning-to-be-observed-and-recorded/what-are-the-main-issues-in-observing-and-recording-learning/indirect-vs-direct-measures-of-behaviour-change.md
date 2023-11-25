@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'What are the main issues in observing and recording learning? '
 title: 'Indirect vs. direct measures of behaviour change '
 ---
-# Indirect vs. direct measures of behaviour change 
+# Indirect vs. direct measures of behaviour change
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-653b1e8760f0443b892f71f5fe4d8c02}
+
 Some observation procedures (such as asking people to describe events
 which have already occurred) do not bring the researcher into direct
 contact with the behaviour or behaviour change which is of interest.
@@ -117,12 +117,10 @@ The distinction between data collected by indirect and by direct
 observation procedures is an important one for all researchers. This is
 because data collected by direct observation tends to be more believable
 than data collected by indirect observation.
-:::
 
-::: referencesList
+
 #### References
 
 -   Johnston, J. M., & Pennypacker, H. S. (1993). Strategies and tactics
     of behavioral research (2nd ed.). Hillsdale, NJ: Lawrence Erlbaum
     Associates.
-:::

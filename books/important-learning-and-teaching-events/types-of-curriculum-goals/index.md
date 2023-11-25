@@ -6,17 +6,17 @@ nav_order: 2
 parent: 'Important learning and teaching events '
 title: 'Types of curriculum goals '
 ---
-# Types of curriculum goals 
+# Types of curriculum goals
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-551f922b32d6499bb6aecfff180f48ce}
+
 It is only possible to seek answers to questions about the conditions
 affecting learning if we have an answer to the question "learning what?"
 Similarly it is only possible to seek answers to questions about the
@@ -48,4 +48,3 @@ of whether any of these achievement objectives are given in sufficient
 detail for them to be of use in designing a teaching programme, or in
 monitoring student progress, or in studying the effects of teaching on
 learning in the classroom.
-:::

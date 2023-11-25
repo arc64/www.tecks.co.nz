@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'Learning interactions and their component events '
 title: 'Prompts '
 ---
-# Prompts 
+# Prompts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b76300c101824e588d5a82b09cb58df2}
+
 An important type of antecedent stimulus event is the stimulus which
 serves the function of showing the learner how to perform a new
 behaviour (or how to respond correctly to a new stimulus). This kind of
@@ -55,4 +55,3 @@ Prompts can take many different forms. They can take the form of
 demonstrations, oral descriptions of what to do, written instructions,
 rules, directions to attend to a particular part of a stimulus display,
 hints, clues, and so on.
-:::

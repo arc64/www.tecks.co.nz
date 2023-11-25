@@ -5,17 +5,16 @@ layout: default
 nav_order: 1
 title: 'The problem to be solved '
 ---
-# The problem to be solved 
+# The problem to be solved
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-35fea2ac90bf4814af23bb227ef39b65}
 The teaching activities which occur in classrooms have changed little
 during the past 80 years -- a fact which has been documented many times.
 Compare this with the very considerable scientific and technological
@@ -39,4 +38,3 @@ what would count as evidence-based practice, ask whether a move from
 craft-based to evidence-based practice is possible at this time, and
 identify some of the conditions which will need to be present before a
 change from craft-based to evidence-based practice is likely to occur.
-:::

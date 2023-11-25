@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Phases of learning '
 title: 'The acquisition phase '
 ---
-# The acquisition phase 
+# The acquisition phase
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e9b4b587fbcf463392a2e8aa73ea6379}
+
 The acquisition phase is the initial period of improvement. It covers
 that period of time from when the learner is unable to respond correctly
 without assistance through to when they are able to respond correctly
@@ -40,4 +40,3 @@ When people talk about learning it is often the acquisition phase which
 they are referring to and when people test for learning using some kind
 of measure of correct responding, it is usually acquisition, that is,
 the achievement of independent performance which they are testing for.
-:::

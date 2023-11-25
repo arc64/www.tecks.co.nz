@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Beliefs about the nature of reality and what can be observed '
 title: 'Assumptions about what can be accomplished by observation '
 ---
-# Assumptions about what can be accomplished by observation 
+# Assumptions about what can be accomplished by observation
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-60cbc3b6a4d748f8a31a083ba9e2c138}
+
 Researchers bring to the research task different assumptions regarding
 what can be achieved by systematic observation. Assumptions which we
 make about our ability to observe the events which are occurring in the
@@ -64,4 +64,3 @@ often made. The empiricist simply argues that, while observing and
 reporting may be difficult, it is not impossible; that it is often
 possible for different people to observe the same event and to come to
 an agreement about what they have seen.
-:::

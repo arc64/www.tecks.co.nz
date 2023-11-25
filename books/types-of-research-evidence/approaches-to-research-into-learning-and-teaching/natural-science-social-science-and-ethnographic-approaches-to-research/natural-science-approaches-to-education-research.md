@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Natural science, social science, and ethnographic approaches to research '
 title: 'Natural science approaches to education research '
 ---
-# Natural science approaches to education research 
+# Natural science approaches to education research
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d2602f2345824d3eb8adc8b3efd80e62}
+
 The idea of a natural science approach to the study of learning and
 teaching dates from the late 19th century. The earliest studies of
 learning and memory used simple counting procedures to describe the
@@ -81,9 +81,8 @@ aim is pursued using research procedures which are nearly always
 experimental. The natural science approach which is most commonly used
 to study learning and teaching is the approach which has come to be
 known as behaviour analysis.
-:::
 
-::: referencesList
+
 #### References
 
 -   Allen, B. M., Hart, K. E., Buell, J. S., Harris, F. R., &
@@ -103,4 +102,3 @@ known as behaviour analysis.
     NJ: Lawrence Erlbaum Associates.
 -   Pierce, W. D., & Epling, W. F. (1995). Behavior analysis and
     learning. Englewood Cliffs, NJ: Prentice Hall.
-:::

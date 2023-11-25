@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'Respondent processes '
 title: 'How fears and anxieties are learned and unlearned '
 ---
-# How fears and anxieties are learned and unlearned 
+# How fears and anxieties are learned and unlearned
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-080d191662514d6a92d5d36297c4c556}
+
 Respondent conditioning is also the learning process whereby new fears
 and anxieties are acquired -- both those which are realistic and those
 which are unrealistic. There are, for each of us, a set of events which
@@ -74,4 +74,3 @@ reinforce and maintain escape and avoidance responses which interfere
 with other highly desirable responses. The classic case is the school
 phobic child - the child for whom school has become so anxiety provoking
 that she simply avoids school altogether.
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Types of explanation '
 title: 'Explanations in a physical vocabulary and in a non-physical vocabulary '
 ---
-# Explanations in a physical vocabulary and in a non-physical vocabulary 
+# Explanations in a physical vocabulary and in a non-physical vocabulary
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-1663d57661de4d63a32723d52abd8b71}
+
 Some researchers insist that attempts to explain must be framed in a
 physical vocabulary, that is, they must point to a cause or an
 independent variable which can be seen, heard, or felt - even if only by
@@ -39,12 +39,10 @@ see or sense the transfer of information from short term memory to long
 term memory. The word "memory" is used as a metaphor, not as a pointer
 to an observable physical process or an observable location in the
 learner's brain.
-:::
 
-::: referencesList
+
 #### References
 
 -   Baum, W. M., & Heath, J. L. (1992). Behavioral explanations and
     intentional explanations in psychology. American Psychologist, 47,
     1312-1317.
-:::

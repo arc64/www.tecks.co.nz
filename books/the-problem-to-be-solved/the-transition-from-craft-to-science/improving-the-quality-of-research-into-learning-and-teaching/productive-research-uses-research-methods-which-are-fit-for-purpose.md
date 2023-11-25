@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Improving the quality of research into learning and teaching '
 title: 'Productive research uses research methods which are fit for purpose '
 ---
-# Productive research uses research methods which are fit for purpose 
+# Productive research uses research methods which are fit for purpose
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-910c1c365bf54de996506141cdab4c58}
+
 Education consists of a number of disparate disciplines (educational
 philosophy, history, sociology, psychology, assessment, human
 development, learning, curriculum studies, methods of teaching, and so
@@ -116,9 +116,8 @@ question using a research method which is fit for the purpose.
 
 The critical choices which are involved in selecting a research method
 which is fit for purpose are described in Book 3 of this website.
-:::
 
-::: referencesList
+
 #### References
 
 -   Alberto, P. A., & Troutman, A. C. (1999). Applied behavior analysis
@@ -166,4 +165,3 @@ which is fit for purpose are described in Book 3 of this website.
 -   Wolery, M., Bailey, D. B., & Sugai, G. M. (1988). Effective
     teaching: Principles and procedures of applied behavior analysis
     with exceptional students. Boston: Allyn and Bacon.
-:::

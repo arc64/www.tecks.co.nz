@@ -7,15 +7,14 @@ nav_order: 6
 parent: 'The effects of contingency variables '
 title: 'Effects of removing a pre-existing contingency '
 ---
-# Effects of removing a pre-existing contingency 
+# Effects of removing a pre-existing contingency
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e7f24b670de44e73ae39dbda43befa50}
-:::
+

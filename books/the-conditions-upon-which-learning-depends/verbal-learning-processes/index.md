@@ -6,17 +6,17 @@ nav_order: 4
 parent: 'The conditions upon which learning depends '
 title: 'Verbal learning processes '
 ---
-# Verbal learning processes 
+# Verbal learning processes
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-66e1dc3aff614a5dbc44a295aafeb9f3}
+
 In the previous section we identified the conditions which appear to be
 necessary for the acquisition of completely new behaviours, motor
 skills, procedures, and other types performances (including speech). In
@@ -45,4 +45,3 @@ forms and correct responses can take a variety of forms also. These
 three types of learning outcomes must always be distinguished during
 both teaching and research because the conditions which are necessary
 for acquisition differ in each of the three cases.
-:::

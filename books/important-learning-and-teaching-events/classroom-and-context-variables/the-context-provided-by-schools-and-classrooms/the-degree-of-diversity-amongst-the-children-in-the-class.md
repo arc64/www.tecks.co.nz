@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'The context provided by schools and classrooms '
 title: 'The degree of diversity amongst the children in the class '
 ---
-# The degree of diversity amongst the children in the class 
+# The degree of diversity amongst the children in the class
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-347ca5f7ce5042b3a245e60606d99b1c}
+
 At any age level, an unstreamed class (untracked class) of 25 to 30
 students contains students with a diverse range of learning histories,
 prior knowledge, prior level of mastery of basic academic skills such as
@@ -53,4 +53,3 @@ class will need to operate many more reading groups, will need a much
 greater range of instructional reading materials, and will require
 greater amounts of time in one-to-one instruction than the less diverse
 class.
-:::

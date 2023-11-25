@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'What types of explanation are sought by the three main approaches to research? '
 title: 'The types of explanation sought by behaviour analysts '
 ---
-# The types of explanation sought by behaviour analysts 
+# The types of explanation sought by behaviour analysts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9668643d8228489d93dcccba2c8ba1dc}
+
 The primary aim of behaviour analysis research is to identify functional
 relationships between behaviour and the physical and social environments
 in which it occurs.
@@ -192,9 +192,8 @@ requires a certain amount of training so too does mastery of the ability
 to look for the causes of behaviour change, not in the mind, memory or
 perspective of the learner, but in the history of previous interactions
 involving the skills, understandings and beliefs which are of interest.
-:::
 
-::: referencesList
+
 #### References
 
 -   Baum, W. M. (1994). Understanding behaviorism: Science, behavior and
@@ -216,4 +215,3 @@ involving the skills, understandings and beliefs which are of interest.
     Macmillan Co.
 -   Zuriff, G. E. (1985). Behaviorism: A conceptual reconstruction. New
     York: Columbia University Press.
-:::

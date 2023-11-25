@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'The skills involved in learning to write '
 title: 'Learning the main grammatical concepts and rules '
 ---
-# Learning the main grammatical concepts and rules 
+# Learning the main grammatical concepts and rules
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2e33cdf6f26d48d4b289578ffe18cb5f}
+
 Grammar refers to a collection of skills which includes both a set of
 concepts and a set of rule guided procedures. The concepts include such
 stimulus classes as sentences, questions, singular and plural, parts of
@@ -35,11 +35,9 @@ there has been little research into the way in which children develop an
 understanding and ability to use these grammatical concepts and
 conventions and, hence, little is known about how this learning should
 be sequenced.
-:::
 
-::: referencesList
+
 #### References
 
 -   Ministry of Education (1996). Exploring language: A handbook for
     teachers. Wellington, NZ: Learning Media Ltd.
-:::

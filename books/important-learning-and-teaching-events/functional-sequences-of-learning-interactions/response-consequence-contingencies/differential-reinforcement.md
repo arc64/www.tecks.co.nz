@@ -8,17 +8,17 @@ nav_order: 10
 parent: 'Response-consequence contingencies '
 title: 'Differential reinforcement '
 ---
-# Differential reinforcement 
+# Differential reinforcement
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-193144f6cdc04e62b429ef09d9691d99}
+
 Reinforcement and punishment contingencies seldom occur in isolation.
 This is because we have choices; a child can choose either to attend or
 not to attend to the teacher. It is also the case that when we are
@@ -47,4 +47,3 @@ appropriate scheduling of these practice opportunities in time. But
 practice only results in the in the appearance of new skills and
 abilities if improvements in performance (or correct responses) are
 differentially reinforced.
-:::

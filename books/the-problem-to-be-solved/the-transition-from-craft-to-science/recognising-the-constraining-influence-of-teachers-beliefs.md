@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'The transition from craft to science '
 title: 'Recognising the constraining influence of teachers'' beliefs '
 ---
-# Recognising the constraining influence of teachers' beliefs 
+# Recognising the constraining influence of teachers' beliefs
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-49833d4ee78e4bc59d54d3f188bfe42e}
+
 In order to introduce elements of evidence-based practice into the
 classroom, the classroom teacher must first come to believe that
 research has something to offer. Outside those teaching in special
@@ -167,9 +167,8 @@ teaching practices and procedures than they are aware of. Not only is
 this research developing rapidly but it also speaks directly to many of
 the problems which teachers face from day to day -- problems which could
 be solved by a move towards evidence-based practice.
-:::
 
-::: referencesList
+
 #### References
 
 -   Biddle, B. J., & Saha, L. J. (2002). The untested accusation:
@@ -201,4 +200,3 @@ be solved by a move towards evidence-based practice.
     learning profession. (pp. 151-179). San Francisco: Jossey Bass.
 -   Wheldall, K. (2005). When will we ever learn? Educational
     Psychology, 25, 573-584.
-:::

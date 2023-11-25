@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Which approaches to research have learning as their subject matter? '
 title: 'What is the subject matter of cognitive science? '
 ---
-# What is the subject matter of cognitive science? 
+# What is the subject matter of cognitive science?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-25e2fbd72a544bf3a5c06f3aa81e621b}
+
 The subject matter of cognitive science is the interrelationship between
 overt performance and mental processing. Performance on different kinds
 of tasks is assumed to be a function of previously acquired mental
@@ -147,9 +147,8 @@ involving a massive investment in . . . time and effort does not
 generate information which can be of assistance to teachers. . . \[who\]
 must be responsive to the particular errors of particular children"
 (Macdonald & Pettit, 1991, p. 401).
-:::
 
-::: referencesList
+
 #### References
 
 -   Johnston, J. M., & Pennypacker, H. S. (1993). Readings for
@@ -163,4 +162,3 @@ must be responsive to the particular errors of particular children"
 -   Stillings, N. A., Feinstein, M. H., Garfield, J. L., Rissland, E.
     L., Rosenbaum, D. A., Weisler, S. E., & Baker-Ward, L. (1987).
     Cognitive science: An introduction. Cambridge, MA: The MIT Press.
-:::

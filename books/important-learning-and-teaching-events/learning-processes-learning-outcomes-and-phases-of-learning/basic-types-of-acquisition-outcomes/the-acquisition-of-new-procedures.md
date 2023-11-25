@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Basic types of acquisition outcomes '
 title: 'The acquisition of new procedures '
 ---
-# The acquisition of new procedures 
+# The acquisition of new procedures
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6095bc8f63f44647befe84d58843db4f}
+
 Some acquisition outcomes involve learning to perform a new operation or
 procedure. A procedure is a sequence of responses which must be
 performed in a particular order if the sequence is to have the desired
@@ -74,9 +74,8 @@ measured by counting the number of steps completed to a satisfactory
 standard without assistance. Increases, from day to day in the number of
 steps completed without assistance provide a measure of the rate of
 improvement on this kind of acquisition outcome.
-:::
 
-::: referencesList
+
 #### References
 
 -   Marchand-Martella, N. E., Martella, R. C., Christensen, A. M.,
@@ -89,4 +88,3 @@ improvement on this kind of acquisition outcome.
 -   Skinner, C. H., Beatty, K. L., Turco, T. L., & Rasavage, C. (1989).
     Cover, copy, and compare: A method for increasing multiplication
     performance. School Psychology Review, 18, 412-420.
-:::

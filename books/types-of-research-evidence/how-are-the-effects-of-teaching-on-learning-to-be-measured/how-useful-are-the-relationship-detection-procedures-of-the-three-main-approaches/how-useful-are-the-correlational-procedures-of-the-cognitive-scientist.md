@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'How useful are the relationship detection procedures of the three main approaches? '
 title: 'How useful are the correlational procedures of the cognitive scientist? '
 ---
-# How useful are the correlational procedures of the cognitive scientist? 
+# How useful are the correlational procedures of the cognitive scientist?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-627aff15b2f24a7b8a3d4b166cbe41f4}
+
 One of the ways in which cognitive scientists attempt to identify
 relationships is by applying various kinds of correlational procedures.
 In 1995, some 30 per cent of the published social science research into
@@ -103,9 +103,8 @@ happen only if such skills and beliefs are treated as dependent
 variables, that is, only if they are treated as the phenomena which are
 to be explained - perhaps by studying the learning histories which give
 rise to them.
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. (1998). The utility of qualitative, social science,
@@ -124,4 +123,3 @@ rise to them.
     and laypersons\' interpretations of correlational findings. In J.
     Valsiner (Ed.), The individual subject and scientific methodology
     (pp.134-151). New York: Plenum Press.
-:::

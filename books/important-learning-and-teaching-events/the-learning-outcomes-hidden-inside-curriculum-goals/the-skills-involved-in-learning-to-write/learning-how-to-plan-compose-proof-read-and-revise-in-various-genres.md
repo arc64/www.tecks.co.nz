@@ -8,17 +8,17 @@ nav_order: 7
 parent: 'The skills involved in learning to write '
 title: 'Learning how to plan, compose, proof read and revise in various genres '
 ---
-# Learning how to plan, compose, proof read and revise in various genres 
+# Learning how to plan, compose, proof read and revise in various genres
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-07a4a068b4dc448e833ce813b9da219a}
+
 Initially, the act of transcribing thoughts consumes so much working
 memory that there is little left over for planning or revising. One of
 the implications of this is that early instruction in writing should
@@ -40,9 +40,8 @@ writing researchers as to how these learning outcomes should be defined
 or measured and there has been little research into the developmental
 progression which occurs with respect to each of these components of
 writing competence.
-:::
 
-::: referencesList
+
 #### References
 
 -   Berninger, V. (1999). Coordinating transcription and text generation
@@ -62,4 +61,3 @@ writing competence.
 -   Scardamalia, M., & Bereiter, C. (1986). Research on written
     composition. In M. C. Wittrock (Ed.), Handbook of research on
     teaching (3rd ed., pp. 778-803). New York: MacMillan.
-:::

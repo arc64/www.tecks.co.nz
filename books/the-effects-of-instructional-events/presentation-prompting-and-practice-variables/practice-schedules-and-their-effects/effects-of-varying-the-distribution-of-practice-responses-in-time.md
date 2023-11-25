@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Practice schedules and their effects '
 title: 'Effects of varying the distribution of practice responses in time '
 ---
-# Effects of varying the distribution of practice responses in time 
+# Effects of varying the distribution of practice responses in time
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6d7ca94fe21c4037ac7272f52aea5067}
+
 Most practice is distributed across several days or weeks. Based on the
 results from several studies which tracked every lesson concept which
 was learned and remembered or learned and forgotten by individual
@@ -70,9 +70,8 @@ distribution in time of all practice events with respect to each
 to-be-learned response. Failure to control the number of practice
 opportunities and their distribution in time may leave the teaching
 researcher with uninterpretable experimental results.
-:::
 
-::: referencesList
+
 #### References
 
 -   Nuthall, G., & Alton-Lee, A. (1993). Predicting learning from
@@ -80,4 +79,3 @@ researcher with uninterpretable experimental results.
     construction in classrooms. American Educational Research Journal,
     30, 799-840.
 -   Rose, S. (1993). The making of memory. Toronto: Bantam Books.
-:::

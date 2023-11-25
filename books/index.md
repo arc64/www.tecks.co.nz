@@ -4,14 +4,12 @@ title: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 ---
 
-# Welcome to Teacher Education's Core Knowledge and Skills. 
+# Welcome to Teacher Education's Core Knowledge and Skills.
 
 
-::: {#parent-fieldname-description .documentDescription}
 Please note that this site is under construction.
-:::
 
-::: {#parent-fieldname-text-cadb8950340044adb344a7e5c2b4baa9}
+
 In this site we have attempted to bring together in one place the
 scientific research on learning and teaching so that teachers, teacher
 educators, and teaching researchers have a well organised and accessible
@@ -120,4 +118,3 @@ teachers, education students and teacher educators.
 and literature reviews which challenge some of the pre-scientific ideas
 and practices which stand in the way of evidence-based improvements in
 classroom practice.
-:::

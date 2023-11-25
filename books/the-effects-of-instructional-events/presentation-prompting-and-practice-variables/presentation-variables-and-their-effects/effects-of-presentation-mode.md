@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Presentation variables and their effects '
 title: 'Effects of presentation mode '
 ---
-# Effects of presentation mode 
+# Effects of presentation mode
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2d8d7fc39df14de698e113d5396c8e1e}
+
 Obviously there are circumstances where the presentation mode is a
 matter of some importance. Until the learner can read proficiently, new
 information must be presented in the aural mode, that is, in the form of
@@ -51,11 +51,9 @@ different learners have different \"learning styles\" (e.g. auditory,
 visual, kinaesthetic) and that some people learn more quickly from aural
 presentations, some learn more quickly from visual presentations, and so
 on.
-:::
 
-::: referencesList
+
 #### References
 
 -   Clark, R. E. (1983). Reconsidering research on learning from media.
     Review of Educational Research, 53, 445-459
-:::

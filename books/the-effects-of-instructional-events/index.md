@@ -5,17 +5,17 @@ layout: default
 nav_order: 5
 title: 'The effects of instructional events '
 ---
-# The effects of instructional events 
+# The effects of instructional events
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2b7e12d083164c158d467333c9eaa98a}
+
 In Book 2 we identified and defined a number of instructional events
 which are thought to affect motivation, learning, retention and the
 development of likes and dislikes. These events included the various
@@ -31,4 +31,3 @@ do and do not play a critical role in the development of motivation,
 learning, retention, likes and dislikes. In the reviews which follows we
 will also identify a number of commonly occurring instructional events
 about which little is known.
-:::

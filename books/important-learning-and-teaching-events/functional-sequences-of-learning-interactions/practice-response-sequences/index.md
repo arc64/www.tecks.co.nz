@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'Functional sequences of learning interactions '
 title: 'Practice response sequences '
 ---
-# Practice response sequences 
+# Practice response sequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8b572ae6e1604af99a2221242032c79b}
+
 One of the functions of the learning activities which occur in
 classrooms is to provide learners with the opportunity to acquire and
 practice curriculum relevant skills and understandings. We are using the
@@ -45,4 +45,3 @@ in time, whether the practice is timed or untimed and the type of
 criterion which is used in deciding when the learner should cease
 practice on the current skill and progress to the next skill in the
 curriculum.
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Presentations '
 title: 'Presentation mode '
 ---
-# Presentation mode 
+# Presentation mode
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-616c19f78bc04a408ebe8cac97b18e1b}
+
 New information may be presented to the learner in various ways, that
 is, in various presentation modes. The presentation modes most commonly
 seen in the classroom are aural presentations, visual presentations, and
@@ -39,4 +39,3 @@ in the aural mode, that is, in the form of talk. Written presentations
 become possible only when the learner can read with a reasonable level
 of expertise. The different modes are also processed in different areas
 of the brain.
-:::

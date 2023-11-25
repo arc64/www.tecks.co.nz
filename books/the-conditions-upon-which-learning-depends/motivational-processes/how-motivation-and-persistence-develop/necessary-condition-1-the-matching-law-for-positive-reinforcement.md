@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How motivation and persistence develop '
 title: 'Necessary condition 1. The matching law for positive reinforcement '
 ---
-# Necessary condition 1. The matching law for positive reinforcement 
+# Necessary condition 1. The matching law for positive reinforcement
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e915af993c674e948dea2826008e3e26}
+
 Most classroom learning tasks generate a mixture of positively
 reinforcing consequences and aversive consequences for the learner.
 Under these circumstances, student motivation (the degree of effort
@@ -98,9 +98,8 @@ variable apart from practice itself. They further concluded that:
 instructional reinforcement appear constant across grades (kindergarten
 through college), socio-economic levels, race, private and public
 schools, and community types\" (Lysakowski & Walberg, 1981, p. 69).
-:::
 
-::: referencesList
+
 #### References
 
 -   Bailey, J. S., Wolf, M. M., & Phillips, E. L. (1970). Home-based
@@ -227,4 +226,3 @@ schools, and community types\" (Lysakowski & Walberg, 1981, p. 69).
 -   Zanolli, K.M., Paden, P., & Cox, K. (1997). Teaching prosocial
     behavior to typically developing toddlers. Journal of Behavioral
     Education, 7, 373-391.
-:::

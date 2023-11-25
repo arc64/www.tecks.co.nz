@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Amount of practice and its effects '
 title: 'Effects of variations in the number of practice opportunities '
 ---
-# Effects of variations in the number of practice opportunities 
+# Effects of variations in the number of practice opportunities
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9e6d8b4489f04795ab681f03407466e0}
+
 Assuming that the teacher has selected a developmentally appropriate
 teaching aim, that is one which the child can achieve given suitable
 assistance, research suggests that the number of practice opportunities
@@ -127,9 +127,8 @@ reviewed in this section suggests that the greatly increased number of
 response opportunities which occur in Direct Instruction classrooms
 almost certainly plays a role in the accelerated progress produced by
 the teaching procedure employed by Direct Instruction teachers.
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, G. L., & Engelmann, S. (1996). Research on Direct
@@ -270,4 +269,3 @@ the teaching procedure employed by Direct Instruction teachers.
     (1984). Opportunity to learn for LD students receiving different
     levels of special education services. Learning Disability Quarterly,
     7, 55-67.
-:::

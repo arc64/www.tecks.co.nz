@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Presentation variables and their effects '
 title: 'Effects of presentation length '
 ---
-# Effects of presentation length 
+# Effects of presentation length
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8642792ff0814ac8bc575c4291c35fcc}
+
 Presentations contain information, information which may or may not be
 remembered and recalled by the learner at a later time. Younger children
 can \"hold in mind\" only one to three new items of information at one
@@ -74,9 +74,8 @@ writing about, or responding to questions about the information
 contained in the presentations. We will consider the number of practice
 opportunities required in the section on the effects of different
 amounts of practice, below.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bligh, D. A. (1972). What's the use of lectures? Harmondsworth:
@@ -85,4 +84,3 @@ amounts of practice, below.
     instruction. Review of Educational Research, 48, 439-463.
 -   Oddi, L. (1983). The lecture: An update on research. Adult Education
     Quarterly, 33, 222-229.
-:::

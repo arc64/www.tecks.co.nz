@@ -6,17 +6,17 @@ nav_order: 2
 parent: 'The conditions upon which learning depends '
 title: 'Motivational processes '
 ---
-# Motivational processes 
+# Motivational processes
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9319e52561344e7188b1c41ff45c6d98}
+
 The concept of motivation has had a chequered history in psychology and,
 as a result, has accrued many different meanings. Frequently the term
 motivation is used to refer to some kind of biological force or internal
@@ -34,4 +34,3 @@ is the concept of persistence. We will use the term persistence to refer
 to productivity over time. This is close to the dictionary definition of
 persistence as the tendency to continue working in the face of
 difficulties or obstacles.
-:::

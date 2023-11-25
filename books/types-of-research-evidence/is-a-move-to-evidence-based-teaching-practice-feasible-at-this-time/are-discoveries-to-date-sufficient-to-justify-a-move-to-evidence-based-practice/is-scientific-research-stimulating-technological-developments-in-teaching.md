@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Are discoveries to date sufficient to justify a move to evidence-based practice? '
 title: 'Is scientific research stimulating technological developments in teaching '
 ---
-# Is scientific research stimulating technological developments in teaching 
+# Is scientific research stimulating technological developments in teaching
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-859377143cf140cdb6364c2923b3d965}
+
 Not only has the scientific research into learning identified many of
 the conditions upon which learning depends, it has also stimulated very
 considerable research into the development of teaching programmes which
@@ -138,9 +138,8 @@ program planning for individuals and for overall curriculum design. . .
 . This methodology provides practice-oriented ways for field-based
 personnel to learn more about what is effective - and what is not - in
 what they do (Neuman & McCormick, 1995, p. 29).
-:::
 
-::: referencesList
+
 #### References
 
 -   Adams, G. L., & Engelmann, S. (1996). Research on Direct
@@ -228,4 +227,3 @@ what they do (Neuman & McCormick, 1995, p. 29).
 -   Snell, M. E. (1997). Teaching children and young adults with mental
     retardation in school programs: Current research. Behaviour Change,
     14, 73-105.
-:::

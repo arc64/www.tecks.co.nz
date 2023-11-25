@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'What is to count as evidence? '
 title: 'Evidence of what quality? '
 ---
-# Evidence of what quality? 
+# Evidence of what quality?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-34d24f50b7fc4edb82789114f7c699cd}
+
 Research in education tends to be of very variable quality -- ranging
 from poorly controlled "action research" studies through to tightly
 controlled single case experiments and randomised groups experiments.
@@ -278,9 +278,8 @@ increasing numbers of researchers are beginning to argue that "only when
 the profession embraces scientific methods for determining efficacy and
 accepts accountability for results will education acquire the status --
 and the rewards -- of a mature profession (Carnine, 2000, p. 10).
-:::
 
-::: referencesList
+
 #### References
 
 -   Berliner, D. C. (2002). Educational research: The hardest science of
@@ -358,4 +357,3 @@ and the rewards -- of a mature profession (Carnine, 2000, p. 10).
 -   Yates, G. C. R. (2005). "How obvious": Personal reflections on the
     database of educational psychology and effective teaching research.
     Educational Psychology, 25, 681-700.
-:::

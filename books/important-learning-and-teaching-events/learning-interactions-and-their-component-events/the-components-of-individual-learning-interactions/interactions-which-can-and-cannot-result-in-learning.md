@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'The components of individual learning interactions '
 title: 'Interactions which can and cannot result in learning '
 ---
-# Interactions which can and cannot result in learning 
+# Interactions which can and cannot result in learning
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-694b4e5486e44ae1bb005e2d8426178b}
+
 In order for an interaction to result in learning it must involve an
 action or set of actions which have not yet been mastered by the
 learner. It must involve a response which cannot yet be performed
@@ -53,4 +53,3 @@ already been mastered) need to be distinguished from learning
 interactions, so procedural instructions must be distinguished from
 practice stimuli and from prompts (which provide opportunities for new
 learning to occur).
-:::

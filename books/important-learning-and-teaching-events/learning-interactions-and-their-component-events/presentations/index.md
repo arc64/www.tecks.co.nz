@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'Learning interactions and their component events '
 title: 'Presentations '
 ---
-# Presentations 
+# Presentations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-bb71808a98264a6299cfd79fd8ad8abd}
+
 In teaching situations, one of the most commonly observed kinds of
 antecedent stimulus events is the presentation of curriculum relevant
 information to the learner. We will refer to messages which the learner
@@ -46,4 +46,3 @@ accounts, diagrams, pictures, television programmes, and so on. In
 addition, presentations can differ in a number of important ways. They
 may differ with respect to mode, content, and meaningfulness, for
 example.
-:::

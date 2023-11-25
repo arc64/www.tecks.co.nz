@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'What units of analysis are used by the three main approaches to research? '
 title: 'The units of analysis employed by ethnographers '
 ---
-# The units of analysis employed by ethnographers 
+# The units of analysis employed by ethnographers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-39b5fb092c5148169fb679fa45bf83ad}
+
 Ethnographers do not consider their subject matter to consist of parts
 or elements. In fact, ethnographers often argue that the context or site
 which is being investigated must be studied as a whole and that the aim
@@ -115,9 +115,8 @@ social events without reference to learning or teaching and then
 classifies these events in whatever manner the researcher chooses, could
 conceivably result in generalisations about learning and/or teaching or
 any other kind of knowledge which will be of enduring use to teachers.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bogdan, R. C., & Biklen, S. K. (1998). Qualitative research for
@@ -129,4 +128,3 @@ any other kind of knowledge which will be of enduring use to teachers.
 -   LeCompte, M. D., & Preissle, J. (1993). Ethnography and qualitative
     design in educational research (2nd ed.). San Diego, CA: Academic
     Press.
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Research in general or just the scientific research? '
 title: 'Is the behaviour analysis approach a scientific approach? '
 ---
-# Is the behaviour analysis approach a scientific approach? 
+# Is the behaviour analysis approach a scientific approach?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-356cc76ebadc497498958451d09f10e8}
+
 Behaviour analysts like to argue that their approach to the study of
 learning and teaching is an example of a natural science.
 
@@ -118,9 +118,8 @@ influential behaviour analysis textbooks. "The success of behavior
 analysis will be measured by its survival in the behavior of those who
 practice it and by the effectiveness of the behavior syntheses that
 follow from it" (Catania, 1998, p. 376).
-:::
 
-::: referencesList
+
 #### References
 
 -   Catania, A. C. (1998). Learning (4th ed.). New York: Prentice Hall.
@@ -136,4 +135,3 @@ follow from it" (Catania, 1998, p. 376).
     psychology: A reader. St. Paul, MN: West.
 -   Verplanck, W. (12 November, 1998). Post to the Behavior Analysis
     List. (Now discontinued.)
-:::

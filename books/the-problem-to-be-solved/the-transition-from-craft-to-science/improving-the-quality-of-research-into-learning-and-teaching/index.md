@@ -7,17 +7,17 @@ nav_order: 7
 parent: 'The transition from craft to science '
 title: 'Improving the quality of research into learning and teaching '
 ---
-# Improving the quality of research into learning and teaching 
+# Improving the quality of research into learning and teaching
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-acde269bf291446f907c15af578d72f4}
+
 For far too long educational research has had an "awful" reputation
 (Kaestle, 1993). In part, this reputation is justified. Large swathes of
 educational research are, in fact, awful -- or at least of little value.
@@ -45,9 +45,8 @@ this we must first understand why so much of the research into learning
 and teaching is of so little value and then identify policies and
 practices which are likely to result in substantial improvements in
 research quality.
-:::
 
-::: referencesList
+
 #### References
 
 -   Kaestle, C. (1993) The awful reputation of educational research.
@@ -60,4 +59,3 @@ research quality.
     Vaughn S. (2007). The incidence of \"causal\" statements in
     teaching-and-learning research journals. American Educational
     Research Journal, 44, 400-413.
-:::

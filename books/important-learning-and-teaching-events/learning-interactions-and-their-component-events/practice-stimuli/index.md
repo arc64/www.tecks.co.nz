@@ -7,17 +7,17 @@ nav_order: 4
 parent: 'Learning interactions and their component events '
 title: 'Practice stimuli '
 ---
-# Practice stimuli 
+# Practice stimuli
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-eba6832624034ba6b19755a2931d2c28}
+
 Students spend much of their school day responding to instructional
 questions, exercises, problems, and activities of various kinds and yet
 the English language has no word to refer to these things. In this
@@ -46,4 +46,3 @@ of objects to be named, symbols (e.g. words) to be read, questions to be
 answered, exercises to be worked, problems to be solved, activities to
 be completed, and so on. They may occur in various modes, and they may
 be teacher initiated or child initiated.
-:::

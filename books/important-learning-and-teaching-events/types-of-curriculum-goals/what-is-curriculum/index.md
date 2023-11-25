@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Types of curriculum goals '
 title: 'What is curriculum? '
 ---
-# What is curriculum? 
+# What is curriculum?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f9f0912f095449b08156f491c4a5a22a}
+
 In most countries, the school curriculum consists of a set of documents
 which set out what children are expected to learn and remember as a
 result of their attendance at school. Most curricula contain a mixture
@@ -33,4 +33,3 @@ Mathematics would be expected to "know the forward and backward counting
 sequences with whole numbers to 100" and, at Level 2 Mathematics, to
 "know the forward and backward counting sequences with whole numbers to
 at least 1000."
-:::

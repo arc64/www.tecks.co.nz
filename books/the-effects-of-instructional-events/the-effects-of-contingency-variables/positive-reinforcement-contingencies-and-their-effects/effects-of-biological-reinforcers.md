@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Positive reinforcement contingencies and their effects '
 title: 'Effects of biological reinforcers '
 ---
-# Effects of biological reinforcers 
+# Effects of biological reinforcers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-3e79cf5542a94eaab22f4b6ad2724557}
+
 By and large, the use of biological reinforcers is considered to be
 inappropriate in early childhood centres and schools in New Zealand.
 However, some exceptions can be found. It is sometimes considered
@@ -50,9 +50,8 @@ Interestingly, this is a very neglected area. We have been unable to
 find any controlled experimental analyses of the effects of changing
 levels of sensory stimulation or variety on learning or motivation in
 the classroom setting.
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. (1999). Instructional processes. Christchurch, N.Z.:
@@ -69,4 +68,3 @@ the classroom setting.
 -   Wolf, M. M., Giles, D. K., & Hall, R. V. (1968). Experiments with
     token reinforcement in a remedial classroom. Behaviour Research and
     Therapy, 6, 51-64.
-:::

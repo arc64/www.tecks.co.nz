@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'What is learning? '
 title: 'Most human action (behaviour) is purposeful '
 ---
-# Most human action (behaviour) is purposeful 
+# Most human action (behaviour) is purposeful
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-01cb30ba253f4d35bdae402475ea404b}
+
 Most behaviours are engaged in for some purpose. When a teacher gives an
 instruction the teacher usually expects or intends that the instruction
 will be followed. The same action may be engaged in on different
@@ -45,4 +45,3 @@ in terms of the action alone) but a unit which consists of both the
 action-and-its-purpose. It follows, therefore, that any procedure which
 we use to study learning must be one which is capable of tracking
 changes in these action-and-purpose units over time.
-:::

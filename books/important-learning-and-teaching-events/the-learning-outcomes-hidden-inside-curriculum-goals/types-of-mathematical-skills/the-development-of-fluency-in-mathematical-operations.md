@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Types of mathematical skills '
 title: 'The development of fluency in mathematical operations '
 ---
-# The development of fluency in mathematical operations 
+# The development of fluency in mathematical operations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ad4226c719ec4167900c344d4cf5eff9}
+
 Because mathematics is strongly hierarchical, it is not sufficient for
 the child simply to learn how to respond correctly or when to use a
 particular procedure. Growth in early arithmetic competence is strongly
@@ -44,9 +44,8 @@ fluency building practice to ensure future success in mathematics, and
 it is impossible for researchers either to select or to describe the
 participants taking part in research into the learning and/or teaching
 of mathematics.
-:::
 
-::: referencesList
+
 #### References
 
 -   Binder, C., Haughton, E., & Bateman, B. (2002). Fluency: Achieving
@@ -61,4 +60,3 @@ of mathematics.
 -   Young-Loveridge, J. M. (1991). The development of children's number
     concepts from ages five to nine: Early mathematics learning project:
     Phase II. Hamilton, NZ: University of Waikato, Education Department.
-:::

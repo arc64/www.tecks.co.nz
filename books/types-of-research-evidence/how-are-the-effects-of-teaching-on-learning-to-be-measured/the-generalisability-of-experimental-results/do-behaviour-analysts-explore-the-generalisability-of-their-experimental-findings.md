@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The generalisability of experimental results '
 title: 'Do behaviour analysts explore the generalisability of their experimental findings? '
 ---
-# Do behaviour analysts explore the generalisability of their experimental findings? 
+# Do behaviour analysts explore the generalisability of their experimental findings?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-af6066077fe141b09f94109bb1f50df9}
+
 Behaviour analysts have very little interest in the observation and
 description of particulars. They are primarily interested in
 generalisations. Behaviour analysts use the term *generality* to refer
@@ -82,9 +82,8 @@ populations, that this can only be established by systematic
 replication, and that this is the case regardless of whether one is
 engaged in within-subject experimentation or between-groups
 experimentation.
-:::
 
-::: referencesList
+
 #### References
 
 -   Blampied, N. M. (1999). A legacy neglected: Restating the case for
@@ -98,4 +97,3 @@ experimentation.
     NJ: Lawrence Erlbaum Associates.
 -   Poling, A., Methot, L. L., & LeSage, M. G. (1995). Fundamentals of
     behavior analytic research. New York: Plenum Press.
-:::

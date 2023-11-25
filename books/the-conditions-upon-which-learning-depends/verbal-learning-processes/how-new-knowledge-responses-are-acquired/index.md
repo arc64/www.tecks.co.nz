@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Verbal learning processes '
 title: 'How new knowledge responses are acquired '
 ---
-# How new knowledge responses are acquired 
+# How new knowledge responses are acquired
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-54ccb28882ab4b52b39b3abefe8ea8fd}
+
 Much school learning involves the acquisition of new knowledge
 responses. Unlike the acquisition of equivalence relations and
 generalised correct responses where a response is only correct if it is
@@ -107,9 +107,8 @@ so much a matter of how to teach them as it is a matter of deciding how
 many knowledge responses should be taught at one time and of selecting
 procedures which ensure that every student comes into contact with each
 of the items of information which are to be learned and remembered.
-:::
 
-::: referencesList
+
 #### References
 
 -   Andre, T. (1981). The role of paraphrased adjunct questions in
@@ -123,4 +122,3 @@ of the items of information which are to be learned and remembered.
     practical Research & Applications, 2, 1-5.
 -   Tulving, E., & Madigan, S. A. (1970). Memory and verbal learning.
     Annual Review of Psychology, 21, 437-484.
-:::

@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How fears and anxieties are learned and unlearned '
 title: 'Conditions necessary for the extinction of conditioned anxiety/fear responses '
 ---
-# Conditions necessary for the extinction of conditioned anxiety/fear responses 
+# Conditions necessary for the extinction of conditioned anxiety/fear responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b003776868fd43fab1be3eabf35510fc}
+
 From time to time learners arrive in the classroom with anxiety
 responses or fears which have already been conditioned to certain
 learning tasks, or with well developed negative attitudes to school, to
@@ -52,4 +52,3 @@ anxiety eliciting stimulus without any aversive consequence, then that
 stimulus gradually loses the power to elicit anxiety (e.g. Croghan &
 Musante, 1975; Luiselli, 1978; Stableford, 1979; Van Hasselt, Hersen,
 Bellack, Rosenblum & Lamparski, 1979).
-:::

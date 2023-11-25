@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Consequences '
 title: 'Biological punishers '
 ---
-# Biological punishers 
+# Biological punishers
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c5fa07f7a4864c82a58941d31ff8503f}
+
 The biological punishers are those events which pose a threat to the
 safety or comfort of the individual as a human being. They are events,
 the avoidance of which are essential to the survival and comfort of all
@@ -40,4 +40,3 @@ immediate and automatic. Someone who drinks too much at a party and
 starts to feel nauseous will experience a biologically determined
 aversive outcome which has resulted directly from the behaviour of
 drinking too much.
-:::

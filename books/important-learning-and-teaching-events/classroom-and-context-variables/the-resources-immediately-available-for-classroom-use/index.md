@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'Classroom and context variables '
 title: 'The resources immediately available for classroom use '
 ---
-# The resources immediately available for classroom use 
+# The resources immediately available for classroom use
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-50d908724f534e40a150081878712b38}
+
 The effective teaching of 25 to 30 students concurrently for 5 hours a
 day, 5 days a week is a task which becomes possible only if the school
 provides sufficient diagnostic, assessment, teaching and practice
@@ -38,4 +38,3 @@ learning in the context of the classroom include the collective
 knowledge of the other students in the class, the extent to which the
 class is functioning as a "learning community", and the content
 knowledge and pedagogical content knowledge of the teacher.
-:::

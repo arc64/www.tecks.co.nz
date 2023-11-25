@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Types of mathematical skills '
 title: 'Acquiring mathematical concepts '
 ---
-# Acquiring mathematical concepts 
+# Acquiring mathematical concepts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-278f36ccadc541b9ba790e0b6bdd5965}
+
 Mathematics curricula are "conceptually dense". This means that even
 during the early years, the child is faced with the task of mastering
 large numbers of mathematical concepts. Concepts in the early
@@ -54,9 +54,8 @@ are relational concepts. Relational concepts are more difficult to teach
 than classification concepts because they require the use of teaching
 examples which involve comparisons rather than examples which simply
 involve classification.
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. (1999). Instructional processes. University of
@@ -69,4 +68,3 @@ involve classification.
 -   Tiemann, P. W., & Markle, S. M. (1990). Analyzing instructional
     content: A guide to instruction and evaluation (4th ed.). Champaign,
     IL: Stipes Publishing.
-:::

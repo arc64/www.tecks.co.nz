@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Calls for change '
 title: 'Calls for increased accountability '
 ---
-# Calls for increased accountability 
+# Calls for increased accountability
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-cffb8ded945b41ef935b8728aa008464}
+
 Another source of calls for change is the accountability movement. These
 calls are based on the simple idea that those responsible for education
 should "set . . . goals, measure whether or not they have been met, do
@@ -47,9 +47,8 @@ expenditure which these have involved, is further evidence that parents
 and politicians are becoming increasingly concerned about the apparent
 lack of progress which is being made in developing more effective forms
 of classroom practice.
-:::
 
-::: referencesList
+
 #### References
 
 -   Darling-Hammond, L., (2004). Standards, accountability and school
@@ -62,4 +61,3 @@ of classroom practice.
     Professorial lecture delivered to the University of Sussex.
     Retrieved 3 July, 2007 from
     www.esri.mmu.ac.uk/respapers/papers-pdf/Professorial%20Lecture.pdf
-:::

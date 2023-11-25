@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Amount of practice and its effects '
 title: 'Effects of variations in exit criteria '
 ---
-# Effects of variations in exit criteria 
+# Effects of variations in exit criteria
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e064cbc430124b4c87132963080bb4dc}
+
 While the research reviewed in the preceding section begins to provide
 answers to the practical question of how much practice and review a
 teacher should provide, it is research which will be difficult to apply
@@ -68,9 +68,8 @@ of retention which results from variations in fluency-based exit
 criteria. Studies of the long term effects of building basic skills to
 differing levels of fluency must be considered to be one of the most
 important next steps in the research into learning and teaching.
-:::
 
-::: referencesList
+
 #### References
 
 -   Binder, C. (1996). Behavioral fluency: Evolution of a new paradigm.
@@ -104,4 +103,3 @@ important next steps in the research into learning and teaching.
 -   Sterling, L. K., Goetz, E. M., & Sterling, T. (1984). Acquisition
     and maintenance of basal and organic words: Effects of repeated
     practice technique. Behavior Modification, 8, 495-519.
-:::

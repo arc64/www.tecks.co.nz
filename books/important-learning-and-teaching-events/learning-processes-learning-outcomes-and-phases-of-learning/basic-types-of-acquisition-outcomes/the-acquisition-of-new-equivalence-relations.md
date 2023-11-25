@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Basic types of acquisition outcomes '
 title: 'The acquisition of new equivalence relations '
 ---
-# The acquisition of new equivalence relations 
+# The acquisition of new equivalence relations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-8cffce3ab5e1467d9191c041b991752f}
+
 Let us say that we want a young child to learn the names of the letters
 of the alphabet. Note how ambiguous this statement is. We probably
 won\'t need to teach *saying the names* because the child can already
@@ -104,4 +104,3 @@ etc.) for the learner to respond to and by coding the learner\'s
 responses as correct or incorrect. Increases in the ratio of corrects to
 errors from day to day provide a measure of rate of learning on this
 kind of acquisition outcome.
-:::

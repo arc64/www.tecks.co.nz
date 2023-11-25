@@ -9,17 +9,17 @@ parent: 'How new knowledge responses are acquired '
 title: 'Necessary condition 2. Sufficient interactions with each proposition to ensure
   retention '
 ---
-# Necessary condition 2. Sufficient interactions with each proposition to ensure retention 
+# Necessary condition 2. Sufficient interactions with each proposition to ensure retention
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-46a3aff4bd824d7a81c5e0b06a94a21d}
+
 There is no doubt that children can learn new knowledge from listening
 to teacher talk and to the talk of other students (e.g. Doyle, Gast,
 Wolery, Ault & Farmer, 1990; Gast, Doyle, Wolery & Kolenda, 1994).
@@ -107,9 +107,8 @@ those items of information on which further practice is required. This
 procedure is particularly effective for those students who consistently
 underestimate the amount of study required in order to learn and
 remember new knowledge responses (Gettinger, 1989).
-:::
 
-::: referencesList
+
 #### References
 
 -   Cavanaugh, R. A., Heward, W. L., & Donelson, F. (1996). Effects of
@@ -166,4 +165,3 @@ remember new knowledge responses (Gettinger, 1989).
 -   Wildman, B. G., & Kelly, J. A. (1980). Group news watching and
     discussion to increase the current affairs awareness of retarded
     adolescents. Child Behavior Therapy, 2, 25-36.
-:::

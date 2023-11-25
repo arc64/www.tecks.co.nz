@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Types of mathematical skills '
 title: 'Learning mathematical operations '
 ---
-# Learning mathematical operations 
+# Learning mathematical operations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e1e650af804646c8b904fefd5b33d80f}
+
 In addition to mathematical concepts, maths curricula also contain
 numerous calculation procedures. These calculation procedures are most
 commonly referred to as operations. They are also referred to as
@@ -61,9 +61,8 @@ mathematical procedure the child must be able to (a) associate a symbol
 involved in the operation and (c) be able to automatically recall the
 equivalence relations which are embedded in problems of this type (Smith
 & Rivera, 1991).
-:::
 
-::: referencesList
+
 #### References
 
 -   Church, R. J. (1999). Instructional processes. Christchurch, NZ:
@@ -79,4 +78,3 @@ equivalence relations which are embedded in problems of this type (Smith
     CA: Academic Press.
 -   Underhill, R. J., Uprichard, A. E. & Heddens, J. W. (1980).
     Diagnosing mathematical difficulties. Columbus, OH: Merrill.
-:::

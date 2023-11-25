@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The content of the English curriculum '
 title: 'Shortcomings of the curriculum statements for learning to read '
 ---
-# Shortcomings of the curriculum statements for learning to read 
+# Shortcomings of the curriculum statements for learning to read
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a01d71f44eb14d4098fa2bace8c2513d}
+
 The problem posed by the very broad and general achievement objectives
 for reading is not overcome by the listing of "developmental indicators"
 in *Effective literacy practice* (Ministry of Education, 2003) because
@@ -51,9 +51,8 @@ and Tindal found that the median fluency level on age appropriate
 narrative texts was 115 correct words per minute after 3 years at
 school, 120 correct words per minute after 4 years at school and 130
 correct words per minute after 5 years at school.
-:::
 
-::: referencesList
+
 #### References
 
 -   Hasbrouck, J. E. & Tindal, G. (1992). Curriculum-based oral reading
@@ -61,4 +60,3 @@ correct words per minute after 5 years at school.
     Exceptional Children, 24, 41-44.
 -   Ministry of Education. (2003). Effective literacy practice in Years
     1 to 4. Wellington NZ: Learning Media Ltd.
-:::

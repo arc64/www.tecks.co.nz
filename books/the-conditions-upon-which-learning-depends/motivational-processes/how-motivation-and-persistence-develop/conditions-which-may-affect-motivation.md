@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'How motivation and persistence develop '
 title: 'Conditions which may affect motivation '
 ---
-# Conditions which may affect motivation 
+# Conditions which may affect motivation
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a120f69f174c4ecf8299f0bf1cbb8905}
+
 While a minimum level of reinforcement, success, recognition, or reward
 is an essential condition for continued motivation, the actual level of
 motivation of individual children is also affected by a number of other
@@ -461,9 +461,8 @@ opportunities for team-mates to help one another and avoid the situation
 where the more able students always win. The use of mixed ability teams
 means that teams are more evenly matched so that all have an equal
 chance of winning.
-:::
 
-::: referencesList
+
 #### References
 
 -   Alber, S. R. & Heward, W. L. (2000). Teaching students to recruit
@@ -658,4 +657,3 @@ chance of winning.
 -   Zanolli, K.M., Paden, P., & Cox, K. (1997). Teaching prosocial
     behavior to typically developing toddlers. Journal of Behavioral
     Education, 7, 373-391.
-:::

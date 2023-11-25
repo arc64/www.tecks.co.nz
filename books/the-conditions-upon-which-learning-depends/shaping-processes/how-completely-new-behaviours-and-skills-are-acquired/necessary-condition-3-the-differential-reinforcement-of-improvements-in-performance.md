@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'How completely new behaviours and skills are acquired '
 title: 'Necessary condition 3: The differential reinforcement of improvements in performance '
 ---
-# Necessary condition 3: The differential reinforcement of improvements in performance 
+# Necessary condition 3: The differential reinforcement of improvements in performance
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-1d9e4620bf974a86843fc298354e1576}
+
 The third essential condition which must be met in order for new
 behaviours to be acquired is the differential reinforcement of
 improvements in performances during practice. Unless improvements
@@ -90,9 +90,8 @@ met. The technical term for an utterance which is a request for
 something is a "mand". Many of the child\'s earliest language responses
 are mands and well formed mands (oral requests) generate reinforcement
 every time a caretaker complies with the request.
-:::
 
-::: referencesList
+
 #### References
 
 -   Allison, M. G., & Ayllon, T. (1980). Behavior coaching in the
@@ -125,4 +124,3 @@ every time a caretaker complies with the request.
     peer-mediated accountability on opportunities to respond and correct
     skill performance by elementary school children in physical
     education. Journal of Behavioral Education, 8, 103-114.
-:::

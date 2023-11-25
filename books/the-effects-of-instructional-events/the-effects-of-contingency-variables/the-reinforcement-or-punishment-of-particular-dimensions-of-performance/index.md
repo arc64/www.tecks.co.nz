@@ -7,17 +7,17 @@ nav_order: 7
 parent: 'The effects of contingency variables '
 title: 'The reinforcement or punishment of particular dimensions of performance '
 ---
-# The reinforcement or punishment of particular dimensions of performance 
+# The reinforcement or punishment of particular dimensions of performance
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-aac1835792064c7faea71e72be9bc296}
+
 A response, behaviour or action which is in the process of being
 acquired may vary along more than one dimension. The following examples
 illustrate this fact.
@@ -40,4 +40,3 @@ These examples remind us that we can reinforce each occurrence of
 responses in a particular response class (e.g., complying) or we can
 reinforce just those responses which meet certain dimensional
 requirements (e.g., complying promptly).
-:::

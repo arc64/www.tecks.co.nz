@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Presentation sequences '
 title: 'Presentation length '
 ---
-# Presentation length 
+# Presentation length
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-e97dd122d9c9404eb89ed46d00bed814}
+
 Presentations consist of curriculum relevant statements, propositions,
 or claims about some topic. The expectation of the person doing the
 presentation is that the learners will attend to the presentation.
@@ -36,4 +36,3 @@ hold three or four propositions in working memory at any one time. Above
 this, propositions which might have been processed or rehearsed (and
 possibly remembered) are simply displaced by the incoming content of
 subsequent presentations.
-:::

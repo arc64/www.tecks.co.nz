@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'Which approaches to research have learning as their subject matter? '
 title: 'What is the subject matter of behaviour analysis research? '
 ---
-# What is the subject matter of behaviour analysis research? 
+# What is the subject matter of behaviour analysis research?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d2ccb88e55a349d38a8e8f069a9b1368}
+
 For behaviour analysts, the subject matter is *variability in the
 behaviour of individuals.* Behaviour analysts argue that the behaviour
 of individuals is an important subject matter because each individual
@@ -203,9 +203,8 @@ individual. See for example, DeGrandpre (2000), Sidman (1994), Skinner
 the operation of two-, three- and four-term contingencies could function
 to "give meaning" to both elements of the language (such as words) and
 to elements of the environment (such as objects).
-:::
 
-::: referencesList
+
 #### References
 
 -   Barlow, D. H. (1988). Anxiety and its disorders: The nature and
@@ -328,4 +327,3 @@ to elements of the environment (such as objects).
 -   Yeaton, W. H., & Bailey, J. S. (1983). Utilization analysis of a
     pedestrian safety training program. Journal of Applied Behavior
     Analysis, 16, 203-216.
-:::

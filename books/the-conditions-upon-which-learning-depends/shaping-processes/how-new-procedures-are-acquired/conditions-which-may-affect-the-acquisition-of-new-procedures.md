@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'How new procedures are acquired '
 title: 'Conditions which may affect the acquisition of new procedures '
 ---
-# Conditions which may affect the acquisition of new procedures 
+# Conditions which may affect the acquisition of new procedures
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-44770e23cdaa4e1c97e991c249a327e4}
+
 The careful and explicit prompting of each of the steps in a procedure
 results in quite rapid learning of new procedures. However, research has
 identified a number of additional conditions which, although not
@@ -66,9 +66,8 @@ new procedures than more widely spaced practices (Dempster & Farris,
 develop a higher level of skill or fluency (Mayhall & Jenkins, 1977).
 This is probably because more forgetting occurs between widely spaced
 practices than between more closely spaced practices.
-:::
 
-::: referencesList
+
 #### References
 
 -   Dempster, F. N., & Farris, R. (1990). The spacing effect: Research
@@ -86,4 +85,3 @@ practices than between more closely spaced practices.
     Acquisition, fluency training, generalization, and maintenance of
     dressing skills of two developmentally disabled children. Education
     and Treatment of Children, 9, 16-29.
-:::

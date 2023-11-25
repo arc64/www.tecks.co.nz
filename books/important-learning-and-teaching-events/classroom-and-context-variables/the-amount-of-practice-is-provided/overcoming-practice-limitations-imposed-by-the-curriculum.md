@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The amount of practice is provided '
 title: 'Overcoming practice limitations imposed by the curriculum '
 ---
-# Overcoming practice limitations imposed by the curriculum 
+# Overcoming practice limitations imposed by the curriculum
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-47d4a23c6e0048b2af7480287bc6fc72}
+
 The curriculum for any given year level contains far more than the
 average child could possibly learn and remember in a year. This means
 that either certain topics and skills have to be left out or else the
@@ -33,4 +33,3 @@ strong determinant of what is learned by individual students, developing
 measures of curriculum density, and tracking curriculum density is
 obviously an operation of some importance during any attempt to study
 the effects of teaching on learning in the classroom.
-:::

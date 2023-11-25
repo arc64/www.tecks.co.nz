@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Prompting and prompt fading sequences '
 title: 'The prompt delay interval '
 ---
-# The prompt delay interval 
+# The prompt delay interval
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-371e06adda5545df85a7bd3e005dd3a3}
+
 It is possible to present the practice stimulus and then to immediately
 follow this with the prompt. This technique is often referred to as
 *simultaneous prompting.* If a practice stimulus is presented, and then
@@ -48,4 +48,3 @@ stages of instruction may be quite slow and hesitant, it follows that
 the prompt-delay interval may need to be several seconds long (3 to 5
 seconds long) if it is to provide the learner with the opportunity to
 respond independently.
-:::

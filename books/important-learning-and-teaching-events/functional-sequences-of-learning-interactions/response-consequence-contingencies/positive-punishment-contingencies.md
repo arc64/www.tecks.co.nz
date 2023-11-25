@@ -8,17 +8,17 @@ nav_order: 7
 parent: 'Response-consequence contingencies '
 title: 'Positive punishment contingencies '
 ---
-# Positive punishment contingencies 
+# Positive punishment contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-32606dd006e74c8a900bafeaafd74f5e}
+
 A behaviour may produce an event (e.g. praise) and continue to be used
 as a result. But a behaviour may also produce an event (e.g. reprimands)
 and cease to be used as a result. This kind of response-consequence
@@ -72,4 +72,3 @@ to avoid an unpleasant event) because these two contingencies have quite
 different effects. Negative reinforcement motivates continued use of the
 successful avoidance responses. Punishment tends to suppress the
 punished response.
-:::

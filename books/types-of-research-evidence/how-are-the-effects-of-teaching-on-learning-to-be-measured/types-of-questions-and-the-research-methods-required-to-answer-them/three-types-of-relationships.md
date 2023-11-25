@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Types of questions and the research methods required to answer them '
 title: 'Three types of relationships '
 ---
-# Three types of relationships 
+# Three types of relationships
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-be77e4d14ce446dcb29bc2c9f5349be2}
+
 Questions about relationship may be questions about differing kinds of
 relationships. Consider the following questions:
 
@@ -65,4 +65,3 @@ tests, scores on different kinds of achievement tests, scores on
 retention tests, performance on self-esteem measures, performance on
 locus of control inventories, performance on learning styles
 questionnaires, measures of motivation, and so on.
-:::

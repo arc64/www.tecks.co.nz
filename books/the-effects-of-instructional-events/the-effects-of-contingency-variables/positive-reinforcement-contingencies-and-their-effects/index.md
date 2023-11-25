@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'The effects of contingency variables '
 title: 'Positive reinforcement contingencies and their effects '
 ---
-# Positive reinforcement contingencies and their effects 
+# Positive reinforcement contingencies and their effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-9543c69c57e24d5499eb2cf2224ac093}
+
 The effects of positive reinforcement contingencies have been more
 extensively studied than the effects of any other type of contingency.
 As a consequence a wide variety of events have been found to have
@@ -32,4 +32,3 @@ complying, handwriting, reading, writing, maths, athletic skills, social
 skills, and so on. The great majority of this experimental work has been
 replicated across both younger and older children, both with and without
 special teaching needs.
-:::

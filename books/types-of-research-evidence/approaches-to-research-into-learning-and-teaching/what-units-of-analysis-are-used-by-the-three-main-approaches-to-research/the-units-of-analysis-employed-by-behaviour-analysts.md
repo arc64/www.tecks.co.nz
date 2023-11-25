@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'What units of analysis are used by the three main approaches to research? '
 title: 'The units of analysis employed by behaviour analysts '
 ---
-# The units of analysis employed by behaviour analysts 
+# The units of analysis employed by behaviour analysts
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a76ad6c03e2047aabbcf439359fa2874}
+
 Behaviour analysts consider the selection of an appropriate unit of
 analysis to be an extremely important matter and have written at length
 regarding the most appropriate units of analysis for a science of
@@ -213,9 +213,8 @@ p. 454) note, however, that "we do not expect an atomic physicist or
 botanist to give up his or her technical vocabulary when engaging in
 scientific description or dialogue, so why should we do so when human
 behavior is the subject of scientific discussion?"
-:::
 
-::: referencesList
+
 #### References
 
 -   Barlow, D. H., & Hersen, M. (1984). Single case experimental
@@ -238,4 +237,3 @@ behavior is the subject of scientific discussion?"
     development. New York: Plenum Press.
 -   Sidman, M. (1994). Equivalence relations and behavior: A research
     story. Boston: Authors Cooperative.
-:::

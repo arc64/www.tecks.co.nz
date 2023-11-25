@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What are the main issues in observing and recording learning? '
 title: 'How many observations should be made during the course of a change? '
 ---
-# How many observations should be made during the course of a change? 
+# How many observations should be made during the course of a change?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-f8912b91d6c14cf394dacb51876df681}
+
 Observation of those behaviour changes which we commonly refer to as
 learning may be made just once during the course of an investigation (as
 when an investigator administers an achievement test at the end of a
@@ -54,11 +54,9 @@ For the researcher who is interested in studying learning or teaching,
 one of the critical questions to be asked of any research procedure is;
 "Will this procedure provide me with an adequate picture of the changes
 which occur during my investigation?"
-:::
 
-::: referencesList
+
 #### References
 
 -   Maddox, H. (1993). Theory of knowledge and its dissemination.
     Castlemaine, Australia: Freshet Press.
-:::

@@ -6,17 +6,17 @@ nav_order: 5
 parent: 'The conditions upon which learning depends '
 title: 'Fluency building processes '
 ---
-# Fluency building processes 
+# Fluency building processes
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-66e02aa2c0004c99b7c83dfa9bfcd3c9}
+
 A learner may acquire the ability to respond correctly without prompting
 yet still be unable to respond quickly enough for the new skill to be of
 much use. For example, a child may be able to respond correctly to all
@@ -145,9 +145,8 @@ can be used to predict future achievement levels. "The number of words
 read aloud correctly and incorrectly from a basal text reliably and
 validly discriminates growth in reading proficiency throughout the
 elementary school years" (Deno, 1985, p. 224).
-:::
 
-::: referencesList
+
 #### References
 
 -   Bullara, D. T., Kimball, J. W., & Cooper, J. O. (1993). An
@@ -203,4 +202,3 @@ elementary school years" (Deno, 1985, p. 224).
     Sciences Press.
 -   White, O. R. & Haring, N. G. (1980). Exceptional teaching (2nd ed.).
     Columbus, OH: Charles E. Merrill.
-:::

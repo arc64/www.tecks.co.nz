@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'What standards are used to evaluate the results of an experimental analysis? '
 title: 'The chain of inference which is involved in interpreting experimental effects '
 ---
-# The chain of inference which is involved in interpreting experimental effects 
+# The chain of inference which is involved in interpreting experimental effects
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-01c483a47cf7460bbc58e048b004bb06}
+
 As stated above, a relatively complex chain of reasoning is involved in
 arriving at a valid interpretation of the results of an experiment.
 
@@ -105,9 +105,8 @@ consists of but a single mean score for the experimental group and a
 single mean score for the control group and the reproducibility of a
 mean score (just like the reproducibility of an individual score) can
 only be determined by direct replication.
-:::
 
-::: referencesList
+
 #### References
 
 -   Cooper, J. O., Heron, T. E., & Heward, W. L. (1987). Applied
@@ -120,4 +119,3 @@ only be determined by direct replication.
     research studies. San Francisco: Jossey-Bass Publishers.
 -   Sidman, M. (1960). Tactics of scientific research: Evaluating
     experimental data in psychology. New York: Basic Books.
-:::

@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'Basic types of acquisition outcomes '
 title: 'The acquisition of new generalisations '
 ---
-# The acquisition of new generalisations 
+# The acquisition of new generalisations
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-278cebacacb1476594a3639730b23289}
+
 Many of the objects and events which children must learn to respond to
 correctly belong to stimulus classes. Orange objects belong to the
 stimulus class *orange*. Addition word problems belong to the stimulus
@@ -154,4 +154,3 @@ whether or not the student has mastered a new generalisation. Provided
 the test consists of new examples and non-examples, a lengthy test is
 not required in order to determine whether or not a student has mastered
 a new generalisation.
-:::

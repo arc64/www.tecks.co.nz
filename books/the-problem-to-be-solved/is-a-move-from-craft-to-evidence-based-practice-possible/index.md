@@ -6,17 +6,17 @@ nav_order: 2
 parent: 'The problem to be solved '
 title: 'Is a move from craft- to evidence-based practice possible? '
 ---
-# Is a move from craft- to evidence-based practice possible? 
+# Is a move from craft- to evidence-based practice possible?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a2dd96d12c5f446c93c4240ab81a2152}
+
 The suggestion that we should begin the transition from craft-based
 teaching practices to evidence-based teaching practices rests on the
 central assumption that there exists a tradition of scientific research
@@ -30,4 +30,3 @@ procedures? Secondly, is the research on teaching sufficiently advanced
 to enable the development of evaluation procedures which will enable
 teachers to distinguish between effective and ineffective teaching
 procedures and programmes?
-:::

@@ -9,17 +9,17 @@ parent: 'Schedules of reinforcement and punishment '
 title: 'Effect of concurrent schedules of punishment for appropriate and inappropriate
   behaviour '
 ---
-# Effect of concurrent schedules of punishment for appropriate and inappropriate behaviour 
+# Effect of concurrent schedules of punishment for appropriate and inappropriate behaviour
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6f1dc89f90474f7fb84e3b36d7739e31}
+
 It is possible for appropriate behaviour to have punishing as well as
 reinforcing outcomes. A child may attempt to negotiate an unreasonable
 demand but be punished for failing to comply. A child may work hard at a
@@ -72,9 +72,8 @@ There is, then, some experimental evidence to support the commonly held
 view that classroom tasks which are too difficult result in declining
 motivation and declining achievement -- presumably because of the
 elevated rates of punishment (failure) which they generate.
-:::
 
-::: referencesList
+
 #### References
 
 -   Daly, E. J., Martens, B. K., Kilmer, A., & Massie, D. R. (1996). The
@@ -94,4 +93,3 @@ elevated rates of punishment (failure) which they generate.
 -   Shearer, P. M. (1999). Learning to teach: First year teacher
     experiences. Unpublished M.Ed. dissertation. Christchurch, N.Z.:
     University of Canterbury, Education Department.
-:::

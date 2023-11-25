@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'Shaping processes '
 title: 'How new procedures are acquired '
 ---
-# How new procedures are acquired 
+# How new procedures are acquired
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-145478570f4d48398fcdb8f2e1a26aec}
+
 While some new performances must be laboriously acquired by successive
 approximation, others can be acquired simply by combining previously
 acquired response elements into new sequences. In this account, skills
@@ -57,9 +57,8 @@ Shinske, 1989; Lim, Dixon & Moore, 1996; Lloyd, Saltzman & Kauffman,
 1981; Luiselli & Downing, 1980; Paine, Carnine, White & Walters, 1982;
 Peterson, 1984; Rivera & Smith, 1988; Sugai & Smith, 1986; Yeaton &
 Bailey, 1983).
-:::
 
-::: referencesList
+
 #### References
 
 -   Blankenship, C. S. (1978). Remediating systematic inversion errors
@@ -100,4 +99,3 @@ Bailey, 1983).
 -   Yeaton, W. H., & Bailey, J. S. (1983). Utilization analysis of a
     pedestrian safety training program. Journal of Applied Behavior
     Analysis, 16, 203-216.
-:::

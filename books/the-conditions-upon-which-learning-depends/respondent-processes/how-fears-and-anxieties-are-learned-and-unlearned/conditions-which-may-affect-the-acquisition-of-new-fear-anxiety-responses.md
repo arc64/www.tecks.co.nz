@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'How fears and anxieties are learned and unlearned '
 title: 'Conditions which may affect the acquisition of new fear/anxiety responses '
 ---
-# Conditions which may affect the acquisition of new fear/anxiety responses 
+# Conditions which may affect the acquisition of new fear/anxiety responses
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c554695770c345d18db4a0336588fe25}
+
 There will be a number of conditions which affect the speed with which
 particular conditioned anxiety reactions are acquired by individual
 learners. For example, it is usually argued that a particularly
@@ -43,4 +43,3 @@ is not possible to get Human Ethics approval for programmes of research
 which involve frightening children out of their wits in order to see
 whether different kinds of frightening experiences have different
 effects on the rate of acquisition of unrealistic fears.
-:::

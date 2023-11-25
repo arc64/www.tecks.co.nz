@@ -5,17 +5,17 @@ layout: default
 nav_order: 3
 title: 'Types of research evidence '
 ---
-# Types of research evidence 
+# Types of research evidence
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-998135bde47d4fb2a3366e1a2644fa97}
+
 It is increasingly being argued that teaching practice should be
 evidence based. But there are many different kinds of research into
 learning and teaching and this claim (that teaching should be evidence
@@ -62,4 +62,3 @@ to evidence-based teaching practice and asks whether we have yet
 discovered enough about the relationships between teaching variables and
 learning outcomes to justify a move towards evidence-based practice in
 the classroom.
-:::

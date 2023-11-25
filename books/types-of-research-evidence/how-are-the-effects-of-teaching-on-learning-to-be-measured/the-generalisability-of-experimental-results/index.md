@@ -7,17 +7,17 @@ nav_order: 6
 parent: 'How are the effects of teaching on learning to be measured? '
 title: 'The generalisability of experimental results '
 ---
-# The generalisability of experimental results 
+# The generalisability of experimental results
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-a4c7cf22508f4d94876198c27fb93fd8}
+
 It is one thing to identify a functional relationship between a
 particular independent variable (such as a certain kind of practice
 activity) and a particular dependent variable (such as rate of learning
@@ -48,11 +48,9 @@ relationship in additional studies during which one or more features of
 the original experiments are systematically varied. These systematic
 replication studies may vary the experimenters, the circumstances, the
 characteristics of the learners, the type of learning outcome and so on.
-:::
 
-::: referencesList
+
 #### References
 
 -   Sidman, M. (1960). Tactics of scientific research: Evaluating
     experimental data in psychology. New York: Basic Books.
-:::

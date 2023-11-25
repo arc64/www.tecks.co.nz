@@ -8,17 +8,17 @@ nav_order: 1
 parent: 'The extent to which teaching builds on each child''s entering skills '
 title: 'Content prerequisites and method prerequisites '
 ---
-# Content prerequisites and method prerequisites 
+# Content prerequisites and method prerequisites
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-cfb56f46db264bb195c60d79bd240f64}
+
 Prerequisite skills can be grouped into two general categories: content
 prerequisites and method prerequisites.
 
@@ -101,9 +101,8 @@ Twice as many practice exercises can be completed by the child who can
 write letters and numbers at the rate of 80 per minute as can be
 completed by the child who is only able to write letters and numbers at
 the rate of 40 per minute.
-:::
 
-::: referencesList
+
 #### References
 
 -   Cob, J. A., & Hops, H. (1973). Effects of academic survival skill
@@ -112,4 +111,3 @@ the rate of 40 per minute.
 -   Hops, H., & Cobb, J. A. (1974). Initial investigations into academic
     survival-skill training, direct instruction, and first-grade
     achievement. Journal of Educational Psychology, 66, 548-553.
-:::

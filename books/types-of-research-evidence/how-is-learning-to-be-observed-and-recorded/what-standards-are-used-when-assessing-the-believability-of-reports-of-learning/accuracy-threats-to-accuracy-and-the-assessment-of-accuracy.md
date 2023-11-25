@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'What standards are used when assessing the believability of reports of learning '
 title: 'Accuracy, threats to accuracy and the assessment of accuracy '
 ---
-# Accuracy, threats to accuracy and the assessment of accuracy 
+# Accuracy, threats to accuracy and the assessment of accuracy
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-4382621ecf1d4029998a5bdcc1886bbf}
+
 The second question which may be asked of research data is the question
 "Does this data accurately represent the events which actually occurred
 during the course of each observation?" The match between the data which
@@ -96,9 +96,8 @@ evaluate the accuracy of the data which is being collected. In those
 cases where data accuracy has been assessed, however, it is not
 necessary to assess reliability because any procedure which produces
 accurate data must have been a reliable procedure.
-:::
 
-::: referencesList
+
 #### References
 
 -   Johnston, J. M., & Pennypacker, H. S. (1993). Strategies and tactics
@@ -114,4 +113,3 @@ accurate data must have been a reliable procedure.
 -   Mertens, D. M. (1998). Research methods in education and psychology:
     Integrating diversity with quantitative and qualitative approaches.
     Thousand Oaks, CA: Sage Publications.
-:::

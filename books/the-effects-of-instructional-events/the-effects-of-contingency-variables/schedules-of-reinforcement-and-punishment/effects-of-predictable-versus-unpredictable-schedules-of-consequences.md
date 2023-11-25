@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'Schedules of reinforcement and punishment '
 title: 'Effects of predictable versus unpredictable schedules of consequences '
 ---
-# Effects of predictable versus unpredictable schedules of consequences 
+# Effects of predictable versus unpredictable schedules of consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c67a38b7d91d4d4c9dfffa4511134470}
+
 As stated in the previous section, intermittent schedules of
 reinforcement tend to produce responses which are more resistant to
 extinction. Intermittent schedules, however, may be predictable (as when
@@ -29,9 +29,8 @@ produce the highest levels of persistence. The clearest demonstration of
 this effect is in the behaviour of the habitual gambler but it has also
 been demonstrated in the classroom (McLaughlin & Malaby 1976; Saudergas,
 Madsen, & Scott, 1977; Theodore, Bray, Kehle & Jensen, 2001).
-:::
 
-::: referencesList
+
 #### References
 
 -   McLaughlin, T. F., & Malaby, J. E. (1976). An analysis of assignment
@@ -46,4 +45,3 @@ Madsen, & Scott, 1977; Theodore, Bray, Kehle & Jensen, 2001).
     Randomization of group contingencies and reinforcers to reduce
     classroom disruptive behavior. Journal of School Psychology, 39,
     267-277.
-:::

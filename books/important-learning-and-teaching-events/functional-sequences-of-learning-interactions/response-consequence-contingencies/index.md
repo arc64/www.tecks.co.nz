@@ -7,17 +7,17 @@ nav_order: 4
 parent: 'Functional sequences of learning interactions '
 title: 'Response-consequence contingencies '
 ---
-# Response-consequence contingencies 
+# Response-consequence contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-51cc8bc21e87440083d7bd34cc845fee}
+
 From the very first occasions on which they are attempted, most
 behaviours have consequences. The kinds of consequences which can result
 from a particular response, behaviour or action have been described in
@@ -61,4 +61,3 @@ contingencies which are operating in a particular setting will leave the
 teacher unable to identify the causes of many of the behaviour changes,
 motivational changes and attitudinal changes which are occurring (or
 failing to occur) in the classroom, the playground, and so on.
-:::

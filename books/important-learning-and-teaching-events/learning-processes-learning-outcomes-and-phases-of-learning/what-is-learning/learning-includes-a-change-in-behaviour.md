@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'What is learning? '
 title: 'Learning includes a change in behaviour '
 ---
-# Learning includes a change in behaviour 
+# Learning includes a change in behaviour
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-b9f6774c6f8b40778c361a369be7c46d}
+
 When an individual learns, both their nervous system and their behaviour
 changes. However, it is on the basis of observed changes in what the
 learner can say and do (their behaviour) and not on the basis of changes
@@ -40,4 +40,3 @@ behaviour are publicly observable, or can be made publicly observable
 (e.g. by asking the learner to think out loud), changes in behaviour can
 almost always be observed directly or recorded on video for later
 analysis.
-:::

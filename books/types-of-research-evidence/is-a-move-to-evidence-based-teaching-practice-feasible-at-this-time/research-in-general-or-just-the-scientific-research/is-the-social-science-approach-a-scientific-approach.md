@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'Research in general or just the scientific research? '
 title: 'Is the social science approach a scientific approach? '
 ---
-# Is the social science approach a scientific approach? 
+# Is the social science approach a scientific approach?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-aa2a37ee5f9e4c42a46ededa58b04661}
+
 Researchers who use the social science methodology routinely refer to
 themselves as social *scientists*, as cognitive *scientists,* and so on.
 Almost every social science methods text book starts with a chapter
@@ -113,9 +113,8 @@ kind of theoretical consensus have led a number of observers (e.g.
 Bauer, 1992; Gellner, 1984; Johnston & Pennypacker, 1993; Machado,
 Lourenço & Silva, 2000) to conclude that cognitive science is not, in
 fact, a scientific activity at all.
-:::
 
-::: referencesList
+
 #### References
 
 -   Bauer, H. H. (1992). Scientific literacy and the myth of scientific
@@ -131,4 +130,3 @@ fact, a scientific activity at all.
 -   Thorngate, W. (1986). The production, detection, and explanation of
     behavioral patterns. In J. Valsiner (Ed.), The individual subject
     and scientific psychology (pp. 71-96). New York: Plenum Press.
-:::

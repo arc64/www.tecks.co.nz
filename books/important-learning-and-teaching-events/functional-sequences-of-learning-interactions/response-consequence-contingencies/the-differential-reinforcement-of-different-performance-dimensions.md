@@ -8,17 +8,17 @@ nav_order: 12
 parent: 'Response-consequence contingencies '
 title: 'The differential reinforcement of different performance dimensions '
 ---
-# The differential reinforcement of different performance dimensions 
+# The differential reinforcement of different performance dimensions
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c8562a64401d4f098cbadb15306b86a3}
+
 Most behaviours can vary along several different *dimensions*. Kicking a
 football has both accuracy and force dimensions. We can reinforce
 kicking *accurately* (kicking the ball in the right direction) or we can
@@ -63,4 +63,3 @@ without having to spend any time thinking through or working out the
 answer. Where the objective of practice is to develop mastery, then it
 is improvements in the speedy performance of correct responses which
 needs to be differentially reinforced.
-:::

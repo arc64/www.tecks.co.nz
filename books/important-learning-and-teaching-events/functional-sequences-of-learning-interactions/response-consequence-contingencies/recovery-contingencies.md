@@ -8,17 +8,17 @@ nav_order: 6
 parent: 'Response-consequence contingencies '
 title: 'Recovery contingencies '
 ---
-# Recovery contingencies 
+# Recovery contingencies
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-cb7701dee6164d4ead5f547a4dff1f8a}
+
 There is a third contingency which may cause a behaviour to *increase in
 frequency* (to be used more often). There are some behaviours which we
 do not engage in because, to engage in them might produce punishment,
@@ -38,4 +38,3 @@ therefore, no longer punished). Under these conditions, the child might
 well begin once again to engage in this behaviour (because it no longer
 generates an aversive outcome). If this happened, the reappearance of
 the behaviour of drawing borders would be an instance of *recovery*.
-:::

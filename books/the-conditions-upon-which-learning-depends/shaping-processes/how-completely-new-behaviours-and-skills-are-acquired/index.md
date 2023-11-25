@@ -7,17 +7,17 @@ nav_order: 1
 parent: 'Shaping processes '
 title: 'How completely new behaviours and skills are acquired '
 ---
-# How completely new behaviours and skills are acquired 
+# How completely new behaviours and skills are acquired
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-2169eea191dd4f54aa8c6822fcfc13ff}
+
 Much learning involves learning how to perform new responses, behaviours
 and actions, that is, ones which cannot currently be performed. In this
 account we are referring to this type of learning outcome as the
@@ -103,11 +103,9 @@ must have models of competent performance which he or she can emulate,
 the learner must have the opportunity to practice the new behaviour, and
 improvements in performance must be differentially reinforced either by
 the natural environment or else by another person.
-:::
 
-::: referencesList
+
 #### References
 
 -   Baldwin, J. D. & Baldwin, J. I. (1986). Behavior principles in
     everyday life (2nd ed.). Englewood Cliffs, NJ: Prentice Hall.
-:::

@@ -8,17 +8,17 @@ nav_order: 2
 parent: 'The content of the science curriculum '
 title: 'Shortcomings of the science curriculum '
 ---
-# Shortcomings of the science curriculum 
+# Shortcomings of the science curriculum
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-30c954040c7743049fd4f5bd98b952b0}
+
 As can be seen from the list of achievement objectives at each level,
 these are specified in quite general terms, and the content at each
 level is left unspecified. In fact the curriculum does not even provide
@@ -52,13 +52,11 @@ level. This means that teachers are receiving no guidance with respect
 to either the assessment tasks which should be used or the level of
 knowledge, understanding, or performance which define satisfactory and
 unsatisfactory levels of development in science from year to year.
-:::
 
-::: referencesList
+
 #### References
 
 -   Education Review Office (2001). The New Zealand curriculum: An ERO
     perspective. Wellington, NZ: The author.
 -   Le Métais, J. (2002). New Zealand stocktake: An international
     critique. Wellington, NZ: Ministry of Education.
-:::

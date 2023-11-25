@@ -7,17 +7,17 @@ nav_order: 2
 parent: 'Respondent processes '
 title: 'How likes and dislikes develop '
 ---
-# How likes and dislikes develop 
+# How likes and dislikes develop
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d0ed8a17884547a89bb7876d44120dd9}
+
 It has been known for more than 80 years that likes and dislikes also
 arise as a result of respondent conditioning (Keller & Schoenfeld, 1950;
 Staats & Staats, 1958; Watson & Rayner, 1920). The emotional responses
@@ -107,9 +107,8 @@ It can be seen, therefore, that the ability to engender an interest in
 (that is, a liking for) academic activities is an essential teaching
 skill. This makes an understanding of how likes and dislikes develop an
 item of essential knowledge for teachers at all levels.
-:::
 
-::: referencesList
+
 #### References
 
 -   Baldwin, J.D. & Baldwin, J.I. (1986). Behavior principles in
@@ -123,4 +122,3 @@ item of essential knowledge for teachers at all levels.
     211-223.
 -   Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions,
     Journal of Experimental Psychology, 3, 1-14.
-:::

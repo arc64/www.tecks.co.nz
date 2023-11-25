@@ -8,17 +8,17 @@ nav_order: 7
 parent: 'Consequences '
 title: 'Correct answer consequences and error consequences '
 ---
-# Correct answer consequences and error consequences 
+# Correct answer consequences and error consequences
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-99b862208ef1472fb5af6db4e8a7fa34}
+
 Consequences may also be classified according to the type of response
 which they follow. For example, reinforcing consequences may follow
 improvements, they may follow correct responses, they may follow correct
@@ -36,4 +36,3 @@ to ensuring that reinforcing consequences only ever follow correct
 behaviour and not misbehaviour, and that corrections and other possibly
 punishing consequences only ever follow incorrect and/or inappropriate
 responses.
-:::

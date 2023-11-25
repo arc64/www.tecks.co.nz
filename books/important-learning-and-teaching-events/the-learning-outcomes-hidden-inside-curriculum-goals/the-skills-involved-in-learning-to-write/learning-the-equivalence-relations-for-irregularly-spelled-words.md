@@ -8,17 +8,17 @@ nav_order: 5
 parent: 'The skills involved in learning to write '
 title: 'Learning the equivalence relations for irregularly spelled words '
 ---
-# Learning the equivalence relations for irregularly spelled words 
+# Learning the equivalence relations for irregularly spelled words
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-d0c13dc624a64f7bbc23de6a6798bb95}
+
 While the spelling of approximately 50% of words can be predicted from a
 knowledge of phoneme--\>grapheme equivalences, the other half cannot, at
 least not in their entirety. In fact about 60 per cent of the 500 words
@@ -40,11 +40,9 @@ used most often in writing have partly irregular spellings (Moats,
 These features of written English mean that the spelling of significant
 numbers of words can be acquired only by means of systematic spelling
 practice of those words which the child cannot yet spell correctly.
-:::
 
-::: referencesList
+
 #### References
 
 -   Moats, L. C. (1995). Spelling: Development, disability, and
     instruction. Baltimore: York Press.
-:::

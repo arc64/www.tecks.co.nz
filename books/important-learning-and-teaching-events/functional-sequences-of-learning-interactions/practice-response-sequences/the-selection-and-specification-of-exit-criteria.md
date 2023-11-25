@@ -8,17 +8,17 @@ nav_order: 7
 parent: 'Practice response sequences '
 title: 'The selection and specification of exit criteria '
 ---
-# The selection and specification of exit criteria 
+# The selection and specification of exit criteria
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6505752cd3684af1affbd34f63cb1ee2}
+
 Sooner or later, the teacher will decide that a given response, skill or
 understanding has received sufficient practice and will move the student
 on to the next topic or set of skills specified by the curriculum. Exit
@@ -41,4 +41,3 @@ for teachers, of using a fluency criterion as the criterion for deciding
 when to move a child on to the next step in the curriculum is that
 fluency criteria can be objectively specified and the level of fluency
 which a child has reached can be objectively measured.
-:::

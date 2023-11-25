@@ -8,17 +8,17 @@ nav_order: 4
 parent: 'Positive punishment contingencies and their effects '
 title: 'Effects of negative social reactions '
 ---
-# Effects of negative social reactions 
+# Effects of negative social reactions
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-c09edb34bf064fa6b17edc19a5c4f1bf}
+
 The most commonly used consequence of inappropriate behaviour during
 childhood is adult disapproval. The suppressive effects of disapproval
 are acquired. (A reprimand has no effect on the behaviour of a baby.)
@@ -91,9 +91,8 @@ early childhood and early primary school teachers simply to ignore the
 misbehaviour and off-task behaviour of younger children even although
 this is a much less effective behaviour management tactic than
 responding appropriately to both desired behaviour and misbehaviour.
-:::
 
-::: referencesList
+
 #### References
 
 -   Abramowitz, A. J., & O\'Leary, S. G. (1990). Effectiveness of
@@ -122,4 +121,3 @@ responding appropriately to both desired behaviour and misbehaviour.
 -   Workman, E. A., Kindall, L. M., & Williams, R. L. (1980). The
     consultative merits of praise-ignore versus praise-reprimand
     instruction. Journal of School Psychology, 18, 373-380.
-:::

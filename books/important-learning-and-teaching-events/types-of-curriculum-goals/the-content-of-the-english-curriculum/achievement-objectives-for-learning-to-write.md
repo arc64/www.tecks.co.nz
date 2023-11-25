@@ -8,17 +8,17 @@ nav_order: 3
 parent: 'The content of the English curriculum '
 title: 'Achievement objectives for learning to write '
 ---
-# Achievement objectives for learning to write 
+# Achievement objectives for learning to write
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-6b5d662aac8043f49ac8089d4958e6ad}
+
 The achievement objectives for the teaching of compositional writing are
 specified in the New Zealand curriculum (Ministry of Education, 2007) in
 the following form.
@@ -290,9 +290,8 @@ of these "developmental indicators\": are listed in the following table.
 -   Is developing the ability to revise their writing to suit the
     purpose and to clarify its meaning and add to its impact
 -   Can present and publish in a range of media
-:::
 
-::: referencesList
+
 #### References
 
 -   Ministry of Education. (1996). Exploring language: A handbook for
@@ -301,4 +300,3 @@ of these "developmental indicators\": are listed in the following table.
     1 to 4. Wellington, NZ: Learning Media Ltd.
 -   Ministry of Education. (2007). The New Zealand curriculum.
     Wellington, NZ: New Zealand Ministry of Education.
-:::

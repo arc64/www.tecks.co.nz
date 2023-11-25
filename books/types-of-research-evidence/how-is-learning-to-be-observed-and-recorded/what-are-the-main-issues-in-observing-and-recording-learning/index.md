@@ -7,17 +7,17 @@ nav_order: 3
 parent: 'How is learning to be observed and recorded? '
 title: 'What are the main issues in observing and recording learning? '
 ---
-# What are the main issues in observing and recording learning? 
+# What are the main issues in observing and recording learning?
 
 
-::: documentByline
+```yaml
 Prepared by John Church, PhD, School of Educational Studies and Human
 Development
 
 University of Canterbury, Christchurch, New Zealand.
-:::
+```
 
-::: {#parent-fieldname-text-ed918e9119764367851b06d61e8525a1}
+
 Research involves the systematic, controlled observation of the subject
 matter which is of interest. In the case of research into learning and
 teaching, this is systematic observation of examples of teaching and/or
@@ -43,13 +43,11 @@ section we distinguish between indirect and direct observations,
 repeated and one-shot measures, qualitative and quantitative data,
 idemnotic and vaganotic measures of change, and non-aggregated and
 aggregated data.
-:::
 
-::: referencesList
+
 #### References
 
 -   Mace, F. C., & Kratochwill, T. R. (1986). The individual subject in
     behavior analysis research. In J. Valsiner (Ed.), The individual
     subject and scientific psychology (pp. 153-179). New York: Plenum
     Press.
-:::
