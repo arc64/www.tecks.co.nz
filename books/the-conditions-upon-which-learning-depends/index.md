@@ -1,5 +1,5 @@
 ---
-grand_parent: '''Welcome to Teacher Education''''s Core Knowledge and Skills.'''
+parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 4
