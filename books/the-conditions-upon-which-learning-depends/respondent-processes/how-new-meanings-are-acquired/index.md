@@ -1,6 +1,6 @@
 ---
 grand_parent: 'The conditions upon which learning depends '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 1
@@ -81,7 +81,7 @@ be pictured as shown in Figure 4110a.
 
 ![Figure 4110a. Sequence of events involved in a young child acquiring
 the meaning of the spoken word "dog" as a result of
-experience.](../../../../../assets/images/Figure4110a.png "Figure 4110a. Sequence of events involved in a young child acquiring the meaning of the spoken word “dog” as a result of experience."){.image-inline}
+experience.](../../../../../assets/images/Figure4110a.png "Figure 4110a. Sequence of events involved in a young child acquiring the meaning of the spoken word “dog” as a result of experience."){: .image-inline}
 
 *Figure 4110a. Sequence of events involved in a young child acquiring
 the meaning of the spoken word "dog" as a result of experience.*
@@ -106,7 +106,7 @@ acquires. This process may be pictured as shown in Figure 4110b.
 ![Figure 4110b. Sequence of events involved in a young child acquiring
 the meaning of the spoken word "Hund" as a result of is association with
 the spoken word
-"dog".](../../../../../assets/images/Figure4110b.png "Figure 4110b. Sequence of events involved in a young child acquiring the meaning of the spoken word “Hund” as a result of is association with the spoken word “dog”."){.image-inline}
+"dog".](../../../../../assets/images/Figure4110b.png "Figure 4110b. Sequence of events involved in a young child acquiring the meaning of the spoken word “Hund” as a result of is association with the spoken word “dog”."){: .image-inline}
 
 *Figure 4110b. Sequence of events involved in a young child acquiring
 the meaning of the spoken word "Hund" as a result of is association with

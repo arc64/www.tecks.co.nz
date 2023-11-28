@@ -1,7 +1,7 @@
 ---
 grand_parent: 'How is learning to be observed and recorded? '
 great_grand_parent: 'Types of research evidence '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
@@ -33,7 +33,7 @@ quantitative data are shown in Table 3233.
 
 ![Figure 3233. Examples of various data types located on the qualitative
 to quantitative
-continuum](../../../../../../assets/images/Figure3233.png "Figure 3233. Examples of various data types located on the qualitative to quantitative continuum"){.image-inline}
+continuum](../../../../../../assets/images/Figure3233.png "Figure 3233. Examples of various data types located on the qualitative to quantitative continuum"){: .image-inline}
 
 *Figure 3233. Examples of various data types located on the qualitative
 to quantitative continuum*

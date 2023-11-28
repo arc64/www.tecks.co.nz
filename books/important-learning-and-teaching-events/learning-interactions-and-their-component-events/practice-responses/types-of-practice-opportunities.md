@@ -1,7 +1,7 @@
 ---
 grand_parent: 'Learning interactions and their component events '
 great_grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 4
@@ -37,7 +37,7 @@ their common names are listed below.
 
 ![Figure 2454. Some common types of practice opportunities (practice
 stimulus--\>practice response
-combinations)](../../../../../../assets/images/TECKSFig2454.png "Figure 2454. Some common types of practice opportunities (practice stimulus–>practice response combinations)"){.image-inline}
+combinations)](../../../../../../assets/images/TECKSFig2454.png "Figure 2454. Some common types of practice opportunities (practice stimulus–>practice response combinations)"){: .image-inline}
 
 *Figure 2454. Some common types of practice opportunities (practice
 stimulus--\>practice response combinations)*

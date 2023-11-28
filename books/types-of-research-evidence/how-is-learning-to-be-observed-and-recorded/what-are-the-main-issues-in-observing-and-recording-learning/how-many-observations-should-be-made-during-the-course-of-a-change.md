@@ -1,7 +1,7 @@
 ---
 grand_parent: 'How is learning to be observed and recorded? '
 great_grand_parent: 'Types of research evidence '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 2
@@ -28,7 +28,7 @@ distinction is illustrated in Table 3232
 
 ![Figure 3232. Examples of various observation procedures located on the
 few to many observations
-continuum](../../../../../../assets/images/Figure3232.png "Figure 3232. Examples of various observation procedures located on the few to many observations continuum"){.image-inline}
+continuum](../../../../../../assets/images/Figure3232.png "Figure 3232. Examples of various observation procedures located on the few to many observations continuum"){: .image-inline}
 
 *Figure 3232. Examples of various observation procedures located on the
 few to many observations continuum*

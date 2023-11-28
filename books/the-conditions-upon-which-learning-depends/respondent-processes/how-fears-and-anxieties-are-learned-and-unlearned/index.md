@@ -1,6 +1,6 @@
 ---
 grand_parent: 'The conditions upon which learning depends '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 3
@@ -37,7 +37,7 @@ fear a teacher (or parent) illustrates this process.
 
 ![Figure 4130. Sequence of events involved in a young child acquiring a
 fear of a new teacher as a result of experiences with that
-teacher.](../../../../../assets/images/Figure4130.png "Figure 4130. Sequence of events involved in a young child acquiring a fear of a new teacher as a result of experiences with that teacher."){.image-inline}
+teacher.](../../../../../assets/images/Figure4130.png "Figure 4130. Sequence of events involved in a young child acquiring a fear of a new teacher as a result of experiences with that teacher."){: .image-inline}
 
 *Figure 4130. Sequence of events involved in a young child acquiring a
 fear of a new teacher as a result of experiences with that teacher.*

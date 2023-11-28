@@ -1,7 +1,7 @@
 ---
 grand_parent: 'The move from craft to evidence-based practice '
 great_grand_parent: 'The problem to be solved '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 4
@@ -32,7 +32,7 @@ explanation.
 ![Figure 1136. Levels of support for the view that a functional
 relationship exists between some aspect of teaching and some aspect of
 learning (Graphic adapted from Martens & Eckert,
-2000.)](../../../../../../assets/images/TECKSFig1136.png "Figure 1136. Levels of support for the view that a functional relationship exists between some aspect of teaching and some aspect of learning (Graphic adapted from Martens & Eckert, 2000.)"){.image-inline}
+2000.)](../../../../../../assets/images/TECKSFig1136.png "Figure 1136. Levels of support for the view that a functional relationship exists between some aspect of teaching and some aspect of learning (Graphic adapted from Martens & Eckert, 2000.)"){: .image-inline}
 
 Because a generalisation about pedagogical effects may be supported by
 the result of anything from one to a large number of controlled

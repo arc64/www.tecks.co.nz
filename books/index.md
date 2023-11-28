@@ -1,14 +1,19 @@
 ---
 layout: default
-title: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+title: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 ---
 
 # Welcome to Teacher Education's Core Knowledge and Skills.
 
+```yaml
+This is the work of John Church PhD, formerly of School of Educational Studies and Human
+Development at Canterbury Univerysity, Christchurch New Zealand.
 
-Please note that this site is under construction.
+Only 5 of the 9 planned books were written before he died in 2022, though due to his health most work was completed before 2015.
 
+I hope that this is enjoyed by his former students.
+```
 
 In this site we have attempted to bring together in one place the
 scientific research on learning and teaching so that teachers, teacher
@@ -71,7 +76,7 @@ Teacher Education's Core Knowledge and Skills is divided into nine major
 areas (or "books") addressing nine key questions. These are as follows.
 
 ![ Figure 0001. Organisation of the TECKS
-site.](../../../assets/images/tecks-fig-0001 "TECKS Fig 0001"){.image-inline}\
+site.](../../../assets/images/tecks-fig-0001 "TECKS Fig 0001"){: .image-inline}
 Figure 0001. Organisation of the TECKS site.
 
 **Book 1:** The problem to be solved. Why has the scientific study of

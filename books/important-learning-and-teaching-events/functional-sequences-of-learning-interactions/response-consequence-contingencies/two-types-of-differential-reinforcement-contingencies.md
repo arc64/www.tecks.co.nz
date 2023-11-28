@@ -1,7 +1,7 @@
 ---
 grand_parent: 'Functional sequences of learning interactions '
 great_grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 11
@@ -61,7 +61,7 @@ and a prompt, and a secondary response opportunity.
 
 ![Figure 2562. The two main types of differential reinforcement for
 corrects and
-errors](../../../../../../assets/images/TECKSFig2562.png "Figure 2562. The two main types of differential reinforcement for corrects and errors"){.image-inline}
+errors](../../../../../../assets/images/TECKSFig2562.png "Figure 2562. The two main types of differential reinforcement for corrects and errors"){: .image-inline}
 
 *Figure 2562. The two main types of differential reinforcement for
 corrects and errors*

@@ -1,7 +1,7 @@
 ---
 grand_parent: 'Learning processes, learning outcomes and phases of learning '
 great_grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 6
@@ -35,7 +35,7 @@ Consider the following textbook extract on the changing states of matter
 
 ![Figure 2136. Fourteen knowledge propositions from a section of a
 primary school science
-textbook](../../../../../../assets/images/TECKSFig2136.png "Figure 2136. Fourteen knowledge propositions from a section of a primary school science textbook"){.image-inline}
+textbook](../../../../../../assets/images/TECKSFig2136.png "Figure 2136. Fourteen knowledge propositions from a section of a primary school science textbook"){: .image-inline}
 
 *Figure 2136. Fourteen knowledge propositions from a section of a
 primary school science textbook*

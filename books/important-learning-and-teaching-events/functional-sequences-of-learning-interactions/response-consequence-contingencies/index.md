@@ -1,6 +1,6 @@
 ---
 grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 4
@@ -46,7 +46,7 @@ reinforcement, positive and negative punishment, recovery and
 extinction.
 
 ![Figure 2550. The six main contingencies of reinforcement and
-punishment.](../../../../../assets/images/TECKSFig2550.png "Figure 2550. The six main contingencies of reinforcement and punishment."){.image-inline}
+punishment.](../../../../../assets/images/TECKSFig2550.png "Figure 2550. The six main contingencies of reinforcement and punishment."){: .image-inline}
 
 *Figure 2550. The six main contingencies of reinforcement and
 punishment.*

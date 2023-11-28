@@ -1,6 +1,6 @@
 ---
 grand_parent: 'The conditions upon which learning depends '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 2
@@ -44,7 +44,7 @@ may be pictured as follows.
 ![Figure 4420a. The universe of positive and negative example of a new
 concept which must be sampled in order to acquire a working
 understanding of that
-concept](../../../../../assets/images/Figure4420a.png "Figure 4420a. The universe of positive and negative example of a new concept which must be sampled in order to acquire a working understanding of that concept"){.image-inline}
+concept](../../../../../assets/images/Figure4420a.png "Figure 4420a. The universe of positive and negative example of a new concept which must be sampled in order to acquire a working understanding of that concept"){: .image-inline}
 
 *Figure 4420a. The universe of positive and negative example of a new
 concept which must be sampled in order to acquire a working
@@ -68,7 +68,7 @@ characteristics of undergeneralised responding.
 
 ![Figure 4420b. Response characteristics of a learner who has only an
 undergeneralised understanding of a new
-concept](../../../../../assets/images/Figure4420b.png "Figure 4420b. Response characteristics of a learner who has only an undergeneralised understanding of a new concept"){.image-inline}
+concept](../../../../../assets/images/Figure4420b.png "Figure 4420b. Response characteristics of a learner who has only an undergeneralised understanding of a new concept"){: .image-inline}
 
 *Figure 4420b. Response characteristics of a learner who has only an
 undergeneralised understanding of a new concept*
@@ -84,7 +84,7 @@ responding.
 
 ![Figure 4420c. Response characteristics of a learner who has an
 overgeneralised understanding of a new
-concept](../../../../../assets/images/Figure4420c.png "Figure 4420c. Response characteristics of a learner who has an overgeneralised understanding of a new concept"){.image-inline}
+concept](../../../../../assets/images/Figure4420c.png "Figure 4420c. Response characteristics of a learner who has an overgeneralised understanding of a new concept"){: .image-inline}
 
 *Figure 4420c. Response characteristics of a learner who has an
 overgeneralised understanding of a new concept*

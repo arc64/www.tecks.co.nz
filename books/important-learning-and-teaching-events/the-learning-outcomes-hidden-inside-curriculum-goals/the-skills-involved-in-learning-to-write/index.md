@@ -1,6 +1,6 @@
 ---
 grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 2
@@ -31,7 +31,7 @@ developmental sequence for these component skills is pictured in Figure
 2320.
 
 *![Figure 2320. The early developmental sequence for learning to
-write](../../../../../assets/images/TECKSFig2320.png "Figure 2320. The early developmental sequence for learning to write"){.image-inline}*
+write](../../../../../assets/images/TECKSFig2320.png "Figure 2320. The early developmental sequence for learning to write"){: .image-inline}*
 
 *Figure 2320. The early developmental sequence for learning to write*
 

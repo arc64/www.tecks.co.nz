@@ -1,7 +1,7 @@
 ---
 grand_parent: 'Learning processes, learning outcomes and phases of learning '
 great_grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 4
@@ -57,7 +57,7 @@ in sets -- as shown in the following example (learning to use the word
 "scissors").
 
 ![Figure 2134. The three pairs of equivalence relations for the word
-\"scissors\".](../../../../../../assets/images/TECKSFig2134.png "Figure 2134. The three pairs of equivalence relations for the word "scissors"."){.image-inline}
+\"scissors\".](../../../../../../assets/images/TECKSFig2134.png "Figure 2134. The three pairs of equivalence relations for the word "scissors"."){: .image-inline}
 
 *Figure 2134. The three pairs of equivalence relations for the word
 \"scissors\".*

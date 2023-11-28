@@ -1,7 +1,7 @@
 ---
 grand_parent: 'How is learning to be observed and recorded? '
 great_grand_parent: 'Types of research evidence '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 5
@@ -49,7 +49,7 @@ measurement.
 
 *![Figure 3235. Examples of various data types which do and do not
 involve aggregation across
-individuals](../../../../../../assets/images/Figure3235.png "Figure 3235. Examples of various data types which do and do not involve aggregation across individuals"){.image-inline}*
+individuals](../../../../../../assets/images/Figure3235.png "Figure 3235. Examples of various data types which do and do not involve aggregation across individuals"){: .image-inline}*
 
 *Figure 3235. Examples of various data types which do and do not involve
 aggregation across individuals*

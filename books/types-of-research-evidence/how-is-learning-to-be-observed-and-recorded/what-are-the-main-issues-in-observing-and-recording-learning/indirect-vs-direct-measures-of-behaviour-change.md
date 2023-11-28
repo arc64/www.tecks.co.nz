@@ -1,7 +1,7 @@
 ---
 grand_parent: 'How is learning to be observed and recorded? '
 great_grand_parent: 'Types of research evidence '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 1
@@ -39,7 +39,7 @@ continuum each of these kinds of data are located.
 
 ![Figure 3231. Examples of various data types located on the indirect to
 direct observation
-continuum](../../../../../../assets/images/Figure3231.png "Figure 3231. Examples of various data types located on the indirect to direct observation continuum"){.image-inline}
+continuum](../../../../../../assets/images/Figure3231.png "Figure 3231. Examples of various data types located on the indirect to direct observation continuum"){: .image-inline}
 
 *Figure 3231. Examples of various data types located on the indirect to
 direct observation continuum*

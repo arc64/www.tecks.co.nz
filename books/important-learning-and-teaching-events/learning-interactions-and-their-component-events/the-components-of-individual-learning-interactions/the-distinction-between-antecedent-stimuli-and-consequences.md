@@ -1,7 +1,7 @@
 ---
 grand_parent: 'Learning interactions and their component events '
 great_grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 2
@@ -49,7 +49,7 @@ antecedent stimulus (A), the learner\'s answer is the response (B), and
 the teacher\'s comment is the consequence (C).
 
 ![Figure 2412a. A simple 3-term learning
-interaction](../../../../../../assets/images/TECKSFig2412a.png "Figure 2412a. A simple 3-term learning interaction"){.image-inline}
+interaction](../../../../../../assets/images/TECKSFig2412a.png "Figure 2412a. A simple 3-term learning interaction"){: .image-inline}
 
 *Figure 2412a. A simple 3-term learning interaction*
 
@@ -72,7 +72,7 @@ request).
 
 ![Figure 2412b. A learning interaction with two learner responses and
 one
-consequence](../../../../../../assets/images/TECKSFig2412b.png "Figure 2412b. A learning interaction with two learner responses and one consequence"){.image-inline}
+consequence](../../../../../../assets/images/TECKSFig2412b.png "Figure 2412b. A learning interaction with two learner responses and one consequence"){: .image-inline}
 
 *Figure 2412b. A learning interaction with two learner responses and one
 consequence*
@@ -81,7 +81,7 @@ In some interactions, the behaviour of interest consists of several
 attempts to respond to a single antecedent stimulus.
 
 ![Figure 2412c. A learning interaction with a response which includes a
-self-correction](../../../../../../assets/images/TECKSFig2412c.png "Figure 2412c. A learning interaction with a response which includes a self-correction"){.image-inline}
+self-correction](../../../../../../assets/images/TECKSFig2412c.png "Figure 2412c. A learning interaction with a response which includes a self-correction"){: .image-inline}
 
 *Figure 2412c. A learning interaction with a response which includes a
 self-correction*

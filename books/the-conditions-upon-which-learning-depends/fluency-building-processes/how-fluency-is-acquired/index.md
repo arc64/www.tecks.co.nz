@@ -1,6 +1,6 @@
 ---
 grand_parent: 'The conditions upon which learning depends '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 1

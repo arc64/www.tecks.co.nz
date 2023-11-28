@@ -1,7 +1,7 @@
 ---
 grand_parent: 'Presentation, prompting and practice variables '
 great_grand_parent: 'The effects of instructional events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 11

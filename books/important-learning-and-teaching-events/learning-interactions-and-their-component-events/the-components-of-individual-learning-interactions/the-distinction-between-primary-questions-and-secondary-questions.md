@@ -1,7 +1,7 @@
 ---
 grand_parent: 'Learning interactions and their component events '
 great_grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
@@ -31,7 +31,7 @@ questions*.
 
 ![Figure 2413. A learning interaction with a primary question and a
 secondary
-question](../../../../../../assets/images/TECKSFig2413.png "Figure 2413. A learning interaction with a primary question and a secondary question"){.image-inline}
+question](../../../../../../assets/images/TECKSFig2413.png "Figure 2413. A learning interaction with a primary question and a secondary question"){: .image-inline}
 
 *Figure 2413. A learning interaction with a primary question and a
 secondary question*

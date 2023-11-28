@@ -1,6 +1,6 @@
 ---
 grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 1
@@ -44,7 +44,7 @@ Reading Panel, 2000). These analyses suggest that:
 This process is pictured in the following diagram.
 
 ![Figure 2310. The early developmental sequence for learning to
-read](../../../../../assets/images/TECKSFig2310.png "Figure 2310. The early developmental sequence for learning to read"){.image-inline}
+read](../../../../../assets/images/TECKSFig2310.png "Figure 2310. The early developmental sequence for learning to read"){: .image-inline}
 
 *Figure 2310. The early developmental sequence for learning to read*
 

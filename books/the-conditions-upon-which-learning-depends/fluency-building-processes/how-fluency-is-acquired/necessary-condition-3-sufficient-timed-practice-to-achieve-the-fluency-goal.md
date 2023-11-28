@@ -1,7 +1,7 @@
 ---
 grand_parent: 'Fluency building processes '
 great_grand_parent: 'The conditions upon which learning depends '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
@@ -59,7 +59,7 @@ on one set of nine facts (e.g. 1 + 4, 2 + 4, 3 + 4, 4 + 4, 5 + 4, 6 + 4,
 
 ![Figure 4513. Fluency levels which have been found to predict
 maintenance (long term retention) for selected academic
-skills.](../../../../../../assets/images/Figure4513.png "Figure 4513. Fluency levels which have been found to predict maintenance (long term retention) for selected academic skills."){.image-inline}
+skills.](../../../../../../assets/images/Figure4513.png "Figure 4513. Fluency levels which have been found to predict maintenance (long term retention) for selected academic skills."){: .image-inline}
 
 *Figure 4513. Fluency levels which have been found to predict
 maintenance (long term retention) for selected academic skills.*

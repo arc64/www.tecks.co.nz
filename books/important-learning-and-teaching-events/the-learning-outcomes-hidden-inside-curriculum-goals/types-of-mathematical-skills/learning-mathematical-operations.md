@@ -1,7 +1,7 @@
 ---
 grand_parent: 'The learning outcomes hidden inside curriculum goals '
 great_grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 3
@@ -46,7 +46,7 @@ problem, are shown in Figure 2333.
 
 ![Figure 2333. Sample task analysis for a simple mathematical procedure
 (two digit
-addition)](../../../../../../assets/images/TECKSFig2333.png "Figure 2333. Sample task analysis for a simple mathematical procedure (two digit addition)"){.image-inline}
+addition)](../../../../../../assets/images/TECKSFig2333.png "Figure 2333. Sample task analysis for a simple mathematical procedure (two digit addition)"){: .image-inline}
 
 *Figure 2333. Sample task analysis for a simple mathematical procedure
 (two digit addition)*

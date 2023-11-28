@@ -1,6 +1,6 @@
 ---
 grand_parent: 'The conditions upon which learning depends '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 1
@@ -52,7 +52,7 @@ Consider the child who is learning to use the word "book".
 
 ![Figure 4410. Diagram of the six equivalence relations which are
 involved in learning to use, read, understand, and spell a
-word](../../../../../assets/images/Figure4410.png "Figure 4410. Diagram of the six equivalence relations which are involved in learning to use, read, understand, and spell a word"){.image-inline}
+word](../../../../../assets/images/Figure4410.png "Figure 4410. Diagram of the six equivalence relations which are involved in learning to use, read, understand, and spell a word"){: .image-inline}
 
 *Figure 4410. Diagram of the six equivalence relations which are
 involved in learning to use, read, understand, and spell a word*

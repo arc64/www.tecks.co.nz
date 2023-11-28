@@ -1,6 +1,6 @@
 ---
 grand_parent: 'Important learning and teaching events '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: true
 layout: default
 nav_order: 8
@@ -41,7 +41,7 @@ frequency of reinforcement (or punishment), predictability, and type --
 whether response based or time based -- as shown in the following table.
 
 ![Figure 2570. Five basic schedules of reinforcement and
-punishment](../../../../../assets/images/TECKSFig2570.png "Figure 2570. Five basic schedules of reinforcement and punishment"){.image-inline}
+punishment](../../../../../assets/images/TECKSFig2570.png "Figure 2570. Five basic schedules of reinforcement and punishment"){: .image-inline}
 
 *Figure 2570. Five basic schedules of reinforcement and punishment*
 

@@ -1,7 +1,7 @@
 ---
 grand_parent: 'How is learning to be observed and recorded? '
 great_grand_parent: 'Types of research evidence '
-great_great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 4
@@ -76,7 +76,7 @@ than by reference to an independently defined unit). Some examples of
 vaganotic and idemnotic measures of performance are shown in Table 3234.
 
 ![Figure 3234. Examples of various vaganotic and idemnotic data
-types](../../../../../../assets/images/Figure3234.png "Figure 3234. Examples of various vaganotic and idemnotic data types"){.image-inline}
+types](../../../../../../assets/images/Figure3234.png "Figure 3234. Examples of various vaganotic and idemnotic data types"){: .image-inline}
 
 *Figure 3234. Examples of various vaganotic and idemnotic data types*
 

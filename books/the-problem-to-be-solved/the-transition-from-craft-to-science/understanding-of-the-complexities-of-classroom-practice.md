@@ -1,6 +1,6 @@
 ---
 grand_parent: 'The problem to be solved '
-great_grand_parent: 'Welcome to Teacher Education''s Core Knowledge and Skills.'
+great_grand_parent: 'Teacher Education''s Core Knowledge and Skills.'
 has_children: false
 layout: default
 nav_order: 2
@@ -43,7 +43,7 @@ in Figure 1320.
 
 ![Figure 1320. Some of the variables which operate to determine the
 effects of classroom teaching and their
-interrelationships](../../../../../assets/images/TECKSFig1320.png "Figure 1320. Some of the variables which operate to determine the effects of classroom teaching and their interrelationships"){.image-inline}
+interrelationships](../../../../../assets/images/TECKSFig1320.png "Figure 1320. Some of the variables which operate to determine the effects of classroom teaching and their interrelationships"){: .image-inline}
 
 *Figure 1320. Some of the variables which operate to determine the
 effects of classroom teaching and their interrelationships*
