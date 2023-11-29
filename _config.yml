@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: TECKS
+description: In this site we have attempted to bring together in one place the scientific research on learning and teaching so that teachers, teacher educators, and teaching researchers have a well organised and accessible source of scientific information regarding what works and what doesn’t work in the classroom.
 
-url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+remote_theme: pdmosses/just-the-docs
+
+url: https://www.tecks.co.nz
+
+exclude: ['data-processing', 'steps.md']
